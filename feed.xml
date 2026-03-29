@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Morning Brief</title>
+  <link>https://JeffB823.github.io/morning-brief-feed</link>
+  <atom:link href="https://JeffB823.github.io/morning-brief-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Your daily rundown of national headlines, Columbus local news, home lending updates, and the latest in AI.</description>
+  <language>en-us</language>
+  <itunes:author>Jeff Bechtel</itunes:author>
+  <itunes:owner>
+    <itunes:name>Jeff Bechtel</itunes:name>
+    <itunes:email>jeffrey.m.bechtel@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News">
+    <itunes:category text="Daily News"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+</channel>
+</rss>
