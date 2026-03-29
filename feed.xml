@@ -6,7 +6,7 @@
   <title>The Morning Brief</title>
   <link>https://JeffB823.github.io/morning-brief-feed</link>
   <atom:link href="https://JeffB823.github.io/morning-brief-feed/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Your daily rundown of national headlines, Columbus local news, home lending updates, and the latest in AI.</description>
+  <description>Your daily rundown of national headlines, Columbus local news, home lending updates, and the latest in AI. Produced by Jeff Bechtel.</description>
   <language>en-us</language>
   <itunes:author>Jeff Bechtel</itunes:author>
   <itunes:owner>
@@ -18,5 +18,14 @@
   </itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Morning Brief — Sunday, March 29, 2026</title>
+    <description>Your Morning Brief for Sunday, March 29, 2026. National news, Columbus local, home lending, and AI.</description>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-29_morning-brief.mp3" length="3973248" type="audio/mpeg"/>
+    <pubDate>Sun, 29 Mar 2026 06:30:00 -0400</pubDate>
+    <itunes:duration>00:10:00</itunes:duration>
+    <itunes:episode>20260329</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-03-29</guid>
+  </item>
 </channel>
 </rss>
