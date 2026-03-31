@@ -25,6 +25,15 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Tuesday, March 31, 2026</title>
+    <description>Your Morning Brief for Tuesday, March 31, 2026. National news, Columbus local, home lending, and AI.</description>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-31_morning-brief.mp3" length="4378955" type="audio/mpeg"/>
+    <pubDate>Tue, 31 Mar 2026 06:30:00 -0400</pubDate>
+    <itunes:duration>00:13:02</itunes:duration>
+    <itunes:episode>20260331</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-03-31</guid>
+  </item>
+  <item>
     <title>Morning Brief — Monday, March 30, 2026</title>
     <description>Your Morning Brief for Monday, March 30, 2026. National news, Columbus local, home lending, and AI.</description>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-30_morning-brief.mp3" length="4264043" type="audio/mpeg"/>
