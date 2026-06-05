@@ -1,23 +1,23 @@
-# Story Tracker — updated 2026-06-04
+# Story Tracker — updated 2026-06-05
 
 ## Active Stories
 
-### Labor Market Repricing Before Payrolls
-- Last covered: 2026-06-04
-- Status: ISM services stayed strong in May and prices accelerated even as service-sector hiring remained weak, leaving Friday's June 5 payrolls report to decide whether the next market read is resilience, stagflation pressure, or softer demand.
-- Watch: June 5 payrolls, unemployment, and wage growth for whether Treasury yields and rate-cut expectations move materially.
+### May Payrolls and Rate Reset
+- Last covered: 2026-06-05
+- Status: ADP hiring and ISM services both came in firm ahead of the Friday, June 5 payrolls report, leaving markets to decide whether the next read is continued resilience, sticky inflation pressure, or a cleaner slowdown signal.
+- Watch: June 5 payrolls, unemployment, and wage growth, plus same-day Treasury and mortgage-rate reaction.
 
 ### Ohio Data Center Incentive Rewrite
 - Last covered: 2026-06-03
-- Status: The state review of Ohio's data-center tax breaks is still active and Central Ohio remains the focal point for subsidy, grid, and land-use pressure as lawmakers and local stakeholders push for clearer limits and cost disclosure.
-- Watch: The June 4 Ohio House committee meeting, any draft bill language released by early next week, and whether utilities or local officials quantify infrastructure costs more directly.
+- Status: Ohio's review of data-center tax breaks and related infrastructure strain is still active, and Central Ohio remains the main test case for whether lawmakers move from complaints to tighter subsidy and disclosure rules.
+- Watch: Any Ohio House committee follow-up, draft bill language, or utility and local-government cost disclosures by June 10.
 
 ### Mortgage Execution Before June 13 AMI Cutover
-- Last covered: 2026-06-04
-- Status: Mortgage rates are still in the mid-sixes while Fannie Mae's June 13 AMI changes and FHFA's score-model rollout make front-end eligibility and pricing execution more important for lender conversion.
-- Watch: The June 4 Freddie Mac mortgage-rate survey, June 5 payrolls for bond-market spillover, and lender communication or training changes ahead of the week of June 8.
+- Last covered: 2026-06-05
+- Status: Freddie Mac's 30-year average eased to 6.48% on June 4, but lender execution still matters more than a small rate move as Fannie Mae's June 13 AMI update approaches and application demand remains soft.
+- Watch: June 5 payroll-driven bond reaction, lender communication changes next week, and June 13 AMI implementation in DU, Loan Delivery, and AMI lookup tools.
 
-### Section 232 Tariff Recalibration
+### Section 232 Tariff Relief Implementation
 - Last covered: 2026-06-04
-- Status: The White House has temporarily lowered certain steel, aluminum, and copper derivative tariffs for farm equipment, residential HVAC, and selected industrial equipment, creating a near-term test of whether targeted relief changes supplier pricing and construction-equipment planning.
-- Watch: June 8 implementation, distributor and equipment-maker pricing commentary, and whether more sectors seek similar carve-outs next week.
+- Status: The White House's targeted tariff relief for selected steel, aluminum, and copper derivative categories is close enough to implementation to test whether distributors and equipment buyers actually see pricing relief.
+- Watch: June 8 implementation and any early pricing or margin commentary from HVAC, farm-equipment, or industrial distributors next week.
