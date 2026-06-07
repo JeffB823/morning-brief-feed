@@ -1,23 +1,18 @@
-# Story Tracker — updated 2026-06-06
+# Story Tracker — updated 2026-06-07
 
 ## Active Stories
 
-### Post-Payroll Rate Repricing
-- Last covered: 2026-06-06
-- Status: May payrolls came in stronger than expected with 172,000 jobs added, unemployment steady at 4.3%, and upward revisions to March and April, pushing yields higher and making the next inflation print the key test of whether Friday's hawkish reset holds.
-- Watch: June 10 CPI, 10-year Treasury reaction, and whether mortgage pricing gives back Thursday's modest improvement.
+### CPI Test After Strong Payrolls
+- Last covered: 2026-06-07
+- Status: Friday's stronger May payrolls report pushed Treasury yields higher and made Wednesday's CPI the next real test of whether the market's higher-for-longer reset sticks across mortgages, equities, and business borrowing.
+- Watch: June 10 CPI, 10-year Treasury reaction, and whether lenders recover any of Friday's pricing damage.
 
-### Ohio Data Center Incentive Rewrite
-- Last covered: 2026-06-06
-- Status: Ohio's review of data-center tax breaks and infrastructure strain is still active, and Central Ohio remains the clearest test case for whether lawmakers move from broad concern to tighter subsidy, utility-cost, and disclosure rules.
-- Watch: Any Ohio House committee follow-up, draft bill language, or utility and local-government cost disclosures by June 10.
+### Franklin County Property Value Rollout
+- Last covered: 2026-06-07
+- Status: Franklin County begins releasing and mailing tentative 2026 property values on June 9, turning Central Ohio's still-rising home values into an immediate household and local-politics reaction point.
+- Watch: June 9 notice release, large homeowner response, and any early pressure around review requests or tax-bill confusion.
 
 ### Mortgage Execution Before June 13 AMI Cutover
-- Last covered: 2026-06-06
-- Status: Freddie Mac's 30-year average eased to 6.48% on June 4, but the stronger June 5 payroll report pushed yields higher again, raising the stakes for lenders heading into Fannie Mae's June 13 AMI implementation.
-- Watch: Next week's lender lock and pricing changes, borrower communication on edge-case files, and June 13 implementation in DU, Loan Delivery, and AMI lookup tools.
-
-### Central Ohio Nonprofit Funding Strain
-- Last covered: 2026-06-06
-- Status: Columbus-area nonprofits are reporting grant demand far above available funding and, in some cases, only days or weeks of cash, which raises the odds of visible service cuts, layoffs, or emergency bridge-funding appeals in the near term.
-- Watch: Any announced program closures, staffing cuts, mergers, or emergency philanthropic interventions next week.
+- Last covered: 2026-06-07
+- Status: Freddie Mac's June 4 survey showed modest rate relief, but Friday's yield spike raised the stakes for lenders heading into Fannie Mae's June 13 area-median-income implementation.
+- Watch: Borrower messaging this week, any lender lock or pricing changes ahead of June 13, and whether edge-case files are moved before or after the cutover.
