@@ -1,23 +1,23 @@
-# Story Tracker — updated 2026-06-11
+# Story Tracker — updated 2026-06-12
 
 ## Active Stories
 
-### CPI Split: Hot Headline, Cooler Core
-- Last covered: 2026-06-11
-- Status: May CPI pushed headline inflation to 4.2 percent year over year, but core rose just 0.2 percent on the month and 2.9 percent on the year, leaving the market to decide whether the problem is broadening inflation or still mostly energy.
-- Watch: June 11 PPI and jobless claims, June 12 inflation-expectations reaction, and whether Treasury yields stay contained after the strong 10-year auction.
+### Inflation Pressure Now Runs Through PPI and Oil
+- Last covered: 2026-06-12
+- Status: May PPI came in hotter than CPI’s calmer core detail, with wholesale prices up 1.1 percent on the month and 6.5 percent on the year, while jobless claims stayed low enough to keep the Fed from getting easy labor-market relief.
+- Watch: whether oil keeps easing into Monday, whether Treasury yields stay contained after Thursday’s hot PPI, and whether any renewed Strait of Hormuz disruption re-hardens the inflation story.
 
 ### Franklin County Property Value Notices
-- Last covered: 2026-06-11
-- Status: Tentative 2026 value notices are now in homeowners' hands across Franklin County, turning the countywide residential increase into immediate questions about comps, escrow pressure, and appeal traffic.
-- Watch: homeowner review-request volume through early next week, local reporting on tax confusion versus actual bill impact, and whether carrying-cost pressure becomes the dominant housing angle.
+- Last covered: 2026-06-12
+- Status: Tentative 2026 value notices are now moving from a countywide average into real homeowner decisions about comps, possible escrow strain, and whether to challenge valuations before the process gets crowded.
+- Watch: homeowner review-request volume through early next week, local reporting on confusion over value versus actual tax impact, and whether carrying-cost stress overtakes appreciation as the main housing angle.
 
-### Fannie Mae AMI Cutover on June 13
-- Last covered: 2026-06-11
-- Status: Fannie Mae's 2026 area-median-income implementation goes live June 13 while rates remain in the mid-6s, making file timing and borrower messaging unusually important for edge-case affordability loans.
-- Watch: lender lock and pipeline strategy on June 12 and June 13, borrower eligibility changes at new AMI thresholds, and whether operational friction shows up in HomeReady-related workflows.
+### Fannie Mae AMI Cutover on Saturday, June 13
+- Last covered: 2026-06-12
+- Status: Freddie Mac’s weekly rate survey moved the 30-year fixed back up to 6.52 percent just as Fannie Mae’s 2026 area-median-income implementation arrives, making pipeline cleanup and borrower messaging the live mortgage story.
+- Watch: lender pipeline handling through June 13 and June 15, borrower eligibility changes at updated AMI thresholds, and whether shops report smoother affordability outcomes or avoidable lock-and-eligibility confusion.
 
-### Federal AI Preemption and Benchmarking Push
-- Last covered: 2026-06-11
-- Status: The White House and Hill negotiators are again exploring a federal move to block some state AI laws while administration officials meet with AI companies on benchmarking expectations tied to the new AI and cyber order.
-- Watch: whether draft legislative language or clearer benchmarking details emerge this week, and whether enterprise vendors start revising their compliance messaging in response.
+### AI Governance Is Becoming a Product Story
+- Last covered: 2026-06-12
+- Status: The administration’s narrowing AI strategy and Anthropic’s rollback of hidden Claude Fable 5 guardrails both suggest enterprise buyers are shifting from raw capability questions toward disclosure, routing, and auditability.
+- Watch: whether the White House or congressional negotiators clarify federal preemption or benchmarking expectations next week, and whether major vendors revise enterprise messaging around transparency and fallback behavior.
