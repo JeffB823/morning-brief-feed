@@ -1,23 +1,23 @@
-# Story Tracker — updated 2026-06-12
+# Story Tracker — updated 2026-06-13
 
 ## Active Stories
 
-### Inflation Pressure Now Runs Through PPI and Oil
-- Last covered: 2026-06-12
-- Status: May PPI came in hotter than CPI’s calmer core detail, with wholesale prices up 1.1 percent on the month and 6.5 percent on the year, while jobless claims stayed low enough to keep the Fed from getting easy labor-market relief.
-- Watch: whether oil keeps easing into Monday, whether Treasury yields stay contained after Thursday’s hot PPI, and whether any renewed Strait of Hormuz disruption re-hardens the inflation story.
+### Oil Relief Versus Inflation Persistence
+- Last covered: 2026-06-13
+- Status: Consumer sentiment improved as gasoline prices eased, but markets are still leaning on the fragile assumption that Iran de-escalation will keep oil falling fast enough to blunt this week’s hotter inflation data.
+- Watch: whether crude stays lower into Monday, whether Treasury yields remain contained, and whether any announced Iran deal produces durable shipping relief rather than a short-lived relief rally.
 
-### Franklin County Property Value Notices
-- Last covered: 2026-06-12
-- Status: Tentative 2026 value notices are now moving from a countywide average into real homeowner decisions about comps, possible escrow strain, and whether to challenge valuations before the process gets crowded.
-- Watch: homeowner review-request volume through early next week, local reporting on confusion over value versus actual tax impact, and whether carrying-cost stress overtakes appreciation as the main housing angle.
+### Downtown Columbus Access Stress During Major June Weekend
+- Last covered: 2026-06-13
+- Status: Construction friction on Gay Street and nearby downtown routes is now colliding with Arts Festival traffic, 614 Day activity, and summer-event foot traffic, turning a quality-of-life complaint into a near-term business test.
+- Watch: whether businesses report stronger weekend conversion despite access issues, whether upcoming ramp closures worsen downtown avoidance next week, and whether city leaders adjust messaging or mitigation.
 
-### Fannie Mae AMI Cutover on Saturday, June 13
-- Last covered: 2026-06-12
-- Status: Freddie Mac’s weekly rate survey moved the 30-year fixed back up to 6.52 percent just as Fannie Mae’s 2026 area-median-income implementation arrives, making pipeline cleanup and borrower messaging the live mortgage story.
-- Watch: lender pipeline handling through June 13 and June 15, borrower eligibility changes at updated AMI thresholds, and whether shops report smoother affordability outcomes or avoidable lock-and-eligibility confusion.
+### Fannie Mae 2026 AMI Cutover Execution
+- Last covered: 2026-06-13
+- Status: The new AMI limits are now live in Fannie systems, leaving lenders to prove next week that they handled edge-case files, borrower messaging, and pricing-waiver logic cleanly.
+- Watch: lender reports Monday and Tuesday on eligibility confusion versus smoother affordability outcomes, especially for files near HomeReady or LLPA waiver thresholds.
 
-### AI Governance Is Becoming a Product Story
-- Last covered: 2026-06-12
-- Status: The administration’s narrowing AI strategy and Anthropic’s rollback of hidden Claude Fable 5 guardrails both suggest enterprise buyers are shifting from raw capability questions toward disclosure, routing, and auditability.
-- Watch: whether the White House or congressional negotiators clarify federal preemption or benchmarking expectations next week, and whether major vendors revise enterprise messaging around transparency and fallback behavior.
+### AI Governance Is Now Also an Access Story
+- Last covered: 2026-06-13
+- Status: The White House is narrowing federal AI action toward cyber and national-security workflows just as Anthropic has suspended access to Fable 5 and Mythos 5 under a U.S. export-control directive.
+- Watch: whether Anthropic gives restoration timing or wider customer guidance next week, and whether other major labs sharpen enterprise messaging around access continuity, benchmarking, and fallback behavior.
