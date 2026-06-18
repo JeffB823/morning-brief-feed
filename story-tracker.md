@@ -1,23 +1,28 @@
-# Story Tracker — updated 2026-06-15
+# Story Tracker — updated 2026-06-18
 
 ## Active Stories
 
-### G7 Iran Diplomacy Versus Inflation Rebound Risk
-- Last covered: 2026-06-15
-- Status: Markets are carrying Friday’s relief trade into the G7 because President Trump says a U.S.-Iran understanding may be close, but the real issue for this week is whether lower crude holds long enough to keep last week’s hotter inflation data from retaking control.
-- Watch: whether G7 messaging produces any concrete de-escalation signal, whether oil and Treasury yields stay contained through Tuesday, and whether broader equity participation holds if the relief narrative weakens.
+### Fed Hold Versus Energy-Driven Inflation Rebound
+- Last covered: 2026-06-18
+- Status: The Fed held rates at 3.5% to 3.75% on June 17 but explicitly tied elevated uncertainty and inflation pressure to Middle East conflict and energy, so the real issue now is whether softer oil keeps policymakers on hold or just delays a tougher inflation fight.
+- Watch: whether crude stays contained, whether the 10-year Treasury settles below or above the mid-4.4% area, and whether markets start treating July as a true pause or as setup for another hike later this year.
 
-### Downtown Columbus Post-Festival Conversion And Ramp Closure Test
-- Last covered: 2026-06-15
-- Status: Arts Festival weekend is over, so the fresh local read now shifts to whether downtown businesses saw real sales instead of just foot traffic and how quickly another major route disruption changes weekday behavior.
-- Watch: what businesses report Monday and Tuesday about conversion and dwell time, how the Tuesday night I-70 eastbound to I-71 southbound ramp closure affects commute and delivery patterns, and whether officials sharpen alternate-route guidance.
+### U.S.-Iran Sixty-Day Deal Durability Test
+- Last covered: 2026-06-18
+- Status: The interim U.S.-Iran agreement has reopened an oil-relief path and started a 60-day negotiation window, but AP reporting shows unresolved conditions around Lebanon and the nuclear track that could still fracture the deal quickly.
+- Watch: whether either side hardens new conditions, whether Congress gets fuller deal details, and whether oil traders keep pricing de-escalation instead of renewed supply risk.
 
-### Fannie Mae 2026 AMI Cutover Execution
-- Last covered: 2026-06-15
-- Status: The new AMI limits are now live across Fannie systems, making the first two business days the real test of whether lenders can translate the update into clearer borrower outcomes instead of date-logic confusion.
-- Watch: whether shops report smoother affordability support, whether borrower messaging has to be corrected, and whether casefile creation date versus application received date causes preventable eligibility or pricing problems.
+### Columbus Air Show Traffic And Conversion Test
+- Last covered: 2026-06-18
+- Status: The June 19-21 Columbus Air Show is the freshest local operating story because the new twilight-show format, online-only parking, and likely congestion around Rickenbacker will test whether a major regional event can scale cleanly into real economic activity.
+- Watch: how Friday arrival and exit traffic performs, whether officials add sharper route guidance, and whether local businesses near the event corridor report strong conversion instead of just heavy volume.
 
-### AI Model Continuity And Vendor Change Control
-- Last covered: 2026-06-15
-- Status: Anthropic’s forced suspension of Claude Fable 5 and Claude Mythos 5, alongside OpenAI’s GPT-5.2 retirement in ChatGPT, has turned model substitution and access stability into a near-term enterprise controls story.
-- Watch: whether Anthropic provides restoration timing or workaround details, whether vendors publish clearer change-management guidance, and whether regulated buyers start emphasizing fallback, logging, and auditability in procurement language.
+### Mortgage Demand Softness With Rates Still In The Mid-Sixes
+- Last covered: 2026-06-18
+- Status: MBA reported a 3.8% drop in mortgage applications on June 17 even with the average 30-year contract rate holding at 6.6%, reinforcing that demand remains highly rate-sensitive and that lenders are still operating in a narrow conversion window.
+- Watch: Freddie Mac’s June 18 rate survey, any change in Treasury yields after the Fed, and whether lenders report better pull-through or more borrower hesitation into the weekend.
+
+### AI Workflow Expansion Versus Change-Control Discipline
+- Last covered: 2026-06-18
+- Status: OpenAI’s June 17 scheduled-tasks rollout and Anthropic’s June 17 Korea enterprise expansion both point toward more persistent AI workflows, but recent model retirements and suspensions still make continuity, fallback, and auditability the practical buyer concern.
+- Watch: whether vendors add clearer governance messaging, whether enterprises highlight model fallback and logging in deployment language, and whether any further model access or retirement changes land in the next few days.
