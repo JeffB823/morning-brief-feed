@@ -1,28 +1,28 @@
-# Story Tracker — updated 2026-06-18
+# Story Tracker — updated 2026-06-19
 
 ## Active Stories
 
-### Fed Hold Versus Energy-Driven Inflation Rebound
-- Last covered: 2026-06-18
-- Status: The Fed held rates at 3.5% to 3.75% on June 17 but explicitly tied elevated uncertainty and inflation pressure to Middle East conflict and energy, so the real issue now is whether softer oil keeps policymakers on hold or just delays a tougher inflation fight.
-- Watch: whether crude stays contained, whether the 10-year Treasury settles below or above the mid-4.4% area, and whether markets start treating July as a true pause or as setup for another hike later this year.
+### Iran Deal Verification Versus Fast Market Relief
+- Last covered: 2026-06-19
+- Status: The fresh development is that AP reports Trump envoy Steve Witkoff told lawmakers on June 18 that Iran will invite the IAEA to inspect nuclear sites and identify enriched material, which makes verification the first real implementation test for the 60-day U.S.-Iran framework rather than just a political headline.
+- Watch: whether Iran sends the formal IAEA invitation, whether inspection logistics are confirmed publicly, whether major shippers keep moving through Hormuz, and whether oil stays calmer if the technical details remain thin.
 
-### U.S.-Iran Sixty-Day Deal Durability Test
-- Last covered: 2026-06-18
-- Status: The interim U.S.-Iran agreement has reopened an oil-relief path and started a 60-day negotiation window, but AP reporting shows unresolved conditions around Lebanon and the nuclear track that could still fracture the deal quickly.
-- Watch: whether either side hardens new conditions, whether Congress gets fuller deal details, and whether oil traders keep pricing de-escalation instead of renewed supply risk.
+### Fed Hold Still Dependent On Energy And Yield Behavior
+- Last covered: 2026-06-19
+- Status: Freddie Mac’s June 18 survey and Friday market action matter because the Fed’s June 17 hold only looks durable if lower energy pressure and contained Treasury yields keep inflation expectations from re-accelerating.
+- Watch: whether the 10-year Treasury stays off recent highs, whether crude extends or reverses Friday’s move, and whether markets keep treating the Fed as firmly on hold instead of pricing another hike risk later this year.
 
-### Columbus Air Show Traffic And Conversion Test
-- Last covered: 2026-06-18
-- Status: The June 19-21 Columbus Air Show is the freshest local operating story because the new twilight-show format, online-only parking, and likely congestion around Rickenbacker will test whether a major regional event can scale cleanly into real economic activity.
-- Watch: how Friday arrival and exit traffic performs, whether officials add sharper route guidance, and whether local businesses near the event corridor report strong conversion instead of just heavy volume.
+### Columbus Two-Event Mobility Test
+- Last covered: 2026-06-19
+- Status: Friday’s combination of the Columbus Air Show twilight opening at Rickenbacker, online-only advance parking, expected outbound congestion, and Pride-related downtown transit reroutes turns local movement and access into the clearest fresh Central Ohio operating story.
+- Watch: whether Air Show ingress and the 3:45 p.m. to 6 p.m. outbound wave cause heavier backups than planned, whether COTA posts added reroute guidance, and whether Saturday messaging gets sharper after today’s first live test.
 
-### Mortgage Demand Softness With Rates Still In The Mid-Sixes
-- Last covered: 2026-06-18
-- Status: MBA reported a 3.8% drop in mortgage applications on June 17 even with the average 30-year contract rate holding at 6.6%, reinforcing that demand remains highly rate-sensitive and that lenders are still operating in a narrow conversion window.
-- Watch: Freddie Mac’s June 18 rate survey, any change in Treasury yields after the Fed, and whether lenders report better pull-through or more borrower hesitation into the weekend.
+### Mortgage Rate Relief Versus Conversion Reality
+- Last covered: 2026-06-19
+- Status: Freddie Mac’s June 18 drop to 6.47% on the average 30-year fixed is a real improvement, but it arrives right after MBA’s June 17 report that weekly applications fell 3.8%, so lenders still need proof that slightly better pricing can translate into better borrower follow-through.
+- Watch: whether lenders describe stronger pull-through into the weekend, whether rates hold near current levels if Treasury yields stay contained, and whether purchase activity shows more resilience than refinance activity.
 
-### AI Workflow Expansion Versus Change-Control Discipline
-- Last covered: 2026-06-18
-- Status: OpenAI’s June 17 scheduled-tasks rollout and Anthropic’s June 17 Korea enterprise expansion both point toward more persistent AI workflows, but recent model retirements and suspensions still make continuity, fallback, and auditability the practical buyer concern.
-- Watch: whether vendors add clearer governance messaging, whether enterprises highlight model fallback and logging in deployment language, and whether any further model access or retirement changes land in the next few days.
+### Enterprise AI Control Layer Becoming The Product
+- Last covered: 2026-06-19
+- Status: OpenAI’s June 19 enterprise usage analytics and spend controls, together with xAI’s June 18 office-product rollout, push the practical AI story toward governance, budget visibility, and workflow supervision rather than a single headline model launch.
+- Watch: whether more vendors ship admin, logging, and spend-management controls in the next few days, and whether enterprises start talking publicly about AI adoption quality instead of just seat count or benchmark performance.
