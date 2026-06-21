@@ -1,23 +1,28 @@
-# Story Tracker — updated 2026-06-20
+# Story Tracker — updated 2026-06-21
 
 ## Active Stories
 
-### Israel-Hezbollah Halt Versus U.S.-Iran Deal Durability
-- Last covered: 2026-06-20
-- Status: AP reported on June 19 that Israel and Hezbollah agreed to halt heavy fighting in southern Lebanon after clashes threatened to derail the wider U.S.-Iran arrangement, but neither side immediately confirmed the truce and the side-front conditions remain unresolved.
-- Watch: whether the halt holds through the weekend, whether Switzerland talks are quickly rescheduled, whether shipping confidence through Hormuz keeps improving, and whether oil stays contained if the regional picture remains messy.
+### U.S.-Iran Switzerland Talks Versus Hormuz Credibility
+- Last covered: 2026-06-21
+- Status: AP reported on June 20 that U.S. and Iranian negotiators headed to Switzerland even as Tehran said it was closing the Strait of Hormuz again over Israeli attacks in Lebanon and Washington disputed that shipping had stopped, turning the ceasefire story into a credibility test for trade and energy markets.
+- Watch: whether Sunday’s talks produce technical detail or timing that markets can trust, whether commercial traffic and insurer confidence through Hormuz remain intact, and whether the Lebanon front quiets enough to stop undermining the broader deal.
 
-### Columbus Weekend Capacity And Spillover Test
-- Last covered: 2026-06-20
-- Status: Columbus is simultaneously handling Pride, Juneteenth programming, and the Air Show, with WOSU reporting roughly 700,000 expected Pride attendees and about $7.5 million in regional impact, making real-time routing, crowd flow, and business spillover the live local test.
-- Watch: whether organizers and agencies tighten routing or access guidance after Friday’s lessons, whether downtown and Rickenbacker-area movement holds up Saturday, and whether local businesses describe strong spillover rather than crowd friction.
+### Central Ohio Duplex Zoning Pressure
+- Last covered: 2026-06-21
+- Status: WOSU reported June 19 that a new Affordable Housing Alliance of Central Ohio study says a typical family could earn or save about $1.3 million over a lifetime through duplex ownership, while regional zoning still allows duplexes on only 17% of parcels and about 12% in Columbus.
+- Watch: whether Columbus or suburban officials publicly cite the report in the next few meetings, whether planners frame duplexes as a near-term affordability tool instead of a long-range concept, and whether builder or neighborhood pushback becomes the main obstacle.
+
+### Ohio Social Media Consent Law Re-Enters Enforcement Track
+- Last covered: 2026-06-21
+- Status: AP reported on June 18 that the Sixth Circuit reinstated Ohio’s parental-consent law for social media and gaming apps for users under 16, sending the case back to the lower court and putting compliance and further appeals back into focus for families, schools, and platforms.
+- Watch: whether the lower court quickly vacates the block, whether Ohio issues clearer enforcement or compliance guidance, and whether NetChoice seeks another immediate legal step.
 
 ### Mortgage Rate Relief Versus Borrower Commitment
-- Last covered: 2026-06-20
-- Status: Freddie Mac’s June 18 survey showed the average 30-year fixed rate easing to 6.47%, but MBA’s June 17 report showed applications down 3.8%, so lenders still need proof that modestly better pricing can convert into real borrower action.
-- Watch: whether originators describe stronger weekend pull-through, whether the 10-year Treasury stays calm enough to preserve pricing, and whether purchase demand looks firmer than refinance demand in next week’s readouts.
+- Last covered: 2026-06-21
+- Status: Freddie Mac’s June 18 survey showed the average 30-year fixed rate easing to 6.47%, but MBA’s June 17 report showed applications down 3.8%, so the market still needs proof that slightly better pricing can produce firmer borrower commitment rather than more shopping.
+- Watch: whether originators describe stronger late-June pull-through, whether Treasury yields stay calm enough to preserve pricing, and whether next week’s application data shows purchase demand improving more convincingly than refinance noise.
 
-### Enterprise AI Controls Becoming A Buying Requirement
-- Last covered: 2026-06-20
-- Status: OpenAI’s June 18 enterprise analytics and spend controls, together with xAI’s June 18 Grok for Word rollout, make governance, usage visibility, and embedded office workflow the clearest current enterprise AI signal.
-- Watch: whether more vendors ship comparable admin and usage controls in the next few days, whether enterprises talk publicly about cost discipline and supervised workflows, and whether regulated teams frame control layers as part of product selection.
+### Enterprise AI Governance And Power Constraints
+- Last covered: 2026-06-21
+- Status: OpenAI’s June 18 enterprise spend controls, xAI’s June 18 Grok for Word launch, and FERC’s June 18 order to speed grid access for AI data centers together show the current AI race shifting from pure model novelty toward governable deployment and physical infrastructure.
+- Watch: whether rival vendors answer with comparable admin controls this week, whether enterprises emphasize budget visibility and supervised workflows in public adoption examples, and whether utilities or states push back against faster data-center connection pressure.
