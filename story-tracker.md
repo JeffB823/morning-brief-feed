@@ -1,28 +1,23 @@
-# Story Tracker — updated 2026-06-22
+# Story Tracker — updated 2026-06-23
 
 ## Active Stories
 
-### U.S.-Iran Technical Talks And Hormuz Credibility
-- Last covered: 2026-06-22
-- Status: AP reported June 22 that Vice President JD Vance said the Switzerland talks created a good foundation for a final deal, while U.S. officials said 67 ships passed through the Strait of Hormuz in the last 24 hours and negotiators made progress on keeping the waterway open, IAEA inspections, Lebanon de-confliction, and the remaining technical process.
-- Watch: whether the U.S. and Iran publish operational detail on shipping security, inspections, or the proposed de-confliction cell, whether Hormuz traffic and insurer confidence stay steady, and whether the Lebanon front breaks the confidence channel before midweek.
+### Hormuz Administration, Tolls, And Inspection Disputes
+- Last covered: 2026-06-23
+- Status: AP reported June 23 that ship traffic through the Strait of Hormuz has improved but remains below prewar levels, the main central route is still mined, Iran still expects vessels to register with its Persian Gulf Strait Authority, and new discrepancies have emerged over IAEA access and other deal details.
+- Watch: whether daily ship counts move materially closer to prewar norms, whether Washington or Tehran clarifies or drops the toll idea, and whether the inspections dispute or renewed Lebanon violence disrupts the 60-day negotiating window.
 
-### Whitehall Recall Election And Suburban Governance
-- Last covered: 2026-06-22
-- Status: WOSU reported June 22 that Whitehall voters will decide Tuesday whether Mayor Michael Bivens and two city council members keep their seats after a recall drive tied to broader frustration over policing, leadership, and city trust.
-- Watch: Tuesday turnout and margin, whether the result gives surviving officials a usable mandate or forces a leadership reset, and whether the vote shifts the suburb’s posture on labor, public safety, or redevelopment immediately afterward.
+### Whitehall Recall Vote And Leadership Legitimacy
+- Last covered: 2026-06-23
+- Status: WOSU reported June 22 that Whitehall voters go to the polls Tuesday to decide whether Mayor Michael Bivens and City Council members Lori Elmore and Amy Harcar keep their seats, with the recall fight shaped by police-union conflict, governance complaints, and unusually low early turnout.
+- Watch: Tuesday turnout and margin, whether any removals trigger a messy succession fight under the city charter, and whether the winner can claim a credible mandate by Wednesday.
 
-### West Broad Transit-Oriented Development Feedback Window
-- Last covered: 2026-06-22
-- Status: LinkUS and COTA’s final Westland station-area meeting for the West Broad transit-oriented development study is scheduled for Monday evening, with the agencies framing the corridor as the future site of the first LinkUS bus rapid transit line and asking residents what housing, retail, green space, and pedestrian improvements should surround the stations.
-- Watch: what themes dominate Monday’s feedback, whether affordability protections stay central as the corridor plan moves forward, and whether Columbus or COTA signals any sharper priorities before the next design phase.
+### Weekly Mortgage Relief Versus Live Rate Reversal
+- Last covered: 2026-06-23
+- Status: Freddie Mac’s June 18 survey showed the average 30-year fixed rate at 6.47%, but Mortgage News Daily’s June 22 daily index moved back up to 6.66%, keeping the market in a familiar pattern where better weekly optics can be reversed before borrowers act.
+- Watch: Wednesday’s MBA application data for purchase follow-through, Thursday’s Freddie Mac survey for confirmation or reversal, and whether daily pricing improves enough to preserve borrower confidence.
 
-### Mortgage Relief Versus Daily Rate Reversal
-- Last covered: 2026-06-22
-- Status: Freddie Mac’s June 18 survey showed the average 30-year fixed rate at 6.47%, but Mortgage News Daily’s June 22 daily read had 30-year pricing around 6.58% with the 10-year Treasury near 4.485%, keeping the market in a fragile window where weekly relief can be undermined quickly by live market moves.
-- Watch: Wednesday’s MBA application data for purchase follow-through, Thursday’s Freddie Mac survey for confirmation that relief is holding, and whether Treasury yields settle enough to keep borrower confidence from fading again.
-
-### Enterprise AI Rollout And Governance Competition
-- Last covered: 2026-06-22
-- Status: OpenAI said June 21 that Samsung Electronics is rolling out ChatGPT Enterprise and Codex to all employees in Korea and to its global Device eXperience division, turning AI adoption into a workflow and governance story rather than a simple model-comparison story.
-- Watch: whether rivals answer with similarly concrete enterprise deployment wins or stronger admin controls this week, whether regulated-industry buyers emphasize cost visibility and permissions over raw benchmark claims, and whether large customers describe measurable workflow gains instead of just access expansion.
+### AI Security Operations And Enterprise Controls
+- Last covered: 2026-06-23
+- Status: OpenAI announced Patch the Planet on June 23 to pair frontier models and human security researchers on open-source vulnerability remediation, reinforcing last week’s broader signal that enterprise AI adoption is moving toward governed deployment, visible spend, and operational security rather than pure benchmark competition.
+- Watch: whether other labs or major vendors answer with similar security or admin-control moves this week, whether maintainers disclose meaningful patch outcomes quickly, and whether enterprise buyers keep prioritizing usage visibility and permissions over raw model prestige.
