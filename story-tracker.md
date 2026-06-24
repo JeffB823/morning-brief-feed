@@ -1,23 +1,23 @@
-# Story Tracker — updated 2026-06-23
+# Story Tracker — updated 2026-06-24
 
 ## Active Stories
 
-### Hormuz Administration, Tolls, And Inspection Disputes
-- Last covered: 2026-06-23
-- Status: AP reported June 23 that ship traffic through the Strait of Hormuz has improved but remains below prewar levels, the main central route is still mined, Iran still expects vessels to register with its Persian Gulf Strait Authority, and new discrepancies have emerged over IAEA access and other deal details.
-- Watch: whether daily ship counts move materially closer to prewar norms, whether Washington or Tehran clarifies or drops the toll idea, and whether the inspections dispute or renewed Lebanon violence disrupts the 60-day negotiating window.
+### Iran Deal Verification And Strait Confidence
+- Last covered: 2026-06-24
+- Status: AP reported June 24 that IAEA chief Rafael Grossi said inspectors will visit Iranian enrichment sites under the interim U.S.-Iran deal, moving the story from conflicting public claims toward actual verification during the 60-day negotiating window.
+- Watch: whether Tehran and Washington publish a concrete inspection timetable, whether inspectors gain access within days, and whether any renewed Lebanon or shipping disruption breaks market confidence before the weekend.
 
-### Whitehall Recall Vote And Leadership Legitimacy
-- Last covered: 2026-06-23
-- Status: WOSU reported June 22 that Whitehall voters go to the polls Tuesday to decide whether Mayor Michael Bivens and City Council members Lori Elmore and Amy Harcar keep their seats, with the recall fight shaped by police-union conflict, governance complaints, and unusually low early turnout.
-- Watch: Tuesday turnout and margin, whether any removals trigger a messy succession fight under the city charter, and whether the winner can claim a credible mandate by Wednesday.
+### Whitehall Recall Fallout And Certification Risk
+- Last covered: 2026-06-24
+- Status: WOSU reported June 23 that Whitehall voters appear to have kept Mayor Michael Bivens and Council Member Amy Harcar, while Council Member Lori Elmore trails by six votes with about 31 ballots still capable of changing the unofficial result before certification on Monday, June 29.
+- Watch: Monday certification, whether Elmore’s race flips or holds, and whether city leaders change their posture on housing and police-union conflict after the vote.
 
-### Weekly Mortgage Relief Versus Live Rate Reversal
-- Last covered: 2026-06-23
-- Status: Freddie Mac’s June 18 survey showed the average 30-year fixed rate at 6.47%, but Mortgage News Daily’s June 22 daily index moved back up to 6.66%, keeping the market in a familiar pattern where better weekly optics can be reversed before borrowers act.
-- Watch: Wednesday’s MBA application data for purchase follow-through, Thursday’s Freddie Mac survey for confirmation or reversal, and whether daily pricing improves enough to preserve borrower confidence.
+### Mortgage Demand Fragility Versus Survey Relief
+- Last covered: 2026-06-24
+- Status: MBA’s latest weekly data showed applications down 3.8%, purchase demand down 3%, and refinance demand down 5% even as Freddie Mac’s June 18 survey sat at 6.47% and Mortgage News Daily’s live daily rate index stayed materially higher near 6.65%.
+- Watch: whether Thursday’s Freddie Mac survey catches up to the live tape, whether daily pricing moves lower enough to support conversion, and whether fresh housing data keeps purchase demand ahead of last year.
 
-### AI Security Operations And Enterprise Controls
-- Last covered: 2026-06-23
-- Status: OpenAI announced Patch the Planet on June 23 to pair frontier models and human security researchers on open-source vulnerability remediation, reinforcing last week’s broader signal that enterprise AI adoption is moving toward governed deployment, visible spend, and operational security rather than pure benchmark competition.
-- Watch: whether other labs or major vendors answer with similar security or admin-control moves this week, whether maintainers disclose meaningful patch outcomes quickly, and whether enterprise buyers keep prioritizing usage visibility and permissions over raw model prestige.
+### Shared-Workspace AI And Governance Controls
+- Last covered: 2026-06-24
+- Status: Anthropic launched Claude Tag on June 23 as a shared Slack-based agent workflow, while OpenAI’s Patch the Planet push reinforces the same enterprise shift toward governed deployment, security work, and operational AI instead of pure model spectacle.
+- Watch: whether another major vendor answers this week with comparable shared-workspace agent features or stronger admin controls, and whether regulated-industry buyers start talking more about permissions and auditability than raw model benchmarks.
