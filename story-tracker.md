@@ -1,23 +1,28 @@
-# Story Tracker — updated 2026-06-24
+# Story Tracker — updated 2026-06-25
 
 ## Active Stories
 
-### Iran Deal Verification And Strait Confidence
-- Last covered: 2026-06-24
-- Status: AP reported June 24 that IAEA chief Rafael Grossi said inspectors will visit Iranian enrichment sites under the interim U.S.-Iran deal, moving the story from conflicting public claims toward actual verification during the 60-day negotiating window.
-- Watch: whether Tehran and Washington publish a concrete inspection timetable, whether inspectors gain access within days, and whether any renewed Lebanon or shipping disruption breaks market confidence before the weekend.
+### Housing Bill Signature Standoff
+- Last covered: 2026-06-25
+- Status: AP reported June 24 that President Trump canceled the signing ceremony for the bipartisan 21st Century ROAD to Housing Act and is withholding his signature until Congress also passes proof-of-citizenship voting legislation, delaying a rare housing-supply package that had already cleared Congress with broad support.
+- Watch: whether Senate Republicans move the voting measure quickly enough to give the White House an off-ramp, whether override talk becomes serious, and whether housing groups start publicly pressuring for the bill to be decoupled within the next several days.
 
-### Whitehall Recall Fallout And Certification Risk
-- Last covered: 2026-06-24
-- Status: WOSU reported June 23 that Whitehall voters appear to have kept Mayor Michael Bivens and Council Member Amy Harcar, while Council Member Lori Elmore trails by six votes with about 31 ballots still capable of changing the unofficial result before certification on Monday, June 29.
-- Watch: Monday certification, whether Elmore’s race flips or holds, and whether city leaders change their posture on housing and police-union conflict after the vote.
+### Ohio Absentee ID Veto Fight
+- Last covered: 2026-06-25
+- Status: The Statehouse News Bureau and Governor DeWine’s office reported June 24 that DeWine vetoed House Bill 472 after lawmakers added stricter absentee-voting ID rules, arguing the change would burden mail voters without materially improving election security.
+- Watch: whether legislative leaders signal an override push before summer messaging hardens, whether the November voter-ID amendment campaign absorbs this veto into its argument, and whether Franklin County election administrators begin warning about confusion risk.
 
-### Mortgage Demand Fragility Versus Survey Relief
+### Whitehall Certification And Post-Recall Governance
 - Last covered: 2026-06-24
-- Status: MBA’s latest weekly data showed applications down 3.8%, purchase demand down 3%, and refinance demand down 5% even as Freddie Mac’s June 18 survey sat at 6.47% and Mortgage News Daily’s live daily rate index stayed materially higher near 6.65%.
-- Watch: whether Thursday’s Freddie Mac survey catches up to the live tape, whether daily pricing moves lower enough to support conversion, and whether fresh housing data keeps purchase demand ahead of last year.
+- Status: Whitehall’s recall results remain split and narrow after Mayor Michael Bivens and Council Member Amy Harcar appeared to survive while Council Member Lori Elmore trailed by six votes with a small number of ballots still able to matter before certification.
+- Watch: Monday, June 29 certification, whether Elmore’s race flips or holds, and whether city leaders change course on housing density or the police-union conflict immediately after the result becomes official.
 
-### Shared-Workspace AI And Governance Controls
-- Last covered: 2026-06-24
-- Status: Anthropic launched Claude Tag on June 23 as a shared Slack-based agent workflow, while OpenAI’s Patch the Planet push reinforces the same enterprise shift toward governed deployment, security work, and operational AI instead of pure model spectacle.
-- Watch: whether another major vendor answers this week with comparable shared-workspace agent features or stronger admin controls, and whether regulated-industry buyers start talking more about permissions and auditability than raw model benchmarks.
+### Mortgage Demand Still Leaning On Refi
+- Last covered: 2026-06-25
+- Status: MBA’s June 24 weekly survey showed total mortgage applications up 1%, but purchase volume edged slightly lower while refinance activity posted modest gains, even as Mortgage News Daily’s live 30-year fixed rate eased to 6.55% and Freddie Mac’s last weekly survey sat at 6.47% ahead of the next release.
+- Watch: Thursday’s Freddie Mac survey at noon, whether daily pricing stays near one-month lows, and whether purchase demand stabilizes enough to keep refinance from doing all of the work.
+
+### Shared-Workspace AI And Inference Scale
+- Last covered: 2026-06-25
+- Status: Anthropic’s Claude Tag launch and OpenAI’s June 24 Jalapeño inference-chip announcement pushed the week’s AI story toward shared-workspace agents, lower-cost serving, and governed enterprise deployment rather than a fresh general-purpose flagship model launch.
+- Watch: whether major vendors answer with stronger admin controls, permission boundaries, or usage analytics in the next few days, and whether regulated-industry buyers talk more about governance and cost than raw model quality.
