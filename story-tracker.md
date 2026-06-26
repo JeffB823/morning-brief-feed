@@ -14,7 +14,7 @@
 
 ### Columbus Flock Camera Policy Fight
 - Last covered: 2026-06-26
-- Status: WOSU reported June 25 that Columbus police disabled the nationwide network-sharing function on Flock license-plate cameras after ICE-related concerns, but the statewide sharing feature remains active and the division’s written policy is still unfinished.
+- Status: W O S U reported June 25 that Columbus police disabled the nationwide network-sharing function on Flock license-plate cameras after ICE-related concerns, but the statewide sharing feature remains active and the division’s written policy is still unfinished.
 - Watch: whether CPD publishes a final policy by the turn of the month, whether it closes the statewide-sharing ambiguity, and whether City Council pushes for tighter audit or access rules.
 
 ### Whitehall Recall Certification
