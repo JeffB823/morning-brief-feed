@@ -1,28 +1,33 @@
-# Story Tracker — updated 2026-06-25
+# Story Tracker — updated 2026-06-26
 
 ## Active Stories
 
+### Federal Mail-Voting Order Litigation
+- Last covered: 2026-06-26
+- Status: On June 25, U.S. District Judge Indira Talwani denied the administration’s motion to dismiss and granted summary judgment to states challenging key parts of Executive Order 14399, blocking the federal citizenship-list and mail-ballot provisions for the November 3, 2026 election cycle and earlier elections.
+- Watch: whether the administration appeals immediately, what the required compliance report says within a week, and whether Congress becomes the fallback route for the same citizenship-verification agenda.
+
 ### Housing Bill Signature Standoff
 - Last covered: 2026-06-25
-- Status: AP reported June 24 that President Trump canceled the signing ceremony for the bipartisan 21st Century ROAD to Housing Act and is withholding his signature until Congress also passes proof-of-citizenship voting legislation, delaying a rare housing-supply package that had already cleared Congress with broad support.
-- Watch: whether Senate Republicans move the voting measure quickly enough to give the White House an off-ramp, whether override talk becomes serious, and whether housing groups start publicly pressuring for the bill to be decoupled within the next several days.
+- Status: AP reported June 24 that President Trump canceled the signing ceremony for the bipartisan 21st Century ROAD to Housing Act and is withholding his signature until Congress also passes proof-of-citizenship voting legislation, freezing a housing-supply package that had already cleared Congress.
+- Watch: whether House or Senate Republicans create an off-ramp within days, whether housing groups increase pressure to decouple the bill, and whether delay talk shifts toward override or quiet abandonment.
 
-### Ohio Absentee ID Veto Fight
-- Last covered: 2026-06-25
-- Status: The Statehouse News Bureau and Governor DeWine’s office reported June 24 that DeWine vetoed House Bill 472 after lawmakers added stricter absentee-voting ID rules, arguing the change would burden mail voters without materially improving election security.
-- Watch: whether legislative leaders signal an override push before summer messaging hardens, whether the November voter-ID amendment campaign absorbs this veto into its argument, and whether Franklin County election administrators begin warning about confusion risk.
+### Columbus Flock Camera Policy Fight
+- Last covered: 2026-06-26
+- Status: WOSU reported June 25 that Columbus police disabled the nationwide network-sharing function on Flock license-plate cameras after ICE-related concerns, but the statewide sharing feature remains active and the division’s written policy is still unfinished.
+- Watch: whether CPD publishes a final policy by the turn of the month, whether it closes the statewide-sharing ambiguity, and whether City Council pushes for tighter audit or access rules.
 
-### Whitehall Certification And Post-Recall Governance
+### Whitehall Recall Certification
 - Last covered: 2026-06-24
-- Status: Whitehall’s recall results remain split and narrow after Mayor Michael Bivens and Council Member Amy Harcar appeared to survive while Council Member Lori Elmore trailed by six votes with a small number of ballots still able to matter before certification.
-- Watch: Monday, June 29 certification, whether Elmore’s race flips or holds, and whether city leaders change course on housing density or the police-union conflict immediately after the result becomes official.
+- Status: Whitehall’s recall election remains politically unsettled after unofficial results showed Mayor Michael Bivens and Council Member Amy Harcar surviving while Council Member Lori Elmore trailed by six votes with a small number of ballots still potentially decisive before certification.
+- Watch: the Monday, June 29 certification, whether Elmore’s result flips or holds, and whether city leaders immediately change course on housing density or the police-union conflict.
 
 ### Mortgage Demand Still Leaning On Refi
-- Last covered: 2026-06-25
-- Status: MBA’s June 24 weekly survey showed total mortgage applications up 1%, but purchase volume edged slightly lower while refinance activity posted modest gains, even as Mortgage News Daily’s live 30-year fixed rate eased to 6.55% and Freddie Mac’s last weekly survey sat at 6.47% ahead of the next release.
-- Watch: Thursday’s Freddie Mac survey at noon, whether daily pricing stays near one-month lows, and whether purchase demand stabilizes enough to keep refinance from doing all of the work.
+- Last covered: 2026-06-26
+- Status: Freddie Mac’s June 25 survey put the 30-year fixed rate at 6.49%, up from 6.47% a week earlier, while Mortgage News Daily’s June 25 live index sat at 6.53% and MBA’s latest weekly survey still showed only modest overall demand with refinance doing more of the work than purchase activity.
+- Watch: whether daily pricing can stay near current levels into next week, whether purchase applications stop lagging, and whether bond-market improvement is strong enough to turn a refi-only lift into broader buyer conversion.
 
-### Shared-Workspace AI And Inference Scale
-- Last covered: 2026-06-25
-- Status: Anthropic’s Claude Tag launch and OpenAI’s June 24 Jalapeño inference-chip announcement pushed the week’s AI story toward shared-workspace agents, lower-cost serving, and governed enterprise deployment rather than a fresh general-purpose flagship model launch.
-- Watch: whether major vendors answer with stronger admin controls, permission boundaries, or usage analytics in the next few days, and whether regulated-industry buyers talk more about governance and cost than raw model quality.
+### Shared-Workspace AI And Inference Governance
+- Last covered: 2026-06-26
+- Status: OpenAI’s June 24 Jalapeño chip announcement, Anthropic’s June 23 Claude Tag launch, and Google’s June 25 Gemini preview-model shutdown underline that the live AI story is shifting toward always-on agents, infrastructure efficiency, and endpoint discipline rather than a fresh flagship-model reveal.
+- Watch: whether major vendors answer with stronger admin controls and audit features in the next few days, whether enterprises report migration pain from model deprecations, and whether regulated buyers keep prioritizing governance over raw benchmark gains.
