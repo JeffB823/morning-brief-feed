@@ -26,6 +26,49 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Morning Brief for Sunday, June 28, 2026</title>
+    <description>Today’s brief leads with the Senate’s late-night procedural vote to move President Trump’s tax-and-spending package forward, a national story with immediate consequences for Medicaid, food assistance, clean-energy credits, state budgets, and the legislative calendar before the July 4 deadline; in Ohio and Columbus, Governor Mike DeWine’s vetoes on mail-ballot photo ID and utility submetering shift from policy dispute to override math, while Whitehall’s recall certification remains a Mo</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p>Good morning. It is Sunday, June 28th, 2026, and this is your Morning Brief.</p>
+<p>COHOST: The useful frame this morning is countdowns. Washington has a July 4th legislative deadline, Ohio has a veto fight waiting for lawmakers to return, mortgage lenders are watching whether rate relief lasts long enough to matter, and A I teams are learning that every new model comes with an operations clock.</p>
+<p>HOST: Start in Washington, where the fresh national development came late Saturday. Senate Republicans narrowly advanced President Trump’s large tax-and-spending package in a procedural vote, keeping the bill alive after last-minute disputes over Medicaid, food assistance, clean-energy credits, and the size of future deficits. The practical point is that the vote did not pass the final bill. It moved the Senate into the next stage, where amendments, vote-counting, and pressure on wavering Republicans become the real story.</p>
+<p>COHOST: So the listener should treat this as a live operating risk, not a completed policy change. The package is closer to passage than it was Friday, but the people affected still do not have final rules.</p>
+<p>HOST: Exactly. The bill matters because it is not just a tax package. It combines extensions of Trump-era tax cuts with spending reductions and program changes that would land on state governments, hospitals, low-income households, clean-energy developers, and local administrators. Medicaid is the biggest practical pressure point. If eligibility rules, federal matching assumptions, or provider financing change, states do not simply absorb that on paper. They have to rewrite systems, notify beneficiaries, negotiate with hospitals and managed-care plans, and decide where the budget pain goes.</p>
+<p>HOST: Food assistance is another affected lane. Work requirements and benefit changes sound abstract until county offices have to verify eligibility and households have to navigate new paperwork. Clean-energy credits are the business lane. Developers, utilities, manufacturers, and investors have to decide whether projects still pencil out if tax benefits are shortened or narrowed. That matters in Ohio because manufacturing, grid investment, and data-center power demand are already part of the region’s economic map.</p>
+<p>COHOST: The counter-signal is that late-stage Senate bills can change fast. A provision that looks firm Sunday morning can be rewritten to win one senator or to avoid losing another.</p>
+<p>HOST: That is the key uncertainty. The White House wants a bill by July 4th. Senate leaders want to keep enough Republicans together without making changes that would break support in the House. The next watch item is the amendment process and whether the Congressional Budget Office score becomes a political weapon. If deficit numbers or coverage-loss estimates harden opposition, the bill can still narrow. If leaders hold the line, states and industries will quickly start planning for implementation instead of lobbying against the framework.</p>
+<p>HOST: In Ohio and Columbus, the fresh local-government story is less dramatic but very practical: Governor Mike DeWine’s vetoes are now turning into a timing and override fight. DeWine vetoed a bill that would have required photo I D for mail-in ballots, and he also vetoed legislation tied to utility submetering in some apartments and condominiums. Republican lawmakers are talking about overrides, but the legislature is on summer break, which means the real window may shift toward after the November election.</p>
+<p>COHOST: For Central Ohio, those are not symbolic issues. One affects how county election boards process absentee ballots. The other affects how some renters and condo owners are billed for utilities through a reseller instead of directly by a regulated utility.</p>
+<p>HOST: Right. The voting veto matters operationally because election offices need stable procedures before a high-turnout cycle. Adding a photo-I-D requirement for mailed ballots would change voter instructions, ballot-cure workflows, staff training, and the volume of rejected or challenged ballots. DeWine’s argument was that the added burden did not justify the benefit. Override supporters say mail voting should have the same I D rigor as in-person voting. The practical consequence for now is that Franklin County and other election offices are not rewriting absentee procedures this week, but they cannot ignore the possibility that lawmakers revive the issue later.</p>
+<p>HOST: The submetering veto is a pocketbook story. Submetering companies buy utility service and resell it inside multi-unit buildings. Supporters of tighter limits say tenants need protection from opaque markups and weak billing transparency. Opponents of the veto argue the legislature should set the market rules and that the governor should not block the compromise. For Columbus-area renters, condo owners, landlords, and property managers, the uncertainty is not philosophical. It affects lease economics, utility disclosure, and who gets blamed when a bill spikes during a hot summer.</p>
+<p>COHOST: The counter-signal is that override talk is often cheaper than override action. If lawmakers do not return until after November, the story becomes a lame-duck pressure campaign, not an immediate change in local rules.</p>
+<p>HOST: Exactly. The next local watch item is twofold. First, whether House and Senate leaders show real vote counts before the end of summer. Second, whether Monday’s Whitehall recall certification changes the political temperature in a Central Ohio suburb already arguing over density, public safety, and leadership. Whitehall is not the same issue, but it is another reminder that local governance fights are being decided on very narrow margins.</p>
+<p>HOST: On home lending and mortgage, the fresh signal is still narrow: rates are friendlier than the worst moments of the last year, but not low enough to produce a clean affordability reset. Freddie Mac’s latest weekly survey put the average 30-year fixed rate at 6.49 percent for the week ending June 25th. Mortgage News Daily’s daily index ended Friday around 6.53 percent. The Mortgage Bankers Association’s latest weekly survey showed total applications up 1 percent.</p>
+<p>COHOST: That combination says the market is alive, not healed. Borrowers are responding at the margin, but mid-6 percent rates still leave many households payment-constrained once taxes, insurance, and home prices are included.</p>
+<p>HOST: That is the useful interpretation. For loan officers, this is a conversion market. The borrower who was already close to qualifying may need a fast lock conversation when daily rates ease. The borrower who was far from qualifying probably still needs a different plan, not just a pep talk. For servicers, modest rate relief raises retention risk among higher-coupon loans. For builders and agents, the question is whether incentives and rate buydowns can bridge the gap without training buyers to wait for concessions.</p>
+<p>HOST: The counter-signal is that year-over-year comparisons are not useless. Rates below last summer’s levels do give some households breathing room, and even a small improvement can matter on a large loan balance. But if purchase applications do not broaden while refinance interest reacts faster, lenders should not confuse activity with recovery.</p>
+<p>COHOST: The operational A I angle in mortgage is becoming more concrete. The near-term value is not a general chatbot. It is document intelligence, servicing support, pricing analytics, quality control, fraud review, and staff copilots connected to the system of record.</p>
+<p>HOST: Exactly. The home-lending implementation model to watch is human-in-the-loop automation with evidence. If an agent explains escrow, retrieves a document, flags an income inconsistency, or drafts a borrower message, the lender needs access boundaries, audit trails, vendor oversight, and a clear owner for exceptions. The next watch item is this week’s rate and application data. If rates stay near one-month lows and volume rises, automation moves from innovation project to capacity planning. If rates back up again, lenders will judge those tools on cost reduction and retention rather than surge handling.</p>
+<p>HOST: In A I and technology, the freshest useful story is that model updates are becoming less like product launches and more like infrastructure changes. OpenAI’s recent API notes included a June 24th update to chat-latest, while still steering production users toward a stable model for serious deployments. Anthropic introduced Claude Tag for shared work channels, letting teams bring Claude into selected Slack conversations. Google’s Gemini API notes added public-preview computer-use support and also kept the shutdown clock visible for older endpoints.</p>
+<p>COHOST: The practical takeaway is that enterprises need an A I operations layer. The newest model may be interesting, but regulated companies need to know which endpoint is approved, what data it can see, who owns the workflow, and how changes are tested before customers or employees rely on it.</p>
+<p>HOST: Exactly. The model story for banks, mortgage companies, insurers, and large employers is now about routing and governance. A serious deployment needs private evaluations, a model registry, an agent inventory, permission scopes, human approval points, cost controls, monitoring, and a rollback plan. Claude in a Slack channel can be useful if it has the right access and a narrow job. It can also create new risk if it absorbs sensitive context, answers outside its authority, or leaves no durable audit trail. Computer-use models can reduce repetitive work, but they also raise sharper questions about credentials, screen access, approvals, and error recovery.</p>
+<p>HOST: The counter-signal is that this does not mean companies should freeze. The productivity upside is real when teams pick a valuable workflow and measure it: faster document review, fewer support escalations, better research synthesis, cleaner code review, or quicker fraud triage. The mistake is treating A I like a user benefit without treating it like an operating system component.</p>
+<p>COHOST: The next watch item is vendor language. When the next round of model updates arrives, listen less for benchmark claims and more for admin controls, migration guidance, evaluation hooks, tool permissions, and cost visibility.</p>
+<p>HOST: For markets, keep it compact. U.S. stocks ended Friday a little softer but still close enough to highs that the market is not pricing panic. The S and P 500 fund SPY finished around 729. The Nasdaq 100 fund Q Q Q finished around 707. The Russell 2000 fund I W M was near 300, and the Dow fund D I A was near 518. Oil cooled, with U S O around 105.</p>
+<p>COHOST: The useful market signal is that lower oil helps the inflation story, but it does not solve the policy risk. Investors are still balancing A I spending, rate sensitivity, Middle East uncertainty, and the fiscal path in Washington.</p>
+<p>HOST: Watch Treasury yields and oil together this week. If yields rise because the Senate package looks more deficit-heavy, mortgage rates can lose the small relief they just gained. If oil stays calmer, that helps the inflation backdrop. The risk is a split tape where equities still like A I growth while borrowers, builders, and rate-sensitive businesses feel tighter financial conditions.</p>
+<p>HOST: For Columbus weather, Sunday is humid and warmer, with clouds giving way to some sun and a high in the mid-80s. The practical issue is moisture in the air rather than a severe-weather day. Outdoor plans look more usable than Friday and Saturday, but it will feel sticky, and Monday looks hotter, closer to the low 90s. Build in water breaks for outdoor work, youth sports, and longer errands, especially later in the day.</p>
+<p>HOST: The watchlist this morning is specific. One, whether Senate Republicans can keep the tax-and-spending bill intact through amendments before the July 4th deadline. Two, whether Ohio override talk turns into real vote-counting on mail-ballot I D and utility submetering. Three, whether Monday’s Whitehall certification closes the recall fight or extends it. Four, whether mortgage rates hold low enough to broaden purchase demand instead of just helping refinance and retention conversations. And five, whether A I vendors make agents more governable, not just more present in everyday workflows.</p>
+<p>COHOST: The common thread is that deadlines reveal who has to operate the system after the politics or product announcement is over.</p>
+<p>HOST: That is your Morning Brief for Sunday, June 28th. Have a good morning, and watch the places where the next five days can turn uncertainty into instructions.</p>
+</div>]]></content:encoded>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-06-28_morning-brief.mp3" length="11596077" type="audio/mpeg"/>
+    <pubDate>Sun, 28 Jun 2026 06:30:00 -0400</pubDate>
+    <itunes:duration>00:12:04</itunes:duration>
+    <itunes:episode>20260628</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-06-28</guid>
+  </item>
+  <item>
     <title>Morning Brief — Morning Brief for Saturday, June 27, 2026</title>
     <description>Today’s brief leads with the Supreme Court allowing the Trump administration to end Temporary Protected Status for Haitians and Syrians, a national immigration ruling with immediate consequences for workers, families, employers, and Ohio communities; in Columbus and statewide politics, Republican lawmakers are already talking about overriding Governor Mike DeWine’s vetoes on mail-ballot ID and utility submetering, but the legislature’s summer break shifts the real timing toward lame duck; </description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -1072,138 +1115,6 @@
     <itunes:episode>20260411</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-04-11</guid>
   </item>
-  <item>
-    <title>Morning Brief — Friday, April 10, 2026</title>
-    <description>Your Morning Brief for Friday, April 10, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-10_morning-brief.mp3" length="14582829" type="audio/mpeg"/>
-    <pubDate>Fri, 10 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:15:11</itunes:duration>
-    <itunes:episode>20260410</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-10</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Thursday, April 09, 2026</title>
-    <description>Your Morning Brief for Thursday, April 09, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-09_morning-brief.mp3" length="13945773" type="audio/mpeg"/>
-    <pubDate>Thu, 09 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:14:31</itunes:duration>
-    <itunes:episode>20260409</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-09</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, April 08, 2026</title>
-    <description>Your Morning Brief for Wednesday, April 08, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-08_morning-brief.mp3" length="13734573" type="audio/mpeg"/>
-    <pubDate>Wed, 08 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:14:18</itunes:duration>
-    <itunes:episode>20260408</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-08</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Tuesday, April 07, 2026</title>
-    <description>Your Morning Brief for Tuesday, April 07, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-07_morning-brief.mp3" length="11307309" type="audio/mpeg"/>
-    <pubDate>Tue, 07 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:46</itunes:duration>
-    <itunes:episode>20260407</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-07</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, April 06, 2026</title>
-    <description>Your Morning Brief for Monday, April 06, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-06_morning-brief.mp3" length="11515437" type="audio/mpeg"/>
-    <pubDate>Mon, 06 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:59</itunes:duration>
-    <itunes:episode>20260406</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-06</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Sunday, April 05, 2026</title>
-    <description>Your Morning Brief for Sunday, April 05, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-05_morning-brief.mp3" length="11167149" type="audio/mpeg"/>
-    <pubDate>Sun, 05 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:37</itunes:duration>
-    <itunes:episode>20260405</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-05</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Saturday, April 04, 2026</title>
-    <description>Your Morning Brief for Saturday, April 04, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-04_morning-brief.mp3" length="11655981" type="audio/mpeg"/>
-    <pubDate>Sat, 04 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:12:08</itunes:duration>
-    <itunes:episode>20260404</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-04</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Friday, April 03, 2026</title>
-    <description>Your Morning Brief for Friday, April 03, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-03_morning-brief.mp3" length="10488621" type="audio/mpeg"/>
-    <pubDate>Fri, 03 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:10:55</itunes:duration>
-    <itunes:episode>20260403</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-03</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Thursday, April 02, 2026</title>
-    <description>Your Morning Brief for Thursday, April 02, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-02_morning-brief.mp3" length="11688621" type="audio/mpeg"/>
-    <pubDate>Thu, 02 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:12:10</itunes:duration>
-    <itunes:episode>20260402</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-02</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, April 01, 2026</title>
-    <description>Your Morning Brief for Wednesday, April 01, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-04-01_morning-brief.mp3" length="11393325" type="audio/mpeg"/>
-    <pubDate>Wed, 01 Apr 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:51</itunes:duration>
-    <itunes:episode>20260401</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-04-01</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Tuesday, March 31, 2026</title>
-    <description>Your Morning Brief for Tuesday, March 31, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-31_morning-brief.mp3" length="11506989" type="audio/mpeg"/>
-    <pubDate>Tue, 31 Mar 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:59</itunes:duration>
-    <itunes:episode>20260331</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-03-31</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, March 30, 2026</title>
-    <description>Your Morning Brief for Monday, March 30, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-30_morning-brief.mp3" length="4264043" type="audio/mpeg"/>
-    <pubDate>Mon, 30 Mar 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:12:41</itunes:duration>
-    <itunes:episode>20260330</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-03-30</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Sunday, March 29, 2026</title>
-    <description>Your Morning Brief for Sunday, March 29, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-03-29_morning-brief.mp3" length="3973248" type="audio/mpeg"/>
-    <pubDate>Sun, 29 Mar 2026 06:30:00 -0400</pubDate>
-    <itunes:duration>00:11:02</itunes:duration>
-    <itunes:episode>20260329</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-03-29</guid>
-  </item>
-</channel>
-</rss>
   <item>
     <title>Morning Brief — Friday, April 10, 2026</title>
     <description>Your Morning Brief for Friday, April 10, 2026. National news, Columbus local, home lending, and AI.</description>
