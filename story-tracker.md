@@ -1,38 +1,38 @@
-# Story Tracker — updated 2026-06-30
+# Story Tracker — updated 2026-07-01
 
 ## Active Stories
 
-### U.S.-Iran Talks And Hormuz Shipping Risk
-- Last covered: 2026-06-30
-- Status: The U.S.-Iran interim deal remains an operating test because U.S. officials say more talks are imminent while Iran has disputed the schedule, and Gulf attacks plus the Omani-side shipping route keep tanker, insurance, oil, and inflation risk live.
-- Watch: whether U.S. and Iranian officials confirm the same meeting schedule, whether tankers keep using the expanded route, whether insurance or oil prices jump, and whether another vessel or Gulf target is hit before the weekend.
+### Birthright Citizenship After Supreme Court Ruling
+- Last covered: 2026-07-01
+- Status: The Supreme Court rejected President Trump's executive order limiting birthright citizenship, keeping the broad Fourteenth Amendment operating rule in place for agencies, hospitals, schools, states, and families.
+- Watch: whether the administration issues implementation guidance, whether Congress attempts a narrower statutory response, and whether immigration agencies change document or benefits workflows before the holiday weekend.
 
-### Senate Tax-And-Spending Package
-- Last covered: 2026-06-30
-- Status: The Senate package remains in amendment and vote-counting mode, with Medicaid, S N A P, clean-energy credits, deficit scoring, and House acceptance determining whether the July 4 deadline can hold.
-- Watch: whether amendments materially change Medicaid, S N A P, or clean-energy provisions; whether any budget score hardens opposition; and whether House leaders signal they can accept the Senate version.
+### Federal Student-Loan Repayment Transition
+- Last covered: 2026-07-01
+- Status: July 1 starts the new R A P and Tiered Standard repayment options, the temporary one percent auto-pay reduction, and the transition window for borrowers leaving SAVE.
+- Watch: whether servicer notices create payment-estimate confusion, whether complaint volume rises, whether SAVE borrowers face higher automatic placements, and whether universities or private lenders report funding-gap pressure.
 
 ### Whitehall Recall Recount
-- Last covered: 2026-06-30
-- Status: Whitehall’s recall fight has moved from certification into recount territory after voters kept Mayor Michael Bivens and Council Member Amy Harcar while Council Member Lori Elmore appeared to be recalled by a narrow margin.
-- Watch: whether the recount confirms or reverses Elmore’s recall, whether replacement procedures begin, and whether city leaders respond on density, police-union tension, or governance concerns.
+- Last covered: 2026-07-01
+- Status: Certified provisional ballots flipped Council Member Lori Elmore from a six-vote apparent loss to an eight-vote lead, while Mayor Michael Bivens and Council Member Amy Harcar remain ahead.
+- Watch: whether the July 7 automatic recount confirms Elmore's lead or flips the seat again, and whether Whitehall leaders announce a process response around transparency, policing tension, development, or community engagement.
+
+### Red White And BOOM Heat And Crowd Operations
+- Last covered: 2026-07-01
+- Status: Columbus is preparing for the July 3 Red White and BOOM event while Franklin County remains under an Extreme Heat Warning through Thursday and Friday stays hot with a possible afternoon storm.
+- Watch: whether organizers, C O T A, police, fire, or city officials update cooling, transit, bridge, street-closure, storm, or crowd-safety guidance before Friday night.
 
 ### Columbus And Ohio Flock Camera Governance
 - Last covered: 2026-06-30
-- Status: Columbus police have disabled nationwide Flock network-sharing after immigration-enforcement concerns, while Cleveland’s contract hit its June 29 expiration point and Shaker Heights has added warrant-and-notice limits to its contract.
-- Watch: whether C P D publishes a policy addressing statewide sharing, retention, audit access, emergency exceptions, and outside-agency requests; whether Cleveland restores or ends its cameras; and whether Columbus City Council seeks formal audit authority.
+- Status: Columbus police have disabled nationwide Flock network-sharing after immigration-enforcement concerns, while other Ohio cities are testing suspension, contract-renewal, warrant, and notice approaches.
+- Watch: whether C P D or Columbus City Council publishes policy language on statewide sharing, retention, audit access, emergency exceptions, outside-agency requests, and council oversight.
 
-### Ohio Submetering Regulation
-- Last covered: 2026-06-30
-- Status: Governor Mike DeWine’s House Bill 173 veto remains active because the P U C O can move under the Ohio Supreme Court ruling while lawmakers decide whether to override the veto or pursue stricter submetering legislation.
-- Watch: whether P U C O announces a submetering process, whether House or Senate leaders set an override timetable, and whether renter, landlord, reseller, or utility groups escalate before the holiday recess window closes.
-
-### Mortgage Demand, Home Equity, And Servicing Stress
-- Last covered: 2026-06-30
-- Status: Freddie Mac’s latest survey put the 30-year fixed rate at 6.49%, Mortgage News Daily’s daily index was around 6.52%, MBA’s latest data showed applications up 1%, ICE reported stronger home-equity withdrawals, and delinquencies plus foreclosure inventory show more borrower dispersion without a broad crisis signal.
-- Watch: whether the July 1 MBA release shows broader purchase demand, whether daily pricing stays near recent lows, whether second-lien demand keeps rising, and whether servicers emphasize retention, loss mitigation, or automation capacity.
+### Mortgage Demand, Non-QM Growth, And A I Governance
+- Last covered: 2026-07-01
+- Status: Mid-six percent mortgage rates are producing narrow, rate-sensitive demand while non-QM forecasts, home-equity activity, and lender A I adoption increase the need for pricing discipline, capital-markets confidence, and auditable manufacturing.
+- Watch: whether today's MBA release broadens purchase demand, whether Treasury yields push daily pricing higher, whether non-QM securitization appetite holds, and whether lenders can document A I use in origination, servicing, Q C, and borrower communication.
 
 ### Enterprise A I Models And Agent Governance
-- Last covered: 2026-06-30
-- Status: OpenAI’s limited GPT-5.6 preview, Anthropic’s restricted Mythos-class access, and Google’s Gemini 3.5 Flash computer-use update all point to enterprises routing work across models while needing stronger permission scopes, private evals, audit trails, cost controls, and rollback plans.
-- Watch: whether vendors emphasize admin controls, data retention, model routing, migration paths, evidence trails, and permission design in the next few days.
+- Last covered: 2026-07-01
+- Status: OpenAI's GPT-5.6 limited preview, the reported lifting of Anthropic model restrictions with differentiated access, and Google's Gemini 3.5 Flash computer-use update all point to frontier models being deployed through routing, permission, and audit controls.
+- Watch: whether vendors publish clearer admin controls, access tiers, data-retention terms, model-routing guidance, private-evaluation tools, computer-use safeguards, cost controls, and rollback mechanisms this week.
