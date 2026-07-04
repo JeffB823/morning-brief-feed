@@ -1,38 +1,38 @@
-# Story Tracker — updated 2026-07-03
+# Story Tracker — updated 2026-07-04
 
 ## Active Stories
 
-### Red White And BOOM Heat And Crowd Operations
-- Last covered: 2026-07-03
-- Status: Red White and BOOM is scheduled for July 3 with roughly 400,000 expected downtown while Franklin County remains under an Extreme Heat Warning until 8 P M Friday and a Heat Advisory through Saturday evening.
-- Watch: whether organizers, C O T A, police, fire, E M S, or weather officials issue late changes on cooling, transit, road closures, bridge access, storm timing, fireworks timing, or post-event crowd flow.
+### America 250 Heat, Security, And Event Operations
+- Last covered: 2026-07-04
+- Status: America 250 events are moving through dangerous eastern U.S. heat, large crowds, high security, and scattered storm risk, while President Trump used the anniversary stage for a sharply political Mount Rushmore speech.
+- Watch: whether D C or other major anniversary events report heat-related medical strain, storm delays, security changes, or a shift from civic commemoration into more explicitly partisan programming.
+
+### Columbus Heat Advisory And Holiday Storm Risk
+- Last covered: 2026-07-04
+- Status: Red White and BOOM has passed, but Franklin County remains under a Heat Advisory until 8 P M July 4 with scattered afternoon and evening thunderstorms possible and additional Sunday storm risk.
+- Watch: whether local fireworks, parades, pools, parks, or public-safety agencies announce delays, cancellations, cooling guidance, lightning pauses, or road and transit changes through July 6.
 
 ### Whitehall Recall Recount
 - Last covered: 2026-07-01
 - Status: Certified provisional ballots flipped Council Member Lori Elmore from a six-vote apparent loss to an eight-vote lead, while Mayor Michael Bivens and Council Member Amy Harcar remain ahead.
 - Watch: whether the July 7 automatic recount confirms Elmore's lead or flips the seat again, and whether Whitehall leaders announce a process response around transparency, policing tension, development, or community engagement.
 
-### Trump Accounts Launch And Affordability Test
-- Last covered: 2026-07-03
-- Status: Trump Accounts launch July 4 with a 1,000 dollar government contribution for children born during Trump's second term and private pledges from major donors, while households still face food, gas, and safety-net pressure.
-- Watch: whether sign-up works smoothly for lower-income families, whether fees and investment options are clear, whether Treasury reports account-opening data, and whether eligibility or access problems surface after launch.
-
-### Election Mail Rule And Court Block
-- Last covered: 2026-07-03
-- Status: Democratic governors asked U S P S to withdraw a proposed rule tied to Trump's March election order after a federal judge blocked the underlying order on constitutional grounds.
-- Watch: whether U S P S withdraws, pauses, or defends the proposed rule, and whether courts or state election officials issue new guidance before mail-ballot deadlines.
+### Trump Accounts Launch And Adoption Quality
+- Last covered: 2026-07-04
+- Status: Trump Accounts opened for deposits July 4 with a 1,000 dollar Treasury contribution for eligible newborns, 5.5 million reported accounts already opened, and philanthropic supplements aimed at some older children.
+- Watch: whether Treasury or account managers report mobile sign-up problems, fee or tax confusion, uneven access for lower-income families, or new adoption data by income, geography, or eligibility group.
 
 ### Mortgage Demand, Non-QM Growth, And A I Governance
-- Last covered: 2026-07-03
-- Status: Freddie Mac's July 2 survey put the 30-year fixed rate at 6.43 percent, Mortgage News Daily's July 2 daily index had 6.60 percent after a five-basis-point improvement, and M B A's July 1 release showed applications up only 0.04 percent.
-- Watch: whether the jobs-report yield move holds into next week, whether locks and purchase applications broaden, and whether lenders can document A I use in origination, servicing, Q C, and borrower communication.
+- Last covered: 2026-07-04
+- Status: Freddie Mac's July 2 survey put the 30-year fixed rate at 6.43 percent, the 15-year at 5.79 percent, and M B A's July 1 release showed applications up only 0.04 percent despite lower rates.
+- Watch: whether Monday's Treasury and mortgage-backed-securities move keeps the rate window open, whether locks and purchase applications broaden, and whether lenders can document governed A I use in origination, servicing, Q C, and borrower communication.
 
 ### Enterprise A I Models And Agent Governance
-- Last covered: 2026-07-03
-- Status: OpenAI's GPT-5.6 preview remains limited to trusted partners through the A P I and Codex, Anthropic's Fable 5 returned after lifted export controls, and Google added Gemini 3.5 Flash computer-use preview features with safety policies and prompt-injection detection.
-- Watch: whether vendors publish clearer admin controls, access tiers, data-retention terms, model-routing guidance, private-evaluation tools, computer-use safeguards, cost controls, fallback paths, and rollback mechanisms this week.
+- Last covered: 2026-07-04
+- Status: OpenAI's GPT-5.6 preview remains limited to trusted partners through the A P I and Codex, while Anthropic's Fable 5 returned after lifted export controls and Mythos access remains tied to approved paths.
+- Watch: whether vendors publish clearer admin controls, access tiers, data-retention terms, model-routing guidance, private-evaluation tools, computer-use safeguards, cost controls, fallback paths, and rollback mechanisms by July 9.
 
 ### Medicare Drug-Markup Proposal
-- Last covered: 2026-07-03
-- Status: The Trump administration proposed a rule targeting hospital markups on discounted drugs for Medicare patients, estimating 1.1 billion dollars in consumer savings next year, while hospitals warn 340B revenue supports services.
-- Watch: release of the proposed-rule text, comment-period deadlines, hospital trade-group response, litigation signals, and whether Congress becomes involved.
+- Last covered: 2026-07-04
+- Status: The Trump administration proposed a rule targeting Medicare reimbursement for 340B discounted outpatient drugs, estimating 1.1 billion dollars in patient savings next year and about 20 billion over a decade, while hospitals warn of service and revenue pressure.
+- Watch: release of the formal rule text, comment-period deadlines, hospital trade-group response, litigation signals, and whether Congress becomes involved before the proposed next-year start.
