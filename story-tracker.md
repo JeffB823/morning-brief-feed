@@ -1,28 +1,28 @@
-# Story Tracker — updated 2026-07-11
+# Story Tracker — updated 2026-07-12
 
 ## Active Stories
 
-### U.S.-Iran Hormuz Assurance And Oil Risk
-- Last covered: 2026-07-11
-- Status: U.S. officials are demanding that Iran publicly state the Strait of Hormuz will remain open. The active test is whether a diplomatic assurance is matched by uninterrupted tanker flow, calmer oil prices, and no renewed Gulf base or shipping attacks.
-- Watch: whether Iran issues a public Hormuz commitment, tankers move normally, insurers or shipping firms report disruption, mediators announce talks, Brent crude rises sharply, or Treasury-yield pressure returns by July 16.
+### U.S.-Iran Hormuz Closure And Shipping Risk
+- Last covered: 2026-07-12
+- Status: The story escalated from diplomatic assurance to physical disruption after Iran struck a Cyprus-flagged container ship in the Strait of Hormuz, declared the strait closed until further notice, and the U.S. answered with a larger strike package. The active test is whether this becomes a sustained blockade, a short disruption, or a narrow negotiated shipping arrangement.
+- Watch: tanker and container-ship movements through Omani-side routes, insurance or shipping advisories, Brent and W T I reaction, Gulf base alerts, crew-rescue updates, Indian diplomatic response, and Oman/Qatar/Pakistan/Egypt mediation by July 17.
 
-### 21st Century ROAD To Housing Act Implementation
-- Last covered: 2026-07-11
-- Status: The bipartisan housing-supply package is becoming law without President Trump's signature. The active story shifts from passage to implementation: agency guidance, local uptake, builder response, investor-purchase rules, and whether lenders can explain long-term supply reform without overstating near-term affordability.
-- Watch: federal agency implementation memos, state or city applications, builder and lender guidance, investor-rule details, lawsuits or compliance pushback, and local zoning or permitting responses by July 16.
+### Lindsey Graham Senate Succession
+- Last covered: 2026-07-12
+- Status: Senator Lindsey Graham died July 11 after a brief and sudden illness, creating an immediate South Carolina appointment decision during an Iran crisis and before a November general election for the seat. The party balance is likely preserved by a Republican appointment, but the foreign-policy voice, committee work, and campaign dynamics can change quickly.
+- Watch: Governor Henry McMaster's temporary appointment, funeral and Senate schedule timing, committee assignment changes, whether the appointee runs in November, and Democratic/Republican campaign responses by July 17.
 
-### Columbus Participatory Budgeting Pilot
-- Last covered: 2026-07-11
-- Status: Columbus opened its Our Voice, Our Choice Budget submission window, giving each of nine council districts 1 million dollars for resident-selected capital projects. The active story is whether outreach produces feasible, district-specific infrastructure ideas before the August 28 submission deadline.
-- Watch: submission counts by district, outreach events, community-partner activity, eligibility decisions, language-access support, and early examples of proposed sidewalks, lighting, parks, safety, or transit-stop projects by July 16.
+### Columbus Book Festival And Downtown Civic Use
+- Last covered: 2026-07-12
+- Status: The Columbus Book Festival runs its second and final day July 12 at Main Library and Topiary Park, giving downtown Columbus a free civic anchor event with authors, exhibitors, panels, signings, food, and library programming. The active question is turnout and whether the festival strengthens recurring downtown use beyond one weekend.
+- Watch: Sunday attendance, vendor and author feedback, parking/transit friction, heat impacts, library follow-up, and any 2027 festival planning signals by July 17.
 
-### Mortgage Rate Window, Housing Law, And Borrower Conversion
-- Last covered: 2026-07-11
-- Status: Freddie Mac's July 9 survey put the 30-year fixed at 6.49 percent and M B A applications fell 2.2 percent for the July 3 holiday week. The active question is whether calmer oil and Treasury markets create a short conversion window while lenders begin preparing borrower and builder messaging around the new housing law.
-- Watch: daily mortgage indexes, the 10-year Treasury, oil prices, lock and pull-through reports, builder commentary, agency guidance tied to the housing law, and June housing-sales data by July 16.
+### Mortgage Rate Window And Borrower Conversion Under Oil Risk
+- Last covered: 2026-07-12
+- Status: Freddie Mac's July 9 survey put the 30-year fixed at 6.49 percent, M B A applications fell 2.2 percent for the July 3 holiday week, and Mortgage News Daily's Friday index was near 6.64 percent. The active question is whether Hormuz disruption pushes oil and Treasury yields high enough to weaken already-fragile borrower conversion.
+- Watch: daily mortgage indexes, 10-year Treasury, oil prices, lock and pull-through reports, builder incentives, refinance responsiveness, and Freddie Mac's July 16 rate release by July 17.
 
-### Enterprise A I Model Routing And Agent Governance
-- Last covered: 2026-07-11
-- Status: OpenAI's GPT-5.6 family, Anthropic's Claude Sonnet 5, and Google's Gemini 3.5 Flash have made enterprise model choice a routing, cost, caching, safety, and governance problem. The active story is whether regulated firms get enough controls and evidence to move from pilots to production workflows.
-- Watch: vendor admin controls, data-retention terms, rate limits, private-evaluation tools, rollback paths, model-routing guidance, safety-system updates, pricing changes, and regulated-customer case studies by July 16.
+### Enterprise A I Model, Voice, Privacy, And Power Governance
+- Last covered: 2026-07-12
+- Status: GPT-5.6 is rolling out across ChatGPT, Codex, and the A P I; GPT-Live adds full-duplex voice; Meta pulled a Muse Image feature after criticism over public Instagram image references; and A I data-center demand is increasing scrutiny of gas and renewable power. The active story is whether enterprises can govern models, voice interfaces, consent, privacy, cost, and infrastructure together.
+- Watch: OpenAI rollout and API adoption, GPT-Live API timing, Meta privacy-control changes, vendor retention and audit terms, regulated-customer case studies, state data-center power rules, and utility interconnection decisions by July 17.
