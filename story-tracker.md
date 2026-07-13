@@ -1,28 +1,33 @@
-# Story Tracker — updated 2026-07-12
+# Story Tracker — updated 2026-07-13
 
 ## Active Stories
 
-### U.S.-Iran Hormuz Closure And Shipping Risk
-- Last covered: 2026-07-12
-- Status: The story escalated from diplomatic assurance to physical disruption after Iran struck a Cyprus-flagged container ship in the Strait of Hormuz, declared the strait closed until further notice, and the U.S. answered with a larger strike package. The active test is whether this becomes a sustained blockade, a short disruption, or a narrow negotiated shipping arrangement.
-- Watch: tanker and container-ship movements through Omani-side routes, insurance or shipping advisories, Brent and W T I reaction, Gulf base alerts, crew-rescue updates, Indian diplomatic response, and Oman/Qatar/Pakistan/Egypt mediation by July 17.
+### U.S.-Iran Hormuz Reopening Test
+- Last covered: 2026-07-13
+- Status: AP reports the U.S. and Iran reached an initial early-Monday agreement to reopen the Strait of Hormuz and extend a shaky ceasefire after weekend ship attacks, Iranian closure claims, and U.S. strikes. The active test is whether commercial traffic, insurance coverage, and Gulf security behavior confirm the agreement.
+- Watch: tanker and container-ship movements near the Omani route, AIS gaps, shipping and insurance advisories, Brent and W T I reaction, Gulf-base alerts, and Oman/Qatar/Pakistan/Egypt mediation by July 18.
 
 ### Lindsey Graham Senate Succession
-- Last covered: 2026-07-12
-- Status: Senator Lindsey Graham died July 11 after a brief and sudden illness, creating an immediate South Carolina appointment decision during an Iran crisis and before a November general election for the seat. The party balance is likely preserved by a Republican appointment, but the foreign-policy voice, committee work, and campaign dynamics can change quickly.
-- Watch: Governor Henry McMaster's temporary appointment, funeral and Senate schedule timing, committee assignment changes, whether the appointee runs in November, and Democratic/Republican campaign responses by July 17.
+- Last covered: 2026-07-13
+- Status: Senator Lindsey Graham's death leaves South Carolina Governor Henry McMaster with an appointment decision while Congress returns and U.S.-Iran tensions remain active. The party balance is likely preserved, but committee expertise, foreign-policy pressure, and November campaign dynamics can move quickly.
+- Watch: McMaster's temporary appointment, funeral and Senate schedule timing, committee assignment decisions, whether the appointee runs in November, and who takes over Graham-backed sanctions or foreign-policy work by July 18.
 
-### Columbus Book Festival And Downtown Civic Use
-- Last covered: 2026-07-12
-- Status: The Columbus Book Festival runs its second and final day July 12 at Main Library and Topiary Park, giving downtown Columbus a free civic anchor event with authors, exhibitors, panels, signings, food, and library programming. The active question is turnout and whether the festival strengthens recurring downtown use beyond one weekend.
-- Watch: Sunday attendance, vendor and author feedback, parking/transit friction, heat impacts, library follow-up, and any 2027 festival planning signals by July 17.
+### Columbus Participatory Budgeting Launch
+- Last covered: 2026-07-13
+- Status: Columbus' Our Voice, Our Choice Budget submission window is open through August 28, with $1 million in capital-project funding per council district and voting planned for November into early December. The active question is whether the first workweek produces broad, practical neighborhood proposals.
+- Watch: submission volume by district, outreach events, language-access signals, eligibility rejections, community partner activity, and whether proposed projects are concrete capital fixes by July 18.
 
-### Mortgage Rate Window And Borrower Conversion Under Oil Risk
-- Last covered: 2026-07-12
-- Status: Freddie Mac's July 9 survey put the 30-year fixed at 6.49 percent, M B A applications fell 2.2 percent for the July 3 holiday week, and Mortgage News Daily's Friday index was near 6.64 percent. The active question is whether Hormuz disruption pushes oil and Treasury yields high enough to weaken already-fragile borrower conversion.
-- Watch: daily mortgage indexes, 10-year Treasury, oil prices, lock and pull-through reports, builder incentives, refinance responsiveness, and Freddie Mac's July 16 rate release by July 17.
+### Mortgage Conversion Under Oil And Treasury Pressure
+- Last covered: 2026-07-13
+- Status: Freddie Mac's July 9 survey put the 30-year fixed at 6.49 percent, M B A applications fell 2.2 percent for the July 3 week, and daily mortgage pricing remains in the mid-sixes while oil and Treasury yields react to Hormuz risk. The active question is whether lenders can protect qualification, lock timing, and borrower communication if pricing backs up.
+- Watch: 10-year Treasury, Brent and W T I, daily mortgage indexes, lock and pull-through reports, builder incentives, refinance responsiveness, and Freddie Mac's July 16 rate release by July 18.
 
-### Enterprise A I Model, Voice, Privacy, And Power Governance
-- Last covered: 2026-07-12
-- Status: GPT-5.6 is rolling out across ChatGPT, Codex, and the A P I; GPT-Live adds full-duplex voice; Meta pulled a Muse Image feature after criticism over public Instagram image references; and A I data-center demand is increasing scrutiny of gas and renewable power. The active story is whether enterprises can govern models, voice interfaces, consent, privacy, cost, and infrastructure together.
-- Watch: OpenAI rollout and API adoption, GPT-Live API timing, Meta privacy-control changes, vendor retention and audit terms, regulated-customer case studies, state data-center power rules, and utility interconnection decisions by July 17.
+### Enterprise A I Model And Voice Governance
+- Last covered: 2026-07-13
+- Status: GPT-5.6 is generally available with Sol, Terra, and Luna tiers; GPT-Live is rolling out full-duplex voice in ChatGPT with API plans; and Claude Sonnet 5 adds another lower-cost frontier option. The active story is whether enterprises can govern routing, voice data, cost, audit trails, and human approval points as capability spreads.
+- Watch: GPT-5.6 API adoption, GPT-Live API timing, regulated-customer case studies, vendor retention and audit terms, private-evaluation tooling, voice safety reporting, and model-routing controls by July 18.
+
+### Ohio Heat And Drought Fragility
+- Last covered: 2026-07-13
+- Status: Ohio has avoided the widespread drought hitting much of the U.S., but Columbus' wet May cushion is being tested by drier, hotter June and July conditions and a hotter week ahead. The active question is whether heat and limited rainfall start translating into local outdoor-work, utility, parks, agriculture, or water-stress concerns.
+- Watch: National Weather Service heat products, Columbus highs and overnight lows through July 16, U.S. Drought Monitor updates, local utility or parks guidance, and any county-level burn or water-use advisories by July 18.
