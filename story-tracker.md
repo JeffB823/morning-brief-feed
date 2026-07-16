@@ -1,33 +1,28 @@
-# Story Tracker — updated 2026-07-13
+# Story Tracker — updated 2026-07-16
 
 ## Active Stories
 
-### U.S.-Iran Hormuz Reopening Test
-- Last covered: 2026-07-13
-- Status: AP reports the U.S. and Iran reached an initial early-Monday agreement to reopen the Strait of Hormuz and extend a shaky ceasefire after weekend ship attacks, Iranian closure claims, and U.S. strikes. The active test is whether commercial traffic, insurance coverage, and Gulf security behavior confirm the agreement.
-- Watch: tanker and container-ship movements near the Omani route, AIS gaps, shipping and insurance advisories, Brent and W T I reaction, Gulf-base alerts, and Oman/Qatar/Pakistan/Egypt mediation by July 18.
+### U.S.-Iran Hormuz Blockade And Shipping Risk
+- Last covered: 2026-07-16
+- Status: AP reports the U.S. has reimposed a blockade on Iranian ports after renewed attacks around the Strait of Hormuz, replacing Monday's reopening test with a more direct blockade, strike, insurance, and Gulf-base security story.
+- Watch: tanker and container traffic near the Omani route, insurance advisories, Brent and W T I, Bahrain and Kuwait missile alerts, U.S. Central Command statements, and any renewed Oman/Qatar/Pakistan mediation by July 21.
 
-### Lindsey Graham Senate Succession
-- Last covered: 2026-07-13
-- Status: Senator Lindsey Graham's death leaves South Carolina Governor Henry McMaster with an appointment decision while Congress returns and U.S.-Iran tensions remain active. The party balance is likely preserved, but committee expertise, foreign-policy pressure, and November campaign dynamics can move quickly.
-- Watch: McMaster's temporary appointment, funeral and Senate schedule timing, committee assignment decisions, whether the appointee runs in November, and who takes over Graham-backed sanctions or foreign-policy work by July 18.
+### Trump Election-Integrity Address
+- Last covered: 2026-07-16
+- Status: AP reports President Trump is scheduled for a Thursday primetime address expected to focus on election issues. The active story is whether the speech produces federal action, state-level pressure, litigation, or new burdens for local election administrators before the midterms.
+- Watch: the final speech text, network carriage, Justice Department or White House follow-up, secretaries of state responses, voting-system vendor reactions, and court filings by July 21.
 
-### Columbus Participatory Budgeting Launch
-- Last covered: 2026-07-13
-- Status: Columbus' Our Voice, Our Choice Budget submission window is open through August 28, with $1 million in capital-project funding per council district and voting planned for November into early December. The active question is whether the first workweek produces broad, practical neighborhood proposals.
-- Watch: submission volume by district, outreach events, language-access signals, eligibility rejections, community partner activity, and whether proposed projects are concrete capital fixes by July 18.
+### Central Ohio Summer Power Costs And Reliability
+- Last covered: 2026-07-16
+- Status: AEP Ohio's July-through-September price to compare is 10.97 cents per kilowatt-hour while Columbus' clean-energy aggregation rate is 10.01 cents through June 2027. The active local question is whether hot, stormy weather and higher usage push more households to shop suppliers or expose reliability concerns.
+- Watch: AEP Ohio outage maps, heat and thunderstorm forecasts, PUCO or Energy Choice Ohio updates, supplier-rate changes, and Columbus or county cooling guidance by July 21.
 
-### Mortgage Conversion Under Oil And Treasury Pressure
-- Last covered: 2026-07-13
-- Status: Freddie Mac's July 9 survey put the 30-year fixed at 6.49 percent, M B A applications fell 2.2 percent for the July 3 week, and daily mortgage pricing remains in the mid-sixes while oil and Treasury yields react to Hormuz risk. The active question is whether lenders can protect qualification, lock timing, and borrower communication if pricing backs up.
-- Watch: 10-year Treasury, Brent and W T I, daily mortgage indexes, lock and pull-through reports, builder incentives, refinance responsiveness, and Freddie Mac's July 16 rate release by July 18.
+### Mortgage Applications And Government-Lending Share
+- Last covered: 2026-07-16
+- Status: M B A says mortgage applications decreased in the latest weekly survey, while refinance share rose to 43.2 percent, F H A share rose to 17.7 percent, V A share rose to 13.6 percent, and ARM share slipped to 7.1 percent. The active issue is borrower segmentation as rates remain in the mid-sixes.
+- Watch: Freddie Mac's July 16 rate release, 10-year Treasury moves, daily mortgage indexes, F H A and V A share, lock and pull-through reports, builder incentives, and refinance break-even math by July 21.
 
-### Enterprise A I Model And Voice Governance
-- Last covered: 2026-07-13
-- Status: GPT-5.6 is generally available with Sol, Terra, and Luna tiers; GPT-Live is rolling out full-duplex voice in ChatGPT with API plans; and Claude Sonnet 5 adds another lower-cost frontier option. The active story is whether enterprises can govern routing, voice data, cost, audit trails, and human approval points as capability spreads.
-- Watch: GPT-5.6 API adoption, GPT-Live API timing, regulated-customer case studies, vendor retention and audit terms, private-evaluation tooling, voice safety reporting, and model-routing controls by July 18.
-
-### Ohio Heat And Drought Fragility
-- Last covered: 2026-07-13
-- Status: Ohio has avoided the widespread drought hitting much of the U.S., but Columbus' wet May cushion is being tested by drier, hotter June and July conditions and a hotter week ahead. The active question is whether heat and limited rainfall start translating into local outdoor-work, utility, parks, agriculture, or water-stress concerns.
-- Watch: National Weather Service heat products, Columbus highs and overnight lows through July 16, U.S. Drought Monitor updates, local utility or parks guidance, and any county-level burn or water-use advisories by July 18.
+### Frontier A I Regulation And Infrastructure Proof
+- Last covered: 2026-07-16
+- Status: Major frontier A I leaders are converging publicly on regulation proposals while OpenAI's GPT-5.6 rollout and TSMC's additional $100 billion U.S. investment show both the software-governance and physical-infrastructure sides of the A I boom.
+- Watch: U.S. agency or congressional follow-up on frontier model oversight, lab safety or system-card updates, enterprise adoption of GPT-5.6 routing controls, TSMC Arizona permitting or utility details, and chip-stock reaction by July 21.
