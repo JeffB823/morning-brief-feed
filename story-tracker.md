@@ -1,28 +1,33 @@
-# Story Tracker — updated 2026-07-16
+# Story Tracker — updated 2026-07-18
 
 ## Active Stories
 
-### U.S.-Iran Hormuz Blockade And Shipping Risk
-- Last covered: 2026-07-16
-- Status: AP reports the U.S. has reimposed a blockade on Iranian ports after renewed attacks around the Strait of Hormuz, replacing Monday's reopening test with a more direct blockade, strike, insurance, and Gulf-base security story.
-- Watch: tanker and container traffic near the Omani route, insurance advisories, Brent and W T I, Bahrain and Kuwait missile alerts, U.S. Central Command statements, and any renewed Oman/Qatar/Pakistan mediation by July 21.
+### U.S.-Iran Hormuz Blockade And Regional Infrastructure Risk
+- Last covered: 2026-07-18
+- Status: AP reports U.S. strikes widened to Iranian infrastructure and maritime capabilities while U.S. forces enforced the blockade against commercial vessels. Iran retaliated against Gulf states including Qatar, Bahrain, and Kuwait, where a power and water desalination plant was damaged.
+- Watch: tanker and container traffic near Hormuz, U.S. Central Command updates, Gulf air-defense alerts, Kuwait desalination repair status, Brent and W T I, insurance advisories, and any Qatar/Oman mediation signal by July 23.
 
-### Trump Election-Integrity Address
-- Last covered: 2026-07-16
-- Status: AP reports President Trump is scheduled for a Thursday primetime address expected to focus on election issues. The active story is whether the speech produces federal action, state-level pressure, litigation, or new burdens for local election administrators before the midterms.
-- Watch: the final speech text, network carriage, Justice Department or White House follow-up, secretaries of state responses, voting-system vendor reactions, and court filings by July 21.
+### Federal Election Enforcement After Trump Address
+- Last covered: 2026-07-18
+- Status: After President Trump's July 16 election address, AP reports D H S Secretary Markwayne Mullin pledged voter-fraud enforcement and threatened consequences for state election officials who refuse to share sensitive voter data with D H S.
+- Watch: formal D H S data requests, state compliance or lawsuits, Justice Department case announcements, secretaries of state responses, voting-system vendor statements, and midterm administration guidance by July 23.
 
-### Central Ohio Summer Power Costs And Reliability
-- Last covered: 2026-07-16
-- Status: AEP Ohio's July-through-September price to compare is 10.97 cents per kilowatt-hour while Columbus' clean-energy aggregation rate is 10.01 cents through June 2027. The active local question is whether hot, stormy weather and higher usage push more households to shop suppliers or expose reliability concerns.
-- Watch: AEP Ohio outage maps, heat and thunderstorm forecasts, PUCO or Energy Choice Ohio updates, supplier-rate changes, and Columbus or county cooling guidance by July 21.
+### Ohio Cyclospora Outbreak Linked To Shredded Lettuce
+- Last covered: 2026-07-18
+- Status: C D C says the multistate Cyclospora outbreak linked to shredded iceberg lettuce served at Taco Bell in five states remains open, with more than 1,644 cases and 94 hospitalizations. Axios Columbus reports Ohio cases above 1,200, including a few dozen in Franklin County.
+- Watch: Ohio Department of Health's next Thursday dashboard update, F D A recall details, Taylor Farms de Mexico removal/recall status, Franklin County case counts, hospitalization trend, and local health-department guidance by July 23.
 
-### Mortgage Applications And Government-Lending Share
-- Last covered: 2026-07-16
-- Status: M B A says mortgage applications decreased in the latest weekly survey, while refinance share rose to 43.2 percent, F H A share rose to 17.7 percent, V A share rose to 13.6 percent, and ARM share slipped to 7.1 percent. The active issue is borrower segmentation as rates remain in the mid-sixes.
-- Watch: Freddie Mac's July 16 rate release, 10-year Treasury moves, daily mortgage indexes, F H A and V A share, lock and pull-through reports, builder incentives, and refinance break-even math by July 21.
+### Mortgage Rates, Applications, And Borrower Segmentation
+- Last covered: 2026-07-18
+- Status: Freddie Mac's July 16 P M M S put the 30-year fixed at 6.55 percent and the 15-year fixed at 5.93 percent. M B A says applications decreased as its surveyed 30-year fixed rate rose to 6.65 percent, the highest since August 2025.
+- Watch: next M B A weekly survey, 10-year Treasury moves, oil-price pass-through into inflation expectations, lock volume, builder incentives, F H A and V A share, and whether rising inventory improves borrower negotiation by July 23.
 
-### Frontier A I Regulation And Infrastructure Proof
-- Last covered: 2026-07-16
-- Status: Major frontier A I leaders are converging publicly on regulation proposals while OpenAI's GPT-5.6 rollout and TSMC's additional $100 billion U.S. investment show both the software-governance and physical-infrastructure sides of the A I boom.
-- Watch: U.S. agency or congressional follow-up on frontier model oversight, lab safety or system-card updates, enterprise adoption of GPT-5.6 routing controls, TSMC Arizona permitting or utility details, and chip-stock reaction by July 21.
+### Kimi K3, U.S. A I Valuations, And Enterprise Unit Economics
+- Last covered: 2026-07-18
+- Status: Axios reports Moonshot A I's Kimi K3 moved into the top tier of model performance and topped major U.S. models in front-end coding tests, while OpenAI's July 17 scorecard argues enterprises should judge A I by useful work per dollar rather than token price alone.
+- Watch: independent Kimi K3 evaluations beyond coding, full model-weight availability or access changes, U.S. lab pricing or model responses, Alphabet/Tesla earnings commentary next week, semiconductor-stock reaction, and enterprise A I governance signals by July 23.
+
+### Central Ohio Storms, Wildfire Smoke, And Outdoor Planning
+- Last covered: 2026-07-18
+- Status: Central Ohio is balancing humid storm risk with wildfire-smoke air-quality concerns. Forecasts call for Saturday afternoon storms that could bring downpours and localized damaging wind, followed by hazier but less humid conditions.
+- Watch: National Weather Service alerts, AirNow air-quality readings, local event cancellations, flooding reports, damaging wind reports, and whether smoke persists into Monday by July 23.
