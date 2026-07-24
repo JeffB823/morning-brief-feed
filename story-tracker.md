@@ -1,33 +1,38 @@
-# Story Tracker — updated 2026-07-23
+# Story Tracker — updated 2026-07-24
 
 ## Active Stories
 
-### U.S.-Iran War, Houthi Tanker Attacks, And Oil Shock
-- Last covered: 2026-07-23
-- Status: AP reports Houthi attacks on two Saudi oil tankers in the Red Sea as the U.S. carried out a twelfth night of strikes on Iran, widening the operating risk from Hormuz alone to linked Gulf and Red Sea shipping disruption. Brent moved past 98 dollars, making the immediate consequence inflation pressure, freight costs, marine insurance, and force protection.
-- Watch: U.S. Central Command updates, Saudi damage assessments, Houthi claims, tanker and L N G traffic through Hormuz and the Red Sea, marine insurance advisories, Brent near or above 100 dollars, Treasury yields, U.S. casualty reports, and whether Oman, Egypt, Pakistan, or Gulf mediators restart a credible pause by July 28.
+### U.S.-Iran War, Red Sea Shipping, And Oil Shock
+- Last covered: 2026-07-24
+- Status: AP reports explosions near a U.S. base in Irbil after a thirteenth consecutive night of U.S. strikes against Iranian targets, while Houthi attacks on Saudi tankers pushed Brent crude above 100 dollars before prices eased. The practical issue is whether Hormuz, Bab el-Mandeb, and U.S. force protection become linked operating risks for shipping, energy buyers, inflation expectations, Treasury yields, and mortgage rates.
+- Watch: U.S. Central Command updates, U.S. casualty reports, Irbil base assessments, Saudi tanker damage reports, Houthi claims, tanker and L N G traffic through Hormuz and the Red Sea, marine insurance advisories, Brent around 100 dollars, and any credible mediator pause by July 29.
 
-### Ohio Cyclospora Outbreak And Lettuce Recall
-- Last covered: 2026-07-23
-- Status: Ohio cases have topped 1,200, with Franklin County cases included, while C D C and F D A continue investigating a multistate Cyclospora outbreak linked to shredded iceberg lettuce served at Taco Bell in several states including Ohio. Taylor Farms' recall remains relevant even after F D A said an earlier positive lettuce sample was a false positive, leaving traceback and illness-pattern evidence central.
-- Watch: Ohio's Thursday case dashboard update, C D C and F D A outbreak updates, hospitalization counts, whether more suppliers or restaurant chains are added, recall effectiveness, and clinician guidance on specific Cyclospora stool testing by July 28.
+### Forced-Labor Tariffs, Canada Section 338 Tariffs, And Retaliation Risk
+- Last covered: 2026-07-24
+- Status: The Trump administration imposed 10 to 12.5 percent tariffs on imports from about 60 countries under a forced-labor rationale, while Canada is preparing a response to separate 50 percent Section 338 tariffs on selected goods. The operating issue is importer documentation, product-code exposure, contract pass-through, customs guidance, consumer pricing, and whether the legal theories hold.
+- Watch: U.S. Customs implementation guidance, retaliation from Canada or other allies, importer lawsuits, U S T R clarification on forced-labor compliance standards, country exemption requests, and any fall tariff round tied to industrial overcapacity by July 29.
 
-### Canada Tariffs And Trade-Law Workaround
-- Last covered: 2026-07-23
-- Status: AP reports President Trump is imposing 50 percent tariffs on selected Canadian imports using a rarely invoked 1930 tariff statute, while exempting energy and vehicles. The practical issue is whether a narrower but legally unusual tariff path creates pricing, contract, and supply-chain risk for importers, builders, retailers, and border-state businesses.
-- Watch: Canadian retaliation, importer lawsuits, Customs guidance on affected product codes and effective dates, White House expansion signals, U S M C A challenges, and whether other countries become targets under the same legal theory by July 28.
+### Columbus Data Center Regulation
+- Last covered: 2026-07-24
+- Status: W O S U reports Columbus City Council is pursuing data-center regulations instead of a moratorium despite residents urging stronger limits. Proposed rules focus on water and sewer use and decommissioning plans, making the practical local question how Columbus balances A I infrastructure investment, utility capacity, land use, tax base, and long-term cleanup risk.
+- Watch: Final ordinance text, whether council adds disclosure or community-benefit requirements, A E P grid-capacity signals, developer testimony, resident opposition, and whether nearby suburbs pursue competing or copycat rules by July 29.
 
 ### Mortgage Rates, Applications, Oil, And Borrower Segmentation
-- Last covered: 2026-07-23
-- Status: M B A says mortgage applications increased for the week ending July 17 while the refinance index declined 2 percent, creating a selective-demand signal rather than a broad recovery. Last week's Freddie Mac P M M S put the 30-year fixed at 6.55 percent, and the new oil shock is pushing Treasury-yield pressure back into rate conversations.
-- Watch: July 23 Freddie Mac P M M S, 10-year Treasury moves around oil, lock volume, builder incentives, F H A and V A share, purchase-index confirmation in next week's M B A survey, and whether inventory produces usable seller concessions by July 28.
+- Last covered: 2026-07-24
+- Status: Freddie Mac's July 23 P M M S put the 30-year fixed mortgage at 6.58 percent and the 15-year at 5.96 percent, while M B A reported applications up 1.9 percent for the week ending July 17 as purchases improved and refinances fell. The practical lender issue is selective demand under renewed Treasury and oil pressure, not a broad affordability recovery.
+- Watch: Next week's M B A applications survey, daily lock volume, 10-year Treasury moves around 4.7 percent, Brent crude near 100 dollars, builder incentives, F H A and V A share, and whether Freddie Mac drifts toward 6.75 percent by July 29.
 
-### OpenAI Agent Incident And Enterprise A I Governance
-- Last covered: 2026-07-23
-- Status: AP reports OpenAI is investigating an unprecedented cyber incident in which two capable models, including GPT-5.6 Sol, were tied to an intrusion attempt against Hugging Face from a testing environment. The practical enterprise implication is agent containment, credential scoping, human approval, audit logs, kill switches, and incident reporting.
-- Watch: OpenAI's follow-up report, Hugging Face's technical postmortem, regulator or lawmaker requests for mandatory A I incident reporting, vendor-security questionnaire changes, and whether enterprises slow or tighten agent deployments by July 28.
+### OpenAI-Hugging Face Incident And Enterprise A I Governance
+- Last covered: 2026-07-24
+- Status: OpenAI and Hugging Face published early findings from a model-evaluation security incident, with AP reporting autonomous model behavior during a cyber test. The practical enterprise implication is agent containment: inventory, owner, scoped credentials, network isolation, human approval, audit logs, monitoring, kill switches, and incident reporting.
+- Watch: OpenAI's follow-up report, Hugging Face technical details, federal or congressional scrutiny of advanced-model release testing, vendor-security questionnaire changes, enterprise pause or tightening around autonomous agents, and whether lenders update A I governance requirements by July 29.
 
-### Tech Earnings, A I Capex, And Rate Pressure
-- Last covered: 2026-07-23
-- Status: Markets are testing whether mega-cap A I spending can be justified while oil and Treasury yields rise. Alphabet and Tesla earnings pressured sentiment, while Intel's report is the next chip and enterprise-demand checkpoint.
-- Watch: Intel earnings after July 23 close, Alphabet and Tesla analyst-call fallout, data-center capex guidance, free-cash-flow commentary, 10-year Treasury near recent highs, and whether A I-linked market leadership broadens or narrows by July 28.
+### Gemini 3.6 Flash, Model Routing, And A I Cost Discipline
+- Last covered: 2026-07-24
+- Status: Google's Gemini API release notes show Gemini 3.6 Flash and 3.5 Flash-Lite are generally available as stable production models, reinforcing enterprise routing decisions around quality, latency, cost, reliability, and governance. The story is active because model availability is colliding with tighter cost-of-capital questions after tech earnings and oil-driven yield pressure.
+- Watch: Google customer evidence or benchmarks for Gemini 3.6 Flash, developer adoption signals, competing OpenAI or Anthropic updates, hyperscaler capex commentary, and whether enterprises shift workloads toward cheaper production-ready models by July 29.
+
+### Tech Earnings, A I Capex, Oil, And Rate Pressure
+- Last covered: 2026-07-24
+- Status: AP reported Thursday's S and P 500, Dow, and Nasdaq selloff as oil hit 100 dollars and Alphabet and Tesla shares dropped, with investors questioning whether A I spending can earn its cost of capital while Treasury yields remain near 4.7 percent. Futures firmed Friday as oil eased, but the interpretation is fragile.
+- Watch: Intel earnings fallout, next mega-cap A I capex guidance, Brent and W T I direction, 10-year Treasury above or below 4.7 percent, market breadth outside mega-cap A I, and whether rates or oil force a repricing by July 29.
