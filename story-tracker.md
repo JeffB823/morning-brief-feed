@@ -22,10 +22,10 @@
 - Status: Freddie Mac's latest P M M S still has the 30-year fixed mortgage at 6.58 percent. The active lender issue is not a generic high-rate recap; it is how borrowers respond to rate volatility, seller credits, points, builder incentives, Treasury yields, oil pressure, and this week's fresh application and rate data.
 - Watch: Next M B A application survey, Thursday Freddie Mac P M M S, 10-year Treasury direction, Brent and W T I moves, builder incentive language, daily lock volume, F H A and V A share, and whether purchase demand confirms or fades by August 1.
 
-### Anthropic Claude Opus 5, Managed Agents, And Enterprise A I Governance
+### Claude Opus 5, OpenAI Oversight Push, And Enterprise A I Governance
 - Last covered: 2026-07-27
-- Status: Anthropic's Claude Platform release notes list Claude Opus 5 with thinking on by default, effort controls, and pricing at 5 dollars per million input tokens and 25 dollars per million output tokens. Related Managed Agents updates add effort settings, webhooks for environment and memory-store lifecycle events, initial session events, and session-thread streaming. The practical enterprise issue is governed A I operation: cost routing, tool permissions, fallbacks, auditability, and human review.
-- Watch: Anthropic customer evidence, benchmark or reliability updates, competing OpenAI or Google model releases, enterprise vendor-questionnaire changes, agent registry adoption, private-eval requirements, and any security or incident disclosures by August 1.
+- Status: Anthropic's Claude Platform documentation lists Claude Opus 5 with a one-million-token context window, 128,000 max output tokens, thinking on by default, effort controls, mid-conversation tool changes, and pricing at 5 dollars per million input tokens and 25 dollars per million output tokens. Axios reports OpenAI C E O Sam Altman is expected at the White House this week to present the company's most advanced model and push for fast approval under a voluntary oversight regime. The practical enterprise issue is governed A I operation: cost routing, model access policy, tool permissions, private evaluations, auditability, and human review.
+- Watch: Anthropic customer evidence, benchmark or reliability updates, OpenAI White House details, competing model releases, enterprise vendor-questionnaire changes, agent registry adoption, private-eval requirements, and any security or incident disclosures by August 1.
 
 ### Markets, Oil, Treasury Yields, And A I Capex Pressure
 - Last covered: 2026-07-27
