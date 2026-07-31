@@ -1,33 +1,38 @@
-# Story Tracker — updated 2026-07-30
+# Story Tracker - updated 2026-07-31
 
 ## Active Stories
 
-### Iran War, Oil Prices, Public Opinion, And Fed Inflation Risk
-- Last covered: 2026-07-30
-- Status: AP-NORC polling shows most Americans say the Iran war has not been worth fighting, with Trump's Iran approval down to 28 percent and 72 percent of adults saying it is extremely or very important to prevent domestic oil and gas prices from rising. Renewed Iranian missile attacks on U.S. forces and U.S.-Saudi strikes on Iran-backed militias in Iraq broke the pause in fighting. The active issue is whether war fatigue and fuel-price pressure begin constraining U.S. strategy while oil keeps feeding inflation and rate risk.
-- Watch: Iranian or militia retaliation, attacks on Saudi energy infrastructure, tanker or insurance disruption around Hormuz or the Red Sea, congressional action on war costs or authorization, gas-price movement, Brent and W T I levels, and whether White House messaging defines an end state by August 4.
+### Fed Inflation Risk, Iran Oil Pressure, And Slower G D P
+- Last covered: 2026-07-31
+- Status: The U.S. economy grew at a 1.5 percent annual rate in Q2, slower than Q1, while consumer spending rose 3.2 percent and underlying domestic demand rose 3.9 percent. P C E inflation eased to 3.7 percent year over year, but core P C E stayed elevated at 3.3 percent. The Fed held at 3.5 to 3.75 percent on July 29 with three dissents for a hike, while Iran-war oil risk keeps the inflation interpretation unstable.
+- Watch: July jobs, Brent and W T I, gas-price movement, Treasury yields, Fed speaker comments, September hike odds, and whether renewed Iran conflict reverses June's energy-price relief by August 5.
 
-### Fed Hold With Three Hike Dissents
-- Last covered: 2026-07-30
-- Status: The F O M C held the federal funds target range at 3.5 to 3.75 percent on July 29, but Beth Hammack, Neel Kashkari, and Lorie Logan dissented in favor of a quarter-point hike. The statement cited solid economic activity, steady unemployment, elevated inflation, and energy-related supply shocks. The active issue is whether the hold was a pause before September tightening or a sign Chair Kevin Warsh will tolerate more market uncertainty while relying on incoming data.
-- Watch: P C E inflation, Treasury yield reaction, oil prices, Fed speaker comments, September hike odds, any clarification of Warsh's reduced-forward-guidance approach, and Jackson Hole messaging by August 4.
+### Iran War Powers, Oil Routes, And Domestic Political Constraint
+- Last covered: 2026-07-31
+- Status: The Senate narrowly rejected a war-powers effort to halt Trump's Iran hostilities, failing 49 to 50, after AP-NORC polling showed weak public support for the war and high concern about domestic oil and gas prices. The active issue is whether Congress, fuel prices, or another attack constrains the White House before the administration defines a clearer end state.
+- Watch: Any new votes or hearings, Iranian or militia attacks, U.S. force-protection alerts, Saudi or shipping-route incidents, tanker insurance changes, White House end-state language, and Brent or retail gas spikes by August 5.
+
+### Ohio Midterm Ad Surge And Columbus Turnout
+- Last covered: 2026-07-31
+- Status: Axios Columbus reported AdImpact now projects about 750 million dollars in Ohio political ad spending for the 2026 cycle, 70 percent above the initial forecast and fourth-highest nationally. Columbus and Franklin County are likely to be central turnout targets while local tax, public-safety, fair, and civic issues compete for attention.
+- Watch: New Senate or governor ad buys, Columbus-market ad saturation, Franklin County turnout organizing, October 5 registration messaging, local ballot-question visibility, and whether state or national campaigns start explicitly targeting Columbus voters by August 5.
 
 ### Columbus Public Tax Capacity And Capital Project Retrenchment
 - Last covered: 2026-07-30
-- Status: Columbus State Community College dropped its proposed 10-year, 1.9-mill Franklin County levy for free tuition, removing one major November tax question but leaving Columbus Promise funding unidentified beyond 2027. Separately, Columbus halted construction of a new Franklin County Municipal Court after estimated costs rose from 200 million dollars in 2018 to more than 335 million, shifting toward renovation and freeing at least 75 million dollars for neighborhood and safety priorities. The active issue is whether local leaders are entering a tighter property-tax and capital-budget cycle.
-- Watch: Columbus State replacement funding talks, Columbus Promise commitments beyond 2027, Columbus City Schools levy campaign language, city council response to the courthouse reversal, court objections or renovation demands, and any other Columbus capital projects flagged for repricing by August 4.
+- Status: Columbus State dropped its proposed Franklin County free-tuition levy while keeping Columbus Promise available for current students, fall entrants, and the class of 2027; funding beyond 2027 remains unidentified. Columbus also halted the new Franklin County Municipal Court project after cost estimates rose above 335 million dollars and shifted toward renovation.
+- Watch: August 5 ballot-filing deadline, Columbus State replacement-funding talks, Columbus Promise commitments beyond 2027, Columbus City Schools levy campaign language, city council or court response to the courthouse reversal, and any additional city capital projects flagged for repricing by August 5.
 
-### Mortgage Demand, Rates, And Borrower Lock Strategy
-- Last covered: 2026-07-30
-- Status: M B A reported mortgage applications fell 6.4 percent in its July 29 weekly survey after the prior week's bounce, while Freddie Mac's latest P M M S had the 30-year fixed at 6.58 percent and the 15-year fixed at 5.96 percent as of July 23. The Fed hold with three hike dissents and oil-driven inflation risk make lock strategy and borrower segmentation more urgent.
-- Watch: Thursday Freddie Mac P M M S, daily lender pricing, 10-year Treasury direction, P C E inflation, M B A purchase versus refinance detail, builder incentives, seller-credit usage, and lender spread behavior by August 4.
+### Mortgage Rates, Demand, And Borrower Lock Strategy
+- Last covered: 2026-07-31
+- Status: Freddie Mac's July 30 P M M S put the 30-year fixed-rate mortgage at 6.66 percent, up from 6.58 percent, and the 15-year at 6.04 percent, up from 5.96 percent. M B A applications fell 6.4 percent in the latest weekly report. The active issue is whether more inventory can offset worse payment math as Treasury yields, oil, and Fed expectations pressure mortgage pricing.
+- Watch: Daily lender pricing, 10-year Treasury direction, next M B A purchase versus refinance detail, lender spread behavior, seller-credit and builder-incentive usage, and whether next week's Freddie Mac P M M S confirms another move higher by August 5.
 
-### Frontier A I Releases, Open-Weight Pressure, And Agent Governance
-- Last covered: 2026-07-30
-- Status: OpenAI's GPT-5.6 Sol preview, Anthropic's Claude Opus 5 release, reported containment concerns, the open A I security alliance, and the letter from more than 1,100 A I workers asking government support for pacing automated A I development all point to frontier A I becoming an operating-risk and governance story. The practical enterprise issue is model routing, private evaluations, agent registries, permission scopes, audit trails, human approval, cost controls, and incident response.
-- Watch: OpenAI and Anthropic system-card updates, broader GPT-5.6 Sol availability, Claude Opus 5 customer evidence, government review language, open-weight policy reactions, vendor questionnaire changes, A I safety incident disclosures, and regulated-enterprise agent governance requirements by August 4.
+### Enterprise A I Deployment, Robotics, And Agent Governance
+- Last covered: 2026-07-31
+- Status: Google DeepMind released Gemini Robotics 2 for whole-body robot control, fine dexterity, and multi-robot teamwork, while Scale A I hired Google Cloud C O O Francis deSouza as C E O to push further into enterprise and government A I applications. The active issue is whether A I value is shifting from model demos into governed deployment systems with private evaluations, workflow integration, auditability, and measurable outcomes.
+- Watch: Google Robotics 2 access details, ASIMOV-Agentic safety evidence, robotics partner announcements, Scale A I customer or product updates, enterprise vendor-questionnaire changes, model-system-card updates, and any new frontier-agent safety incident disclosures by August 5.
 
-### Markets, Oil, Treasury Yields, And A I Capex Proof
-- Last covered: 2026-07-30
-- Status: AP reported the S and P 500 fell 1.5 percent, the Dow dropped 2.2 percent, the Nasdaq lost 1.7 percent, and Brent crude jumped 7.3 percent to settle above 88 dollars a barrel on July 29. A I-linked names remained under pressure while Microsoft and Meta earnings put different interpretations on heavy A I spending. The active issue is whether oil and rates overwhelm earnings strength, and whether A I capex looks productive or excessive.
-- Watch: Brent and W T I, 10-year and 30-year Treasury yields, Nasdaq 100 correction signals, semiconductor breadth, Microsoft and Meta capex commentary follow-through, Apple and Amazon earnings, defensive-sector leadership, and whether market breadth stabilizes by August 4.
+### Markets, A I Capex Proof, And Long-Yield Pressure
+- Last covered: 2026-07-31
+- Status: AP reported the S and P 500 rose 1.7 percent, the Dow gained 1.2 percent, and the Nasdaq jumped 2.8 percent Thursday as Microsoft rose 15.5 percent after earnings reassured investors about A I and cloud growth. Futures rose Friday after Amazon results, while Apple weakened after guidance concerns. Long-term inflation worries and narrow A I-linked leadership remain the main counter-signal.
+- Watch: Market breadth, 10-year and 30-year Treasury yields, Amazon and Apple post-earnings trading, semiconductor breadth, Brent and W T I, credit conditions, and whether A I capex optimism broadens beyond Microsoft and Amazon by August 5.
