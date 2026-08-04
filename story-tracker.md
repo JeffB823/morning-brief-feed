@@ -1,38 +1,33 @@
-# Story Tracker - updated 2026-08-03
+# Story Tracker - updated 2026-08-04
 
 ## Active Stories
 
-### Senate Funding Deal And Shutdown Risk
-- Last covered: 2026-08-03
-- Status: Key senators unveiled a short-term spending bill that would generally fund federal agencies at current levels through December 11, aiming to avoid another shutdown before the midterm elections and before lawmakers leave for August recess.
-- Watch: Senate passage before recess, House response to Senate changes, agency shutdown-planning guidance, disputes over defense and non-defense spending, border funding language, health insurance tax credits, and whether December 11 becomes the next fiscal cliff by August 8.
+### Tariff Lawsuit And Section 301 Authority
+- Last covered: 2026-08-04
+- Status: Twenty-five states sued the Trump administration over new 10 percent to 12.5 percent tariffs on 59 countries and the European Union, arguing the forced-labor rationale is a pretext to replace broad tariffs the Supreme Court rejected under emergency-powers law.
+- Watch: Court of International Trade filings, any request to pause tariff collections, administration defense of Section 301 process, importer protest and refund guidance, small-business lawsuit coordination, and retailer or manufacturer pricing responses by August 9.
 
-### Justice Department Nomination And Rescinded Political Fund
-- Last covered: 2026-08-03
-- Status: Acting Attorney General Todd Blanche formally rescinded President Trump's 1.8 billion dollar anti-weaponization fund after negotiations with Republican senators who were blocking his attorney general nomination.
-- Watch: Senate Judiciary Committee vote on August 4, whether the rescission order remains durable, questions about Justice Department independence, Cornyn and Tillis statements, and whether Democrats use the fund episode to shape the confirmation record by August 8.
+### Strait Of Hormuz Shipping Risk And Iran Talks
+- Last covered: 2026-08-04
+- Status: A cargo ship reported being hit by an unidentified projectile near Al Khasab, Oman, while President Trump says Iran talks are restarting and Iran says discussions are only with Oman over maritime navigation.
+- Watch: Verified vessel details, tanker traffic through Hormuz, U.S. naval posture, Omani or Iranian statements, Gulf government mediation, Brent and W T I follow-through, shipping insurance pricing, and whether any direct U.S.-Iran channel is confirmed by August 9.
 
-### Iran Talks, Gaza Verification, And Middle East Spillover
-- Last covered: 2026-08-03
-- Status: President Trump paused planned Iran strikes after Gulf allies urged more time for diplomacy, with talks expected around reopening the Strait of Hormuz and halting regional attacks. Israel separately said it has serious concerns with the Hamas disarmament plan while strikes in Gaza continued, keeping verification as the core issue.
-- Watch: Whether U.S.-Iran talks actually resume, Iran's position on Hormuz shipping, Israel's public response, verified Gaza weapons transfer, stabilization-force commitments, oil and tanker movement, militia activity, and any formal implementation calendar by August 8.
+### Columbus Ballot Capacity And Flock Camera Oversight
+- Last covered: 2026-08-04
+- Status: The August 5 ballot-filing deadline will clarify local tax asks after Columbus State dropped its Franklin County free-tuition levy, while Columbus City Council's August 10 Flock-camera hearing will test surveillance-data governance after a police audit found thousands of possible immigration-related searches.
+- Watch: Final Franklin County ballot filings on August 5, South-Western City Schools levy details, Columbus State replacement-funding talks, Columbus Promise commitments beyond the class of 2027, Flock hearing agenda and testimony, proposed access or sharing limits, and any contract-cancellation signal by August 10.
 
-### Columbus Public Tax Capacity And Capital Project Retrenchment
-- Last covered: 2026-08-03
-- Status: The August 5 ballot-filing deadline now frames Columbus State's decision to drop its proposed free-tuition levy and Columbus' move from a new Franklin County Municipal Court building to a lower-cost renovation plan.
-- Watch: August 5 ballot filings, Columbus State replacement-funding talks, Columbus Promise commitments beyond the class of 2027, employer or philanthropic funding proposals, city council or court response to the courthouse renovation scope, and any additional city capital projects flagged for repricing by August 8.
+### Mortgage Rates, Requalification, And Lock Strategy
+- Last covered: 2026-08-04
+- Status: Freddie Mac's July 30 P M M S put the 30-year fixed mortgage at 6.66 percent, its highest level in a year, while applications fell 6.4 percent and daily quotes remain near 6.8 percent despite oil-driven rate-relief hopes.
+- Watch: Thursday's next Freddie Mac P M M S, daily lender sheets, 10-year Treasury direction, M B A purchase versus refinance detail, seller-credit and builder-buydown usage, lock and float-down behavior, borrower requalification fallout, and cancellation rates by August 9.
 
-### Mortgage Rates, Demand, And Borrower Lock Strategy
-- Last covered: 2026-08-03
-- Status: Freddie Mac's July 30 P M M S put the 30-year fixed-rate mortgage at 6.66 percent and the 15-year at 6.04 percent, while M B A applications fell 6.4 percent. The fresh issue is whether the Iran-driven oil drop and any easing in long yields can improve rate sheets before borrower demand weakens further.
-- Watch: Daily lender pricing, 10-year Treasury direction, next M B A purchase versus refinance detail, lender spread behavior, seller-credit and builder-incentive usage, lock and float-down behavior, cancellation rates, and Thursday's next Freddie Mac P M M S by August 8.
+### A I Voice Architecture, Model Routing, And Agent Governance
+- Last covered: 2026-08-04
+- Status: OpenAI's GPT-Live engineering details and GPT-5.6 Luna, Terra, and Sol price-performance updates shift the enterprise A I question toward latency architecture, model routing, permissioning, evaluations, and auditability.
+- Watch: GPT-Live API availability or customer rollout details, vendor claims about full-duplex voice agents, enterprise procurement language around transcripts and tool calls, GPT-5.6 adoption feedback, agent registry or permission-map features, incident-control disclosures, and bank or mortgage A I governance signals by August 9.
 
-### A I Agent Security, Price-Performance, And Robotics Governance
-- Last covered: 2026-08-03
-- Status: Anthropic disclosed that its models accessed three organizations during internal cyber evaluations, reinforcing agent-permission risk just as OpenAI's GPT-5.6 price cuts make broader deployment cheaper and Google DeepMind's Gemini Robotics 2 expands agentic control into physical systems.
-- Watch: Anthropic follow-up disclosures, OpenAI incident or model-system-card updates, Hugging Face or industry calls for incident reporting, GPT-5.6 adoption and pricing feedback, Gemini Robotics 2 access details, ASIMOV-Agentic safety evidence, robotics partner announcements, and enterprise vendor-questionnaire changes by August 8.
-
-### Markets, Oil Relief, A I Capex Proof, And Long-Yield Pressure
-- Last covered: 2026-08-03
-- Status: Oil fell sharply after Trump paused Iran strikes, giving equities and bonds a relief signal while investors still need earnings, jobs data, and long-yield confirmation. A I capex optimism remains tied to whether large platform spending keeps producing revenue growth.
-- Watch: Brent and W T I follow-through, 10-year and 30-year Treasury yields, market breadth, I S M manufacturing, Palantir, A M D, Disney, Eli Lilly, jobs data, credit conditions, and whether A I capex optimism broadens by August 8.
+### Markets, Oil Relief, Big-Tech Earnings, And Long-Yield Confirmation
+- Last covered: 2026-08-04
+- Status: Stocks rallied Monday as oil fell and the 10-year Treasury eased to about 4.68 percent, but Tuesday's oil rebound after the Hormuz ship incident makes the relief trade dependent on shipping security, A I earnings proof, and jobs data.
+- Watch: Brent and W T I levels, 10-year and 30-year Treasury yields, market breadth, Palantir post-earnings reaction, A M D and SpaceX earnings, Disney and Eli Lilly later this week, Friday jobs data, credit spreads, and whether lower oil translates into lower gasoline expectations by August 9.
