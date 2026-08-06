@@ -9,7 +9,7 @@ HOST: Start nationally with the C D C, because the Senate has finally put a conf
 
 COHOST: That is not just a personnel move. It changes who owns public-health decisions at a moment when the agency's credibility and workforce have both been hit.
 
-HOST: Exactly. The Associated Press reports the C D C has lost more than 3,000 employees, more than a quarter of its workforce, through layoffs and resignations since President Trump returned to office. Schwartz is a physician and lawyer, a former deputy surgeon general, and a Coast Guard health leader. Her confirmation became a test of whether she would defend science-based guidance if Health Secretary Robert F. Kennedy Junior pushed another direction.
+HOST: Exactly. The Associated Press reports the C D C has lost more than 3,000 employees, more than a quarter of its workforce, through layoffs and resignations since President Trump returned to office. Schwartz is a physician, lawyer, former deputy surgeon general, and Coast Guard health leader. Her confirmation became a test of whether she would defend science-based guidance if Health Secretary Robert F. Kennedy Junior pushed another direction.
 
 HOST: The affected parties are state health departments, hospitals, pediatricians, schools, vaccine programs, laboratories, public-health workers, and families who rely on clear disease guidance. The practical consequence is decision speed. A weak C D C leaves local officials guessing during outbreaks, storms, heat events, and vaccine planning.
 
