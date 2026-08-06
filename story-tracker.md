@@ -1,33 +1,38 @@
-# Story Tracker - updated 2026-08-05
+# Story Tracker - updated 2026-08-06
 
 ## Active Stories
 
-### Blanche Confirmation And Justice Department Independence
-- Last covered: 2026-08-05
-- Status: The Senate Judiciary Committee advanced Todd Blanche's attorney-general nomination after he rescinded the 1.8 billion dollar anti-weaponization compensation fund, but related audit-immunity concerns remain part of the independence debate.
-- Watch: Full Senate vote timing, any written commitments about Justice Department funds or audit immunity, Democratic floor tactics, Republican holdouts, and whether the rescission order is treated as durable by August 10.
+### C D C Leadership And Federal Health Capacity
+- Last covered: 2026-08-06
+- Status: The Senate confirmed Dr. Erica Schwartz as C D C director in a 51-44 vote, giving the agency its first confirmed leader in nearly a year after workforce losses, temporary leadership, and pressure over scientific independence.
+- Watch: Schwartz start date, C D C vaccine or outbreak-guidance changes, remaining health-agency nominations, staff-retention signals, and any public split with H H S by August 11.
 
-### D.C. Guard Deployment Cost And FEMA Regional Capacity
-- Last covered: 2026-08-05
-- Status: A Pentagon estimate puts the extended National Guard deployment in Washington, D.C., at roughly 1.4 billion dollars through January 2029, while G A O warns FEMA regional staffing cuts could weaken disaster response capacity.
-- Watch: State Guard withdrawals, congressional funding or oversight letters, D.C. legal or political response, FEMA regional staffing plans, and any disaster-response timing or reimbursement backlog evidence by August 10.
+### Migrant Child Legal Representation Contract
+- Last covered: 2026-08-06
+- Status: The Trump administration awarded a 150 million dollar single-source contract to Burke Law Group for legal services to unaccompanied migrant children in shelters, while legal-aid providers warn the handoff may leave children outside shelters and some court cases without experienced representation.
+- Watch: H H S justification for the sole-source award, August 15 contract start, coverage for children living with sponsors, court reports of substitute-attorney confusion, and repayment or data-sharing disputes with prior providers by August 11.
 
-### Franklin County Ballot And Columbus Flock Oversight
-- Last covered: 2026-08-05
-- Status: The August 5 ballot-filing deadline will define local tax and policy asks after Columbus State dropped its Franklin County free-tuition levy, while Columbus City Council's August 10 Flock-camera hearing will test license-plate-reader access, retention, sharing, and audit rules.
-- Watch: Final Franklin County ballot filings, South-Western City Schools levy language, Columbus State replacement-funding talks, Columbus Promise commitments beyond the class of 2027, Flock hearing testimony, proposed search or sharing limits, and any contract-cancellation signal by August 10.
+### Hormuz Draft Deal, Oil, And Financing Relief
+- Last covered: 2026-08-06
+- Status: Iran says an Oman-mediated Strait of Hormuz agreement is in final drafting and President Trump says a deal could be announced this week, but U.S. port-blockade concessions and Iranian control over the waterway remain unresolved.
+- Watch: Oman-Iran statement text, U.S. response to blockade and control language, verified tanker traffic, insurance pricing, Brent and W T I levels, 10-year Treasury direction, and whether Friday jobs data overwhelms the oil-relief signal by August 11.
 
-### Mortgage Rates, Application Demand, And Borrower Requalification
-- Last covered: 2026-08-05
-- Status: Fannie Mae's week-ending July 31 data showed purchase-application dollar volume down 2.5 percent and refinance dollar volume down 3.6 percent week over week, while Freddie Mac's July 30 P M M S still had the 30-year fixed at 6.66 percent and daily quotes near 6.8 percent.
-- Watch: Thursday's Freddie Mac P M M S, M B A weekly application release, 10-year Treasury direction, mortgage-backed security spreads, seller-credit and builder-buydown usage, lock and float-down behavior, borrower requalification fallout, and Friday's jobs report by August 10.
+### Central Ohio Haitian T P S Enforcement And November Ballot
+- Last covered: 2026-08-06
+- Status: D H S letters are summoning some Central Ohio Haitians who lost T P S to the Westerville I C E office, while Ohio's November ballot now includes Issue 3 on photo I D but no statewide citizen-led property-tax or data-center amendments.
+- Watch: August 12 Westerville I C E appointments, similar Ohio summons letters, legal-clinic capacity, employer or school disruption reports, Issue 3 campaign framing, and any local replacement for stalled property-tax or data-center ballot efforts by August 11.
 
-### A I Model Review, Cyber Evals, And Enterprise Agent Governance
+### Columbus Flock And Data Center Governance
 - Last covered: 2026-08-05
-- Status: White House model-review talks, U K safety-test reporting on autonomous harmful behavior, Anthropic's cybersecurity-evaluation incident disclosure, and OpenAI's GPT-5.6 price and Fast mode changes are pushing enterprise A I buyers toward model routing, permissions, evaluations, audit logs, and cost controls.
-- Watch: White House framework details, whether open-weight models remain exempt, OpenAI or Anthropic follow-up on eval safeguards, vendor agent-registry or permission-map releases, bank or mortgage A I governance signals, and enterprise adoption feedback on GPT-5.6 routing by August 10.
+- Status: Columbus City Council's August 10 Flock-camera hearing remains the next local technology-governance test after immigration-related search concerns, while data-center regulation continues without a statewide ballot amendment.
+- Watch: August 10 testimony, proposed Flock search limits, retention and sharing rules, audit publication requirements, contract-cancellation signals, and any water or power disclosure standards for data centers by August 11.
 
-### Markets, Hormuz Relief, Earnings Breadth, And Long-Yield Confirmation
-- Last covered: 2026-08-05
-- Status: U.S. indexes closed at records Tuesday as earnings and lower oil supported the relief trade, but SpaceX and A M D weakness after earnings and unresolved Hormuz shipping risk make the rally dependent on broader profit confirmation and long-yield relief.
-- Watch: Brent and W T I levels, Hormuz reopening evidence, 10-year and 30-year Treasury yields, Palantir follow-through, A M D and SpaceX reaction, Disney, Eli Lilly, Uber, Friday jobs data, market breadth, credit spreads, and whether lower oil translates into mortgage-rate relief by August 10.
+### Mortgage Rates, Application Demand, And Borrower Triage
+- Last covered: 2026-08-06
+- Status: M B A says mortgage applications fell 2.9 percent for the week ending July 31 as the average 30-year contract rate reached 6.81 percent, with both purchase and refinance applications behind last year's pace.
+- Watch: Thursday Freddie Mac P M M S, 10-year Treasury near 4.62 percent, mortgage-backed security spreads, Friday jobs data, F H A share, A R M share, builder concessions, lock strategy, and borrower requalification fallout by August 11.
+
+### A I Long-Context Speed, Vendor Churn, And Enterprise Controls
+- Last covered: 2026-08-06
+- Status: OpenAI expanded Fast mode to long-context GPT-5.6 requests above 272,000 tokens and added API-key usage grouping, while Google's DeepMind leadership reshuffle reinforces the need for model-agnostic enterprise architecture.
+- Watch: Enterprise adoption of long-context Fast mode, private eval results, cost dashboards, agent registry and permission-map releases, Google model-roadmap signals, and bank or mortgage A I governance examples by August 11.
