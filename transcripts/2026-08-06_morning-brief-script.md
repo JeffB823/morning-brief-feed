@@ -71,7 +71,7 @@ HOST: The product signal matters too. F H A loans rose slightly to 17.3 percent 
 
 COHOST: The counter-signal is inventory. Freddie Mac noted that more available homes can still support buyer activity when rates fluctuate.
 
-HOST: Right. Watch today's Freddie Mac P M M S at noon Eastern, the 10-year Treasury around 4.62 percent, mortgage-backed security spreads, and Friday's jobs report. For lenders, the operational move is borrower-specific math: payment, cash to close, credit, debt-to-income ratio, lock strategy, seller credit, and the rate where the file becomes workable.
+HOST: Right. Watch today's Freddie Mac P M M S, the 10-year Treasury around 4.62 percent, mortgage-backed security spreads, and Friday's jobs report. For lenders, the operational move is borrower-specific math: payment, cash to close, credit, debt-to-income ratio, lock strategy, seller credit, and the rate where the file becomes workable.
 
 HOST: In A I and technology, the latest model update is practical for enterprise workloads. OpenAI's API changelog says Fast mode now supports long-context requests for GPT-5.6 Sol, Terra, and Luna. Prompts above 272,000 tokens can run in Fast mode, with speeds up to 2.5 times faster than Standard. That comes after last week's GPT-5.6 price cuts and the replacement of Priority Processing with Fast mode.
 
