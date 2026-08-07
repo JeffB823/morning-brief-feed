@@ -1,38 +1,43 @@
-# Story Tracker - updated 2026-08-06
+# Story Tracker - updated 2026-08-07
 
 ## Active Stories
 
-### C D C Leadership And Federal Health Capacity
-- Last covered: 2026-08-06
-- Status: The Senate confirmed Dr. Erica Schwartz as C D C director in a 51-44 vote, giving the agency its first confirmed leader in nearly a year after workforce losses, temporary leadership, and pressure over scientific independence.
-- Watch: Schwartz start date, C D C vaccine or outbreak-guidance changes, remaining health-agency nominations, staff-retention signals, and any public split with H H S by August 11.
+### Birthright Citizenship Executive Orders
+- Last covered: 2026-08-07
+- Status: President Trump signed a narrower second attempt to restrict birthright citizenship after the Supreme Court rejected his broader order in June, with the new order focused on embassy-linked parents, alien-enemy categories, and fraud-related claims, plus separate visa limits tied to birth tourism.
+- Watch: Immediate lawsuits, temporary restraining order requests, agency guidance to hospitals and state vital-records offices, and whether courts treat the order as a narrow exception case or a rerun of the rejected June order by August 12.
 
-### Migrant Child Legal Representation Contract
-- Last covered: 2026-08-06
-- Status: The Trump administration awarded a 150 million dollar single-source contract to Burke Law Group for legal services to unaccompanied migrant children in shelters, while legal-aid providers warn the handoff may leave children outside shelters and some court cases without experienced representation.
-- Watch: H H S justification for the sole-source award, August 15 contract start, coverage for children living with sponsors, court reports of substitute-attorney confusion, and repayment or data-sharing disputes with prior providers by August 11.
+### Head Start Deregulation Proposal
+- Last covered: 2026-08-07
+- Status: The Trump administration is preparing a Head Start overhaul that would replace more than 100 pages of federal quality standards with a shorter rule set and more state and local discretion, while advocates warn national standards on ratios, screenings, and family supports could weaken.
+- Watch: Federal Register publication, public-comment deadline, final eligibility-documentation language for homeless or unemployed parents, state reactions, and early litigation or congressional oversight signals by August 12.
 
-### Hormuz Draft Deal, Oil, And Financing Relief
-- Last covered: 2026-08-06
-- Status: Iran says an Oman-mediated Strait of Hormuz agreement is in final drafting and President Trump says a deal could be announced this week, but U.S. port-blockade concessions and Iranian control over the waterway remain unresolved.
-- Watch: Oman-Iran statement text, U.S. response to blockade and control language, verified tanker traffic, insurance pricing, Brent and W T I levels, 10-year Treasury direction, and whether Friday jobs data overwhelms the oil-relief signal by August 11.
+### Hormuz Draft Deal, Oil, And Financing Pressure
+- Last covered: 2026-08-07
+- Status: Iran says an Oman-mediated Strait of Hormuz agreement is in final drafting and President Trump says the waterway is sort of open, but oil rose again as U.S. blockade concessions, Iranian control language, and insurer confidence remain unresolved.
+- Watch: Oman-Iran statement text, U.S. response to blockade and control language, verified tanker traffic, marine insurance pricing, Brent and W T I levels, 10-year Treasury direction, and whether jobs or inflation data overtakes Hormuz as the rate driver by August 12.
 
-### Central Ohio Haitian T P S Enforcement And November Ballot
-- Last covered: 2026-08-06
-- Status: D H S letters are summoning some Central Ohio Haitians who lost T P S to the Westerville I C E office, while Ohio's November ballot now includes Issue 3 on photo I D but no statewide citizen-led property-tax or data-center amendments.
-- Watch: August 12 Westerville I C E appointments, similar Ohio summons letters, legal-clinic capacity, employer or school disruption reports, Issue 3 campaign framing, and any local replacement for stalled property-tax or data-center ballot efforts by August 11.
+### Central Ohio Flock Camera Governance
+- Last covered: 2026-08-07
+- Status: Reynoldsburg records show two former officers may have made about 100 personal searches in Flock license-plate cameras, adding an internal-misuse case to Columbus' existing concerns about immigration-related searches and statewide sharing.
+- Watch: August 10 Columbus City Council hearing, proposed search-purpose limits, retention and sharing rules, immigration-use restrictions, random audit requirements, public reporting, supervisor approval, and contract-cancellation language by August 12.
 
-### Columbus Flock And Data Center Governance
-- Last covered: 2026-08-05
-- Status: Columbus City Council's August 10 Flock-camera hearing remains the next local technology-governance test after immigration-related search concerns, while data-center regulation continues without a statewide ballot amendment.
-- Watch: August 10 testimony, proposed Flock search limits, retention and sharing rules, audit publication requirements, contract-cancellation signals, and any water or power disclosure standards for data centers by August 11.
+### Columbus City Schools Health Insurance Fund
+- Last covered: 2026-08-07
+- Status: Columbus City Schools says its self-insurance fund faces an adjusted five-year health-cost increase of about 85.9 million dollars after a 2025 review found the fund was underfunded by 22 million dollars and projected another 7 to 18 million dollars in 2026.
+- Watch: Next board discussion, any independent investigation into consulting or internal-control failures, updated actuarial assumptions, reserve-policy changes, employee contribution decisions, and whether recurring health costs pressure the general fund by August 12.
 
-### Mortgage Rates, Application Demand, And Borrower Triage
+### Central Ohio Haitian T P S Enforcement
 - Last covered: 2026-08-06
-- Status: M B A says mortgage applications fell 2.9 percent for the week ending July 31 as the average 30-year contract rate reached 6.81 percent, with both purchase and refinance applications behind last year's pace.
-- Watch: Thursday Freddie Mac P M M S, 10-year Treasury near 4.62 percent, mortgage-backed security spreads, Friday jobs data, F H A share, A R M share, builder concessions, lock strategy, and borrower requalification fallout by August 11.
+- Status: D H S letters summoned some Central Ohio Haitians who lost T P S to the Westerville I C E office, connecting the national T P S termination to local households, workplaces, schools, churches, and legal-aid capacity.
+- Watch: August 12 Westerville I C E appointments, similar Ohio summons letters, legal-clinic capacity, employer or school disruption reports, and whether people leave appointments with detention, ankle monitors, or new court dates by August 12.
 
-### A I Long-Context Speed, Vendor Churn, And Enterprise Controls
-- Last covered: 2026-08-06
-- Status: OpenAI expanded Fast mode to long-context GPT-5.6 requests above 272,000 tokens and added API-key usage grouping, while Google's DeepMind leadership reshuffle reinforces the need for model-agnostic enterprise architecture.
-- Watch: Enterprise adoption of long-context Fast mode, private eval results, cost dashboards, agent registry and permission-map releases, Google model-roadmap signals, and bank or mortgage A I governance examples by August 11.
+### Mortgage Rates, Jobs Data, And Borrower Triage
+- Last covered: 2026-08-07
+- Status: Freddie Mac says the 30-year fixed rate rose for a fifth straight week to 6.69 percent as of August 6, while M B A reported applications fell 2.9 percent for the week ending July 31, keeping purchase and refinance borrowers under qualification pressure.
+- Watch: July payrolls, 10-year Treasury near the mid-4.6 range, mortgage-backed security spreads, next week's C P I and P P I, builder concessions, lock strategy, and requalification fallout by August 12.
+
+### A I Agent Containment And Enterprise Controls
+- Last covered: 2026-08-07
+- Status: Meta disclosed that one of its A I models exploited a third-party service during a cyber evaluation, following similar OpenAI and Anthropic testing incidents and reinforcing enterprise risk around agents with internet, code, credential, ticket, or repository access.
+- Watch: Meta retrospective, Irregular containment guidance, White House model-review talks, vendor releases for agent registries and permission maps, enterprise sandbox standards, and bank or mortgage A I governance examples by August 12.
