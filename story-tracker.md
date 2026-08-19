@@ -1,34 +1,33 @@
-# Story Tracker - updated 2026-08-18
+# Story Tracker - updated 2026-08-19
 
 ## Active Stories
 
-### Hormuz Ship Strike, Oil Risk, And Rate Pressure
-- Last covered: 2026-08-18
-- Status: A ship exiting the Strait of Hormuz was hit by an unidentified projectile after the U.S.-Iran deadline expired, turning the live issue from diplomatic leverage into shipping safety, war-risk insurance, crude pricing, gasoline pass-through, and Treasury-yield pressure.
-- Watch: Maritime advisories, repeat vessel attacks, Oman investigation updates, U.S. or Iran military or sanctions response, Gulf shipping insurance changes, Brent holding above or below the low-90s stress zone, gasoline pass-through, and 10-year Treasury reaction by August 23.
+### Roadless Rule Repeal, Wildfire, Timber, And Litigation
+- Last covered: 2026-08-19
+- Status: The Trump administration is moving through the process to rescind the 2001 Roadless Rule, shifting a 59-million-acre public-lands protection fight into environmental review, public comments, timber supply, wildfire-management claims, water-quality risk, tribal consultation, and likely litigation.
+- Watch: Public comments before the September 21 deadline, state and tribal responses, conservation lawsuits, timber-industry project proposals, Forest Service capacity details, and whether the debate centers on wildfire treatment, local control, road maintenance, water quality, or old-growth protection by August 24.
 
-### Central Ohio Storm Recovery And Midweek Rain Risk
-- Last covered: 2026-08-18
-- Status: Tuesday's less-humid weather gives Columbus and nearby communities a practical recovery window after last week's severe storm damage and weekend flooding, but Wednesday and Thursday thunderstorm chances could reopen drainage, basement, debris, traffic-signal, and utility-repair issues.
-- Watch: Columbus 311 volume, A E P Ohio restoration or repair updates, debris pickup pace, blocked-storm-drain or basement-backup reports, traffic-signal repair, contractor and insurance demand, and whether Wednesday or Thursday storms generate new calls by August 23.
+### I C C Sanctions And Allied Compliance Response
+- Last covered: 2026-08-19
+- Status: The U.S. sanctioned the I C C president and a senior prosecutor over court actions involving U.S. and Israeli personnel, making the active issue financial-system compliance, allied reaction, court operations, diplomatic backlash, and whether U.S. pressure changes how institutions handle contact with sanctioned legal officials.
+- Watch: E U, U K, Israeli, and court responses; bank and law-firm compliance guidance; any additional U.S. designations; and whether allies object publicly, comply quietly, or create workarounds by August 24.
 
-### Mortgage Rate Sensitivity, Applications, And Borrower Conversion
-- Last covered: 2026-08-18
-- Status: Freddie Mac's 30-year mortgage average is 6.67 percent and M B A applications rose 3.6 percent for the week ending August 7, but the live test is whether oil-driven Treasury pressure interrupts rate-sheet improvement before borrowers turn shopping into locks.
-- Watch: M B A applications on August 19, lender rate-sheet changes, 10-year Treasury direction, M B S spreads, builder and retail housing commentary, purchase pull-through, refinance retention signals, and whether borrowers close to payment or debt-to-income thresholds re-engage by August 23.
+### Central Ohio Storm Recovery, Farm Delays, And Service Backlog
+- Last covered: 2026-08-19
+- Status: Columbus still has severe-storm resources active while persistent rain and recent severe weather are threatening Ohio crop timing, turning the local story into cumulative moisture, repair backlogs, drainage issues, field access, disease pressure, harvest planning, and public-service capacity.
+- Watch: Columbus 311 demand, A E P Ohio updates, county road or drainage reports, N W S rainfall and storm outlooks, Ohio crop condition commentary, field-access problems, and whether crews and farms get enough dry time to move from response to catch-up by August 24.
 
-### Mortgage A I Governance And Controlled Workflow Deployment
-### Mortgage A I Governance And Controlled Workflow Deployment
-- Last covered: 2026-08-18
-- Status: Cheaper models and staff copilots make borrower reactivation, document review, servicing summaries, Q C, fraud triage, and borrower communication more plausible, but lenders still need model inventory, ownership, data permissions, human review, audit logs, vendor oversight, and measurable workflow gains before scaling.
-- Watch: Investor or warehouse-bank A I questionnaires, vendor governance artifacts, lender-approved-use policies, model-inventory templates, production examples with lower cost per loan or faster cycle time, and controlled deployments in document review, servicing, Q C, fraud, borrower communication, or staff copilots by August 23.
+### Mortgage Rate Fragility, Purchase Weakness, And Refi Retention
+- Last covered: 2026-08-19
+- Status: Freddie Mac's 6.67 percent weekly average is being challenged by daily quotes near 6.75 percent, while Fannie Mae's week-ending August 14 data showed purchase-dollar volume down and refinance-dollar volume up, making borrower segmentation, lock timing, builder incentives, and retention outreach the live operational issue.
+- Watch: Freddie Mac's August 20 survey, M B A and Fannie application data, Mortgage News Daily daily-rate direction, 10-year Treasury moves, M B S spreads, purchase pull-through, refinance savings thresholds, builder incentives, and borrower fallout around 6.75 to 7 percent quotes by August 24.
 
-### Enterprise Agent Standards, Model Routing, And Copilot Governance
-- Last covered: 2026-08-18
-- Status: A 2 A moving under the Agentic A I Foundation, M C P adoption, Grok 4.6 in GitHub Copilot, and GPT-5.6 price cuts all point to the same enterprise issue: agent interoperability and model choice are expanding faster than governance, routing, cost controls, repository permissions, prompt logging, and human approval practices.
-- Watch: A 2 A and M C P showing up in enterprise products, Copilot Business or Enterprise model-policy decisions, per-model usage reports, private reliability or latency tests, agent registries, spending limits, and examples of model routing with audit trails by August 23.
+### OpenAI Astra Pause, Cyber Thresholds, And Runtime Governance
+- Last covered: 2026-08-19
+- Status: OpenAI added monitoring requirements and paced parts of development after determining Astra may have critical cyber capabilities, making the active enterprise issue runtime containment for tool-using models: scoped permissions, monitoring, incident response, agent inventories, kill switches, and customer evidence.
+- Watch: OpenAI follow-up thresholds, Anthropic or Google responses, federal review signals, customer security questionnaires, vendor monitoring artifacts, and whether banks, mortgage companies, and regulated enterprises require runtime controls before broader agent deployment by August 24.
 
-### Columbus Flock Camera Funding And Oversight Decision
-- Last covered: 2026-08-18
-- Status: Columbus City Council's six-hour Flock camera hearing left the active issue at procurement and policy: whether privacy, I C E-access, data-sharing, audit, misuse, and impact-report concerns become enforceable guardrails before any December contract renewal.
-- Watch: Council ordinance drafts, audit or impact-report requirements, contract-renewal funding signals, police policy revisions, civil-liberties responses, vendor commitments, and any timeline for a December funding vote by August 23.
+### Copilot Model Expansion, Gemini 3.7 Flash, And Enterprise Routing
+- Last covered: 2026-08-19
+- Status: Gemini 3.7 Flash and Grok 4.6 are moving into developer and Copilot workflows while GitHub adds enterprise managed settings, making the live issue model routing, repository permissions, prompt retention, usage reporting, spend controls, and private evaluations for sensitive codebases.
+- Watch: Copilot Business and Enterprise admin-policy updates, per-model usage reports, developer-tool governance settings, private eval examples, model deprecation notices, and whether enterprises restrict new models by repository, team, data class, or workflow by August 24.
