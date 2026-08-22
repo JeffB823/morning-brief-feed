@@ -1,33 +1,38 @@
-# Story Tracker - updated 2026-08-21
+# Story Tracker - updated 2026-08-22
 
 ## Active Stories
 
-### Treasury Buybacks, Long Yields, Debt Supply, And Jackson Hole
-- Last covered: 2026-08-21
-- Status: Treasury's expanded long-bond buyback plan has not convinced investors so far, with 10-year and 30-year yields still elevated as markets weigh debt supply, inflation, oil, Fed credibility, mortgage spillover, corporate borrowing, and A I infrastructure finance.
-- Watch: Jackson Hole remarks from Fed Chair Kevin Warsh, 10-year and 30-year Treasury yields, Treasury auction demand, buyback operation sizes, oil prices, M B S spreads, mortgage rate sheets, and whether yields ease or keep rising by August 26.
+### Trump Legal Pressure On Critics And Federal Law Enforcement
+- Last covered: 2026-08-22
+- Status: Trump threatened a $5 billion lawsuit against the Center for American Progress over its National Guard crime analysis, while Justice Department investigators are seeking voluntary interviews tied to the 2022 Mar-a-Lago search.
+- Watch: Whether Trump files suit, whether the Mar-a-Lago inquiry moves from voluntary interviews to subpoenas or filings, First Amendment responses, DOJ/FBI reactions, and any court action or retraction demand by August 27.
 
-### U.S.-South Korea Drills, North Korea Missiles, And Alliance Readiness
-- Last covered: 2026-08-21
-- Status: The U.S. and South Korea are ending joint drills early after North Korea fired a barrage of short-range ballistic missiles, turning the active issue into deterrence, readiness, alliance reassurance, and whether Trump's outreach creates diplomacy or a perceived concession.
-- Watch: Any additional North Korean missile tests or statements, South Korean and Japanese responses, Pentagon readiness comments, rescheduled or substitute exercises, sanctions signals, and whether credible talks are announced by August 26.
+### Treasury Yields, Debt Supply, Oil, And Jackson Hole
+- Last covered: 2026-08-22
+- Status: Treasury's expanded long-bond buybacks have not fully calmed rate pressure as investors weigh $40 trillion in federal debt, Iran-war costs, oil, inflation expectations, Fed credibility, mortgages, and A I infrastructure finance.
+- Watch: Jackson Hole from August 27-29, 10-year and 30-year Treasury yields, Treasury auction demand, oil prices, P C E inflation, M B S spreads, mortgage rate sheets, and whether yields ease before Freddie Mac's August 27 survey.
 
 ### Columbus Council Election Reform And Dueling Ballot Measures
-- Last covered: 2026-08-21
-- Status: Columbus voters may face competing November charter amendments after Our City, Our Say qualified a ward-style council proposal and City Council prepared its own reform option, making ballot wording and conflict rules the immediate governance issue.
-- Watch: Final ballot language by the September 4 deadline, City Council's competing proposal, Board of Elections handling, legal challenges, neighborhood-group responses, and whether voter materials clearly explain what happens if both measures pass.
+- Last covered: 2026-08-22
+- Status: Columbus voters may face competing November charter amendments after Our City, Our Say qualified a ward-style council proposal and City Council prepared its own reform option, making Monday's expected council action and final wording the immediate governance issue.
+- Watch: Monday council action, final ballot language by the September 4 deadline, Board of Elections handling, legal challenges, neighborhood-group responses, and whether voter materials clearly explain what happens if both measures pass.
+
+### Micro Center Bethel Reopening And Local A I Skill Building
+- Last covered: 2026-08-22
+- Status: Micro Center's Bethel Road grand reopening adds A I development space, 3D printing, more floor inventory, and a Knowledge Bar emphasis, making the local story whether hands-on tech retail becomes part of Columbus's practical A I learning pipeline.
+- Watch: Weekend reopening response, partnerships or programming with schools, makers, employers or small businesses, customer traffic, and whether the store becomes a recurring local A I workforce-development signal by August 27.
 
 ### Mortgage Rate Fragility, Freddie Mac Relief, And Borrower Segmentation
-- Last covered: 2026-08-21
-- Status: Freddie Mac's August 20 survey showed the 30-year fixed rate down to 6.65 percent and the 15-year down to 5.95 percent, but M B A applications remained soft and long-yield pressure keeps the rate relief fragile for purchase conversion and refinance retention.
-- Watch: Daily mortgage quotes, 10-year Treasury movement, M B S spreads, next M B A applications data, purchase pull-through, refinance savings thresholds, builder incentives, borrower fallout around 6.65 to 6.85 percent, and whether Freddie's next survey confirms relief by August 26.
+- Last covered: 2026-08-22
+- Status: Freddie Mac's August 20 survey showed the 30-year fixed rate down to 6.65 percent and the 15-year down to 5.95 percent, but M B A applications and new-home purchase applications remain soft while long-yield pressure keeps the rate window fragile.
+- Watch: Daily mortgage quotes, 10-year Treasury movement, M B S spreads, next M B A applications data, purchase pull-through, refinance savings thresholds, builder incentives, borrower fallout around 6.65 to 6.85 percent, and Freddie Mac's August 27 survey.
 
-### OpenAI A I Futures, Private Safety Processing, And Enterprise Governance
-- Last covered: 2026-08-21
-- Status: OpenAI's new A I Futures effort broadened the governance conversation from privacy and model safety to power concentration, responsible agency, institutional accountability, and how advanced A I actions can remain traceable without undermining privacy.
-- Watch: OpenAI's promised September Private Safety Processing white paper, Strategic Futures follow-up work, customer or regulator reactions, agent-registry and audit-log mechanisms, privacy-preserving monitoring claims, enterprise vendor-risk responses, and whether regulated firms accept the governance model by August 26.
+### GitHub Copilot In Slack And Teams, Agent Governance
+- Last covered: 2026-08-22
+- Status: GitHub launched public-preview Copilot experiences in Slack and Microsoft Teams, moving coding agents into shared collaboration channels and making repository permissions, cloud sandboxes, budgets, attribution, extra review, and auditability active enterprise controls.
+- Watch: Admin enablement, Slack and Teams rollout feedback, repository approval policies, cloud-agent budget controls, security review, customer adoption, and whether teams formalize agent registries and human approval rules by August 27.
 
 ### GitHub Copilot Model Retirements And Enterprise Model Inventories
-- Last covered: 2026-08-21
-- Status: GitHub will retire several older Copilot models on September 1 across chat, inline edits, ask, agent mode, and completions, making model inventories, private evaluations, permissions, workflow dependencies, cost assumptions, and developer change management active enterprise A I issues.
-- Watch: Copilot admin notices, migration guidance, enterprise usage reports, private eval updates, repository-level model restrictions, developer workflow breakage, and whether teams update model inventories before September 1.
+- Last covered: 2026-08-22
+- Status: OpenAI's ChatGPT model notes, GPT-5.6 rollout and pricing changes, and GitHub's September Copilot model retirements all make model inventories, private evaluations, permissions, workflow dependencies, cost assumptions, and developer change management active enterprise A I issues.
+- Watch: OpenAI o3 retirement in ChatGPT on August 26, internal model inventories before GitHub's September 1 retirements, MAI-Code-1-Flash migration before September 10, private eval updates, repository-level model restrictions, and workflow breakage.
