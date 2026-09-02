@@ -1,33 +1,28 @@
-# Story Tracker - updated 2026-09-01
+# Story Tracker - updated 2026-09-02
 
 ## Active Stories
 
-### Tropical Storm Edouard And Gulf Coast Disruption
-- Last covered: 2026-09-01
-- Status: Tropical Storm Edouard formed in the Gulf and is expected to make landfall in Texas on September 1 with heavy rain and flash-flood risk for parts of Texas and Louisiana, including the Houston region.
-- Watch: Landfall timing, Houston-area rainfall totals, flash-flood reports, refinery or port interruptions, utility outages, and whether oil prices give back storm-related risk premium by September 5.
+### U.S.-Iran Strikes, Hormuz, Oil, And Fed Risk
+- Last covered: 2026-09-02
+- Status: The U.S. and Iran exchanged another round of strikes after a month-long lull, with Iranian retaliation aimed at Gulf countries and Jordan, oil above 90 dollars, gasoline pressure rising, and Friday jobs data now carrying heavier inflation and rate implications.
+- Watch: New attacks on commercial shipping or Gulf infrastructure, Brent holding above 95 dollars, gasoline-price moves, U.S. sanctions or diplomatic signals, Friday payrolls, two-year and 10-year Treasury yields, and September F O M C odds by September 7.
 
-### September Fed, Jobs, Energy, And Tariff Risk
-- Last covered: 2026-09-01
-- Status: Friday jobs data now lands amid elevated oil risk, Canada tariff retaliation scheduled for September 8, and Fed Chair Kevin Warsh's recent signal that the September 15-16 F O M C meeting remains live if inflation does not cool.
-- Watch: Friday jobs report, two-year and 10-year Treasury yields, oil-price persistence, tariff negotiation signals before September 8, and market-implied September F O M C odds by September 5.
+### COTA Reliability And September 7 Service Changes
+- Last covered: 2026-09-02
+- Status: COTA says 23 of 38 new compressed-natural-gas buses have arrived, 20 should be in service by month-end, pantograph chargers begin use September 7, and fall service changes add Line 30 while splitting Line 1 and moving the Dublin Park and Ride.
+- Watch: Missed-trip and on-time-performance complaints after September 7, rider confusion around downtown transfers, charger reliability, new-bus deployment pace, and whether real-time communication reduces service uncertainty by September 7.
 
-### Columbus Participatory Budget Review
-- Last covered: 2026-09-01
-- Status: Columbus received more than 600 proposals for its first Our Voice, Our Choice participatory budget, and city staff plus volunteer budget delegates now need to turn plausible ideas into costed proposals for resident voting from November 2 to December 4.
-- Watch: Which project ideas survive feasibility review, cost-estimate transparency, geographic balance across districts, maintenance obligations, and any criticism that quieter neighborhoods were underrepresented by September 5.
-
-### Columbus Council Reform Ballot Deadline
-- Last covered: 2026-09-01
-- Status: Columbus City Council faces a September 4 deadline to advance ballot language for possible competing council-election reform measures, including the Our City, Our Say ward-style proposal and a council-backed alternative.
-- Watch: Final ballot language, whether the measures are formally deemed conflicting, legal challenges, voter-education plans, and campaign finance or endorsement signals by September 5.
+### Ohio Pediatric Cancer Navigation Program
+- Last covered: 2026-09-02
+- Status: Ohio launched a Pediatric Complex Care Navigation Program through the Department of Health to give families of children diagnosed with cancer a single point of contact for medication support, Medicaid funding, physician access, clinical-trial travel, and nonprofit resources.
+- Watch: Staffing levels, referral criteria, program availability in Central Ohio hospital networks, outreach to newly diagnosed families, and any early outcome or wait-time measures by September 7.
 
 ### Mortgage Rate Fragility And Borrower Demand
-- Last covered: 2026-09-01
-- Status: Freddie Mac's August 27 survey showed the 30-year fixed-rate mortgage at 6.66 percent and the 15-year at 5.98 percent, while M B A's latest weekly survey showed applications down 1 percent and high-six daily rates continue to strain borrower demand.
-- Watch: September 3 Freddie Mac release, next M B A purchase/refinance split, Friday jobs data, 10-year Treasury moves, M B S spreads, builder incentive language, and servicer retention outreach by September 5.
+- Last covered: 2026-09-02
+- Status: Freddie Mac's August 27 survey showed the 30-year fixed-rate mortgage at 6.66 percent and the 15-year at 5.98 percent, while Fannie Mae's week-ending August 28 application-level data showed purchase applications down 0.9 percent and total refinance applications down 1.1 percent.
+- Watch: September 3 Freddie Mac release, M B A's week-ending August 28 survey, Friday jobs data, 10-year Treasury moves, M B S spreads, builder incentive language, rate-term versus cash-out refinance demand, and servicer retention outreach by September 7.
 
-### Frontier A I Financial Stability And Vendor Risk
-- Last covered: 2026-09-01
-- Status: The Financial Stability Board's August 31 letter to G20 finance officials warned that frontier A I's most immediate financial-system risk is cyber risk, making model release, deployment, third-party resilience, response, and recovery operational issues for banks and market infrastructure.
-- Watch: G20 follow-up language, financial-regulator guidance, bank cyber-resilience disclosures, vendor audit features, agent inventories, recovery testing, and any major A I-enabled cyber incident by September 5.
+### Critical-Capability A I And Enterprise Cyber Controls
+- Last covered: 2026-09-02
+- Status: OpenAI says Astra is its first model to meet the Critical cybersecurity capability threshold, prompting delayed release work, stronger safeguards, monitoring, trusted access for selected defensive partners, and more attention to unauthorized agent actions after the Hugging Face incident.
+- Watch: Astra public-release timing, Daybreak Blue partner details, model-card or eval disclosures, enterprise trusted-access terms, regulator reaction, bank cyber-resilience disclosures, vendor audit features, agent inventories, and any major A I-enabled cyber incident by September 7.
