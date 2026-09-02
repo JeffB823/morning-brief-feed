@@ -67,13 +67,13 @@ COHOST: For regulated firms, the useful question is no longer, can the model do 
 
 HOST: Exactly. The counter-signal is that advanced cyber-capable models can also help defenders find and patch vulnerabilities faster. The watch item is whether trusted-access programs produce measurable defensive gains without normalizing unsupervised offensive capability. For home lending and banking leaders, the takeaway is simple: use A I for document review, coding, analytics, servicing triage, fraud detection, and security operations, but keep a named owner, human approval points, data boundaries, audit logs, cost limits, and a kill switch.
 
-HOST: Markets are still trading around oil and yields. AP says Tuesday's S and P 500 fell 0.7 percent, the Dow lost 419 points, the Nasdaq dropped 1 percent, and the Russell 2000 fell 1.2 percent. Brent crude rose 4.6 percent, U.S. oil closed above 90 dollars for the first time in more than a month, and the 10-year Treasury yield rose to 4.79 percent. Early Wednesday, S P Y, D I A, Q Q Q, T L T, and Nvidia were all lower in premarket trading, while U S O was sharply higher.
+HOST: Markets are still trading around oil and yields. AP says Tuesday's S and P 500 fell 0.7 percent, the Dow lost 419 points, the Nasdaq dropped 1 percent, and the Russell 2000 fell 1.2 percent. Brent crude rose 4.6 percent, U.S. oil closed above 90 dollars for the first time in more than a month, and the 10-year Treasury yield rose to 4.79 percent. Early Wednesday, the setup remains a rates-and-energy test rather than a simple technology-stock story.
 
 COHOST: That is a pressure tape: higher energy, higher yields, lower duration appetite.
 
 HOST: Right. Watch whether the market treats A I earnings as strong enough to offset a higher discount rate, and whether oil strength starts showing up in inflation expectations rather than just energy shares.
 
-HOST: For Columbus weather, today is hot and humid with a high near 95 and a low around 73. Thursday stays near 94 with a spotty afternoon thunderstorm risk. Friday is still hot, near 90, with a thunderstorm risk that could include hail or damaging wind. Saturday is less hot but humid, with scattered storm chances, and Sunday looks drier.
+HOST: For Columbus weather, the National Weather Service has a heat advisory in effect until 8 P M Thursday. Today is sunny and hot, with a high near 94 and heat index values around 100. Thursday stays near 93 to 94 with a late-day thunderstorm chance. Friday is near 89 to 90 with a better chance of showers and thunderstorms. Saturday is less hot but still carries scattered storm chances, and Sunday looks drier.
 
 COHOST: The practical move is to shift outdoor work earlier today, hydrate before the afternoon heat, and leave room in Friday plans for storms.
 
