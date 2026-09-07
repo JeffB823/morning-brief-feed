@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-08",
+  "cutoff": "2026-09-08T10:00:00+00:00",
+  "length_exception": "Synthetic pipeline test episode, not for broadcast.",
+  "history_compared": [
+    "h0",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6"
+  ],
+  "candidates": [
+    {
+      "id": "c0",
+      "decision": "selected"
+    },
+    {
+      "id": "c1",
+      "decision": "selected"
+    },
+    {
+      "id": "c2",
+      "decision": "selected"
+    },
+    {
+      "id": "c3",
+      "decision": "selected"
+    },
+    {
+      "id": "c4",
+      "decision": "selected"
+    },
+    {
+      "id": "c5",
+      "decision": "selected"
+    }
+  ],
+  "stories": [
+    {
+      "id": "test-1",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "https://example.org/test"
+      ],
+      "new_fact": "test",
+      "new_takeaway": "test",
+      "why_now": "test",
+      "previous_coverage": "none",
+      "uncertainty": "test",
+      "watch": "test"
+    },
+    {
+      "id": "test-2",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "https://example.org/test"
+      ],
+      "new_fact": "test",
+      "new_takeaway": "test",
+      "why_now": "test",
+      "previous_coverage": "none",
+      "uncertainty": "test",
+      "watch": "test"
+    },
+    {
+      "id": "test-3",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "https://example.org/test"
+      ],
+      "new_fact": "test",
+      "new_takeaway": "test",
+      "why_now": "test",
+      "previous_coverage": "none",
+      "uncertainty": "test",
+      "watch": "test"
+    },
+    {
+      "id": "test-4",
+      "beat": "ai",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "https://example.org/test"
+      ],
+      "new_fact": "test",
+      "new_takeaway": "test",
+      "why_now": "test",
+      "previous_coverage": "none",
+      "uncertainty": "test",
+      "watch": "test"
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "87b806b666bcc85f1c48d7f0bc7d70fba3de182c729fc64b12a9905dec88a1a3"
+  }
+}

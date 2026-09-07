@@ -27,6 +27,38 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Chapter Test Episode — September 8, 2026</title>
+    <description>A short synthetic episode used to verify chapters, pacing, and loudness normalization.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a national test item you can time, a Columbus transit note that changes one connection, a lending workflow question worth checking before your next file, and an AI deployment claim we can actually measure against a stated baseline.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, September 8th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> This is placeholder national copy used only to confirm that the audio pipeline places a chapter marker at the correct timestamp in the finished file.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does the marker land on the first word of the segment, or somewhere in the silence before it?</p>
+<p><span style="font-weight:bold">Host:</span> On the first word. The chime and the pause both sit inside the previous chapter, so a listener who taps the chapter name hears speech immediately rather than a gap.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> This is placeholder Columbus copy used to confirm that a second chapter boundary produces a second entry in the chapter table.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the transition chime plays only between beats, not between ordinary speaking turns? Repeating a sound between every paragraph would get tiring quickly, so I want to be sure it marks a real change of subject.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. Ordinary turns get a short pause. Only a beat change gets the longer pause, the chime, and then a shorter pause before the next voice begins.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> This is placeholder lending copy used to confirm that a third chapter is recorded with the correct start and end times.</p>
+<p><span style="font-weight:bold">Co-host:</span> What happens if the writer forgets a chapter line before a beat? An episode that publishes with a missing marker would leave one whole segment unreachable for anyone navigating by chapter, which defeats the point.</p>
+<p><span style="font-weight:bold">Host:</span> The validator refuses the script. Future episodes need at least four chapter lines, each followed by spoken turns, before anything is rendered or published.</p>
+<h3 style="margin-top:1.5em">AI Implementation</h3>
+<p><span style="font-weight:bold">Host:</span> This is placeholder AI copy used to confirm the final chapter closes at the true end of the episode rather than at an estimate.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the chapter table comes from measured audio, not from a word-count guess?</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Every piece of audio is measured as it is assembled, so the timestamps match the finished file exactly.</p>
+<p><span style="font-weight:bold">Host:</span> That is your test episode for Tuesday, September 8th. Have a good day.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-08_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-08_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-08_morning-brief.mp3" length="2239896" type="audio/mpeg"/>
+    <pubDate>Mon, 07 Sep 2026 15:17:58 -0600</pubDate>
+    <itunes:duration>00:02:18</itunes:duration>
+    <itunes:episode>20260908</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-09-08</guid>
+  </item>
+  <item>
     <title>Morning Brief — Mortgage Credit Choices, Columbus Bus Changes, and AI Results — September 7, 2026</title>
     <description>A new mortgage-scoring directive and what lenders must verify; Columbus bus changes taking effect; the Miami cargo-crash investigation; California surf hazards; Germany's coalition test; and an AI implementation examination of deployment costs and measured customer-service results. Updated Monday afternoon.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
