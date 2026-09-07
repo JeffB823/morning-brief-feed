@@ -1,8 +1,0 @@
-{
-  "script": "2026-09-08_morning-brief-script.md",
-  "script_sha256": "87b806b666bcc85f1c48d7f0bc7d70fba3de182c729fc64b12a9905dec88a1a3",
-  "passed": true,
-  "claims_unresolved": [],
-  "sources_unreachable": [],
-  "note": "Synthetic test fixture; no live sources fetched."
-}
