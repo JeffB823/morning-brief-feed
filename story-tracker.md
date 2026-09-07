@@ -1,33 +1,39 @@
-# Story Tracker - updated 2026-09-07
+# Story Tracker — updated 2026-09-07
 
-## Active Stories
+Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-### Labor Day Campaign Security And Ohio Governor Race
-- Last covered: 2026-09-07
-- Status: An armed man was arrested after charging toward Democratic gubernatorial candidate Amy Acton at the Canfield Fair, turning the Ohio governor race into a near-term test of campaign-event security as midterm activity accelerates after Labor Day.
-- Watch: Charging details, court filings, campaign access changes, state or local security guidance, and whether Ohio campaigns alter public-event formats by September 12.
+## Miami Cargo-Crash Investigation
+- Last covered / verified development: 2026-09-07; investigation after the September 6 runway overrun.
+- Last takeaway: Video does not establish cause; distinguish investigators' questions from findings.
+- Source: https://www.faa.gov/newsroom/statements/accident_incidents
+- Reporting: https://apnews.com/article/d5118998e880f380a3fd8786e35fd9bb
+- Revisit only for: Official evidence, confirmed operating changes, or investigative findings that materially change understanding. Check next briefing; expire September 12 without new evidence.
 
-### Fuel Prices, August Jobs, Oil, And September F O M C Risk
-- Last covered: 2026-09-07
-- Status: August payrolls beat expectations with 162,000 jobs and 4.1 percent unemployment while Labor Day gasoline hit about 4 dollars and 14 cents a gallon, keeping oil, household budgets, inflation expectations, Treasury yields, and the September F O M C path tied together.
-- Watch: Brent near the upper 90s, diesel margins, gasoline futures, next inflation data, two-year and 10-year Treasury yields, and September 15-16 F O M C pricing by September 12.
+## COTA September Route Implementation
+- Last covered / verified development: 2026-09-07 effective date.
+- Last takeaway: Line 1 through-riders must plan the downtown transfer; Line 30 and the Dublin extension create different connections.
+- Source: https://cota.com/blog/cota-launches-september-service-changes-including-new-bus-line-and-extension-of-major-line-to-dublin/
+- Revisit only for: Published route correction, measured first-week performance, or service disruption after the Tuesday commute. Do not repeat the route overview. Expire September 12 absent a specific update.
 
-### Columbus Flock Camera Pause And Surveillance Governance
-- Last covered: 2026-09-07
-- Status: Columbus began covering its 65 Flock license-plate cameras after Mayor Andrew Ginther paused police use following suspected misuse by an officer; the contract expires in December and council members are pressing for stronger accountability or termination.
-- Watch: Completion of camera covering, investigation findings, query-level audit requirements, data-sharing limits, disciplinary standards, council contract signals, and whether non-city cameras remain searchable by September 12.
+## Mortgage Credit-Scoring Implementation
+- Last covered: 2026-09-07 as an explicitly dated specialist update.
+- Last verified development: September 3 directive reported by Reuters.
+- Last takeaway: Verify the credit-provider, loan-system and investor path; model choice does not itself change credit-report ordering or prove savings.
+- Source: https://www.streetinsider.com/General+News/US+directs+Fannie+Mae,+Freddie+Mac+to+approve+VantageScore+for+all+lenders/27026668.html
+- Revisit only for: New written GSE/investor instructions, named lender availability, or documented price changes during the returning workweek. Check original effective dates. Expire September 12 without a development.
 
-### Grove City Data-Center Charter Fight
-- Last covered: 2026-09-07
-- Status: Grove City's 300-acre, 6.9 billion dollar data-center proposal remains tied to a November charter-amendment vote after a one-year moratorium; city materials now argue the amendment could affect property rights and projects beyond data centers.
-- Watch: Published fiscal, utility, water, road, tax-base, and legal analysis; ballot messaging; business-community response; and whether nearby Central Ohio suburbs pursue similar data-center limits by September 12.
+## Saxony-Anhalt Government Formation
+- Last covered / verified development: 2026-09-07 response to the September 6 state election.
+- Last takeaway: Winning the most seats and forming a government are separate outcomes.
+- Source: https://apnews.com/article/germany-afd-saxony-anhalt-election-e9c2b1bb69a9dab1778b80866ffa4c4f
+- Revisit only for: A concrete coalition agreement, voting arrangement, defection, or leadership vote. Expire September 12 without a development.
 
-### Mortgage Rates Near Seven Percent And Borrower Demand
-- Last covered: 2026-09-07
-- Status: Freddie Mac's 30-year fixed mortgage rate rose to 6.71 percent as of September 3, the highest in 13 months, while M B A applications rose only 0.8 percent and A R M share climbed to 8 percent; Friday's stronger payroll report weakens the near-term rate-relief story.
-- Watch: 10-year Treasury moves, M B S spreads, next M B A purchase/refinance split, builder incentive language, rate-term versus cash-out demand, A R M share, and servicer retention outreach by September 12.
+## California Beach Advisories
+- Last covered: 2026-09-07; last verified advisory September 6.
+- Last takeaway: Surf risk and runoff contamination are separate local checks.
+- Source: https://apnews.com/article/hurricane-marie-california-beaches-waves-flooding-9a57a27e84cc48fefb90c10baa499cfe
+- Revisit only for: Materially changed official restrictions or impacts; ordinary expiration can be a short service update. Retire September 10 absent a new hazard.
 
-### GPT-6 Astra Rollout, Agent Controls, And Chip Demand
-- Last covered: 2026-09-07
-- Status: OpenAI's GPT-6 Astra is rolling out beyond initial organizations while OpenAI highlights document-review workflow gains and also discloses monitorability concerns; chip and memory stocks rallied overseas as investors linked Astra-style agent demand to A I infrastructure spending.
-- Watch: Astra access timing across ChatGPT, API, Azure, and AWS Bedrock; enterprise case studies with measurable workflow results; safety and monitorability updates; bank/vendor governance features; memory-chip leadership; and any regulatory response by September 12.
+## Removed From Automatic Carryover
+
+Routine high-six mortgage rates, borrower segmentation, Grove City data-center background, and broad AI-control commentary do not earn another segment without a new fact AND a new takeaway. VMware and Nubank remain in the implementation research map; no imminent new result is assumed.

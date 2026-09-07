@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-07",
+  "cutoff": "2026-09-07T20:12:48.397975+00:00",
+  "editorial_timezone": "America/New_York",
+  "history_compared": [
+    "2026-08-28_morning-brief-script.md",
+    "2026-08-29_morning-brief-script.md",
+    "2026-08-30_morning-brief-script.md",
+    "2026-08-31_morning-brief-script.md",
+    "2026-09-01_morning-brief-script.md",
+    "2026-09-02_morning-brief-script.md",
+    "2026-09-03_morning-brief-script.md"
+  ],
+  "original_rerun_compared": ".reruns/2026-09-07-before-six-changes/2026-09-07_morning-brief-script.md",
+  "candidates": [
+    {
+      "id": "miami-cargo-investigation",
+      "decision": "selected",
+      "reason": "Investigation develops Monday; event Sunday at 2 p.m. Eastern."
+    },
+    {
+      "id": "california-coast",
+      "decision": "selected",
+      "reason": "Sunday advisory covers the holiday period; published September 6 at 20:37 UTC."
+    },
+    {
+      "id": "germany-state-election",
+      "decision": "selected",
+      "reason": "Government-formation choices and Monday response follow the September 6 vote."
+    },
+    {
+      "id": "cota-september-service",
+      "decision": "selected",
+      "reason": "Effective date today, rather than treating September 4 announcement as overnight news."
+    },
+    {
+      "id": "mortgage-score-implementation",
+      "decision": "selected",
+      "reason": "Lending teams return after Labor Day; September 3 directive is explicitly dated."
+    },
+    {
+      "id": "ai-implementation-evidence",
+      "decision": "selected",
+      "reason": "Current enterprise procurement question following last week's announcement, explicitly dated on air."
+    },
+    {
+      "id": "ge-800-agents",
+      "decision": "rejected",
+      "reason": "September recap traces to April 22 primary announcement; not a new deployment.",
+      "source": "https://pressroom.geappliances.com/news/ge-appliances-reinvents-manufacturing-operations-at-scale-with-google-clouds-gemini-enterprise"
+    },
+    {
+      "id": "ohio-foodbank-survey",
+      "decision": "rejected",
+      "reason": "September 7 article covers survey already reported September 2; not new evidence today.",
+      "source": "https://www.wosu.org/2026-09-02/ohioans-at-foodbanks-often-must-choose-to-buy-food-or-medicine-according-to-survey-of-visitors"
+    },
+    {
+      "id": "weekly-rates-recap",
+      "decision": "rejected",
+      "reason": "Repeated survey and borrower-segmentation conclusion across recent scripts."
+    },
+    {
+      "id": "grove-city-data-centers",
+      "decision": "rejected",
+      "reason": "No independently verified new decision changes the previous takeaway."
+    },
+    {
+      "id": "astra-controls",
+      "decision": "rejected",
+      "reason": "Another model/controls recap would repeat both subject and conclusion."
+    }
+  ],
+  "stories": [
+    {
+      "id": "miami-cargo-investigation",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "sources": [
+        "https://www.faa.gov/newsroom/statements/accident_incidents",
+        "https://apnews.com/article/d5118998e880f380a3fd8786e35fd9bb",
+        "https://apnews.com/article/47411c751782887757922efa5f634aa5"
+      ],
+      "new_fact": "Investigation and travel disruption follow the September 6 crash.",
+      "new_takeaway": "Distinguish a video from an established cause and check live travel status.",
+      "why_now": "Investigation develops Monday; event Sunday at 2 p.m. Eastern.",
+      "previous_coverage": "Not in the seven prior scripts or original September 7 script.",
+      "uncertainty": "Cause has not been established; no speculation about crew fault.",
+      "watch": "Official evidence and airport operating updates within the next day."
+    },
+    {
+      "id": "california-coast",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-06",
+      "publication_date": "2026-09-06",
+      "sources": [
+        "https://apnews.com/article/hurricane-marie-california-beaches-waves-flooding-9a57a27e84cc48fefb90c10baa499cfe"
+      ],
+      "new_fact": "Weekend surf danger and Sunday Long Beach water advisory.",
+      "new_takeaway": "Offshore storm distance and water appearance do not settle beach safety.",
+      "why_now": "Sunday advisory covers the holiday period; published September 6 at 20:37 UTC.",
+      "previous_coverage": "Not in recent scripts.",
+      "uncertainty": "Check local current advisories; do not present a current storm category from an old advisory.",
+      "watch": "Updated local beach advisories before entering the water."
+    },
+    {
+      "id": "germany-state-election",
+      "beat": "international",
+      "classification": "fresh",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "sources": [
+        "https://apnews.com/article/c538060710a2495c72425b6468df0d40",
+        "https://apnews.com/article/germany-afd-saxony-anhalt-election-e9c2b1bb69a9dab1778b80866ffa4c4f"
+      ],
+      "new_fact": "Sunday election result and Monday federal response.",
+      "new_takeaway": "Seats won and the ability to form a government are different outcomes.",
+      "why_now": "Government-formation choices and Monday response follow the September 6 vote.",
+      "previous_coverage": "Not in recent scripts.",
+      "uncertainty": "State government formation remains unresolved; no claim of a federal power transfer.",
+      "watch": "Coalition, abstention, and defection decisions in coming days."
+    },
+    {
+      "id": "cota-september-service",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-04",
+      "sources": [
+        "https://cota.com/blog/cota-launches-september-service-changes-including-new-bus-line-and-extension-of-major-line-to-dublin/",
+        "https://cota.com/servicechanges/",
+        "https://cota.com/assets/cota_september_2026_public_info_meeting_presentation.pdf"
+      ],
+      "new_fact": "Route changes take effect today; source confirms Monday September 7.",
+      "new_takeaway": "Explain actual transfer and destination changes for a Tuesday commute.",
+      "why_now": "Effective date today, rather than treating September 4 announcement as overnight news.",
+      "previous_coverage": "September 2 discussed reliability and approaching changes; original September 7 omitted these practical route details.",
+      "uncertainty": "Frequency is a published schedule, not measured on-time performance.",
+      "watch": "Exact stop, direction and transfer before Tuesday travel.",
+      "carryover": true
+    },
+    {
+      "id": "mortgage-score-implementation",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-09-03",
+      "publication_date": "2026-09-03",
+      "sources": [
+        "https://www.streetinsider.com/General+News/US+directs+Fannie+Mae,+Freddie+Mac+to+approve+VantageScore+for+all+lenders/27026668.html",
+        "https://www.fhfa.gov/policy/credit-scores",
+        "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-08-selling-guide-updates"
+      ],
+      "new_fact": "Previously uncovered credit-scoring directive; brief separate guide-reading item.",
+      "new_takeaway": "Verify the credit-order-to-investor path; distinguish score models, reporting changes and policy clarifications.",
+      "why_now": "Lending teams return after Labor Day; September 3 directive is explicitly dated.",
+      "previous_coverage": "Neither VantageScore nor rental-income guidance covered in the previous seven scripts or original September 7.",
+      "uncertainty": "Announcement does not prove universal operational availability or customer savings. FHFA FAQ is an earlier framework, not proof of a completed September implementation.",
+      "watch": "Written GSE/investor and lender implementation instructions.",
+      "date_exception": "Holiday specialist update from four days earlier, new to this brief and relevant to next-day lending operations. Does not count among four fresh stories."
+    },
+    {
+      "id": "ai-implementation-evidence",
+      "beat": "ai",
+      "classification": "dated_update",
+      "event_date": "2026-09-03",
+      "publication_date": "2026-09-03",
+      "sources": [
+        "https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/",
+        "https://arxiv.org/abs/2606.08867"
+      ],
+      "new_fact": "Previously uncovered September 3 technical announcement, examined against a clearly dated June deployment study.",
+      "new_takeaway": "Distinguish first model deployment from a completed business task; preserve experimental baseline and outcome measures.",
+      "why_now": "Current enterprise procurement question following last week's announcement, explicitly dated on air.",
+      "previous_coverage": "Recent episodes focused on frontier models and generic controls; neither VMware AI Factory nor Nubank appeared.",
+      "uncertainty": "Broadcom claims are vendor-reported. Nubank results are researcher-reported for specific deployments against earlier agents. Hypothetical lender evaluation is labeled as a proposal.",
+      "watch": "Customer outcome evidence, full cost and quality measurements beyond initial setup.",
+      "date_exception": "Holiday specialist update from four days earlier; June study is explicitly background, not a fresh launch or part of the freshness count."
+    },
+    {
+      "id": "markets-holiday",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "sources": [
+        "https://www.nyse.com/trade/hours-calendars",
+        "https://www.nasdaqtrader.com/Trader.aspx?id=calendar"
+      ],
+      "new_fact": "Labor Day trading holiday.",
+      "new_takeaway": "Do not present a Monday cash-equity close.",
+      "why_now": "Applies to today.",
+      "previous_coverage": "Holiday noted in original script; kept as a compact service item.",
+      "uncertainty": "No assertion that all markets worldwide or futures are closed.",
+      "watch": "Tuesday cash-equity reopening."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?FcstType=digital&FcstType=text&lat=40.0076&lg=english&lon=-82.9923"
+      ],
+      "new_fact": "Monday 2:14 p.m. Eastern forecast update.",
+      "new_takeaway": "Plan around midweek rain timing.",
+      "why_now": "Current local forecast.",
+      "previous_coverage": "Replaces earlier temperature outlook with updated forecast.",
+      "uncertainty": "Forecast timing can change; no claim of an issued severe-weather warning.",
+      "watch": "Wednesday-night and Thursday forecast changes."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "script_sha256": "03efaca2ed437cfbae7991931b3cc3c5a125136ab4b406e1ac63c6e500fa1b8a",
+    "notes": "Four fresh stories; one substantive carryover (COTA effective date); two explicitly dated holiday specialist updates. Speaker questions have direct answers. No changed voice speed. Original preserved. Source summaries distributed across distinct primary/reporting sources; no direct quotations."
+  }
+}
