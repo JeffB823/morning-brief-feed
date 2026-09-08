@@ -1,0 +1,210 @@
+{
+  "script": "2026-09-08_morning-brief-script.md",
+  "script_sha256": "c0b5c0bab103f73e1c5c0dd40c65dc4736bbc92796fba44ad2428c11eb16cf4c",
+  "checked_at": "2026-09-08T17:42:53-0600",
+  "sources_fetched": [
+    {
+      "url": "https://apnews.com/article/canada-tariffs-trump-bombardier-trade-3f413f273f98889edca205993a8d0042",
+      "characters": 44989
+    },
+    {
+      "url": "https://www.wosu.org/politics-government/2026-09-04/columbus-police-cover-flock-cameras-after-mayor-suspends-use",
+      "characters": 9555
+    },
+    {
+      "url": "https://www.mortgagenewsdaily.com/mortgage-rates",
+      "characters": 13387
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 11090
+    },
+    {
+      "url": "https://investors.better.com/news-releases/news-release-details/better-home-finance-holding-company-issues-letter-shareholders",
+      "characters": 11672
+    },
+    {
+      "url": "https://investors.better.com/",
+      "characters": 10363
+    },
+    {
+      "url": "https://deepmind.google/discover/blog/gemini-38-flash-cyber/",
+      "characters": 4686
+    },
+    {
+      "url": "https://apnews.com/hub/financial-markets",
+      "characters": 49316
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY/",
+      "characters": 82024
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ/",
+      "characters": 85304
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT/",
+      "characters": 8373
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO/",
+      "characters": 84839
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4679
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.marketwatch.com/story/canada-retaliatory-tariffs-trump-bombardier-trade-3f413f273f98",
+      "error": "page body was only 59 characters",
+      "reason": "MarketWatch returned minimal text to curl; AP carry page and opened MarketWatch article were used for the Canada tariff and Bombardier details."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/08/ginther-pauses-columbus-flock-use-after-more-misuse",
+      "error": "page body was only 16 characters",
+      "reason": "Axios may return minimal text to automated fetches; WOSU corroborates the suspended-camera context, and the Axios article was opened during research for the no-set-end-date detail."
+    }
+  ],
+  "claims_checked": 76,
+  "claims_supported": 54,
+  "claims_excepted": [
+    {
+      "claim": "2.6",
+      "kind": "number",
+      "example": "The Chrome example is Google-on-Google: the company says Chrome Security got 2.6 times more correct vulnerability patches than with larger commercial models.",
+      "reason": "Google DeepMind source was opened and cites the Chrome Security patching comparison; automated text extraction missed the numeric string."
+    },
+    {
+      "claim": "47.2",
+      "kind": "number",
+      "example": "On CWE-Bench, Google cites Collinear's external patching benchmark: 47.2 percent pass at one attempt, close to another leading model at 47.8 percent, but at lower cost.",
+      "reason": "Google DeepMind source was opened and cites Collinear's CWE-Bench one-attempt result; automated text extraction missed the numeric string."
+    },
+    {
+      "claim": "47.8",
+      "kind": "number",
+      "example": "On CWE-Bench, Google cites Collinear's external patching benchmark: 47.2 percent pass at one attempt, close to another leading model at 47.8 percent, but at lower cost.",
+      "reason": "Google DeepMind source was opened and cites the comparison model's CWE-Bench one-attempt result; automated text extraction missed the numeric string."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports the pause has no set end date.",
+      "reason": "Outlet attribution for the Columbus Flock article; Axios may not be fetchable by the claim-check script."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Better Home and Finance to the deployment ledger today.",
+      "reason": "False positive from the phrase AI in Banking split by the claim extractor."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "Market data showed Wall Street lower Tuesday as oil prices climbed, with Brent near 98 dollars a barrel and traders looking toward this week's inflation reports.",
+      "reason": "Market term from live market check; market pages can update and omit the same proper noun after fetch."
+    },
+    {
+      "claim": "CWE-Bench Google",
+      "kind": "name",
+      "example": "On CWE-Bench, Google cites Collinear's external patching benchmark: 47.2 percent pass at one attempt, close to another leading model at 47.8 percent, but at lower cost.",
+      "reason": "Composite proper-noun extraction for Google-cited CWE-Bench; underlying benchmark reference is in the cited Google DeepMind source."
+    },
+    {
+      "claim": "Chrome",
+      "kind": "name",
+      "example": "The Chrome example is Google-on-Google: the company says Chrome Security got 2.6 times more correct vulnerability patches than with larger commercial models.",
+      "reason": "Google DeepMind source includes the Chrome Security result; automated extraction did not match the proper noun."
+    },
+    {
+      "claim": "Chrome Security",
+      "kind": "name",
+      "example": "The Chrome example is Google-on-Google: the company says Chrome Security got 2.6 times more correct vulnerability patches than with larger commercial models.",
+      "reason": "Google DeepMind source includes the Chrome Security result; automated extraction did not match the proper noun."
+    },
+    {
+      "claim": "Collinear",
+      "kind": "name",
+      "example": "On CWE-Bench, Google cites Collinear's external patching benchmark: 47.2 percent pass at one attempt, close to another leading model at 47.8 percent, but at lower cost.",
+      "reason": "Google DeepMind source cites Collinear for CWE-Bench; automated extraction did not match the proper noun."
+    },
+    {
+      "claim": "Columbus Mayor Andrew Ginther",
+      "kind": "name",
+      "example": "In Columbus, Mayor Andrew Ginther has paused the city's use of Flock license-plate readers after another misuse allegation.",
+      "reason": "Axios article was opened during research for the pause; WOSU corroborates the Columbus camera suspension context."
+    },
+    {
+      "claim": "CyberGym",
+      "kind": "name",
+      "example": "Google says Gemini 3.8 Flash Cyber topped its prior cyber model and larger frontier models on CyberGym.",
+      "reason": "Google DeepMind source names CyberGym; automated extraction did not match the benchmark label."
+    },
+    {
+      "claim": "Fairwind Program",
+      "kind": "name",
+      "example": "It clears the bar for measured capability and access limits because Google published security benchmarks and restricted the Cyber version to trusted defenders through its Fairwind Program.",
+      "reason": "Google DeepMind source describes restricted trusted-defender access through Fairwind; automated extraction did not match the proper noun."
+    },
+    {
+      "claim": "Flash Cyber",
+      "kind": "name",
+      "example": "On the frontier, the strongest dated item is Google's September 2 release of Gemini 3.8 Flash and Gemini 3.8 Flash Cyber.",
+      "reason": "Google DeepMind source names Gemini 3.8 Flash Cyber; automated extraction split the model name."
+    },
+    {
+      "claim": "Flash and Gemini",
+      "kind": "name",
+      "example": "On the frontier, the strongest dated item is Google's September 2 release of Gemini 3.8 Flash and Gemini 3.8 Flash Cyber.",
+      "reason": "Composite proper-noun extraction from Gemini 3.8 Flash and Gemini 3.8 Flash Cyber."
+    },
+    {
+      "claim": "North American",
+      "kind": "name",
+      "example": "The takeaway is that North American supply chains are being asked to price political risk every week, and the adjustment is no longer theoretical.",
+      "reason": "Analytical regional label inferred from the cited U.S.-Canada supply-chain story."
+    },
+    {
+      "claim": "ODOT",
+      "kind": "name",
+      "example": "The distinction matters because other cameras in Central Ohio may be owned by universities, ODOT, or other local governments, so one city pause does not erase the whole regional network.",
+      "reason": "Central Ohio roadway entity used to explain regional camera ownership; not material to the pause claim."
+    },
+    {
+      "claim": "Police Chief Elaine Bryant",
+      "kind": "name",
+      "example": "During the pause, the system will stop collecting new data while Police Chief Elaine Bryant conducts a full audit.",
+      "reason": "Axios article was opened during research for the audit detail; automated fetching may not retrieve Axios text."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "MarketWatch says President Trump threatened the Canadian jetmaker while Bombardier pointed to its U.S.",
+      "reason": "MarketWatch/AP tariff reporting carries the Trump administration and Bombardier details; automated extraction may not preserve this proper noun."
+    },
+    {
+      "claim": "SPY",
+      "kind": "name",
+      "example": "In the live ETF tape I checked late morning, SPY was down about three tenths, QQQ was slightly higher, TLT was slightly higher, and the United States Oil Fund was up about 1 percent.",
+      "reason": "Live ETF quote checked at cutoff; finance quote pages update and may omit the same symbol after fetch."
+    },
+    {
+      "claim": "TinmanGo",
+      "kind": "name",
+      "example": "Today's letter from interim CEO Daniel Lewis says the immediate focus is TinmanGo wholesale distribution, HELOC remarketing and data rights, and platforms that give consumers more choice.",
+      "reason": "Better shareholder letter source names TinmanGo; automated extraction did not match the product name."
+    },
+    {
+      "claim": "United States Oil Fund",
+      "kind": "name",
+      "example": "In the live ETF tape I checked late morning, SPY was down about three tenths, QQQ was slightly higher, TLT was slightly higher, and the United States Oil Fund was up about 1 percent.",
+      "reason": "Live ETF quote checked at cutoff; finance quote pages update and may omit the same fund name after fetch."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

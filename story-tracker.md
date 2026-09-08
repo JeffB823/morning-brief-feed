@@ -1,39 +1,39 @@
-# Story Tracker — updated 2026-09-07
+# Story Tracker - updated 2026-09-08
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## Miami Cargo-Crash Investigation
-- Last covered / verified development: 2026-09-07; investigation after the September 6 runway overrun.
-- Last takeaway: Video does not establish cause; distinguish investigators' questions from findings.
-- Source: https://www.faa.gov/newsroom/statements/accident_incidents
-- Reporting: https://apnews.com/article/d5118998e880f380a3fd8786e35fd9bb
-- Revisit only for: Official evidence, confirmed operating changes, or investigative findings that materially change understanding. Check next briefing; expire September 12 without new evidence.
+## U.S.-Canada Tariff Retaliation
+- Last covered / verified development: 2026-09-08; Canada's retaliatory tariffs on about $20 billion of U.S. goods took effect.
+- Last takeaway: Treat the story as landed-cost and supply-chain repricing, not only negotiation rhetoric.
+- Source: https://apnews.com/article/canada-tariffs-trump-bombardier-trade-3f413f273f98889edca205993a8d0042
+- Revisit only for: Reopened talks, exemptions, customs guidance, order cancellations, tariff-rate changes, or a concrete January-escalation step. Expire September 13 without a development.
 
-## COTA September Route Implementation
-- Last covered / verified development: 2026-09-07 effective date.
-- Last takeaway: Line 1 through-riders must plan the downtown transfer; Line 30 and the Dublin extension create different connections.
-- Source: https://cota.com/blog/cota-launches-september-service-changes-including-new-bus-line-and-extension-of-major-line-to-dublin/
-- Revisit only for: Published route correction, measured first-week performance, or service disruption after the Tuesday commute. Do not repeat the route overview. Expire September 12 absent a specific update.
+## Columbus Flock Camera Audit
+- Last covered / verified development: 2026-09-08; Columbus pause had no set end date while Police Chief Elaine Bryant audits use.
+- Last takeaway: The issue moved from camera usefulness to whether access, retention, sharing, discipline, and audit trails can be proven before renewal.
+- Source: https://www.axios.com/local/columbus/2026/09/08/ginther-pauses-columbus-flock-use-after-more-misuse
+- Corroboration: https://www.wosu.org/politics-government/2026-09-04/columbus-police-cover-flock-cameras-after-mayor-suspends-use
+- Revisit only for: Audit findings, discipline, council action, contract rewrite, renewal vote, or shutdown path. Expire September 13 without a development.
 
-## Mortgage Credit-Scoring Implementation
-- Last covered: 2026-09-07 as an explicitly dated specialist update.
-- Last verified development: September 3 directive reported by Reuters.
-- Last takeaway: Verify the credit-provider, loan-system and investor path; model choice does not itself change credit-report ordering or prove savings.
-- Source: https://www.streetinsider.com/General+News/US+directs+Fannie+Mae,+Freddie+Mac+to+approve+VantageScore+for+all+lenders/27026668.html
-- Revisit only for: New written GSE/investor instructions, named lender availability, or documented price changes during the returning workweek. Check original effective dates. Expire September 12 without a development.
+## Mortgage Lock-Pressure Near Seven Percent
+- Last covered / verified development: 2026-09-08; daily mortgage pricing remained near seven percent after Freddie Mac's September 3 survey rose to 6.71%.
+- Last takeaway: The operational issue is purchase-file lock, redisclosure, and stale-payment risk rather than a generic borrower segmentation recap.
+- Source: https://www.mortgagenewsdaily.com/mortgage-rates
+- Corroboration: https://www.freddiemac.com/pmms
+- Revisit only for: Thursday PMMS confirmation, a clear 10-year Treasury move, mortgage-backed-spread change, or lender lock/pricing guidance. Expire September 13 without a development.
 
-## Saxony-Anhalt Government Formation
-- Last covered / verified development: 2026-09-07 response to the September 6 state election.
-- Last takeaway: Winning the most seats and forming a government are separate outcomes.
-- Source: https://apnews.com/article/germany-afd-saxony-anhalt-election-e9c2b1bb69a9dab1778b80866ffa4c4f
-- Revisit only for: A concrete coalition agreement, voting arrangement, defection, or leadership vote. Expire September 12 without a development.
+## Better Mortgage AI Evidence Gap
+- Last covered / verified development: 2026-09-08; Better shareholder letter named TinmanGo, HELOC remarketing/data rights, and consumer-choice platforms while investor materials describe Tinman and Betsy.
+- Last takeaway: AI platform claims need attributable workflow metrics and repeatable distribution, not only corporate cost reductions.
+- Source: https://investors.better.com/news-releases/news-release-details/better-home-finance-holding-company-issues-letter-shareholders
+- Revisit only for: Partner-distribution wins, HELOC remarketing results, isolated AI productivity metrics, defect metrics, approval-time metrics, or borrower-outcome baselines. Expire September 13 without a development.
 
-## California Beach Advisories
-- Last covered: 2026-09-07; last verified advisory September 6.
-- Last takeaway: Surf risk and runoff contamination are separate local checks.
-- Source: https://apnews.com/article/hurricane-marie-california-beaches-waves-flooding-9a57a27e84cc48fefb90c10baa499cfe
-- Revisit only for: Materially changed official restrictions or impacts; ordinary expiration can be a short service update. Retire September 10 absent a new hazard.
+## Gemini 3.8 Flash Cyber Evidence
+- Last covered / verified development: 2026-09-08; Google September 2 primary source was rechecked and tracker row verified for Gemini 3.8 Flash Cyber.
+- Last takeaway: The bank-ready implication is contained security-engineering pilots, not general production autonomy.
+- Source: https://deepmind.google/discover/blog/gemini-38-flash-cyber/
+- Revisit only for: Independent replication, customer deployment evidence, access expansion beyond Fairwind, a safety incident, or pricing/context details that change enterprise testing economics. Expire September 13 without a development.
 
 ## Removed From Automatic Carryover
 
-Routine high-six mortgage rates, borrower segmentation, Grove City data-center background, and broad AI-control commentary do not earn another segment without a new fact AND a new takeaway. VMware and Nubank remain in the implementation research map; no imminent new result is assumed.
+Miami cargo-crash investigation, COTA route implementation, mortgage credit-scoring implementation, Saxony-Anhalt government formation, and California beach advisories are not active for automatic carryover without a new verified development. Do not repeat routine high-six mortgage rates, broad AI controls, or old model-release summaries without a new fact and different takeaway.
