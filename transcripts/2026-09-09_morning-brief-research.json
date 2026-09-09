@@ -1,0 +1,368 @@
+{
+  "date": "2026-09-09",
+  "cutoff": "2026-09-09T11:25:03-04:00 America/New_York",
+  "history_compared": [
+    "2026-08-30_morning-brief-script.md",
+    "2026-08-31_morning-brief-script.md",
+    "2026-09-01_morning-brief-script.md",
+    "2026-09-02_morning-brief-script.md",
+    "2026-09-03_morning-brief-script.md",
+    "2026-09-07_morning-brief-script.md",
+    "2026-09-08_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "canada-import-bans",
+      "beat": "national",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "decision": "selected",
+      "reason": "Fresh escalation beyond yesterday's tariffs, with September 29 effective date and procurement consequence."
+    },
+    {
+      "id": "oil-over-100",
+      "beat": "national_markets",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "decision": "selected",
+      "reason": "Fresh price threshold and direct Fed, shipping, household and market consequence."
+    },
+    {
+      "id": "columbus-schools-social-media-lawsuit",
+      "beat": "columbus",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-09",
+      "decision": "selected",
+      "reason": "Local school board action with budget, student-support and litigation-leverage implications."
+    },
+    {
+      "id": "mba-applications-sept-4",
+      "beat": "home_lending",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "decision": "selected",
+      "reason": "Current MBA weekly application mix changes refi triage and purchase pipeline prioritization."
+    },
+    {
+      "id": "jpmorgan-ai-ledger-row",
+      "beat": "bank_ai",
+      "event_date": "2026-04-06",
+      "publication_date": "2026-04-06",
+      "decision": "selected_as_dated_update",
+      "reason": "Weekly bank-AI ledger expansion; older public annual report is background and does not count toward freshness."
+    },
+    {
+      "id": "openai-navier-stokes-agents",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "decision": "selected",
+      "reason": "Primary source discloses new frontier-agent research process, formalization, token/message scale and limits."
+    },
+    {
+      "id": "ap-trump-gifts-disclosures",
+      "beat": "national",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "decision": "omitted",
+      "reason": "Fresh but less operationally useful for the show's business and institutional beats."
+    },
+    {
+      "id": "columbus-flock-audit",
+      "beat": "columbus",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "decision": "omitted",
+      "reason": "Covered yesterday; no verified new audit result or council action."
+    }
+  ],
+  "stories": [
+    {
+      "id": "canada-import-bans",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3"
+      ],
+      "new_fact": "The United States will ban listed Canadian imports effective September 29 and exclude Canadian products from some long-term government contracts.",
+      "new_takeaway": "The trade story moved from invoice repricing to supply availability, procurement eligibility and substitution planning.",
+      "why_now": "AP published the new U.S. ban and contract-exclusion actions today after Canada's retaliatory tariffs took effect yesterday.",
+      "previous_coverage": "September 8 covered Canadian tariffs taking effect; this adds a U.S. import-ban effective date and procurement lever.",
+      "uncertainty": "Carve-outs, product classifications, customs guidance and any resumed negotiations remain unclear.",
+      "watch": "Watch for customs guidance or exemptions before September 29.",
+      "carryover": true
+    },
+    {
+      "id": "oil-over-100",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
+        "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd"
+      ],
+      "new_fact": "Brent crude surpassed $100 for the first time since July after new Middle East attacks, with gasoline and diesel prices rising.",
+      "new_takeaway": "Energy is now the bridge from national security to household budgets, logistics costs and the Fed's September meeting.",
+      "why_now": "AP reported the Wednesday price threshold and attack sequence before this morning's script cutoff.",
+      "previous_coverage": "Recent episodes covered oil risk and Iran escalation; today's $100 Brent threshold and fuel prices are the new development.",
+      "uncertainty": "Oil may fade if shipping recovers or talks reopen; infrastructure damage could push prices higher.",
+      "watch": "Watch Brent, diesel, Treasury yields and Thursday-Friday inflation data.",
+      "carryover": true
+    },
+    {
+      "id": "columbus-schools-social-media-lawsuit",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/09/09/school-social-media-addiction-lawsuit-ohio"
+      ],
+      "new_fact": "Columbus City Schools voted Tuesday to join national litigation against social-media companies.",
+      "new_takeaway": "The district is trying to shift some student-support costs and leverage onto platform companies rather than only managing the effects internally.",
+      "why_now": "The board vote occurred Tuesday and Axios Columbus reported it Wednesday morning.",
+      "previous_coverage": "Recent local coverage focused on Flock, COTA, schools finance and data centers, not this lawsuit.",
+      "uncertainty": "The amount or timing of any recovery for Columbus is unknown and companies dispute causation.",
+      "watch": "Watch the Arizona and South Carolina school trials scheduled for February 2027.",
+      "carryover": false
+    },
+    {
+      "id": "mba-applications-sept-4",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://www.floordaily.net/flooring-news/mortgage-applications-declined-2-7-in-week-ending-september-4/"
+      ],
+      "new_fact": "MBA survey data for the week ending September 4 showed total applications down 2.7%, refinance applications down 6%, and purchase applications nearly flat on a seasonally adjusted basis.",
+      "new_takeaway": "The operational response is refinance triage and purchase-file prioritization by documented benefit or contract deadline, not broad rate marketing.",
+      "why_now": "The September 4 MBA survey data was published September 9.",
+      "previous_coverage": "Previous episodes repeatedly covered high-six rates and borrower segmentation; this segment changes the focus to refi lead triage and capacity allocation.",
+      "uncertainty": "The MBA primary page was not available in search results; numbers are carried by a secondary publication quoting MBA survey data.",
+      "watch": "Watch Thursday's Freddie Mac survey and 10-year Treasury reaction to inflation data.",
+      "carryover": false
+    },
+    {
+      "id": "jpmorgan-ai-ledger-row",
+      "beat": "bank_ai",
+      "classification": "routine",
+      "event_date": "2026-04-06",
+      "publication_date": "2026-04-06",
+      "sources": [
+        "https://www.jpmorganchase.com/ir/annual-report/2025/ar-ceo-letters"
+      ],
+      "new_fact": "JPMorganChase's annual report says LLM Suite launched in 2024 to more than 200,000 colleagues and describes AI-adjacent trusted-client advisory and safe-commerce product direction.",
+      "new_takeaway": "The bank-AI evidence distinction is adoption scale versus task-level productivity or customer-outcome metrics.",
+      "why_now": "The ledger required a weekly recheck and row expansion; this public annual-report evidence fills a previously open JPMorganChase row.",
+      "previous_coverage": "Previous bank-AI segments used Nubank, VMware and Better; JPMorganChase was listed as an open row to research.",
+      "uncertainty": "No controlled AI productivity, quality or revenue metric is disclosed.",
+      "watch": "Watch JPMorganChase earnings, investor-day or product disclosures for task-level LLM Suite metrics.",
+      "date_exception": "Specialist beat used older public implementation evidence as a ledger update; it is explicitly labeled background and does not count toward the four fresh stories.",
+      "ledger_row_changed": "JPMorganChase - lane 7 internal productivity and trusted-client advisory - new production row added with company-claim evidence and no disclosed task-level metric.",
+      "carryover": false
+    },
+    {
+      "id": "openai-navier-stokes-agents",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-08",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "https://openai.com/index/navier-stokes-solution/"
+      ],
+      "new_fact": "OpenAI released a proposed Navier-Stokes proof, a Lean formalization, and process details about a roughly 10,000-agent effort.",
+      "new_takeaway": "Frontier capability is moving toward large coordinated research programs, but acceptance depends on formal verification and outside expert review.",
+      "why_now": "OpenAI published the primary source September 8 and it had not appeared in prior episodes.",
+      "previous_coverage": "Recent frontier coverage focused on Astra, Gemini 3.8 Flash Cyber and agent-safety incidents, not this mathematical proof claim.",
+      "uncertainty": "The mathematical community has not yet independently accepted the proof as resolving the Clay problem.",
+      "watch": "Watch expert review of the Lean formalization and any response from Clay or independent mathematicians.",
+      "frontier_bar": "New capability with measured process evidence; not independent acceptance.",
+      "carryover": false
+    },
+    {
+      "id": "markets-and-weather",
+      "beat": "markets_weather",
+      "classification": "routine",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "AP reported early Wednesday market declines as oil moved above $100; Columbus forecast calls for warm conditions and late-day storm chances.",
+      "new_takeaway": "Markets and local planning both hinge on energy and the midweek storm window.",
+      "why_now": "Markets and weather were checked before the script cutoff.",
+      "previous_coverage": "Routine compact update only.",
+      "uncertainty": "Live market and weather pages update continuously.",
+      "watch": "Watch updated NWS timing before Thursday's commute.",
+      "carryover": false
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3",
+      "reason": "AP returned a minimal body to curl, but the article was opened in the browser source view before drafting; it carries the Canada import-ban, September 29 effective date, GSA contract-exclusion and Carney details."
+    },
+    {
+      "claim": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
+      "reason": "AP returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Brent, gasoline, diesel, Hormuz and Middle East attack details."
+    },
+    {
+      "claim": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
+      "reason": "AP returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Wednesday market moves and energy-stock details."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/09/09/school-social-media-addiction-lawsuit-ohio",
+      "reason": "Axios returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Columbus City Schools vote, named platforms, Kentucky settlement and February 2027 trial details."
+    },
+    {
+      "claim": "https://www.floordaily.net/flooring-news/mortgage-applications-declined-2-7-in-week-ending-september-4/",
+      "reason": "FloorDaily returned a JavaScript challenge to curl, but the browser source view was opened before drafting; it carries the MBA September 4 survey numbers."
+    },
+    {
+      "claim": "https://openai.com/index/navier-stokes-solution/",
+      "reason": "OpenAI returned an empty body to curl, but the browser source view was opened before drafting; it carries the Navier-Stokes, Lean, agent-count, message-count and token-count details."
+    },
+    {
+      "claim": "0.2",
+      "reason": "Verified in the browser-opened FloorDaily page carrying MBA survey data for the week ending September 4."
+    },
+    {
+      "claim": "10000",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it describes the agent group as on the order of 10,000 concurrent agents."
+    },
+    {
+      "claim": "130",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it reports roughly 130 billion output tokens for the Navier-Stokes effort."
+    },
+    {
+      "claim": "200000",
+      "reason": "Verified in the browser-opened JPMorganChase annual-report source and search snippet; it states LLM Suite launched to more than 200,000 colleagues."
+    },
+    {
+      "claim": "2027",
+      "reason": "Verified in the browser-opened Axios Columbus source; it dates the Arizona and South Carolina school trials to February 2027."
+    },
+    {
+      "claim": "407",
+      "reason": "Verified in the browser-opened AP markets source before drafting; AP's live market article updates during the session."
+    },
+    {
+      "claim": "88",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it says agents arrived at the result about 88 hours after launch."
+    },
+    {
+      "claim": "94",
+      "reason": "Verified in the browser-opened AP oil source; diesel was reported at 5 dollars and 94 cents."
+    },
+    {
+      "claim": "Arizona and South Carolina",
+      "reason": "Verified in the browser-opened Axios Columbus source as the locations of the next school-related trials."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "The Axios Columbus article was opened in the browser source view before drafting."
+    },
+    {
+      "claim": "Brent",
+      "reason": "Verified in the browser-opened AP oil and AP markets sources."
+    },
+    {
+      "claim": "Canadian",
+      "reason": "Verified in the browser-opened AP Canada trade source."
+    },
+    {
+      "claim": "Chevron",
+      "reason": "Verified in the browser-opened AP markets source before drafting."
+    },
+    {
+      "claim": "Clay",
+      "reason": "Verified in the browser-opened OpenAI source, which links the result to the Millennium Prize formulation by the Clay Mathematics Institute."
+    },
+    {
+      "claim": "Exxon Mobil",
+      "reason": "Verified in the browser-opened AP markets source before drafting."
+    },
+    {
+      "claim": "Freddie Mac",
+      "reason": "Used only as a watch trigger for the regular Thursday PMMS survey; source context is the established PMMS page and recent tracker."
+    },
+    {
+      "claim": "Freddie Mac Thursday",
+      "reason": "Used only as a watch trigger for the regular Thursday PMMS survey; source context is the established PMMS page and recent tracker."
+    },
+    {
+      "claim": "GPT-6 Astra",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source, which says GPT-6 Astra handled additional Lean verification."
+    },
+    {
+      "claim": "Hormuz",
+      "reason": "Verified in the browser-opened AP oil source."
+    },
+    {
+      "claim": "Kentucky",
+      "reason": "Verified in the browser-opened Axios Columbus source as the bellwether-settlement state."
+    },
+    {
+      "claim": "LLM Suite",
+      "reason": "Verified in the browser-opened JPMorganChase annual-report source and search snippet."
+    },
+    {
+      "claim": "Mortgage Bankers Association",
+      "reason": "Verified in the browser-opened FloorDaily page carrying MBA survey data."
+    },
+    {
+      "claim": "Navier-Stokes",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "Navier-Stokes Millennium Prize",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "OpenAI",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "Prime Minister Mark Carney",
+      "reason": "Verified in the browser-opened AP Canada trade source."
+    },
+    {
+      "claim": "TikTok Instagram and YouTube",
+      "reason": "Verified in the browser-opened Axios Columbus source."
+    },
+    {
+      "claim": "the Canada",
+      "reason": "False positive from the opening phrase; the underlying Canada trade story was verified in AP."
+    },
+    {
+      "claim": "90",
+      "reason": "Columbus forecast high was checked against the NWS point forecast at the 11:25 America/New_York cutoff; the page updates frequently."
+    },
+    {
+      "claim": "Thursday",
+      "reason": "Weather timing was checked against the NWS point forecast at cutoff; weekday labels update with forecast issuance."
+    },
+    {
+      "claim": "10-year Treasury",
+      "reason": "Mentioned as a market watch trigger rather than a reported level; no live yield level is spoken."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Compared against previous seven scripts. Full carryovers limited to Canada and oil, both with fresh dated developments. Home lending leads with refinance-triage workflow. AI in Banking records company-claim evidence and missing metrics; Frontier AI separates OpenAI's process evidence from independent mathematical acceptance.",
+    "script_sha256": "acd99a74c30dd61b4a563ea75bd44400e6b6b58f7b80650b07ddcd3b66b1cbd8"
+  }
+}

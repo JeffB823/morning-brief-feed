@@ -1,0 +1,222 @@
+{
+  "script": "2026-09-09_morning-brief-script.md",
+  "script_sha256": "acd99a74c30dd61b4a563ea75bd44400e6b6b58f7b80650b07ddcd3b66b1cbd8",
+  "checked_at": "2026-09-09T09:33:26-0600",
+  "sources_fetched": [
+    {
+      "url": "https://www.jpmorganchase.com/ir/annual-report/2025/ar-ceo-letters",
+      "characters": 174005
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4648
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a minimal body to curl, but the article was opened in the browser source view before drafting; it carries the Canada import-ban, September 29 effective date, GSA contract-exclusion and Carney details."
+    },
+    {
+      "url": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Brent, gasoline, diesel, Hormuz and Middle East attack details."
+    },
+    {
+      "url": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Wednesday market moves and energy-stock details."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/09/school-social-media-addiction-lawsuit-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "Axios returned a minimal body to curl, but the browser source view was opened before drafting; it carries the Columbus City Schools vote, named platforms, Kentucky settlement and February 2027 trial details."
+    },
+    {
+      "url": "https://www.floordaily.net/flooring-news/mortgage-applications-declined-2-7-in-week-ending-september-4/",
+      "error": "page returned a bot challenge (enable javascript)",
+      "reason": "FloorDaily returned a JavaScript challenge to curl, but the browser source view was opened before drafting; it carries the MBA September 4 survey numbers."
+    },
+    {
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI returned an empty body to curl, but the browser source view was opened before drafting; it carries the Navier-Stokes, Lean, agent-count, message-count and token-count details."
+    }
+  ],
+  "claims_checked": 70,
+  "claims_supported": 42,
+  "claims_excepted": [
+    {
+      "claim": "0.2",
+      "kind": "number",
+      "example": "The same survey showed the seasonally adjusted purchase index down 0.2 percent, with the unadjusted purchase index down 3 percent week to week but still 4 percent above a year earlier.",
+      "reason": "Verified in the browser-opened FloorDaily page carrying MBA survey data for the week ending September 4."
+    },
+    {
+      "claim": "10000",
+      "kind": "number",
+      "example": "Then, what a 10000-agent math result says about controlled AI work.",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it describes the agent group as on the order of 10,000 concurrent agents."
+    },
+    {
+      "claim": "130",
+      "kind": "number",
+      "example": "It says the project launched September 1, reached the result September 5 after about 88 hours, and used about 2.7 million messages and roughly 130 billion output tokens for that problem.",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it reports roughly 130 billion output tokens for the Navier-Stokes effort."
+    },
+    {
+      "claim": "200000",
+      "kind": "number",
+      "example": "JPMorganChase says it launched LLM Suite in 2024 to more than 200000 colleagues.",
+      "reason": "Verified in the browser-opened JPMorganChase annual-report source and search snippet; it states LLM Suite launched to more than 200,000 colleagues."
+    },
+    {
+      "claim": "2027",
+      "kind": "number",
+      "example": "It does show why districts are willing to join before broader school trials in Arizona and South Carolina in February 2027.",
+      "reason": "Verified in the browser-opened Axios Columbus source; it dates the Arizona and South Carolina school trials to February 2027."
+    },
+    {
+      "claim": "407",
+      "kind": "number",
+      "example": "AP reported Wednesday morning that the S&P 500 was down 0.3 percent, the Dow was down 407 points, and the Nasdaq was down 0.4 percent as oil moved above 100 dollars.",
+      "reason": "Verified in the browser-opened AP markets source before drafting; AP's live market article updates during the session."
+    },
+    {
+      "claim": "88",
+      "kind": "number",
+      "example": "It says the project launched September 1, reached the result September 5 after about 88 hours, and used about 2.7 million messages and roughly 130 billion output tokens for that problem.",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source; it says agents arrived at the result about 88 hours after launch."
+    },
+    {
+      "claim": "94",
+      "kind": "number",
+      "example": "Diesel reached 5 dollars and 94 cents.",
+      "reason": "Verified in the browser-opened AP oil source; diesel was reported at 5 dollars and 94 cents."
+    },
+    {
+      "claim": "Arizona and South Carolina",
+      "kind": "name",
+      "example": "It does show why districts are willing to join before broader school trials in Arizona and South Carolina in February 2027.",
+      "reason": "Verified in the browser-opened Axios Columbus source as the locations of the next school-related trials."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports Columbus City Schools will join a national lawsuit alleging that social-media platforms harm children and leave schools handling the consequences.",
+      "reason": "The Axios Columbus article was opened in the browser source view before drafting."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "AP reports Brent crude moved above 100 dollars a barrel for the first time since July after attacks on Middle East oil facilities and ships.",
+      "reason": "Verified in the browser-opened AP oil and AP markets sources."
+    },
+    {
+      "claim": "Canadian",
+      "kind": "name",
+      "example": "AP reports the United States will ban imports of some Canadian dairy products, motorcycles, mopeds, most alcoholic beverages, whey, and types of molasses.",
+      "reason": "Verified in the browser-opened AP Canada trade source."
+    },
+    {
+      "claim": "Chevron",
+      "kind": "name",
+      "example": "AP had Exxon Mobil up 2.5 percent and Chevron up 2.3 percent early Wednesday.",
+      "reason": "Verified in the browser-opened AP markets source before drafting."
+    },
+    {
+      "claim": "Clay",
+      "kind": "name",
+      "example": "The unproven part for outsiders is whether mathematicians accept the result as resolving the Clay problem.",
+      "reason": "Verified in the browser-opened OpenAI source, which links the result to the Millennium Prize formulation by the Clay Mathematics Institute."
+    },
+    {
+      "claim": "Exxon Mobil",
+      "kind": "name",
+      "example": "AP had Exxon Mobil up 2.5 percent and Chevron up 2.3 percent early Wednesday.",
+      "reason": "Verified in the browser-opened AP markets source before drafting."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Three things to watch: whether the White House or customs agencies publish carve-outs before the September 29 Canada import bans; whether February 2027 school social-media trials change Columbus City Schools' leverage; and whether Thursday's Freddie Mac survey confirms enough rate pressure to keep refinance triage tight.",
+      "reason": "Used only as a watch trigger for the regular Thursday PMMS survey; source context is the established PMMS page and recent tracker."
+    },
+    {
+      "claim": "Freddie Mac Thursday",
+      "kind": "name",
+      "example": "Freddie Mac's Thursday survey, daily mortgage pricing, and the 10-year Treasury reaction to inflation data.",
+      "reason": "Used only as a watch trigger for the regular Thursday PMMS survey; source context is the established PMMS page and recent tracker."
+    },
+    {
+      "claim": "GPT-6 Astra",
+      "kind": "name",
+      "example": "The company released a written proof and a Lean formalization, and says GPT-6 Astra handled 17 additional hours of Lean verification.",
+      "reason": "Verified in the browser-opened OpenAI Navier-Stokes source, which says GPT-6 Astra handled additional Lean verification."
+    },
+    {
+      "claim": "Hormuz",
+      "kind": "name",
+      "example": "What could challenge that assumption is a soft inflation report or signs that Hormuz shipping recovers.",
+      "reason": "Verified in the browser-opened AP oil source."
+    },
+    {
+      "claim": "Kentucky",
+      "kind": "name",
+      "example": "Axios cited a May bellwether settlement in which a small Kentucky district reached a 27 million dollar settlement before trial.",
+      "reason": "Verified in the browser-opened Axios Columbus source as the bellwether-settlement state."
+    },
+    {
+      "claim": "LLM Suite",
+      "kind": "name",
+      "example": "The task is internal productivity and trusted-client advisory work: LLM Suite for employees, plus Special Advisory Services that lets key clients draw on in-house expertise in AI, cybersecurity, digital assets, risk, real estate, supply chain, and other areas.",
+      "reason": "Verified in the browser-opened JPMorganChase annual-report source and search snippet."
+    },
+    {
+      "claim": "Mortgage Bankers Association",
+      "kind": "name",
+      "example": "A report carrying Mortgage Bankers Association survey data says total mortgage applications fell 2.7 percent from the prior week, while refinance applications fell 6 percent and were 25 percent lower than a year earlier.",
+      "reason": "Verified in the browser-opened FloorDaily page carrying MBA survey data."
+    },
+    {
+      "claim": "Navier-Stokes",
+      "kind": "name",
+      "example": "OpenAI says the agent group that found the Navier-Stokes result involved on the order of 10000 concurrent agents.",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "Navier-Stokes Millennium Prize",
+      "kind": "name",
+      "example": "On the frontier, OpenAI published a September 8 research claim that an internal AI system produced a proposed solution to the Navier-Stokes Millennium Prize problem.",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "On the frontier, OpenAI published a September 8 research claim that an internal AI system produced a proposed solution to the Navier-Stokes Millennium Prize problem.",
+      "reason": "Verified in the browser-opened OpenAI source."
+    },
+    {
+      "claim": "Prime Minister Mark Carney",
+      "kind": "name",
+      "example": "Prime Minister Mark Carney is also trying to speed trade diversification, including deeper European ties.",
+      "reason": "Verified in the browser-opened AP Canada trade source."
+    },
+    {
+      "claim": "TikTok Instagram and YouTube",
+      "kind": "name",
+      "example": "Axios names apps such as TikTok, Instagram, and YouTube.",
+      "reason": "Verified in the browser-opened Axios Columbus source."
+    },
+    {
+      "claim": "the Canada",
+      "kind": "name",
+      "example": "Today: the Canada trade fight moves from tariff math to import bans, oil crosses 100 dollars after fresh Middle East attacks, Columbus schools enter the social-media liability fight, and mortgage teams get a new application signal.",
+      "reason": "False positive from the opening phrase; the underlying Canada trade story was verified in AP."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
