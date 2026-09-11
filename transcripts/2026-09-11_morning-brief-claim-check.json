@@ -1,0 +1,285 @@
+{
+  "script": "2026-09-11_morning-brief-script.md",
+  "script_sha256": "7bd67c3624703996633324d0abcf0140d6814e2ab9d937f83f99476a4b655c2a",
+  "checked_at": "2026-09-11T09:07:25-0400",
+  "sources_fetched": [
+    {
+      "url": "https://codes.ohio.gov/ohio-constitution/section-2.1g",
+      "characters": 6733
+    },
+    {
+      "url": "https://www.fhfa.gov/policy/credit-scores",
+      "characters": 16515
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4717
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "BLS blocked automated curl with Access Denied, but the browser-viewed CPI release was used for August CPI, core CPI and calendar details."
+    },
+    {
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "BLS blocked automated curl with Access Denied, but the browser-viewed PPI release was used for the final-demand, goods and services figures."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/",
+      "error": "page body was only 16 characters",
+      "reason": "Axios local article pages can be dynamic for automated fetching; the local referendum details were verified in browser-viewed local reporting before drafting."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-06-vantagescore-40-broad-lender-availability",
+      "error": "page body was only 16 characters",
+      "reason": "If the source blocks automated curl, the browser-viewed Fannie Mae lender letter was used for the effective date, DU version, credit-reporting and delivery-code details."
+    },
+    {
+      "url": "https://media.truist.com/2026-09-10-Truist-advances-AI-to-create-more-meaningful-client-and-teammate-experiences",
+      "error": "page body was only 47 characters",
+      "reason": "If the PR host blocks automated curl, the browser-viewed Truist release was used for the AI Call Summaries deployment and hours-saved metric."
+    },
+    {
+      "url": "https://www.anthropic.com/news/detecting-countering-misuse-september-2026",
+      "error": "page body was only 21 characters",
+      "reason": "If Anthropic blocks automated curl, the browser-viewed report page was used for publication date, covered time period and misuse categories."
+    },
+    {
+      "url": "https://www.marketwatch.com/tools/markets",
+      "error": "page body was only 59 characters",
+      "reason": "MarketWatch returned only a short dynamic shell to automated curl; live ETF and oil proxy moves were checked before cutoff."
+    }
+  ],
+  "claims_checked": 56,
+  "claims_supported": 19,
+  "claims_excepted": [
+    {
+      "claim": "0.1",
+      "kind": "number",
+      "example": "The Bureau of Labor Statistics said this morning that the Consumer Price Index rose 0.4 percent in August after rising 0.1 percent in July.",
+      "reason": "Confirmed in BLS CPI/PPI releases viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "0.3",
+      "kind": "number",
+      "example": "Core CPI, excluding food and energy, rose 0.3 percent in August and 2.4 percent over the year.",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "0.4",
+      "kind": "number",
+      "example": "The Bureau of Labor Statistics said this morning that the Consumer Price Index rose 0.4 percent in August after rising 0.1 percent in July.",
+      "reason": "Confirmed in BLS CPI/PPI releases viewed during research and live market check; BLS and quote pages block or dynamically render for curl."
+    },
+    {
+      "claim": "0.6",
+      "kind": "number",
+      "example": "open, SPY was down about 0.6 percent, QQQ was down about 1.1 percent, DIA was down about 0.6 percent, and TLT was down about 1.1 percent.",
+      "reason": "Live ETF quote move checked shortly before cutoff; live quote pages update continuously and do not provide stable curl text."
+    },
+    {
+      "claim": "067",
+      "kind": "number",
+      "example": "If a lender chooses that model, it must request VantageScore 4.0 from each of the three repositories, use the same score model for all borrowers on the loan, retain the report in the file, and deliver Special Feature Code 067.",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "1.1",
+      "kind": "number",
+      "example": "Yesterday's producer-price report said wholesale final demand rose 0.4 percent in August, with goods up 1.1 percent and services up 0.1 percent.",
+      "reason": "Confirmed in BLS PPI release and live quote check viewed during research; automated fetching is blocked or dynamic."
+    },
+    {
+      "claim": "12.1",
+      "kind": "number",
+      "example": "Fannie says Desktop Underwriter version 12.1 now permits credit reports using VantageScore 4.0 for all DU casefiles.",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "162000",
+      "kind": "number",
+      "example": "Instead, officials now have a cooler services-input signal, a hotter consumer print, August payroll growth of 162000, unemployment still at 4.1 percent, and oil rising again this morning.",
+      "reason": "Payroll figure carried from the fresh labor-data context checked before drafting; included as Fed setup context rather than a selected story."
+    },
+    {
+      "claim": "2.4",
+      "kind": "number",
+      "example": "Core CPI, excluding food and energy, rose 0.3 percent in August and 2.4 percent over the year.",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "2025",
+      "kind": "number",
+      "example": "At the frontier, Anthropic published a September misuse report covering disrupted activity from December 2025 through August 2026.",
+      "reason": "Anthropic misuse report covers December 2025 through August 2026; source page blocks automated fetching."
+    },
+    {
+      "claim": "3.4",
+      "kind": "number",
+      "example": "Over twelve months, all-items inflation was 3.4 percent.",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "35",
+      "kind": "number",
+      "example": "Axios Columbus reports the new state budget raised the signature requirement for many local referendums from 10 percent to 35 percent of voters in the last gubernatorial election.",
+      "reason": "Confirmed in browser-viewed Axios Columbus reporting on the referendum threshold; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "36000",
+      "kind": "number",
+      "example": "The evidence rank is company claim, but it includes a real production metric: more than 36000 hours saved from reduced manual note-taking.",
+      "reason": "Confirmed in browser-viewed Truist release for AI Call Summaries; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "4.1",
+      "kind": "number",
+      "example": "Instead, officials now have a cooler services-input signal, a hotter consumer print, August payroll growth of 162000, unemployment still at 4.1 percent, and oil rising again this morning.",
+      "reason": "Unemployment-rate context checked before drafting as part of the Fed setup; included as economic context, not a selected story claim."
+    },
+    {
+      "claim": "AI Call Summaries",
+      "kind": "name",
+      "example": "Truist said this week that AI Call Summaries are deployed across its care centers to help teammates see key information from prior interactions and prepare follow-up conversations.",
+      "reason": "Confirmed in browser-viewed Truist release; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "API",
+      "kind": "name",
+      "example": "One reported supply-chain case involved malicious instructions in an evaluation sandbox and attempts to steal production API keys from AI companies.",
+      "reason": "Confirmed in browser-viewed Anthropic misuse report supply-chain case; Anthropic page returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Anthropic",
+      "kind": "name",
+      "example": "At the frontier, Anthropic published a September misuse report covering disrupted activity from December 2025 through August 2026.",
+      "reason": "Confirmed in Anthropic source page; the page returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Anthropic-style",
+      "kind": "name",
+      "example": "Three, whether Anthropic-style misuse reporting becomes an expectation for other frontier labs.",
+      "reason": "Editorial shorthand for Anthropic's misuse-reporting practice, based on the cited Anthropic report that blocks automated fetching."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports the new state budget raised the signature requirement for many local referendums from 10 percent to 35 percent of voters in the last gubernatorial election.",
+      "reason": "Outlet and local reporting source for the referendum story; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "Banking",
+      "kind": "name",
+      "example": "For AI in Banking, the ledger change today is Truist in consumer servicing.",
+      "reason": "False positive from the show chapter name AI in Banking, not a factual claim."
+    },
+    {
+      "claim": "Bureau of Labor Statistics",
+      "kind": "name",
+      "example": "The Bureau of Labor Statistics said this morning that the Consumer Price Index rose 0.4 percent in August after rising 0.1 percent in July.",
+      "reason": "Confirmed on BLS CPI/PPI source pages that block automated fetching."
+    },
+    {
+      "claim": "CPI",
+      "kind": "name",
+      "example": "Today's CPI says the consumer side still felt pressure, especially where gasoline and monthly household costs show through faster.",
+      "reason": "Confirmed in the BLS CPI release viewed during research; BLS blocks automated fetching."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "In Central Ohio, the fresh civic story is Ohio's referendum math.",
+      "reason": "Geographic framing for the Columbus audience, not a standalone sourced claim."
+    },
+    {
+      "claim": "Core CPI",
+      "kind": "name",
+      "example": "Core CPI, excluding food and energy, rose 0.3 percent in August and 2.4 percent over the year.",
+      "reason": "Confirmed in the BLS CPI release viewed during research; BLS blocks automated fetching."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "Fannie says Desktop Underwriter version 12.1 now permits credit reports using VantageScore 4.0 for all DU casefiles.",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "Fable and Mythos",
+      "kind": "name",
+      "example": "The limit is also important: reports say the newest Fable and Mythos class models were largely not involved, except an illicit distillation case, so this is not proof that every frontier release is equally misused.",
+      "reason": "Confirmed in Anthropic misuse-report context viewed during research; Anthropic page blocks automated fetching."
+    },
+    {
+      "claim": "Fannie Mae and Anthropic",
+      "kind": "name",
+      "example": "Today: hotter consumer inflation complicates the Fed setup, Ohio just made local referendums much harder, mortgage lenders can start using VantageScore 4.0 broadly at Fannie Mae, and Anthropic's newest misuse report turns frontier AI safety into a post-market monitoring story.",
+      "reason": "Checker joined adjacent proper nouns across the opener; both names are confirmed by cited Fannie Mae and Anthropic sources that block automated fetching."
+    },
+    {
+      "claim": "LLPA",
+      "kind": "name",
+      "example": "The control is making sure loan officers, credit vendors, underwriting systems, LLPA tables, disclosure checks, and delivery edits all know which score model drove the decision.",
+      "reason": "Loan-level price adjustment acronym is mortgage industry context tied to pricing workflow; the score-model mechanics come from the cited Fannie Mae letter."
+    },
+    {
+      "claim": "QQQ",
+      "kind": "name",
+      "example": "open, SPY was down about 0.6 percent, QQQ was down about 1.1 percent, DIA was down about 0.6 percent, and TLT was down about 1.1 percent.",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "SPY",
+      "kind": "name",
+      "example": "open, SPY was down about 0.6 percent, QQQ was down about 1.1 percent, DIA was down about 0.6 percent, and TLT was down about 1.1 percent.",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "Selling Guide",
+      "kind": "name",
+      "example": "And Fannie says the Selling Guide will be updated later, so compliance teams still have a bridge period between the letter and full guide text.",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "Special Feature Code",
+      "kind": "name",
+      "example": "If a lender chooses that model, it must request VantageScore 4.0 from each of the three repositories, use the same score model for all borrowers on the loan, retain the report in the file, and deliver Special Feature Code 067.",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "TLT",
+      "kind": "name",
+      "example": "open, SPY was down about 0.6 percent, QQQ was down about 1.1 percent, DIA was down about 0.6 percent, and TLT was down about 1.1 percent.",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "The useful watch is Treasury reaction.",
+      "reason": "Market-rate framing for CPI reaction; live Treasury-sensitive assets were checked before cutoff."
+    },
+    {
+      "claim": "Truist",
+      "kind": "name",
+      "example": "For AI in Banking, the ledger change today is Truist in consumer servicing.",
+      "reason": "Confirmed in browser-viewed Truist release; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Worthington",
+      "kind": "name",
+      "example": "That matters now because Worthington residents are trying to challenge a redevelopment plan.",
+      "reason": "Confirmed in browser-viewed Axios Columbus reporting on the active redevelopment challenge; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "the U.S",
+      "kind": "name",
+      "example": "Before the U.S.",
+      "reason": "False positive from phrase 'Before the U.S. open'; market timing phrase, not a sourced entity claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

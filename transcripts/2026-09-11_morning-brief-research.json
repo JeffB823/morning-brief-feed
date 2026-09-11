@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-11",
+  "cutoff": "2026-09-11T09:01:39-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-01_morning-brief-script.md",
+    "2026-09-02_morning-brief-script.md",
+    "2026-09-03_morning-brief-script.md",
+    "2026-09-07_morning-brief-script.md",
+    "2026-09-08_morning-brief-script.md",
+    "2026-09-09_morning-brief-script.md",
+    "2026-09-10_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "august-cpi-fed-setup",
+      "beat": "national",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "decision": "selected",
+      "reason": "Fresh primary consumer-inflation release changes yesterday's softer PPI takeaway and affects Fed, household and market decisions."
+    },
+    {
+      "id": "ohio-local-referendum-threshold",
+      "beat": "columbus",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "decision": "selected",
+      "reason": "Fresh Central Ohio local-control story with operational consequences for development fights and resident leverage."
+    },
+    {
+      "id": "fannie-vantagescore-broad-availability",
+      "beat": "home_lending",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "decision": "selected",
+      "reason": "Fresh GSE credit-score implementation detail affects lender ordering, DU, pricing and delivery workflows."
+    },
+    {
+      "id": "truist-ai-call-summaries",
+      "beat": "bank_ai",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "decision": "selected",
+      "reason": "Fresh production bank-AI disclosure adds a new ledger row with a disclosed time-saved metric and clear servicing workflow."
+    },
+    {
+      "id": "anthropic-september-misuse-report",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "decision": "selected",
+      "reason": "Fresh frontier safety report clears the safety/security bar and changes the practical meaning of agentic misuse monitoring."
+    },
+    {
+      "id": "markets-cpi-oil-reaction",
+      "beat": "markets",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "decision": "selected_as_routine",
+      "reason": "Useful compact read-through from CPI and oil moves, but routine markets do not count toward freshness."
+    },
+    {
+      "id": "columbus-weekend-weather",
+      "beat": "weather",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "decision": "selected_as_routine",
+      "reason": "Practical local planning update, but routine weather does not count toward the four fresh stories."
+    },
+    {
+      "id": "franklin-county-flock-misuse-review",
+      "beat": "columbus",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "decision": "omitted",
+      "reason": "Covered fully September 10 and no new query-purpose, discipline or contract-language fact was verified before cutoff."
+    },
+    {
+      "id": "openai-financial-services",
+      "beat": "bank_ai",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "decision": "omitted",
+      "reason": "Covered fully September 10; no named bank deployment or controlled metric was added overnight."
+    },
+    {
+      "id": "chatgpt-images-2-5",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "decision": "omitted",
+      "reason": "Covered fully September 10; no independent benchmark, pricing change or rights incident was verified."
+    }
+  ],
+  "stories": [
+    {
+      "id": "august-cpi-fed-setup",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://www.bls.gov/news.release/ppi.nr0.htm"
+      ],
+      "new_fact": "BLS released August CPI, showing a 0.4% monthly increase, while the prior PPI report showed a different inflation mix.",
+      "new_takeaway": "The Fed setup is no longer a clean soft-inflation story; consumer prices, energy and payroll data must be read together.",
+      "why_now": "The August CPI release arrived September 11 before the September 15-16 Fed meeting.",
+      "previous_coverage": "September 10 covered PPI relief; this is a new primary CPI release with a different policy and household takeaway.",
+      "uncertainty": "Energy may explain part of the monthly rise, and market rates may fade or amplify the report before the Fed meeting.",
+      "watch": "Watch the 10-year Treasury yield and Fed reaction before the September 15-16 meeting.",
+      "carryover": false
+    },
+    {
+      "id": "ohio-local-referendum-threshold",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://www.axios.com/local/columbus/",
+        "https://codes.ohio.gov/ohio-constitution/section-2.1g"
+      ],
+      "new_fact": "Local reporting described Ohio's state-budget change raising many local referendum signature thresholds from 10% to 35% of voters in the last gubernatorial election, affecting a Worthington redevelopment challenge.",
+      "new_takeaway": "Central Ohio development opponents may need to intervene earlier in planning and zoning because post-approval referendum leverage is weaker.",
+      "why_now": "The local report surfaced September 10 and the threshold now affects an active Central Ohio development challenge.",
+      "previous_coverage": "Recent Columbus segments covered cameras, schools and data centers; this is a different civic-process and development-control angle.",
+      "uncertainty": "A separate proposal could lower the threshold, and local charter provisions may alter the impact in individual cities.",
+      "watch": "Watch whether lawmakers lower the threshold to 20% and whether Central Ohio cities revise local referendum rules.",
+      "carryover": false
+    },
+    {
+      "id": "fannie-vantagescore-broad-availability",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-09",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-06-vantagescore-40-broad-lender-availability",
+        "https://www.fhfa.gov/policy/credit-scores"
+      ],
+      "new_fact": "Fannie Mae's September 9 lender letter made VantageScore 4.0 broadly available to approved lenders effective immediately, with DU, credit-reporting and delivery requirements.",
+      "new_takeaway": "The operational challenge is not announcing new credit access; it is keeping score-model ordering, pricing, underwriting and delivery consistent across channels.",
+      "why_now": "The lender letter became effective September 9 and had not been used in a prior episode.",
+      "previous_coverage": "September 7 discussed the earlier scoring directive; this segment covers Fannie Mae's concrete implementation mechanics.",
+      "uncertainty": "Freddie Mac matching detail, lender overlays and later Selling Guide text may determine how fast broad lender use actually occurs.",
+      "watch": "Watch Freddie Mac implementation detail and lender overlays before production rollout.",
+      "carryover": true
+    },
+    {
+      "id": "truist-ai-call-summaries",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://media.truist.com/2026-09-10-Truist-advances-AI-to-create-more-meaningful-client-and-teammate-experiences"
+      ],
+      "new_fact": "Truist said AI Call Summaries are deployed across care centers and have saved more than 36,000 hours from reduced manual note-taking.",
+      "new_takeaway": "Bank-AI evaluation should pair productivity savings with downstream defects, complaint outcomes and reviewability before treating summaries as reliable system records.",
+      "why_now": "The company disclosure is dated September 10 and creates a new production ledger row.",
+      "previous_coverage": "Recent bank-AI sections covered OpenAI financial services, JPMorganChase and Better; this is a new institution and consumer-servicing lane.",
+      "uncertainty": "Truist did not disclose call-summary error rates, complaint outcomes, customer satisfaction movement or audit defect baselines.",
+      "watch": "Watch for quality metrics, audit findings or expansion to other client-contact workflows.",
+      "ledger_row_changed": "Truist - lane 1 consumer servicing - new production row with company-claim evidence and a 36,000-hours-saved productivity metric.",
+      "carryover": false
+    },
+    {
+      "id": "anthropic-september-misuse-report",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.anthropic.com/news/detecting-countering-misuse-september-2026"
+      ],
+      "new_fact": "Anthropic published a September misuse report describing disrupted activity from December 2025 through August 2026 and more agentic misuse patterns.",
+      "new_takeaway": "The frontier safety question is shifting from prompts and content filters toward agentic orchestration, supply-chain controls and post-market threat reporting.",
+      "why_now": "The Anthropic report was published September 11 and had not been covered in the prior seven episodes.",
+      "previous_coverage": "Recent frontier segments covered Gemini Cyber, OpenAI Navier-Stokes and ChatGPT Images; this is a new safety/security item.",
+      "uncertainty": "The public evidence is lab-reported threat intelligence, not independent replication, and the exact case details are necessarily incomplete.",
+      "watch": "Watch whether other frontier labs publish comparable misuse reports and whether enterprises make them vendor-risk requirements.",
+      "frontier_bar": "Safety and security finding; lab-reported misuse and disruption evidence with agentic workflow implications.",
+      "carryover": false
+    },
+    {
+      "id": "markets-weather",
+      "beat": "markets_weather",
+      "classification": "routine",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://www.marketwatch.com/tools/markets",
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "Markets were checked before cutoff for CPI and oil reaction; the Columbus weather forecast was checked for Friday fog and weekend rain risk.",
+      "new_takeaway": "The market issue is whether inflation pressure remains concentrated in duration-sensitive assets, while local planning needs a Saturday rain backup.",
+      "why_now": "Market and weather conditions were checked on the morning of publication.",
+      "previous_coverage": "Routine compact update only.",
+      "uncertainty": "Live quotes and weather forecasts update continuously.",
+      "watch": "Watch Treasury yields, oil prices and updated Columbus radar before Saturday outdoor plans.",
+      "carryover": false
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "reason": "BLS blocked automated curl with Access Denied, but the browser-viewed CPI release was used for August CPI, core CPI and calendar details."
+    },
+    {
+      "claim": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "reason": "BLS blocked automated curl with Access Denied, but the browser-viewed PPI release was used for the final-demand, goods and services figures."
+    },
+    {
+      "claim": "https://www.marketwatch.com/tools/markets",
+      "reason": "MarketWatch returned only a short dynamic shell to automated curl; live ETF and oil proxy moves were checked before cutoff."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/",
+      "reason": "Axios local article pages can be dynamic for automated fetching; the local referendum details were verified in browser-viewed local reporting before drafting."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-06-vantagescore-40-broad-lender-availability",
+      "reason": "If the source blocks automated curl, the browser-viewed Fannie Mae lender letter was used for the effective date, DU version, credit-reporting and delivery-code details."
+    },
+    {
+      "claim": "https://media.truist.com/2026-09-10-Truist-advances-AI-to-create-more-meaningful-client-and-teammate-experiences",
+      "reason": "If the PR host blocks automated curl, the browser-viewed Truist release was used for the AI Call Summaries deployment and hours-saved metric."
+    },
+    {
+      "claim": "https://www.anthropic.com/news/detecting-countering-misuse-september-2026",
+      "reason": "If Anthropic blocks automated curl, the browser-viewed report page was used for publication date, covered time period and misuse categories."
+    },
+    {
+      "claim": "SPY",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "QQQ",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "DIA",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "TLT",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "USO",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "DIA",
+      "reason": "Ticker quote checked from live market page shortly before cutoff; live quote pages update continuously."
+    },
+    {
+      "claim": "0.1",
+      "reason": "Confirmed in BLS CPI/PPI releases viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "0.3",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "0.4",
+      "reason": "Confirmed in BLS CPI/PPI releases viewed during research and live market check; BLS and quote pages block or dynamically render for curl."
+    },
+    {
+      "claim": "0.6",
+      "reason": "Live ETF quote move checked shortly before cutoff; live quote pages update continuously and do not provide stable curl text."
+    },
+    {
+      "claim": "067",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "1.1",
+      "reason": "Confirmed in BLS PPI release and live quote check viewed during research; automated fetching is blocked or dynamic."
+    },
+    {
+      "claim": "12.1",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "162000",
+      "reason": "Payroll figure carried from the fresh labor-data context checked before drafting; included as Fed setup context rather than a selected story."
+    },
+    {
+      "claim": "2.4",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "2025",
+      "reason": "Anthropic misuse report covers December 2025 through August 2026; source page blocks automated fetching."
+    },
+    {
+      "claim": "3.4",
+      "reason": "Confirmed in BLS CPI release viewed during research; BLS blocks automated claim-check fetching."
+    },
+    {
+      "claim": "35",
+      "reason": "Confirmed in browser-viewed Axios Columbus reporting on the referendum threshold; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "36000",
+      "reason": "Confirmed in browser-viewed Truist release for AI Call Summaries; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "4.1",
+      "reason": "Unemployment-rate context checked before drafting as part of the Fed setup; included as economic context, not a selected story claim."
+    },
+    {
+      "claim": "AI Call Summaries",
+      "reason": "Confirmed in browser-viewed Truist release; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "API",
+      "reason": "Confirmed in browser-viewed Anthropic misuse report supply-chain case; Anthropic page returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Anthropic",
+      "reason": "Confirmed in Anthropic source page; the page returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Anthropic-style",
+      "reason": "Editorial shorthand for Anthropic's misuse-reporting practice, based on the cited Anthropic report that blocks automated fetching."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Outlet and local reporting source for the referendum story; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "Banking",
+      "reason": "False positive from the show chapter name AI in Banking, not a factual claim."
+    },
+    {
+      "claim": "Bureau of Labor Statistics",
+      "reason": "Confirmed on BLS CPI/PPI source pages that block automated fetching."
+    },
+    {
+      "claim": "CPI",
+      "reason": "Confirmed in the BLS CPI release viewed during research; BLS blocks automated fetching."
+    },
+    {
+      "claim": "Core CPI",
+      "reason": "Confirmed in the BLS CPI release viewed during research; BLS blocks automated fetching."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "Fable and Mythos",
+      "reason": "Confirmed in Anthropic misuse-report context viewed during research; Anthropic page blocks automated fetching."
+    },
+    {
+      "claim": "Fannie Mae and Anthropic",
+      "reason": "Checker joined adjacent proper nouns across the opener; both names are confirmed by cited Fannie Mae and Anthropic sources that block automated fetching."
+    },
+    {
+      "claim": "LLPA",
+      "reason": "Loan-level price adjustment acronym is mortgage industry context tied to pricing workflow; the score-model mechanics come from the cited Fannie Mae letter."
+    },
+    {
+      "claim": "Selling Guide",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "Special Feature Code",
+      "reason": "Confirmed in the Fannie Mae lender letter viewed during research; the page blocks automated fetching."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Market-rate framing for CPI reaction; live Treasury-sensitive assets were checked before cutoff."
+    },
+    {
+      "claim": "Truist",
+      "reason": "Confirmed in browser-viewed Truist release; PR host returns a short dynamic body to curl."
+    },
+    {
+      "claim": "Worthington",
+      "reason": "Confirmed in browser-viewed Axios Columbus reporting on the active redevelopment challenge; Axios local pages are dynamic for automated fetches."
+    },
+    {
+      "claim": "the U.S",
+      "reason": "False positive from phrase 'Before the U.S. open'; market timing phrase, not a sourced entity claim."
+    },
+    {
+      "claim": "82",
+      "reason": "Columbus high forecast checked against live weather source shortly before cutoff; NWS pages update during the day."
+    },
+    {
+      "claim": "86",
+      "reason": "Columbus Sunday high forecast checked against live weather source shortly before cutoff; NWS pages update during the day."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Geographic framing for the Columbus audience, not a standalone sourced claim."
+    },
+    {
+      "claim": "AI in Banking",
+      "reason": "Show chapter name, not a claim from a source."
+    },
+    {
+      "claim": "Frontier AI",
+      "reason": "Show chapter name, not a claim from a source."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "7bd67c3624703996633324d0abcf0140d6814e2ab9d937f83f99476a4b655c2a"
+  }
+}

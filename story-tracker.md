@@ -1,37 +1,37 @@
-# Story Tracker - updated 2026-09-10
+# Story Tracker - updated 2026-09-11
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## August Inflation And Fed Decision
-- Last covered / verified development: 2026-09-10; August producer prices fell 0.1% after rising 0.3% in July, giving the Fed a cooler wholesale inflation signal before the September 15-16 meeting.
-- Last takeaway: One wholesale print does not decide policy, but it raises the evidence bar for a September hike unless consumer inflation or energy pressure reaccelerates.
-- Source: https://www.bls.gov/news.release/ppi.nr0.htm
-- Revisit only for: Consumer-price data, Fed speaker guidance, Treasury-yield reaction, or a changed market-implied September decision. Expire September 15 without a development.
+## August CPI And Fed Decision
+- Last covered / verified development: 2026-09-11; BLS released August CPI showing a hotter consumer-price signal after the prior PPI report gave a softer wholesale mix.
+- Last takeaway: The Fed setup is no longer a simple inflation-relief story; consumer prices, energy, payrolls and Treasury reaction need to be read together before the September 15-16 meeting.
+- Source: https://www.bls.gov/news.release/cpi.nr0.htm
+- Revisit only for: Fed speaker guidance, Treasury-yield reaction, changed market-implied policy odds, or the September 15-16 FOMC decision. Expire September 17 without a development.
 
-## Franklin County Flock Misuse Review
-- Last covered / verified development: 2026-09-10; WOSU reported the Franklin County Sheriff's Office is investigating possible misuse of Flock camera data by a deputy.
-- Last takeaway: The Columbus camera debate moved from theoretical safeguards to whether access logs, purpose rules and discipline work in a real case.
-- Source: https://www.wosu.org/
-- Revisit only for: The query purpose, disciplinary finding, public audit records, council contract language, or new outside-agency sharing rules. Expire September 15 without a development.
+## Ohio Local Referendum Threshold
+- Last covered / verified development: 2026-09-11; local reporting described Ohio's budget-law change raising many local referendum signature thresholds from 10% to 35%, affecting a Worthington redevelopment challenge.
+- Last takeaway: Central Ohio residents who oppose development approvals may need to shift earlier into planning, zoning and council hearings because post-approval referendum leverage is weaker.
+- Source: https://www.axios.com/local/columbus/
+- Revisit only for: A bill lowering the threshold to 20%, a Worthington filing decision, a court challenge, or a Central Ohio city adopting its own local referendum rule. Expire September 16 without a development.
 
-## Mortgage Lock-Desk Pressure
-- Last covered / verified development: 2026-09-10; Freddie Mac said the 30-year fixed-rate mortgage averaged 6.76%, up from 6.71% the prior week.
-- Last takeaway: Small rate increases still matter when files are near payment limits, so the workflow focus is quote documentation, lock options and borrower stress tests.
-- Source: https://www.freddiemac.com/pmms
-- Revisit only for: A clear 10-year Treasury move after inflation data, Freddie Mac's next survey, MBA application mix, or lender-specific lock/refi guidance. Expire September 15 without a development.
+## Fannie Mae VantageScore 4.0 Availability
+- Last covered / verified development: 2026-09-11; Fannie Mae's September 9 lender letter made VantageScore 4.0 broadly available to approved lenders effective immediately, with DU, credit-reporting and delivery requirements.
+- Last takeaway: The operating challenge is consistent score-model selection across ordering, underwriting, pricing, overlays and delivery, not the policy headline alone.
+- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-06-vantagescore-40-broad-lender-availability
+- Revisit only for: Freddie Mac matching implementation detail, lender overlays, GSE Selling Guide updates, delivery defects, or early lender production guidance. Expire September 16 without a development.
 
-## OpenAI Financial Services Assistant
-- Last covered / verified development: 2026-09-10; OpenAI announced ChatGPT for Financial Services as a vendor product for research, deal, portfolio and client workflows.
-- Last takeaway: The bank-AI decision is entitlement architecture and measurable task evidence, not partner-list momentum.
-- Source: https://openai.com/index/introducing-chatgpt-for-financial-services/
-- Revisit only for: A named bank deployment, controlled productivity metric, compliance-control disclosure, data-provider change, or regulator response. Expire September 15 without a development.
+## Truist AI Call Summaries
+- Last covered / verified development: 2026-09-11; Truist said AI Call Summaries are in production across care centers and have saved more than 36,000 hours from reduced manual note-taking.
+- Last takeaway: The disclosed productivity metric is useful, but banks should pair time saved with note accuracy, complaint outcomes, escalation quality and supervisor reviewability.
+- Source: https://media.truist.com/2026-09-10-Truist-advances-AI-to-create-more-meaningful-client-and-teammate-experiences
+- Revisit only for: A disclosed quality metric, audit finding, regulatory issue, expansion into other contact workflows, or peer bank comparison. Expire September 16 without a development.
 
-## ChatGPT Images 2.5
-- Last covered / verified development: 2026-09-10; OpenAI announced ChatGPT Images 2.5 and claimed stronger editing, text rendering, visual quality and up to 50% lower latency than GPT Image 1.
-- Last takeaway: Faster controllable image generation starts changing production workflows only when rights, factual and brand review can keep pace.
-- Source: https://openai.com/index/introducing-chatgpt-images-2-5/
-- Revisit only for: Independent benchmark results, API pricing or access changes, a major rights/safety issue, or enterprise deployment evidence. Expire September 15 without a development.
+## Anthropic September Misuse Report
+- Last covered / verified development: 2026-09-11; Anthropic published a misuse report covering disrupted activity from December 2025 through August 2026, including more agentic orchestration and supply-chain-style attempts.
+- Last takeaway: Frontier safety reporting is becoming vendor-risk evidence for how models and agents are abused after release, not just pre-release benchmark material.
+- Source: https://www.anthropic.com/news/detecting-countering-misuse-september-2026
+- Revisit only for: Comparable misuse reports from other labs, a regulator response, a new disclosed incident, or enterprise vendor-risk requirements referencing such reports. Expire September 16 without a development.
 
 ## Retired From Automatic Carryover
 
-U.S.-Canada import bans, oil above $100, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Columbus Flock camera audit without new misuse details, COTA route changes, Grove City data-center charter fight, and routine high-six mortgage rates remain off the script unless a verified new event creates a different takeaway.
+Franklin County Flock misuse review, OpenAI Financial Services Assistant, ChatGPT Images 2.5, August PPI relief alone, Canada import bans, oil above $100, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Grove City data-center charter fight, and routine high-six mortgage rates remain off the script unless a verified new event creates a different takeaway.
