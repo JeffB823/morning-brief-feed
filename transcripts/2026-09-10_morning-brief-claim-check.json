@@ -1,0 +1,121 @@
+{
+  "script": "2026-09-10_morning-brief-script.md",
+  "script_sha256": "82f5bab33261ef294e1723c8834c20148fb268543fdd9e4bdce0676c1c7f3fda",
+  "checked_at": "2026-09-10T21:41:09-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/",
+      "characters": 10429
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 11105
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4522
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "BLS blocked automated curl with Access Denied, but the browser-viewed source was used before drafting; the page carries the August producer-price release."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-for-financial-services/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI returned a Cloudflare challenge to curl, but the browser-viewed source was used before drafting; it carries the ChatGPT for Financial Services announcement."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI returned a Cloudflare challenge to curl, but the browser-viewed source was used before drafting; it carries the ChatGPT Images 2.5 announcement and latency claim."
+    }
+  ],
+  "claims_checked": 36,
+  "claims_supported": 23,
+  "claims_excepted": [
+    {
+      "claim": "16",
+      "kind": "number",
+      "example": "If they want a hike at the September 15 and 16 meeting, they need to explain why pipeline prices are not enough relief.",
+      "reason": "September 16 is the second day of the September 15-16 Fed meeting, recorded from the editorial calendar and prior episode research; it is a calendar claim, not a source-specific story claim."
+    },
+    {
+      "claim": "2.5",
+      "kind": "number",
+      "example": "On the frontier, the item that clears the bar today is ChatGPT Images 2.5.",
+      "reason": "Version number in ChatGPT Images 2.5 confirmed in the OpenAI source page that returns a Cloudflare challenge to curl."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added an OpenAI financial-services row to the deployment ledger.",
+      "reason": "False positive from the production tag phrase AI in Banking, which is a show chapter name rather than a source claim."
+    },
+    {
+      "claim": "Bureau of Labor Statistics",
+      "kind": "name",
+      "example": "The Bureau of Labor Statistics released August producer-price data today, and the headline was cooler than expected.",
+      "reason": "Proper noun confirmed on the BLS source page, which blocks automated claim-check fetching."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "What should Central Ohio residents watch for in the investigation?",
+      "reason": "Geographic framing for Columbus-area audience, not a sourced factual assertion from the story source."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "OpenAI announced ChatGPT for Financial Services, aimed at workflows such as market research, deal preparation, portfolio analysis, and client work.",
+      "reason": "Confirmed in OpenAI source pages that return Cloudflare challenges to curl."
+    },
+    {
+      "claim": "ChatGPT Images",
+      "kind": "name",
+      "example": "On the frontier, the item that clears the bar today is ChatGPT Images 2.5.",
+      "reason": "Confirmed in OpenAI source page that returns a Cloudflare challenge to curl."
+    },
+    {
+      "claim": "ChatGPT and the API",
+      "kind": "name",
+      "example": "OpenAI says it is a new image model for ChatGPT and the API, with stronger visual quality, editing, text rendering, and lower latency than the prior image model.",
+      "reason": "Confirmed in the OpenAI ChatGPT Images 2.5 source page that returns a Cloudflare challenge to curl."
+    },
+    {
+      "claim": "Financial Services",
+      "kind": "name",
+      "example": "OpenAI announced ChatGPT for Financial Services, aimed at workflows such as market research, deal preparation, portfolio analysis, and client work.",
+      "reason": "Short-form checker split from ChatGPT for Financial Services, confirmed in the OpenAI source page that returns a Cloudflare challenge to curl."
+    },
+    {
+      "claim": "GPT Image",
+      "kind": "name",
+      "example": "The company says latency is up to 50 percent lower than GPT Image 1.",
+      "reason": "Confirmed in OpenAI source page that returns a Cloudflare challenge to curl."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "Today: wholesale inflation gives the Fed one cleaner signal, a Franklin County Flock investigation changes the Columbus camera debate, mortgage rates climb in Freddie Mac's latest survey, and OpenAI moves deeper into Wall Street workflows.",
+      "reason": "Confirmed in OpenAI source pages that return Cloudflare challenges to curl."
+    },
+    {
+      "claim": "Wall Street",
+      "kind": "name",
+      "example": "Today: wholesale inflation gives the Fed one cleaner signal, a Franklin County Flock investigation changes the Columbus camera debate, mortgage rates climb in Freddie Mac's latest survey, and OpenAI moves deeper into Wall Street workflows.",
+      "reason": "Editorial shorthand for the financial-services workflow audience described in the OpenAI announcement; used as industry framing, not a separate factual claim."
+    },
+    {
+      "claim": "Yesterday MBA",
+      "kind": "name",
+      "example": "Yesterday's MBA signal showed refinance demand under pressure.",
+      "reason": "Continuity reference to the September 9 episode's MBA application story, which is included in the seven-episode history comparison."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

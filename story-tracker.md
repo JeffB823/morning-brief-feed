@@ -1,37 +1,37 @@
-# Story Tracker - updated 2026-09-09
+# Story Tracker - updated 2026-09-10
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## U.S.-Canada Trade Escalation
-- Last covered / verified development: 2026-09-09; U.S. import bans on listed Canadian products take effect September 29 and Canadian products face exclusion from some long-term U.S. government contracts.
-- Last takeaway: The trade fight moved from tariff repricing to availability, procurement eligibility, and substitution planning.
-- Source: https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3
-- Revisit only for: Customs guidance, product-code carve-outs, resumed talks, provincial alcohol retaliation, government-contract implementation, or a changed effective date. Expire September 14 without a development.
+## August Inflation And Fed Decision
+- Last covered / verified development: 2026-09-10; August producer prices fell 0.1% after rising 0.3% in July, giving the Fed a cooler wholesale inflation signal before the September 15-16 meeting.
+- Last takeaway: One wholesale print does not decide policy, but it raises the evidence bar for a September hike unless consumer inflation or energy pressure reaccelerates.
+- Source: https://www.bls.gov/news.release/ppi.nr0.htm
+- Revisit only for: Consumer-price data, Fed speaker guidance, Treasury-yield reaction, or a changed market-implied September decision. Expire September 15 without a development.
 
-## Oil Above 100 And Fed Pressure
-- Last covered / verified development: 2026-09-09; Brent crude moved above $100 after new Middle East attacks, with U.S. gasoline and diesel prices rising before inflation data.
-- Last takeaway: Energy is the bridge from military escalation to household budgets, logistics costs, and the Fed's September decision.
-- Source: https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e
-- Revisit only for: Brent holding above $100, major infrastructure damage, Hormuz shipping recovery, inflation-data reaction, or a clear Fed signal. Expire September 14 without a development.
+## Franklin County Flock Misuse Review
+- Last covered / verified development: 2026-09-10; WOSU reported the Franklin County Sheriff's Office is investigating possible misuse of Flock camera data by a deputy.
+- Last takeaway: The Columbus camera debate moved from theoretical safeguards to whether access logs, purpose rules and discipline work in a real case.
+- Source: https://www.wosu.org/
+- Revisit only for: The query purpose, disciplinary finding, public audit records, council contract language, or new outside-agency sharing rules. Expire September 15 without a development.
 
-## Columbus Schools Social-Media Lawsuit
-- Last covered / verified development: 2026-09-09; Columbus City Schools voted Tuesday to join national litigation against social-media platforms.
-- Last takeaway: The district is trying to shift some student-support costs and leverage onto platform companies, but recovery and timing are unknown.
-- Source: https://www.axios.com/local/columbus/2026/09/09/school-social-media-addiction-lawsuit-ohio
-- Revisit only for: District filing details, settlement estimates, board action on use of proceeds, platform response, or February 2027 bellwether-trial developments. Expire September 14 without a local development.
+## Mortgage Lock-Desk Pressure
+- Last covered / verified development: 2026-09-10; Freddie Mac said the 30-year fixed-rate mortgage averaged 6.76%, up from 6.71% the prior week.
+- Last takeaway: Small rate increases still matter when files are near payment limits, so the workflow focus is quote documentation, lock options and borrower stress tests.
+- Source: https://www.freddiemac.com/pmms
+- Revisit only for: A clear 10-year Treasury move after inflation data, Freddie Mac's next survey, MBA application mix, or lender-specific lock/refi guidance. Expire September 15 without a development.
 
-## Mortgage Application And Refi Triage
-- Last covered / verified development: 2026-09-09; MBA survey data for the week ending September 4 showed applications down 2.7% and refinance applications down 6%.
-- Last takeaway: Capacity should shift toward documented-benefit refinance files and purchase files with contract deadlines, not broad rate marketing.
-- Source: https://www.floordaily.net/flooring-news/mortgage-applications-declined-2-7-in-week-ending-september-4/
-- Revisit only for: Thursday Freddie Mac rate confirmation, a clear 10-year Treasury move after inflation data, MBA primary-source update, or lender-specific lock/refi guidance. Expire September 14 without a development.
+## OpenAI Financial Services Assistant
+- Last covered / verified development: 2026-09-10; OpenAI announced ChatGPT for Financial Services as a vendor product for research, deal, portfolio and client workflows.
+- Last takeaway: The bank-AI decision is entitlement architecture and measurable task evidence, not partner-list momentum.
+- Source: https://openai.com/index/introducing-chatgpt-for-financial-services/
+- Revisit only for: A named bank deployment, controlled productivity metric, compliance-control disclosure, data-provider change, or regulator response. Expire September 15 without a development.
 
-## OpenAI Navier-Stokes Agent Claim
-- Last covered / verified development: 2026-09-09; OpenAI released a proposed Navier-Stokes proof and Lean formalization from a roughly 10,000-agent internal effort.
-- Last takeaway: The frontier issue is controlled multiagent research acceleration, not autonomous business strategy; independent acceptance remains unresolved.
-- Source: https://openai.com/index/navier-stokes-solution/
-- Revisit only for: Independent mathematical review, Clay Mathematics Institute response, Lean formalization issue findings, or OpenAI releasing more reproducibility detail. Expire September 14 without a development.
+## ChatGPT Images 2.5
+- Last covered / verified development: 2026-09-10; OpenAI announced ChatGPT Images 2.5 and claimed stronger editing, text rendering, visual quality and up to 50% lower latency than GPT Image 1.
+- Last takeaway: Faster controllable image generation starts changing production workflows only when rights, factual and brand review can keep pace.
+- Source: https://openai.com/index/introducing-chatgpt-images-2-5/
+- Revisit only for: Independent benchmark results, API pricing or access changes, a major rights/safety issue, or enterprise deployment evidence. Expire September 15 without a development.
 
 ## Retired From Automatic Carryover
 
-Columbus Flock camera audit, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, COTA route changes, Miami cargo-crash investigation, Grove City data-center charter fight, routine high-six mortgage rates, and generic agent governance remain off the script unless a verified new event creates a different takeaway.
+U.S.-Canada import bans, oil above $100, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Columbus Flock camera audit without new misuse details, COTA route changes, Grove City data-center charter fight, and routine high-six mortgage rates remain off the script unless a verified new event creates a different takeaway.
