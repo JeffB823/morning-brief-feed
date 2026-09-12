@@ -1,7 +1,7 @@
 {
   "script": "2026-09-12_morning-brief-script.md",
-  "script_sha256": "351fe359eb43c3ed68202e850183230fa6b96042d497f7c70afa34611b6b5ab0",
-  "checked_at": "2026-09-12T07:49:49-0400",
+  "script_sha256": "8c2ac90e466e2ac7c6a3a78e22110906511bbed112ef34c55ff9a7301eb5b588",
+  "checked_at": "2026-09-12T07:55:54-0400",
   "sources_fetched": [
     {
       "url": "https://columbusunderground.com/italian-village-development-approved-bw1/",
@@ -38,7 +38,7 @@
     },
     {
       "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/community-and-regional-banks-are-choosing-fis-to-accelerate-modernization",
-      "error": "page body was only 319 characters",
+      "error": "curl exit 92: curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)",
       "reason": "FIS page was browser-viewed; curl failed with an HTTP/2 internal stream error, but the page lines verified Policy Optimizer 2.0, the Financial Crimes AI Agent and pilot status."
     },
     {
@@ -52,50 +52,14 @@
       "reason": "AP market story was browser-viewed; curl returned a short shell, but the page lines verified the Friday index moves, Brent move and Treasury yields."
     }
   ],
-  "claims_checked": 66,
-  "claims_supported": 39,
+  "claims_checked": 55,
+  "claims_supported": 36,
   "claims_excepted": [
-    {
-      "claim": "0.9",
-      "kind": "number",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported the S&P 500 rose 0.9% on Friday; AP curl body was unusable."
-    },
-    {
-      "claim": "104",
-      "kind": "number",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported Brent crude settled at $104.61; claim checker tokenized the dollar amount."
-    },
     {
       "claim": "2.0",
       "kind": "number",
       "example": "It also cited Policy Optimizer 2.0 for AI-driven credit-policy analysis.",
       "reason": "FIS browser-viewed release names Policy Optimizer 2.0; curl failed before the checker could match it."
-    },
-    {
-      "claim": "2.8",
-      "kind": "number",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported Brent crude fell 2.8%; AP curl body was unusable."
-    },
-    {
-      "claim": "4.97",
-      "kind": "number",
-      "example": "The 10-year Treasury yield still rose modestly to 4.97 percent.",
-      "reason": "AP market story reported the 10-year Treasury yield at 4.97%; AP curl body was unusable."
-    },
-    {
-      "claim": "500",
-      "kind": "number",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story's S&P 500 reference is an index name; AP curl body was unusable."
-    },
-    {
-      "claim": "509",
-      "kind": "number",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported the Dow gained 509 points; AP curl body was unusable."
     },
     {
       "claim": "AI-driven",
@@ -182,12 +146,6 @@
       "reason": "OpenAI browser-viewed page names MedChemBench; curl returned an empty body."
     },
     {
-      "claim": "Nasdaq",
-      "kind": "name",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported the Nasdaq gained 1%; AP curl body was unusable."
-    },
-    {
       "claim": "OpenAI",
       "kind": "name",
       "example": "Today: the mail-ballot fight has moved from policy argument to election operations, Italian Village approved 428 apartments, Freddie Mac matched the credit-score opening lenders were watching, and OpenAI's life-sciences model is leaving research preview with pricing dates attached.",
@@ -204,12 +162,6 @@
       "kind": "name",
       "example": "The Postal Service said it would not deliver ballots from states that failed to pre-clear mail-ballot envelope designs with the federal government and submit voter lists to an online portal that had not yet launched.",
       "reason": "AP browser-visible story describes the Postal Service implementation of the mail-ballot order; AP curl body was unusable."
-    },
-    {
-      "claim": "S&P",
-      "kind": "name",
-      "example": "AP says the S&P 500 rose 0.9 percent, the Dow added 509 points, and the Nasdaq gained 1 percent after Brent crude eased 2.8 percent to 104 dollars and 61 cents a barrel.",
-      "reason": "AP market story reported the S&P 500 move; AP curl body was unusable."
     },
     {
       "claim": "Supreme Court",
