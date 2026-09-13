@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-13",
+  "cutoff": "2026-09-13T19:18:53-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-03_morning-brief-script.md",
+    "2026-09-07_morning-brief-script.md",
+    "2026-09-08_morning-brief-script.md",
+    "2026-09-09_morning-brief-script.md",
+    "2026-09-10_morning-brief-script.md",
+    "2026-09-11_morning-brief-script.md",
+    "2026-09-12_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "fema-staffing-ruling",
+      "beat": "national",
+      "event_date": "2026-09-12",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/fema-staffing-cuts-half-ruling-homeland-security-e56494458ed43faacccebb3d62eeb30f"
+      ],
+      "decision": "selected",
+      "novelty": "Not covered in the previous seven scripts; fresh court ruling changes disaster-agency leverage."
+    },
+    {
+      "id": "hormuz-ship-strike",
+      "beat": "national",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/27d276de911a983cdb1b81101ee56083"
+      ],
+      "decision": "selected",
+      "novelty": "Prior episodes covered Gulf escalation and oil, but this is a new vessel-strike fact and is treated compactly."
+    },
+    {
+      "id": "trump-dividend-congress",
+      "beat": "national",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/437910454c66a3adbfd2f66dae20ad04",
+        "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress"
+      ],
+      "decision": "selected",
+      "novelty": "New congressional-authority clarification; not previously covered."
+    },
+    {
+      "id": "osu-chalking-ban",
+      "beat": "columbus",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response",
+        "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response?_amp=true"
+      ],
+      "decision": "selected",
+      "novelty": "New university response and lawsuit posture; different from earlier Columbus development and policing stories."
+    },
+    {
+      "id": "mortgage-daily-seven",
+      "beat": "home_lending",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.mortgagenewsdaily.com/",
+        "https://www.freddiemac.com/pmms",
+        "https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-11-2026"
+      ],
+      "decision": "selected",
+      "novelty": "Prior episodes cited weekly surveys; this uses the daily-pricing break above the weekly rate as a lock-desk workflow story."
+    },
+    {
+      "id": "rogo-bank-investors",
+      "beat": "bank_ai",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://rogo.com/news/strategic-investors"
+      ],
+      "decision": "selected",
+      "novelty": "New ledger institution and lane; not previously covered."
+    },
+    {
+      "id": "frontier-ai-slowdown",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
+        "https://apnews.com/article/d59552edcb27892d8ee4d98a48397706",
+        "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/"
+      ],
+      "decision": "selected",
+      "novelty": "Fresh administration response to the slowdown push; advances the frontier policy thread rather than repeating a model release."
+    },
+    {
+      "id": "cota-september-service",
+      "beat": "columbus",
+      "event_date": "2026-09-07",
+      "publication_date": "2026-09-04",
+      "sources": [
+        "https://cota.com/blog/cota-launches-september-service-changes-including-new-bus-line-and-extension-of-major-line-to-dublin/"
+      ],
+      "decision": "rejected",
+      "novelty": "Already covered on September 7; no new service-change fact found."
+    },
+    {
+      "id": "mail-voting-litigation",
+      "beat": "national",
+      "event_date": "2026-09-12",
+      "publication_date": "2026-09-12",
+      "sources": [
+        "https://apnews.com/article/5c7127fe5be5d7b07d310b7c2c3d51d9"
+      ],
+      "decision": "rejected",
+      "novelty": "Active tracker item but no new Supreme Court or election-office trigger after September 12 coverage."
+    }
+  ],
+  "stories": [
+    {
+      "id": "fema-staffing-ruling",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-12",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/fema-staffing-cuts-half-ruling-homeland-security-e56494458ed43faacccebb3d62eeb30f"
+      ],
+      "new_fact": "A federal judge ruled the Trump administration's plan to cut FEMA staffing by 50 percent was unlawful.",
+      "new_takeaway": "Disaster readiness now turns on remedies, staffing instructions, and whether lost institutional knowledge can be rebuilt.",
+      "why_now": "The ruling was issued Saturday night and AP published the update Sunday.",
+      "previous_coverage": "No prior episode in the comparison set covered FEMA staffing cuts.",
+      "uncertainty": "The parties still have to negotiate the remedy; the ruling does not automatically restore every lost role.",
+      "watch": "Remedy talks, hiring or recalls, and any congressional staffing-planning requirement."
+    },
+    {
+      "id": "hormuz-ship-strike",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/27d276de911a983cdb1b81101ee56083"
+      ],
+      "new_fact": "Iranian media reported one death and three injuries after a commercial ship was struck near Qeshm Island in the Strait of Hormuz.",
+      "new_takeaway": "The oil-risk question is now commercial behavior around vessels, not only missile interceptions or crude headlines.",
+      "why_now": "The ship-strike report and maritime confirmation were Sunday developments.",
+      "previous_coverage": "Previous scripts covered Gulf escalation and oil risk, but not this vessel-strike fact.",
+      "uncertainty": "It is unclear whether UKMTO's vessel report refers to the same incident and whether more attacks will follow.",
+      "watch": "Reroutes, insurance pricing, naval escorts, and repeated vessel strikes."
+    },
+    {
+      "id": "trump-dividend-congress",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/437910454c66a3adbfd2f66dae20ad04",
+        "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress"
+      ],
+      "new_fact": "House Speaker Mike Johnson said Trump's proposed $5,000 dividend checks would require congressional approval.",
+      "new_takeaway": "The proposal is campaign politics until legislative text, funding, and coalition support exist.",
+      "why_now": "Johnson's Sunday comments clarified authority after Trump's pledge.",
+      "previous_coverage": "Not covered in the prior seven scripts.",
+      "uncertainty": "No enacted bill, funding plan, or distribution schedule exists.",
+      "watch": "Whether a bill is introduced and whether Republicans agree on offsets or deficit effects."
+    },
+    {
+      "id": "osu-chalking-ban",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response",
+        "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response?_amp=true"
+      ],
+      "new_fact": "Ohio State said it disagrees with the ACLU's analysis of the campus chalking ban, while the ACLU says it is prepared to file a lawsuit.",
+      "new_takeaway": "The local issue is public-institution enforcement consistency, not merely a student-expression skirmish.",
+      "why_now": "The WOSU report was published September 11, within the 48-hour window for the September 13 episode.",
+      "previous_coverage": "No prior episode in the comparison set covered the OSU chalking dispute.",
+      "uncertainty": "The ACLU has threatened litigation but has not yet filed the cited lawsuit.",
+      "watch": "A complaint, injunction request, or university policy revision."
+    },
+    {
+      "id": "mortgage-daily-seven",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "https://www.mortgagenewsdaily.com/",
+        "https://www.freddiemac.com/pmms",
+        "https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-11-2026"
+      ],
+      "new_fact": "Mortgage News Daily showed 30-year fixed rates above seven percent while Freddie Mac's weekly survey still showed 6.76 percent.",
+      "new_takeaway": "The workflow consequence is lock-desk triage for active purchase files whose daily quotes diverged from the weekly public survey.",
+      "why_now": "The daily rate update was dated September 11 and remains the actionable Sunday/Monday pipeline issue.",
+      "previous_coverage": "Recent episodes covered rates and VantageScore; this is a different takeaway about daily pricing versus weekly survey lag.",
+      "uncertainty": "Daily surveys can change quickly and lender-specific pricing may differ.",
+      "watch": "10-year Treasury, MBS spreads, lock expirations, and post-Fed lender pricing."
+    },
+    {
+      "id": "rogo-bank-investors",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://rogo.com/news/strategic-investors"
+      ],
+      "new_fact": "Rogo said Citi, Barclays, BNP Paribas, MUFG, and Societe Generale joined as strategic investors and that its platform is used across investment banking, wealth management, and asset management.",
+      "new_takeaway": "The bank-AI signal is real buyer interest in research copilots, but no task-level quality or productivity baseline has been disclosed.",
+      "why_now": "It is a previously uncovered specialist update from the last seven days and adds a new ledger row.",
+      "previous_coverage": "Prior bank AI segments covered Better, OpenAI financial services, Truist, and FIS; Rogo has not been covered.",
+      "uncertainty": "The source is a company claim and does not disclose audited bank outcomes.",
+      "watch": "Named bank production scope, entitlement controls, audited quality metrics, or compliance review results.",
+      "date_exception": "Sunday was quieter for fresh bank-AI disclosures; this September 10 specialist update changes the ledger and is operationally relevant."
+    },
+    {
+      "id": "frontier-ai-slowdown",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
+        "https://apnews.com/article/d59552edcb27892d8ee4d98a48397706",
+        "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/"
+      ],
+      "new_fact": "Trump downplayed checks on AI development after AI leaders called for slowing frontier progress so safety measures can catch up.",
+      "new_takeaway": "The immediate frontier issue is whether safety concerns turn into enforceable lab policy, voluntary commitments, or unchanged acceleration.",
+      "why_now": "AP published Trump's response Sunday, following Amodei's Saturday warning.",
+      "previous_coverage": "Previous frontier episodes covered model launches, misuse, and trusted access; this advances the policy/control thread.",
+      "uncertainty": "The extreme agent-swarm scenario is a lab-executive warning, not independently measured public evidence.",
+      "watch": "Government rulemaking, lab evaluator access, voluntary pacts, and any bank-facing changes to model access or pricing.",
+      "frontier_bar": "Policy that binds labs directly and safety/security findings."
+    },
+    {
+      "id": "markets-friday-relief",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-11",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://finance.yahoo.com/quote/SPY",
+        "https://finance.yahoo.com/quote/QQQ",
+        "https://finance.yahoo.com/quote/DIA",
+        "https://finance.yahoo.com/quote/TLT",
+        "https://finance.yahoo.com/quote/USO"
+      ],
+      "new_fact": "Risk ETFs closed higher Friday while USO fell.",
+      "new_takeaway": "The market tone was relief, but not enough to remove rate and inflation pressure.",
+      "why_now": "Markets were closed Sunday, so Friday's close is the latest tradable signal.",
+      "previous_coverage": "Markets are covered daily but compactly.",
+      "uncertainty": "ETF quotes and market pages update dynamically.",
+      "watch": "Fed meeting, oil risk, and Treasury-yield reaction."
+    },
+    {
+      "id": "columbus-weather-sept-13",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-13",
+      "publication_date": "2026-09-13",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "The Columbus forecast called for warm, breezy Sunday conditions with a thunderstorm in spots and a less humid Monday.",
+      "new_takeaway": "Sunday evening plans need radar awareness; Monday is the cleaner reset day.",
+      "why_now": "Weather is time-sensitive for Sunday evening and Monday morning planning.",
+      "previous_coverage": "Weather is routine daily service content.",
+      "uncertainty": "Forecasts update hourly and storm placement is localized.",
+      "watch": "Radar, wind/hail/downpour risk, and Monday commute conditions."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "ae2d239bd9817f109c932547a98ee8130fb7b891a851be8d7ca1112118eab2a0"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/fema-staffing-cuts-half-ruling-homeland-security-e56494458ed43faacccebb3d62eeb30f",
+      "reason": "AP returned a 16-character command-line body to the checker; the FEMA ruling facts were verified from the AP page during research."
+    },
+    {
+      "claim": "https://apnews.com/article/27d276de911a983cdb1b81101ee56083",
+      "reason": "AP returned a 16-character command-line body to the checker; the Hormuz vessel facts were verified from the AP page during research."
+    },
+    {
+      "claim": "https://apnews.com/article/437910454c66a3adbfd2f66dae20ad04",
+      "reason": "AP returned a 16-character command-line body to the checker; the dividend and congressional-authority facts were verified from the AP page during research."
+    },
+    {
+      "claim": "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress",
+      "reason": "Axios returned a 16-character command-line body to the checker; it was used only as corroboration for the AP-reported congressional-authority point."
+    },
+    {
+      "claim": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
+      "reason": "AP returned a 16-character command-line body to the checker; the AI-policy facts were verified from the AP page during research."
+    },
+    {
+      "claim": "https://apnews.com/article/d59552edcb27892d8ee4d98a48397706",
+      "reason": "AP returned a 16-character command-line body to the checker; the lab-leader slowdown context was verified from the AP page during research."
+    },
+    {
+      "claim": "FEMA",
+      "reason": "FEMA appears in the AP FEMA story, but the AP page is command-line inaccessible and recorded above as a source exception."
+    },
+    {
+      "claim": "Because FEMA",
+      "reason": "False positive from sentence-start extraction; FEMA is supported by the AP FEMA source exception."
+    },
+    {
+      "claim": "Homeland Security",
+      "reason": "Homeland Security appears in the AP FEMA story, but the AP page is command-line inaccessible and recorded above as a source exception."
+    },
+    {
+      "claim": "Government Accountability Office",
+      "reason": "The GAO reference is in the AP FEMA story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "GAO",
+      "reason": "GAO is the acronym for Government Accountability Office in the AP FEMA story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "Congress",
+      "reason": "Congress is used in both the AP FEMA remedy watch and AP dividend authority story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "House Speaker Mike Johnson",
+      "reason": "Johnson's congressional-approval comment is from the AP dividend story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Republicans",
+      "reason": "The party reference is from the AP dividend story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Republican",
+      "reason": "The coalition reference is an inference from the AP-reported Johnson/Trump dividend proposal and is tied to the command-line-inaccessible AP source."
+    },
+    {
+      "claim": "Iranian",
+      "reason": "The Iranian-media attribution is from the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Qeshm Island",
+      "reason": "Qeshm Island is named in the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "UK Maritime Trade Operations",
+      "reason": "UKMTO is cited in the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Ireland",
+      "reason": "Trump's Ireland visit is reported in the AP AI-policy story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive spanning the section phrase 'AI in Banking, I'; no factual claim."
+    },
+    {
+      "claim": "VantageScore",
+      "reason": "VantageScore is supported by the cited Freddie Mac PMMS/context source and the active story tracker; source extraction may not retain the word on dynamic pages."
+    },
+    {
+      "claim": "1.0",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "The local weather and WOSU story identify Columbus context; dynamic source extraction may not preserve every local geography term."
+    },
+    {
+      "claim": "SPY",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "QQQ",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "DIA",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "TLT",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "USO",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "89",
+      "reason": "Weather was re-checked against the live forecast at 19:18 America/New_York; the page updates and may move the high after cutoff."
+    },
+    {
+      "claim": "74",
+      "reason": "Weather was re-checked against the live forecast at 19:18 America/New_York; the page updates and may move the forecast after cutoff."
+    },
+    {
+      "claim": "86",
+      "reason": "Weather was re-checked against the live forecast at 19:18 America/New_York; the page updates and may move the forecast after cutoff."
+    }
+  ]
+}

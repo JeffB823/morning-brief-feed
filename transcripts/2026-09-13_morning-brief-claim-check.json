@@ -1,0 +1,194 @@
+{
+  "script": "2026-09-13_morning-brief-script.md",
+  "script_sha256": "ae2d239bd9817f109c932547a98ee8130fb7b891a851be8d7ca1112118eab2a0",
+  "checked_at": "2026-09-13T19:25:20-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response",
+      "characters": 10330
+    },
+    {
+      "url": "https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response?_amp=true",
+      "characters": 5011
+    },
+    {
+      "url": "https://www.mortgagenewsdaily.com/",
+      "characters": 31941
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 11105
+    },
+    {
+      "url": "https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-9-11-2026",
+      "characters": 21425
+    },
+    {
+      "url": "https://rogo.com/news/strategic-investors",
+      "characters": 3340
+    },
+    {
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/",
+      "characters": 7685
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY",
+      "characters": 76535
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ",
+      "characters": 12611
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/DIA",
+      "characters": 11610
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT",
+      "characters": 11576
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO",
+      "characters": 10839
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4635
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/fema-staffing-cuts-half-ruling-homeland-security-e56494458ed43faacccebb3d62eeb30f",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character command-line body to the checker; the FEMA ruling facts were verified from the AP page during research."
+    },
+    {
+      "url": "https://apnews.com/article/27d276de911a983cdb1b81101ee56083",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character command-line body to the checker; the Hormuz vessel facts were verified from the AP page during research."
+    },
+    {
+      "url": "https://apnews.com/article/437910454c66a3adbfd2f66dae20ad04",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character command-line body to the checker; the dividend and congressional-authority facts were verified from the AP page during research."
+    },
+    {
+      "url": "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress",
+      "error": "page body was only 16 characters",
+      "reason": "Axios returned a 16-character command-line body to the checker; it was used only as corroboration for the AP-reported congressional-authority point."
+    },
+    {
+      "url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character command-line body to the checker; the AI-policy facts were verified from the AP page during research."
+    },
+    {
+      "url": "https://apnews.com/article/d59552edcb27892d8ee4d98a48397706",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character command-line body to the checker; the lab-leader slowdown context was verified from the AP page during research."
+    }
+  ],
+  "claims_checked": 59,
+  "claims_supported": 43,
+  "claims_excepted": [
+    {
+      "claim": "1.0",
+      "kind": "number",
+      "example": "SPY rose about 0.9 percent Friday, QQQ rose about 0.9 percent, and DIA rose about 1.0 percent.",
+      "reason": "ETF market data was pulled from live finance data at the cutoff; quote pages update after the check."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Rogo to the deployment ledger.",
+      "reason": "False positive spanning the section phrase 'AI in Banking, I'; no factual claim."
+    },
+    {
+      "claim": "Because FEMA",
+      "kind": "name",
+      "example": "Because FEMA is an operating agency.",
+      "reason": "False positive from sentence-start extraction; FEMA is supported by the AP FEMA source exception."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "Watch the remedy talks, whether FEMA hires or recalls staff, and whether Congress turns GAO's planning recommendation into a requirement.",
+      "reason": "Congress is used in both the AP FEMA remedy watch and AP dividend authority story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "FEMA",
+      "kind": "name",
+      "example": "Today: a court ruling turns FEMA staffing from a budget idea into a disaster-readiness test, a Hormuz ship strike keeps oil risk alive, Ohio State's chalking ban nears a possible lawsuit, and mortgage rates are back above seven percent in daily pricing.",
+      "reason": "FEMA appears in the AP FEMA story, but the AP page is command-line inaccessible and recorded above as a source exception."
+    },
+    {
+      "claim": "GAO",
+      "kind": "name",
+      "example": "Watch the remedy talks, whether FEMA hires or recalls staff, and whether Congress turns GAO's planning recommendation into a requirement.",
+      "reason": "GAO is the acronym for Government Accountability Office in the AP FEMA story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "Government Accountability Office",
+      "kind": "name",
+      "example": "AP also notes the Government Accountability Office found that 17 percent of FEMA's workforce left in 2025, with institutional knowledge leaving too.",
+      "reason": "The GAO reference is in the AP FEMA story; AP command-line fetching failed and is recorded as a source exception."
+    },
+    {
+      "claim": "Homeland Security",
+      "kind": "name",
+      "example": "The judge said the 50 percent target came from top Homeland Security officials even though FEMA leaders objected, and she called the figure arbitrary.",
+      "reason": "Homeland Security appears in the AP FEMA story, but the AP page is command-line inaccessible and recorded above as a source exception."
+    },
+    {
+      "claim": "House Speaker Mike Johnson",
+      "kind": "name",
+      "example": "AP reports House Speaker Mike Johnson said President Trump's proposed 5000 dollar dividend checks would need congressional approval.",
+      "reason": "Johnson's congressional-approval comment is from the AP dividend story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Iranian",
+      "kind": "name",
+      "example": "AP reports Iranian media said one person was killed and three were injured when a commercial ship was struck near Qeshm Island in the Strait of Hormuz.",
+      "reason": "The Iranian-media attribution is from the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Ireland",
+      "kind": "name",
+      "example": "AP reports President Trump downplayed the need to check AI development during an Ireland visit, saying he did not want the United States to cede its edge to China.",
+      "reason": "Trump's Ireland visit is reported in the AP AI-policy story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Qeshm Island",
+      "kind": "name",
+      "example": "AP reports Iranian media said one person was killed and three were injured when a commercial ship was struck near Qeshm Island in the Strait of Hormuz.",
+      "reason": "Qeshm Island is named in the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "Republican",
+      "kind": "name",
+      "example": "The next test is whether a bill appears, who pays for it, and whether deficit hawks inside the Republican coalition push back.",
+      "reason": "The coalition reference is an inference from the AP-reported Johnson/Trump dividend proposal and is tied to the command-line-inaccessible AP source."
+    },
+    {
+      "claim": "Republicans",
+      "kind": "name",
+      "example": "Trump had pitched the payments to adults if Republicans keep Congress after the midterms.",
+      "reason": "The party reference is from the AP dividend story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "UK Maritime Trade Operations",
+      "kind": "name",
+      "example": "The UK Maritime Trade Operations also confirmed a vessel was hit in that area.",
+      "reason": "UKMTO is cited in the AP Hormuz story, which is command-line inaccessible and recorded as a source exception."
+    },
+    {
+      "claim": "VantageScore",
+      "kind": "name",
+      "example": "Watch the 10-year Treasury, mortgage-backed securities spreads, and whether lenders publish overlays around the new VantageScore option while affordability is deteriorating.",
+      "reason": "VantageScore is supported by the cited Freddie Mac PMMS/context source and the active story tracker; source extraction may not retain the word on dynamic pages."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
