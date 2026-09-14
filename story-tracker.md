@@ -1,37 +1,31 @@
-# Story Tracker - updated 2026-09-13
+# Story Tracker - updated 2026-09-14
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## FEMA Staffing Ruling
-- Last covered / verified development: 2026-09-13; AP reported a federal judge ruled the Trump administration's planned 50 percent FEMA staffing cut unlawful and ordered the parties to negotiate remedies.
-- Last takeaway: Disaster readiness now turns on whether remedies produce actual staffing instructions, hiring, recalls, or strategic workforce requirements before the next emergency.
-- Source: https://apnews.com/article/fema-staffing-cuts-half-ruling-homeland-security-e56494458ed43faacccebb3d62eeb30f
-- Revisit only for: remedy order, negotiated staffing plan, FEMA hiring/recall instructions, DHS appeal, or congressional workforce-planning requirement. Expire September 18 without a development.
+## Mail-Ballot Rule Litigation
+- Last covered / verified development: 2026-09-14; AP reported U.S. District Judge Carl Nichols issued a second injunction blocking Postal Service implementation of Trump's mail-ballot rule while the Supreme Court considers a related order.
+- Last takeaway: Election operations now turn on Supreme Court timing versus ballot-envelope and voter-file work already underway.
+- Source: https://apnews.com/article/trump-mail-voting-executive-order-midterms-906aa1247f096609e61a1bd2369a57e9
+- Revisit only for: Supreme Court order, revised Postal Service rule, state compliance instruction, ballot-design emergency filing, or verified mail-ballot disruption. Expire September 19 without a development.
 
-## Strait of Hormuz Vessel Risk
-- Last covered / verified development: 2026-09-13; AP reported Iranian media said one person was killed and three were injured when a commercial ship was struck near Qeshm Island in the Strait of Hormuz, with UKMTO confirming a vessel hit in the area.
-- Last takeaway: The oil-risk watch is now commercial behavior around vessels, insurance, routes and escorts, not just intercepted attacks.
-- Source: https://apnews.com/article/27d276de911a983cdb1b81101ee56083
-- Revisit only for: another vessel strike, shipping reroutes, insurance/escort changes, port disruption, or a verified oil-supply impact. Expire September 18 without a development.
+## Amazon / 21 Air Crash Response
+- Last covered / verified development: 2026-09-14; AP reported Amazon paused operations with 21 Air after the September 6 Miami runway crash involving Flight 7598 killed five people.
+- Last takeaway: The accident is now also a logistics vendor-control story while the NTSB investigates cause.
+- Source: https://apnews.com/article/miami-runway-amazon-plane-21-air-96df901b1a8b86648f1b060a457b8fd9
+- Revisit only for: cockpit transcript release, NTSB preliminary finding, Amazon permanent carrier action, FAA enforcement, or disclosed new carrier requirements. Expire September 19 without a development.
 
-## OSU Chalking Ban Litigation Threat
-- Last covered / verified development: 2026-09-13; WOSU reported Ohio State stands by its chalking ban after the ACLU of Ohio challenged the policy and said it is prepared to file a lawsuit.
-- Last takeaway: The Central Ohio issue is whether a major public university can enforce a supposedly neutral facilities rule without creating First Amendment and consistency risk.
-- Source: https://www.wosu.org/politics-government/2026-09-11/ohio-state-stands-by-chalking-ban-despite-aclus-challenge-students-question-the-response
-- Revisit only for: filed complaint, injunction request, court order, public-records disclosure, or OSU policy revision. Expire September 18 without a development.
+## Mortgage Refi / Servicing Convexity
+- Last covered / verified development: 2026-09-14; WSJ reported more than 40 percent of unpaid mortgage balances had rates of 5 percent or higher as of July, changing prepayment risk if rates fall.
+- Last takeaway: Servicers and lenders should prepare retention triggers for higher-coupon loans, not only lock-desk triage for new purchase files.
+- Source: https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5
+- Revisit only for: post-Fed mortgage-rate drop, MBS spread shock, servicer retention guidance, refinance-application jump, or investor prepayment warning. Expire September 19 without a development.
 
-## Mortgage Daily Pricing Above Seven Percent
-- Last covered / verified development: 2026-09-13; Mortgage News Daily showed the 30-year fixed rate above seven percent on September 11 while Freddie Mac's weekly survey still showed 6.76 percent.
-- Last takeaway: The operational issue is lock-desk triage for active purchase files whose daily quotes moved beyond the public weekly survey.
-- Source: https://www.mortgagenewsdaily.com/
-- Revisit only for: post-Fed rate reversal, sustained daily pricing above seven percent, lender lock/overlay guidance, major MBS spread move, or borrower pipeline data. Expire September 18 without a development.
-
-## Frontier AI Slowdown Debate
-- Last covered / verified development: 2026-09-13; AP reported President Trump downplayed checks on AI development after Dario Amodei and other major AI leaders argued for slowing frontier progress so safety measures can catch up.
-- Last takeaway: The practical frontier issue is whether safety concern becomes a rule, evaluator-access commitment, voluntary lab pact, or unchanged acceleration.
-- Source: https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d
-- Revisit only for: White House rulemaking, congressional action, signed lab pact, independent evaluator access, model-access change, or a bank-facing deployment impact. Expire September 18 without a development.
+## U.S.-China AI Governance
+- Last covered / verified development: 2026-09-14; AP reported China's Foreign Ministry criticized Dario Amodei's AI pacing and chip-restriction argument ahead of a planned September 24 Trump-Xi meeting that may include AI governance.
+- Last takeaway: The frontier AI slowdown debate has become a diplomatic and export-control question, not only a lab-safety warning.
+- Source: https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8
+- Revisit only for: summit agenda details, export-control change, lab-access agreement, international safety framework, or independent evaluator access. Expire September 19 without a development.
 
 ## Retired From Automatic Carryover
 
-August CPI alone, Ohio local referendum threshold, Fannie Mae VantageScore mechanics, Truist AI Call Summaries, Anthropic September misuse report, Franklin County Flock misuse review, OpenAI Financial Services Assistant, ChatGPT Images 2.5, August PPI relief alone, Canada import bans, oil above $100, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Grove City data-center charter fight, and routine high-six mortgage rates remain off the script unless a verified new event creates a different takeaway.
+FEMA staffing ruling, Strait of Hormuz vessel risk, OSU chalking-ban dispute, Mortgage daily pricing above seven percent alone, frontier AI slowdown debate without new policy/diplomatic development, August CPI alone, Ohio local referendum threshold, Fannie Mae VantageScore mechanics, Truist AI Call Summaries, Anthropic September misuse report, Franklin County Flock misuse review, OpenAI Financial Services Assistant, ChatGPT Images 2.5, August PPI relief alone, Canada import bans, oil above $100, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Grove City data-center charter fight, and routine high-six mortgage rates remain off the script unless a verified new event creates a different takeaway.

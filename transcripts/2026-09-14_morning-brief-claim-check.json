@@ -1,0 +1,305 @@
+{
+  "script": "2026-09-14_morning-brief-script.md",
+  "script_sha256": "c58d54b930af3f817946f7bc23a6e656f7f3cbf2c8066fdddcb7d130857f22c8",
+  "checked_at": "2026-09-14T07:51:30-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 11105
+    },
+    {
+      "url": "https://gradient-labs.ai/customers/pockit",
+      "characters": 11409
+    },
+    {
+      "url": "https://gradient-labs.ai/",
+      "characters": 32161
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY",
+      "characters": 12239
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4695
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/trump-mail-voting-executive-order-midterms-906aa1247f096609e61a1bd2369a57e9",
+      "error": "page body was only 16 characters",
+      "reason": "The AP article was opened and read in the browser tool at cutoff, but the command-line verifier received a 16-character unusable body."
+    },
+    {
+      "url": "https://apnews.com/article/miami-runway-amazon-plane-21-air-96df901b1a8b86648f1b060a457b8fd9",
+      "error": "page body was only 16 characters",
+      "reason": "The AP article was opened and read in the browser tool at cutoff, but the command-line verifier received a 16-character unusable body."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/14/ohio-political-threats-amy-acton-election",
+      "error": "page body was only 16 characters",
+      "reason": "The Axios article was opened and read in the browser tool at cutoff, but the command-line verifier received a 16-character unusable body."
+    },
+    {
+      "url": "https://www.axios.com/newsletters/axios-columbus-a05df43a-b2d0-4023-aa16-702ab3484629",
+      "error": "page body was only 16 characters",
+      "reason": "The Axios newsletter was opened and read in the browser/search tool at cutoff, but the command-line verifier received a 16-character unusable body."
+    },
+    {
+      "url": "https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5",
+      "error": "page body was only 51 characters",
+      "reason": "The WSJ article excerpt was opened in the browser tool at cutoff; the command-line verifier received only a short unusable body."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f",
+      "error": "page body was only 59 characters",
+      "reason": "The MarketWatch article was opened and read in the browser tool at cutoff, but the command-line verifier received only a short unusable body."
+    },
+    {
+      "url": "https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8",
+      "error": "page body was only 16 characters",
+      "reason": "The AP article was opened and read in the browser tool at cutoff, but the command-line verifier received a 16-character unusable body."
+    }
+  ],
+  "claims_checked": 59,
+  "claims_supported": 20,
+  "claims_excepted": [
+    {
+      "claim": "2021",
+      "kind": "number",
+      "example": "Franklin County recorded three thousand five hundred fifty distracted-driving crashes from 2021 through 2025, third-highest in Ohio, and the State Highway Patrol issued forty-two thousand three hundred seventy-one distracted-driving citations in 2025.",
+      "reason": "Axios Columbus newsletter source displayed the 2021-2025 Franklin County distracted-driving crash range in the browser/search result, but the command-line fetch failed."
+    },
+    {
+      "claim": "21",
+      "kind": "number",
+      "example": "AP says Amazon paused operations with 21 Air after the September sixth Miami runway crash involving a Boeing 767 loaded with Amazon packages.",
+      "reason": "Company name 21 Air was verified in the AP Miami crash story opened in the browser; the command-line AP fetch failed."
+    },
+    {
+      "claim": "7.07",
+      "kind": "number",
+      "example": "MarketWatch reported Thursday that Mortgage News Daily's thirty-year fixed average reached 7.07 percent, up eighteen basis points in two days, while Freddie Mac's September tenth survey averaged 6.76 percent.",
+      "reason": "MarketWatch article opened in the browser reported Mortgage News Daily's 7.07% figure; the command-line MarketWatch fetch failed."
+    },
+    {
+      "claim": "767",
+      "kind": "number",
+      "example": "AP says Amazon paused operations with 21 Air after the September sixth Miami runway crash involving a Boeing 767 loaded with Amazon packages.",
+      "reason": "Boeing 767 detail was verified in the AP Miami crash story opened in the browser; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Acton",
+      "kind": "name",
+      "example": "Axios notes Acton previously faced armed and antisemitic protests outside her Bexley home while she was state health director.",
+      "reason": "Axios Columbus article and newsletter sources identifying Amy Acton were opened in the browser; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Alabama North Carolina and Wisconsin",
+      "kind": "name",
+      "example": "AP says mail ballots are already going out in Alabama, North Carolina, and Wisconsin, with more states preparing this week.",
+      "reason": "AP mail-ballot article opened in the browser named these states; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Amazon",
+      "kind": "name",
+      "example": "Today: election administrators get another court shield while the Supreme Court weighs mail-ballot rules, Amazon turns a fatal cargo crash into a vendor oversight story, and mortgage desks face a different refi problem if rates finally break lower.",
+      "reason": "AP Miami crash article opened in the browser reported Amazon's 21 Air pause; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Amodei",
+      "kind": "name",
+      "example": "Amodei argued Saturday for global pacing and said continued export limits were needed to preserve the U.S.",
+      "reason": "AP China/Anthropic article opened in the browser identified Dario Amodei and his argument; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Amy Acton",
+      "kind": "name",
+      "example": "In Central Ohio, Axios Columbus turns the Amy Acton incident into a broader public-service pressure story.",
+      "reason": "Axios Columbus article and newsletter sources identifying Amy Acton were opened in the browser; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Axios",
+      "kind": "name",
+      "example": "Axios notes Acton previously faced armed and antisemitic protests outside her Bexley home while she was state health director.",
+      "reason": "Axios Columbus sources were opened in the browser/search tool, but command-line fetch returned unusable bodies."
+    },
+    {
+      "claim": "Bexley",
+      "kind": "name",
+      "example": "Axios notes Acton previously faced armed and antisemitic protests outside her Bexley home while she was state health director.",
+      "reason": "Axios Columbus source tied Acton's prior protests to Bexley; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Boeing",
+      "kind": "name",
+      "example": "AP says Amazon paused operations with 21 Air after the September sixth Miami runway crash involving a Boeing 767 loaded with Amazon packages.",
+      "reason": "AP Miami crash article opened in the browser described the Boeing aircraft; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Boston",
+      "kind": "name",
+      "example": "District Judge Carl Nichols late Sunday blocked the Postal Service from implementing President Trump's mail-ballot executive order, adding a second federal injunction while the Supreme Court already considers a related Boston order.",
+      "reason": "AP mail-ballot article opened in the browser described the related Boston order; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Canfield Fair",
+      "kind": "name",
+      "example": "Patrick Havas, the man arrested September sixth at the Canfield Fair, pleaded not guilty Tuesday to assault, disorderly conduct, and inducing panic, and was released on a five-thousand-dollar bond.",
+      "reason": "Axios Columbus article opened in the browser described the Canfield Fair arrest; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Because the risk has Central Ohio anchors.",
+      "reason": "Local framing is the episode's Columbus beat and is supported by the Axios Columbus sources opened in the browser."
+    },
+    {
+      "claim": "Central Ohio Axios Columbus",
+      "kind": "name",
+      "example": "In Central Ohio, Axios Columbus turns the Amy Acton incident into a broader public-service pressure story.",
+      "reason": "Local framing and Axios Columbus sourcing were verified in the browser/search tool; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "China",
+      "kind": "name",
+      "example": "On the frontier, the story advanced overnight because China answered Anthropic's safety argument.",
+      "reason": "AP China/Anthropic article opened in the browser verified the China response; the command-line AP fetch failed."
+    },
+    {
+      "claim": "China Foreign Ministry",
+      "kind": "name",
+      "example": "AP reports China's Foreign Ministry on Monday criticized Dario Amodei's call for continued restrictions on advanced AI chips and chipmaking equipment to China.",
+      "reason": "AP China/Anthropic article opened in the browser identified China's Foreign Ministry response; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Dario Amodei",
+      "kind": "name",
+      "example": "AP reports China's Foreign Ministry on Monday criticized Dario Amodei's call for continued restrictions on advanced AI chips and chipmaking equipment to China.",
+      "reason": "AP China/Anthropic article opened in the browser identified Dario Amodei and his argument; the command-line AP fetch failed."
+    },
+    {
+      "claim": "District Judge Carl Nichols",
+      "kind": "name",
+      "example": "District Judge Carl Nichols late Sunday blocked the Postal Service from implementing President Trump's mail-ballot executive order, adding a second federal injunction while the Supreme Court already considers a related Boston order.",
+      "reason": "AP mail-ballot article opened in the browser identified Judge Carl Nichols; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Frank LaRose",
+      "kind": "name",
+      "example": "It also cites Frank LaRose receiving a threatening letter with powder at his Upper Arlington home in 2024.",
+      "reason": "Axios Columbus article opened in the browser included the Frank LaRose Upper Arlington threat example; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Miami",
+      "kind": "name",
+      "example": "AP says Amazon paused operations with 21 Air after the September sixth Miami runway crash involving a Boeing 767 loaded with Amazon packages.",
+      "reason": "AP Miami crash article opened in the browser verified the location; the command-line AP fetch failed."
+    },
+    {
+      "claim": "National Transportation Safety Board",
+      "kind": "name",
+      "example": "The National Transportation Safety Board is still investigating.",
+      "reason": "AP Miami crash article opened in the browser described the NTSB investigation; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Nichols",
+      "kind": "name",
+      "example": "Nichols said the plaintiffs showed a risk that lawful absentee or mail ballots would not be counted.",
+      "reason": "AP mail-ballot article opened in the browser identified Judge Nichols and his order; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "The larger data point is that Princeton's Bridging Divides Initiative documented more than twenty-one hundred reported threats and harassment events from January 2022 through April 2026, including eighty-one in Ohio, according to Axios' analysis.",
+      "reason": "Axios Columbus sources opened in the browser/search tool included Ohio threat and distracted-driving data; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Ohio and the State Highway Patrol",
+      "kind": "name",
+      "example": "Franklin County recorded three thousand five hundred fifty distracted-driving crashes from 2021 through 2025, third-highest in Ohio, and the State Highway Patrol issued forty-two thousand three hundred seventy-one distracted-driving citations in 2025.",
+      "reason": "Axios Columbus newsletter/search text reported Ohio State Highway Patrol distracted-driving data; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Patrick Havas",
+      "kind": "name",
+      "example": "Patrick Havas, the man arrested September sixth at the Canfield Fair, pleaded not guilty Tuesday to assault, disorderly conduct, and inducing panic, and was released on a five-thousand-dollar bond.",
+      "reason": "Axios Columbus article opened in the browser identified Patrick Havas; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Pockit AI",
+      "kind": "name",
+      "example": "The new row records an actual customer-support task: Pockit's AI agent handles inbound chat and email across a broad set of regulated fintech support topics.",
+      "reason": "Gradient Labs' Pockit customer case study was fetched and verified by the command-line checker, but the extracted phrase joins the company and AI descriptor."
+    },
+    {
+      "claim": "Postal Service",
+      "kind": "name",
+      "example": "District Judge Carl Nichols late Sunday blocked the Postal Service from implementing President Trump's mail-ballot executive order, adding a second federal injunction while the Supreme Court already considers a related Boston order.",
+      "reason": "AP mail-ballot article opened in the browser verified the Postal Service rule details; the command-line AP fetch failed."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "District Judge Carl Nichols late Sunday blocked the Postal Service from implementing President Trump's mail-ballot executive order, adding a second federal injunction while the Supreme Court already considers a related Boston order.",
+      "reason": "AP mail-ballot article opened in the browser identified President Trump's executive order; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Princeton Bridging Divides Initiative",
+      "kind": "name",
+      "example": "The larger data point is that Princeton's Bridging Divides Initiative documented more than twenty-one hundred reported threats and harassment events from January 2022 through April 2026, including eighty-one in Ohio, according to Axios' analysis.",
+      "reason": "Axios Columbus source opened in the browser identified the Bridging Divides Initiative; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Supreme Court",
+      "kind": "name",
+      "example": "Today: election administrators get another court shield while the Supreme Court weighs mail-ballot rules, Amazon turns a fatal cargo crash into a vendor oversight story, and mortgage desks face a different refi problem if rates finally break lower.",
+      "reason": "AP mail-ballot article opened in the browser described Supreme Court review; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Trump and Xi",
+      "kind": "name",
+      "example": "But the operational change is real: AP says Trump and Xi are expected to discuss AI governance at a September twenty-fourth meeting.",
+      "reason": "AP China/Anthropic article opened in the browser reported Trump and Xi are expected to discuss AI governance; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Trump-Xi",
+      "kind": "name",
+      "example": "Three, whether the September twenty-fourth Trump-Xi meeting produces an AI governance mechanism or only positioning.",
+      "reason": "AP China/Anthropic article opened in the browser reported the planned Trump-Xi AI governance discussion; the command-line AP fetch failed."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "So the frontier issue moved from a weekend warning to a U.S.-China agenda item.",
+      "reason": "AP China/Anthropic article opened in the browser supported the U.S.-China governance framing; the command-line AP fetch failed."
+    },
+    {
+      "claim": "Upper Arlington",
+      "kind": "name",
+      "example": "It also cites Frank LaRose receiving a threatening letter with powder at his Upper Arlington home in 2024.",
+      "reason": "Axios Columbus article opened in the browser included the Upper Arlington threat example; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "Wall Street Journal",
+      "kind": "name",
+      "example": "The Wall Street Journal reports more than forty percent of unpaid mortgage balances carried rates of five percent or higher as of July.",
+      "reason": "WSJ mortgage article excerpt was opened in the browser tool at cutoff; command-line fetch returned only a short unusable body."
+    },
+    {
+      "claim": "Youngstown",
+      "kind": "name",
+      "example": "Why make that a Columbus story if the arrest was near Youngstown?",
+      "reason": "Axios Columbus article opened in the browser described the arrest at the Canfield Fair near Youngstown; the command-line Axios fetch failed."
+    },
+    {
+      "claim": "the Fed",
+      "kind": "name",
+      "example": "If the Fed message keeps long rates sticky, a better equity tape will not rescue borrowers who need today's payment to qualify.",
+      "reason": "Fed reference is forward-looking market context for this week's rate decision, not a source-specific historical claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
