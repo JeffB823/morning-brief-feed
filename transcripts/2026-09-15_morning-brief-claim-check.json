@@ -1,0 +1,254 @@
+{
+  "script": "2026-09-15_morning-brief-script.md",
+  "script_sha256": "33edbf1320c9fec1d5021aa383fed8ec949eda95f46d838bb4e2842f8db7d678",
+  "checked_at": "2026-09-15T07:48:48-0400",
+  "sources_fetched": [
+    {
+      "url": "https://news.osu.edu/ohio-states-moritz-college-of-law-to-relocate-to-historic-huntington-building/",
+      "characters": 7712
+    },
+    {
+      "url": "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales",
+      "characters": 16609
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 5004
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/mail-ballots-scotus-supreme-court-trump-6a7774587252d8733aca46908b5d6fc0",
+      "error": "page body was only 16 characters",
+      "reason": "AP opened in the browser with the Supreme Court mail-ballot decision, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "url": "https://apnews.com/article/trump-election-noncitizen-voting-homeland-security-whistleblower-57f6d4bbc11347815020d2e5f241d6f9",
+      "error": "page body was only 16 characters",
+      "reason": "AP opened in the browser with the DHS whistleblower details, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "url": "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6",
+      "error": "page body was only 51 characters",
+      "reason": "WSJ exposes a short article body to automated fetch; the accessible snippet and page lines confirmed the seven-percent mortgage framing and Mortgage News Daily reference."
+    },
+    {
+      "url": "https://pressroom.aboutschwab.com/",
+      "error": "page body was only 16 characters",
+      "reason": "Schwab's press-room search page was used because the direct press-release URL was not exposed by search/open, but the page and search result showed the dated Schwab-Anthropic release; Barron's corroborates the substance."
+    },
+    {
+      "url": "https://www.barrons.com/articles/anthropic-charles-schwab-claude-for-financial-advisors-630ea9a9",
+      "error": "page body was only 55 characters",
+      "reason": "Barron's opened enough in the browser/search result to corroborate the Schwab-Anthropic advisor-tool announcement, but curl saw a short body."
+    },
+    {
+      "url": "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b",
+      "error": "page body was only 16 characters",
+      "reason": "AP opened in the browser with the China AI model competition details, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "url": "https://apnews.com/article/stock-markets-oil-rates-inflation-ai-123ddc2d8ba06c324cbbd899f7eeebd2",
+      "error": "page body was only 16 characters",
+      "reason": "AP opened in the browser with the market/oil figures, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "url": "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-ffd60cca8bb045bb9b1c389f5f1b73af",
+      "error": "page body was only 16 characters",
+      "reason": "AP opened in the browser with the Fed preview, but the command-line fetch returned only a tiny body."
+    }
+  ],
+  "claims_checked": 54,
+  "claims_supported": 23,
+  "claims_excepted": [
+    {
+      "claim": "107",
+      "kind": "number",
+      "example": "futures pointing down and Brent crude above 107 dollars a barrel.",
+      "reason": "AP market story showed Brent crude at 107.93 dollars in the browser-opened article; command-line AP fetch failed."
+    },
+    {
+      "claim": "Advisor Services",
+      "kind": "name",
+      "example": "Schwab says its Advisor Services business is the first registered-investment-advisor custodian included in Anthropic's new Claude for Financial Advisors.",
+      "reason": "Schwab/Barron's source text identifies Schwab Advisor Services; command-line Schwab/Barron's extraction was limited."
+    },
+    {
+      "claim": "Anthropic",
+      "kind": "name",
+      "example": "Schwab says its Advisor Services business is the first registered-investment-advisor custodian included in Anthropic's new Claude for Financial Advisors.",
+      "reason": "Schwab/Barron's and AP frontier sources confirm Anthropic references, but related pages were command-line limited."
+    },
+    {
+      "claim": "Artificial Analysis",
+      "kind": "name",
+      "example": "AP cites Stanford researchers and Artificial Analysis rankings showing the gap is now narrow and fragile.",
+      "reason": "AP China AI story cites Artificial Analysis rankings; command-line AP fetch failed."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Schwab and Anthropic to the deployment ledger.",
+      "reason": "False positive from the phrase AI in Banking, a chapter/beat name rather than an external factual claim."
+    },
+    {
+      "claim": "Barron",
+      "kind": "name",
+      "example": "It is a new announced row with customer-disclosure evidence from Schwab and supporting reporting from Barron's.",
+      "reason": "Barron's is the cited supporting outlet for the Schwab-Anthropic item; its command-line fetch returned a short body."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "futures pointing down and Brent crude above 107 dollars a barrel.",
+      "reason": "AP market story supports the Brent price reference; command-line AP fetch failed."
+    },
+    {
+      "claim": "COTA",
+      "kind": "name",
+      "example": "The city should show how the move fits COTA routes, parking demand, and street-level activation.",
+      "reason": "COTA is the local transit agency named for a forward-looking local execution consideration, not a source-specific claim."
+    },
+    {
+      "claim": "California Colorado Hawaii Nevada Oregon Utah Vermont and Washington",
+      "kind": "name",
+      "example": "AP says about a third of voters use mail ballots, and the pressure was sharpest in eight states where elections are almost entirely by mail: California, Colorado, Hawaii, Nevada, Oregon, Utah, Vermont, and Washington.",
+      "reason": "AP mail-ballot story names the eight mostly mail-voting states; command-line AP fetch failed."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "kind": "name",
+      "example": "Traders were pricing a high probability after the August inflation report and Chair Kevin Warsh's inflation warnings.",
+      "reason": "AP Fed preview names Fed Chair Kevin Warsh and his inflation warnings; command-line AP fetch failed."
+    },
+    {
+      "claim": "China",
+      "kind": "name",
+      "example": "Its new report says China is closing a once-clear U.S.",
+      "reason": "AP China AI source supports this proper noun; command-line AP fetch failed."
+    },
+    {
+      "claim": "Chinese",
+      "kind": "name",
+      "example": "Today: the Supreme Court removes a live election-operations threat, Ohio State makes a downtown workforce bet, mortgage teams confront seven-percent pricing with more inventory but weaker demand, and AI competition shifts from lab warnings to advisor desks and Chinese model pressure.",
+      "reason": "AP China AI source supports this proper noun; command-line AP fetch failed."
+    },
+    {
+      "claim": "Citizenship and Immigration Services",
+      "kind": "name",
+      "example": "A federal whistleblower says a DHS project called the Unlawful Voter Initiative had Citizenship and Immigration Services employees checking state voter tools after less than two hours of training, with a target of forty people per day.",
+      "reason": "AP DHS whistleblower story names Citizenship and Immigration Services employees; command-line AP fetch failed."
+    },
+    {
+      "claim": "Claude",
+      "kind": "name",
+      "example": "Schwab says its Advisor Services business is the first registered-investment-advisor custodian included in Anthropic's new Claude for Financial Advisors.",
+      "reason": "Schwab/Barron's source text confirms Claude for Financial Advisors; command-line extraction was limited."
+    },
+    {
+      "claim": "DHS",
+      "kind": "name",
+      "example": "A federal whistleblower says a DHS project called the Unlawful Voter Initiative had Citizenship and Immigration Services employees checking state voter tools after less than two hours of training, with a target of forty people per day.",
+      "reason": "AP DHS whistleblower story supports DHS references; command-line AP fetch failed."
+    },
+    {
+      "claim": "Drinko Hall",
+      "kind": "name",
+      "example": "Renovation scope, public incentives if any are disclosed, what happens to Drinko Hall on campus, and whether nearby employers turn proximity into paid externships and clerkships.",
+      "reason": "Moritz's public site lists the current Drinko Hall address; the OSU relocation story establishes the move but does not discuss the building's future."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "The practical watch is whether DHS stops the effort, states challenge it, or lawmakers force disclosure before Election Day.",
+      "reason": "The script uses Election Day as the ordinary November election deadline; AP source establishes the pre-election timing."
+    },
+    {
+      "claim": "Financial Advisors",
+      "kind": "name",
+      "example": "Schwab says its Advisor Services business is the first registered-investment-advisor custodian included in Anthropic's new Claude for Financial Advisors.",
+      "reason": "Schwab/Barron's source text confirms Claude for Financial Advisors; command-line extraction was limited."
+    },
+    {
+      "claim": "Moonshot DeepSeek Z.ai and Alibaba",
+      "kind": "name",
+      "example": "AI lead, even under chip restrictions, with Moonshot, DeepSeek, Z.ai, and Alibaba pushing stronger model families.",
+      "reason": "AP China AI story names Moonshot, DeepSeek, Z.ai, and Alibaba model families; command-line AP fetch failed."
+    },
+    {
+      "claim": "NAR August",
+      "kind": "name",
+      "example": "NAR's August data show existing-home sales at a 3.98 million annual pace, down 2 percent from July, while inventory rose to 1.62 million homes and months' supply reached 4.9.",
+      "reason": "NAR source supports August existing-home-sales data; this is a proper-noun extraction artifact."
+    },
+    {
+      "claim": "Postal Service",
+      "kind": "name",
+      "example": "AP reports the Supreme Court late Monday rejected President Trump's push to let the Postal Service decide whether states could receive mail ballots under a new federal envelope and voter-list process.",
+      "reason": "AP mail-ballot source supports Postal Service references; command-line AP fetch failed."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "AP reports the Supreme Court late Monday rejected President Trump's push to let the Postal Service decide whether states could receive mail ballots under a new federal envelope and voter-list process.",
+      "reason": "AP mail-ballot and Fed stories support President Trump references; command-line AP fetch failed."
+    },
+    {
+      "claim": "Schwab",
+      "kind": "name",
+      "example": "Schwab says its Advisor Services business is the first registered-investment-advisor custodian included in Anthropic's new Claude for Financial Advisors.",
+      "reason": "Schwab/Barron's source text confirms the Schwab-Anthropic advisor-tool announcement; command-line extraction was limited."
+    },
+    {
+      "claim": "Schwab and Anthropic",
+      "kind": "name",
+      "example": "For AI in Banking, I added Schwab and Anthropic to the deployment ledger.",
+      "reason": "Schwab/Barron's source text confirms the partnership; command-line extraction was limited."
+    },
+    {
+      "claim": "South High Street",
+      "kind": "name",
+      "example": "In Columbus, Ohio State announced Monday that the Moritz College of Law will move downtown into the historic Huntington National Bank Building at 17 South High Street, with an expected opening in fall 2029.",
+      "reason": "Ohio State source identifies the Huntington building at 17 S. High St.; the script uses the spoken form South High Street."
+    },
+    {
+      "claim": "Stanford",
+      "kind": "name",
+      "example": "AP cites Stanford researchers and Artificial Analysis rankings showing the gap is now narrow and fragile.",
+      "reason": "AP China AI story cites Stanford context; command-line AP fetch failed."
+    },
+    {
+      "claim": "Supreme Court",
+      "kind": "name",
+      "example": "AP reports the Supreme Court late Monday rejected President Trump's push to let the Postal Service decide whether states could receive mail ballots under a new federal envelope and voter-list process.",
+      "reason": "AP mail-ballot source supports Supreme Court references; command-line AP fetch failed."
+    },
+    {
+      "claim": "U.S.-China AI",
+      "kind": "name",
+      "example": "On the frontier, AP moved the U.S.-China AI story from diplomacy to model competition.",
+      "reason": "AP China AI source supports the U.S.-China AI competition framing; command-line AP fetch failed."
+    },
+    {
+      "claim": "Unlawful Voter Initiative",
+      "kind": "name",
+      "example": "A federal whistleblower says a DHS project called the Unlawful Voter Initiative had Citizenship and Immigration Services employees checking state voter tools after less than two hours of training, with a target of forty people per day.",
+      "reason": "AP DHS whistleblower story names the Unlawful Voter Initiative; command-line AP fetch failed."
+    },
+    {
+      "claim": "Wall Street Journal",
+      "kind": "name",
+      "example": "The Wall Street Journal says mortgage rates are closing in on seven percent again, while Mortgage News Daily's daily measure has already moved above seven percent.",
+      "reason": "The cited WSJ page opened with the housing-market headline and rate framing, but command-line fetch returned a short body."
+    },
+    {
+      "claim": "the Supreme Court",
+      "kind": "name",
+      "example": "Today: the Supreme Court removes a live election-operations threat, Ohio State makes a downtown workforce bet, mortgage teams confront seven-percent pricing with more inventory but weaker demand, and AI competition shifts from lab warnings to advisor desks and Chinese model pressure.",
+      "reason": "AP mail-ballot source supports Supreme Court references; command-line AP fetch failed."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

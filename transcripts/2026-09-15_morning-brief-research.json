@@ -1,0 +1,414 @@
+{
+  "date": "2026-09-15",
+  "cutoff": "2026-09-15T07:35:00-04:00",
+  "history_compared": [
+    "2026-09-08_morning-brief-script.md",
+    "2026-09-09_morning-brief-script.md",
+    "2026-09-10_morning-brief-script.md",
+    "2026-09-11_morning-brief-script.md",
+    "2026-09-12_morning-brief-script.md",
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "supreme-court-mail-ballots",
+      "beat": "national",
+      "event_date": "2026-09-14",
+      "source": "https://apnews.com/article/mail-ballots-scotus-supreme-court-trump-6a7774587252d8733aca46908b5d6fc0",
+      "decision": "selected",
+      "rationale": "Fresh Supreme Court action changes yesterday's live election-operations uncertainty."
+    },
+    {
+      "id": "dhs-voter-whistleblower",
+      "beat": "national",
+      "event_date": "2026-09-15",
+      "source": "https://apnews.com/article/trump-election-noncitizen-voting-homeland-security-whistleblower-57f6d4bbc11347815020d2e5f241d6f9",
+      "decision": "selected",
+      "rationale": "Fresh election-record development complements but does not duplicate the mail-ballot ruling."
+    },
+    {
+      "id": "fed-hike-setup",
+      "beat": "markets",
+      "event_date": "2026-09-15",
+      "source": "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-ffd60cca8bb045bb9b1c389f5f1b73af",
+      "decision": "selected",
+      "rationale": "Fresh market setup for Wednesday's Fed decision and mortgage-yield reaction."
+    },
+    {
+      "id": "osu-moritz-downtown",
+      "beat": "columbus",
+      "event_date": "2026-09-14",
+      "source": "https://news.osu.edu/ohio-states-moritz-college-of-law-to-relocate-to-historic-huntington-building/",
+      "decision": "selected",
+      "rationale": "Fresh official Columbus development with workforce, downtown, and real-estate implications."
+    },
+    {
+      "id": "seven-percent-mortgage-demand",
+      "beat": "home_lending",
+      "event_date": "2026-09-15",
+      "source": "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6",
+      "decision": "selected",
+      "rationale": "Fresh rate-pressure story paired with NAR inventory data creates a different workflow takeaway from prior rate recaps."
+    },
+    {
+      "id": "anthropic-schwab-advisor-copilot",
+      "beat": "bank_ai",
+      "event_date": "2026-09-14",
+      "source": "https://pressroom.aboutschwab.com/",
+      "decision": "selected",
+      "rationale": "Fresh wealth-advisor AI deployment row with named custodian distribution."
+    },
+    {
+      "id": "china-ai-gap",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-15",
+      "source": "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b",
+      "decision": "selected",
+      "rationale": "Fresh AP report advances the U.S.-China frontier story with model rankings and contested distillation allegations."
+    },
+    {
+      "id": "ai-stocks-oil-market-pressure",
+      "beat": "markets",
+      "event_date": "2026-09-15",
+      "source": "https://apnews.com/article/stock-markets-oil-rates-inflation-ai-123ddc2d8ba06c324cbbd899f7eeebd2",
+      "decision": "selected",
+      "rationale": "Fresh market color used compactly, not a major story."
+    }
+  ],
+  "stories": [
+    {
+      "id": "supreme-court-mail-ballots",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-14",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://apnews.com/article/mail-ballots-scotus-supreme-court-trump-6a7774587252d8733aca46908b5d6fc0"
+      ],
+      "new_fact": "The Supreme Court rejected the administration's request to stay lower-court blocks on the Postal Service mail-ballot plan.",
+      "new_takeaway": "Election offices move from legal suspense to voter-communication cleanup under existing state mail-voting systems.",
+      "why_now": "The order landed late Monday while mail voting is already underway in some states.",
+      "previous_coverage": "September 12 and September 14 covered injunction timing; this is a Supreme Court action with a different takeaway.",
+      "uncertainty": "Future merits litigation and any narrowed federal election rule remain unresolved.",
+      "watch": "Whether state election offices issue revised voter guidance after the Supreme Court action.",
+      "carryover": true
+    },
+    {
+      "id": "dhs-voter-whistleblower",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://apnews.com/article/trump-election-noncitizen-voting-homeland-security-whistleblower-57f6d4bbc11347815020d2e5f241d6f9"
+      ],
+      "new_fact": "A whistleblower disclosure said DHS's Unlawful Voter Initiative had employees checking state voter systems after less than two hours of training and reviewing up to 40 people per day.",
+      "new_takeaway": "The election-administration risk also includes federal handling of state voter records, not only the Postal Service mail-ballot rule.",
+      "why_now": "The AP report and congressional disclosure were published today.",
+      "previous_coverage": "No prior episode in the seven-script comparison covered this DHS voter-check project.",
+      "uncertainty": "DHS disputes the criticism and has not stopped the effort as of the cutoff.",
+      "watch": "Whether DHS pauses the project, states sue, or Congress obtains training and data-quality records."
+    },
+    {
+      "id": "osu-moritz-downtown",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-14",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "https://news.osu.edu/ohio-states-moritz-college-of-law-to-relocate-to-historic-huntington-building/"
+      ],
+      "new_fact": "Ohio State announced Moritz College of Law will move to 17 S. High St. under a 30-year lease, with an expected fall 2029 opening.",
+      "new_takeaway": "The move is a downtown workforce and institutional-foot-traffic bet, not merely a campus facilities change.",
+      "why_now": "Ohio State announced the move Monday afternoon.",
+      "previous_coverage": "No prior episode in the seven-script comparison covered this project.",
+      "uncertainty": "Renovation details, public incentives, and the future of Drinko Hall remain to be clarified.",
+      "watch": "Renovation scope, lease and incentive details, and employer partnerships before the fall 2029 opening."
+    },
+    {
+      "id": "seven-percent-mortgage-demand",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6",
+        "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales"
+      ],
+      "new_fact": "Rates are closing in on or above 7 percent while NAR's August data show existing sales down 2 percent and inventory at 1.62 million homes.",
+      "new_takeaway": "Lenders should refresh active preapprovals and concession math before borrowers negotiate from stale payments.",
+      "why_now": "The WSJ published the 7 percent housing-market pressure story today.",
+      "previous_coverage": "Recent episodes covered lock desks, VantageScore, and servicing convexity; this uses inventory and sales weakness to change active-purchase workflow.",
+      "uncertainty": "A Fed message that calms long yields could quickly change daily pricing.",
+      "watch": "Whether lenders refresh preapprovals and whether post-Fed daily pricing stays above 7 percent."
+    },
+    {
+      "id": "anthropic-schwab-advisor-copilot",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-14",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "https://pressroom.aboutschwab.com/",
+        "https://www.barrons.com/articles/anthropic-charles-schwab-claude-for-financial-advisors-630ea9a9"
+      ],
+      "new_fact": "Schwab Advisor Services is the first RIA custodian included in Anthropic's Claude for Financial Advisors, according to Schwab and Barron's.",
+      "new_takeaway": "Advisor copilots should be evaluated around data entitlement, human review, and client-communication evidence, not demo writing quality.",
+      "why_now": "The Schwab/Anthropic announcement and reporting were published Monday.",
+      "previous_coverage": "Recent banking AI episodes covered support agents, financial crimes, and research copilots; this rotates to wealth/advisor workflow.",
+      "uncertainty": "No measured productivity, compliance, or client-outcome baseline was disclosed.",
+      "watch": "Whether Schwab or an advisory firm discloses rollout scope, review controls, or measured advisor outcomes.",
+      "ledger_row_changed": "Added Schwab / Anthropic, lane 5 wealth and advisor copilot, status announced, evidence customer disclosure plus reporting, metric none disclosed."
+    },
+    {
+      "id": "china-ai-gap",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b"
+      ],
+      "new_fact": "AP reported China is narrowing the U.S. AI capability lead and cited third-party rankings plus U.S. agency allegations of targeted distillation.",
+      "new_takeaway": "Export controls may slow hardware access without fully preventing capability diffusion, so evaluation and model-security evidence become more important.",
+      "why_now": "AP published the model-competition report today ahead of the expected Trump-Xi meeting.",
+      "previous_coverage": "September 14 covered China's diplomatic response to Anthropic; this adds specific model competition and contested distillation evidence.",
+      "uncertainty": "The distillation allegation is contested and model rankings shift quickly.",
+      "watch": "Whether the September 24 meeting produces evaluator access, export-control changes, or model-security commitments.",
+      "carryover": true,
+      "frontier_bar": "Benchmark or evaluation plus infrastructure and policy pressure."
+    },
+    {
+      "id": "markets-fed-ai-oil",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://apnews.com/article/stock-markets-oil-rates-inflation-ai-123ddc2d8ba06c324cbbd899f7eeebd2",
+        "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-ffd60cca8bb045bb9b1c389f5f1b73af"
+      ],
+      "new_fact": "Global shares traded lower after AI stocks slid, oil rose, and investors looked to a likely Fed rate hike Wednesday.",
+      "new_takeaway": "The bond-market reaction matters more for borrowers than the headline equity move.",
+      "why_now": "The market setup is live before Wednesday's Fed decision.",
+      "previous_coverage": "Recent episodes covered Fed and oil pressure; this is kept compact.",
+      "uncertainty": "The Fed hike is expected but not guaranteed.",
+      "watch": "Whether the Fed message calms or lifts long yields."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "NWS forecast calls for sun and a high near 88 Tuesday, then storm chances late Wednesday and Thursday.",
+      "new_takeaway": "Tuesday is the better outdoor window before hotter and less stable weather returns.",
+      "why_now": "Daily Columbus planning segment.",
+      "previous_coverage": "Weather is routine and compact.",
+      "uncertainty": "Storm timing and local rainfall will update through Wednesday.",
+      "watch": "Recheck radar before Wednesday evening practices or commutes."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://pressroom.aboutschwab.com/",
+      "reason": "Schwab's press-room search page was used because the direct press-release URL was not exposed by search/open, but the page and search result showed the dated Schwab-Anthropic release; Barron's corroborates the substance."
+    },
+    {
+      "claim": "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6",
+      "reason": "WSJ exposes a short article body to automated fetch; the accessible snippet and page lines confirmed the seven-percent mortgage framing and Mortgage News Daily reference."
+    },
+    {
+      "claim": "https://apnews.com/article/mail-ballots-scotus-supreme-court-trump-6a7774587252d8733aca46908b5d6fc0",
+      "reason": "AP opened in the browser with the Supreme Court mail-ballot decision, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/trump-election-noncitizen-voting-homeland-security-whistleblower-57f6d4bbc11347815020d2e5f241d6f9",
+      "reason": "AP opened in the browser with the DHS whistleblower details, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b",
+      "reason": "AP opened in the browser with the China AI model competition details, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/stock-markets-oil-rates-inflation-ai-123ddc2d8ba06c324cbbd899f7eeebd2",
+      "reason": "AP opened in the browser with the market/oil figures, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-ffd60cca8bb045bb9b1c389f5f1b73af",
+      "reason": "AP opened in the browser with the Fed preview, but the command-line fetch returned only a tiny body."
+    },
+    {
+      "claim": "https://www.barrons.com/articles/anthropic-charles-schwab-claude-for-financial-advisors-630ea9a9",
+      "reason": "Barron's opened enough in the browser/search result to corroborate the Schwab-Anthropic advisor-tool announcement, but curl saw a short body."
+    },
+    {
+      "claim": "Mortgage News Daily",
+      "reason": "The WSJ page and search result explicitly attribute daily rates above 7 percent to Mortgage News Daily, but the source body exposed to curl is short."
+    },
+    {
+      "claim": "Schwab Advisor Services",
+      "reason": "The Schwab press-room page/search result and Barron's story identify Schwab Advisor Services as the RIA custodian; automated extraction from Schwab's release listing is limited."
+    },
+    {
+      "claim": "Claude for Financial Advisors",
+      "reason": "The product name is confirmed by Schwab/Barron's search and article text, while Schwab's release page is not exposed as a direct readable URL."
+    },
+    {
+      "claim": "registered-investment-advisor",
+      "reason": "The Schwab/Barron's source language uses RIA/registered investment advisory context; the claim checker may tokenize the hyphenated phrase differently."
+    },
+    {
+      "claim": "Downtown Columbus",
+      "reason": "Ohio State source names Downtown Columbus, Inc.; the script uses the local shorthand in one turn."
+    },
+    {
+      "claim": "Drinko Hall",
+      "reason": "Moritz's public site lists the current Drinko Hall address; the OSU relocation story establishes the move but does not discuss the building's future."
+    },
+    {
+      "claim": "107",
+      "reason": "AP market story showed Brent crude at 107.93 dollars in the browser-opened article; command-line AP fetch failed."
+    },
+    {
+      "claim": "Advisor Services",
+      "reason": "Schwab/Barron's source text identifies Schwab Advisor Services; command-line Schwab/Barron's extraction was limited."
+    },
+    {
+      "claim": "Anthropic",
+      "reason": "Schwab/Barron's and AP frontier sources confirm Anthropic references, but related pages were command-line limited."
+    },
+    {
+      "claim": "Artificial Analysis",
+      "reason": "AP China AI story cites Artificial Analysis rankings; command-line AP fetch failed."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the phrase AI in Banking, a chapter/beat name rather than an external factual claim."
+    },
+    {
+      "claim": "Barron",
+      "reason": "Barron's is the cited supporting outlet for the Schwab-Anthropic item; its command-line fetch returned a short body."
+    },
+    {
+      "claim": "Brent",
+      "reason": "AP market story supports the Brent price reference; command-line AP fetch failed."
+    },
+    {
+      "claim": "COTA",
+      "reason": "COTA is the local transit agency named for a forward-looking local execution consideration, not a source-specific claim."
+    },
+    {
+      "claim": "California Colorado Hawaii Nevada Oregon Utah Vermont and Washington",
+      "reason": "AP mail-ballot story names the eight mostly mail-voting states; command-line AP fetch failed."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "reason": "AP Fed preview names Fed Chair Kevin Warsh and his inflation warnings; command-line AP fetch failed."
+    },
+    {
+      "claim": "China",
+      "reason": "AP China AI source supports this proper noun; command-line AP fetch failed."
+    },
+    {
+      "claim": "Chinese",
+      "reason": "AP China AI source supports this proper noun; command-line AP fetch failed."
+    },
+    {
+      "claim": "Citizenship and Immigration Services",
+      "reason": "AP DHS whistleblower story names Citizenship and Immigration Services employees; command-line AP fetch failed."
+    },
+    {
+      "claim": "Claude",
+      "reason": "Schwab/Barron's source text confirms Claude for Financial Advisors; command-line extraction was limited."
+    },
+    {
+      "claim": "DHS",
+      "reason": "AP DHS whistleblower story supports DHS references; command-line AP fetch failed."
+    },
+    {
+      "claim": "Election Day",
+      "reason": "The script uses Election Day as the ordinary November election deadline; AP source establishes the pre-election timing."
+    },
+    {
+      "claim": "Financial Advisors",
+      "reason": "Schwab/Barron's source text confirms Claude for Financial Advisors; command-line extraction was limited."
+    },
+    {
+      "claim": "Moonshot DeepSeek Z.ai and Alibaba",
+      "reason": "AP China AI story names Moonshot, DeepSeek, Z.ai, and Alibaba model families; command-line AP fetch failed."
+    },
+    {
+      "claim": "NAR August",
+      "reason": "NAR source supports August existing-home-sales data; this is a proper-noun extraction artifact."
+    },
+    {
+      "claim": "Postal Service",
+      "reason": "AP mail-ballot source supports Postal Service references; command-line AP fetch failed."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "AP mail-ballot and Fed stories support President Trump references; command-line AP fetch failed."
+    },
+    {
+      "claim": "Schwab",
+      "reason": "Schwab/Barron's source text confirms the Schwab-Anthropic advisor-tool announcement; command-line extraction was limited."
+    },
+    {
+      "claim": "Schwab and Anthropic",
+      "reason": "Schwab/Barron's source text confirms the partnership; command-line extraction was limited."
+    },
+    {
+      "claim": "South High Street",
+      "reason": "Ohio State source identifies the Huntington building at 17 S. High St.; the script uses the spoken form South High Street."
+    },
+    {
+      "claim": "Stanford",
+      "reason": "AP China AI story cites Stanford context; command-line AP fetch failed."
+    },
+    {
+      "claim": "Supreme Court",
+      "reason": "AP mail-ballot source supports Supreme Court references; command-line AP fetch failed."
+    },
+    {
+      "claim": "U.S.-China AI",
+      "reason": "AP China AI source supports the U.S.-China AI competition framing; command-line AP fetch failed."
+    },
+    {
+      "claim": "Unlawful Voter Initiative",
+      "reason": "AP DHS whistleblower story names the Unlawful Voter Initiative; command-line AP fetch failed."
+    },
+    {
+      "claim": "Wall Street Journal",
+      "reason": "The cited WSJ page opened with the housing-market headline and rate framing, but command-line fetch returned a short body."
+    },
+    {
+      "claim": "the Supreme Court",
+      "reason": "AP mail-ballot source supports Supreme Court references; command-line AP fetch failed."
+    }
+  ],
+  "editorial_review": {
+    "chapters_checked": true,
+    "history_reviewed": true,
+    "freshness_checked": true,
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "source_dates_checked": true,
+    "home_lending_specificity_checked": true,
+    "lending_workflow_checked": true,
+    "bank_ai_specificity_checked": true,
+    "frontier_ai_specificity_checked": true,
+    "cohost_questions_checked": true,
+    "cohost_answers_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "script_sha256": "33edbf1320c9fec1d5021aa383fed8ec949eda95f46d838bb4e2842f8db7d678",
+    "final_script_sha256": "33edbf1320c9fec1d5021aa383fed8ec949eda95f46d838bb4e2842f8db7d678"
+  }
+}
