@@ -1,0 +1,192 @@
+{
+  "script": "2026-09-16_morning-brief-script.md",
+  "script_sha256": "c68a4e9aa12195543c97b21b2cdcba20ea71fec1bbf33d700c6f3e633c585e88",
+  "checked_at": "2026-09-16T07:47:10-0400",
+  "sources_fetched": [
+    {
+      "url": "https://abc6onyourside.com/news/local/columbus-city-schools-breaks-down-its-state-report-card-rating-what-grade-did-it-earn-superintendent-dr-angela-chapman-board-of-education-president-antoinette-miranda-school-districts-literacy-pre-k-graduation-college-career-workforce-progress-achievemen",
+      "characters": 5180
+    },
+    {
+      "url": "https://www.ccsoh.us/",
+      "characters": 17536
+    },
+    {
+      "url": "https://tradingeconomics.com/",
+      "characters": 11028
+    },
+    {
+      "url": "https://www.businessinsider.com/goldman-sachs-kim-posnett-investment-banking-ai-use-junior-analysts-2026-9",
+      "characters": 7390
+    },
+    {
+      "url": "https://www.weather.gov/",
+      "characters": 2444
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130",
+      "error": "page body was only 16 characters",
+      "reason": "AP article opened in the browser with the federal grant tracker details; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/15/columbus-city-schools-report-card-ohio-2026-rating-grade",
+      "error": "page body was only 16 characters",
+      "reason": "Axios search/open result showed the Columbus report-card details used for corroboration; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://www.mba.org/",
+      "error": "page body was only 16 characters",
+      "reason": "MBA homepage is cited as the institutional source, while the specific weekly release was surfaced through Trading Economics because search did not expose the MBA article URL."
+    },
+    {
+      "url": "https://apnews.com/article/ai-slowdown-challenges-anthropic-openai-trump-b61f28b6212338e88c0baec31f661701",
+      "error": "page body was only 16 characters",
+      "reason": "AP article opened in the browser with the embedded-evaluator details; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://apnews.com/article/stocks-markets-fed-rate-decision-oil-e2e82957e490b7be205db6013f621c3d",
+      "error": "page body was only 16 characters",
+      "reason": "AP market article opened in the browser with the Fed-day market, Treasury and oil figures; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1",
+      "error": "page body was only 16 characters",
+      "reason": "AP Fed article opened in the browser with the Warsh and expected-hike details; command-line fetch returned a tiny body."
+    }
+  ],
+  "claims_checked": 55,
+  "claims_supported": 34,
+  "claims_excepted": [
+    {
+      "claim": "108",
+      "kind": "number",
+      "example": "Brent crude eased early Wednesday to 108 dollars and 34 cents, while U.S.",
+      "reason": "AP market source showed Brent at $108.34 at cutoff; command-line fetch failed."
+    },
+    {
+      "claim": "177",
+      "kind": "number",
+      "example": "AP reports that States United Democracy Center and Grant Witness released Lost Funds today, tracking up to 177 billion dollars in grants cut, frozen, delayed, or otherwise disrupted since President Trump began his second term.",
+      "reason": "AP federal-grants source showed the up-to-$177 billion figure; command-line fetch failed."
+    },
+    {
+      "claim": "3.9",
+      "kind": "number",
+      "example": "A quarter-point policy hike would push the benchmark rate to about 3.9 percent, but the more important signal is whether investors believe Warsh is restoring inflation credibility.",
+      "reason": "AP Fed source said a quarter-point increase would push the benchmark rate to about 3.9%; command-line fetch failed."
+    },
+    {
+      "claim": "34",
+      "kind": "number",
+      "example": "Brent crude eased early Wednesday to 108 dollars and 34 cents, while U.S.",
+      "reason": "This is the cents portion of AP's $108.34 Brent crude figure; command-line fetch failed."
+    },
+    {
+      "claim": "5.04",
+      "kind": "number",
+      "example": "The 10-year Treasury was around 5 percent after briefly touching 5.04 percent this week.",
+      "reason": "AP market source said the 10-year Treasury briefly touched 5.04%; command-line fetch failed."
+    },
+    {
+      "claim": "86",
+      "kind": "number",
+      "example": "crude was 104 dollars and 86 cents, still far above the prewar level AP described.",
+      "reason": "This is the cents portion of AP's $104.86 U.S. crude figure; command-line fetch failed."
+    },
+    {
+      "claim": "Altman",
+      "kind": "name",
+      "example": "Altman called it a great idea and said OpenAI will follow.",
+      "reason": "AP frontier source names Altman and reports his support for the evaluator proposal; command-line fetch failed."
+    },
+    {
+      "claim": "Amodei",
+      "kind": "name",
+      "example": "AP reports Amodei proposed ongoing, employee-like access for outside evaluators, with offices, badges, and company laptops.",
+      "reason": "AP frontier source names Amodei and reports the embedded evaluator proposal; command-line fetch failed."
+    },
+    {
+      "claim": "Anthropic Dario Amodei OpenAI Sam Altman Elon Musk",
+      "kind": "name",
+      "example": "After warnings from Anthropic's Dario Amodei, OpenAI's Sam Altman, Elon Musk, and others, the live question is whether frontier labs will let independent evaluators inside the building.",
+      "reason": "AP frontier source names these AI leaders in the safety/slowdown context; command-line fetch failed."
+    },
+    {
+      "claim": "Axios",
+      "kind": "name",
+      "example": "And Axios reported the district still sits below the three-star level that means meeting state expectations.",
+      "reason": "Axios was used as the corroborating local source for the below-three-star state-standard framing; command-line fetch failed."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Goldman Sachs to the deployment ledger as a research and banker-productivity signal.",
+      "reason": "False positive from the phrase AI in Banking, a chapter/beat name rather than an external factual claim."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "kind": "name",
+      "example": "If Chair Kevin Warsh's message calms the 10-year Treasury, lock desks may get room to reprice and revive some delayed borrowers.",
+      "reason": "AP Fed source names Fed Chair Kevin Warsh; command-line fetch failed."
+    },
+    {
+      "claim": "Fed-day",
+      "kind": "name",
+      "example": "Markets are in Fed-day waiting mode.",
+      "reason": "Descriptive show wording for the day of the Fed decision, supported by AP Fed/markets sources."
+    },
+    {
+      "claim": "Iowa",
+      "kind": "name",
+      "example": "The listed examples include maternal health in Michigan, education research in Mississippi, and minority-farmer assistance in Iowa.",
+      "reason": "AP federal-grants source names minority-farmer assistance in Iowa as an example; command-line fetch failed."
+    },
+    {
+      "claim": "MBA",
+      "kind": "name",
+      "example": "Trading Economics reported fresh MBA weekly data showing the average contract rate for a 30-year fixed mortgage rose to 6.97 percent for the week ending September 11, the highest since May 2025.",
+      "reason": "Trading Economics attributed the weekly contract-rate and application figures to MBA; primary MBA article URL was not exposed by search."
+    },
+    {
+      "claim": "Michigan",
+      "kind": "name",
+      "example": "The listed examples include maternal health in Michigan, education research in Mississippi, and minority-farmer assistance in Iowa.",
+      "reason": "AP federal-grants source names maternal health in Michigan as an example; command-line fetch failed."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "AP reports that States United Democracy Center and Grant Witness released Lost Funds today, tracking up to 177 billion dollars in grants cut, frozen, delayed, or otherwise disrupted since President Trump began his second term.",
+      "reason": "AP federal-grants source frames the tracker as covering disruptions since President Trump began his second term; command-line fetch failed."
+    },
+    {
+      "claim": "States United Democracy Center and Grant Witness",
+      "kind": "name",
+      "example": "AP reports that States United Democracy Center and Grant Witness released Lost Funds today, tracking up to 177 billion dollars in grants cut, frozen, delayed, or otherwise disrupted since President Trump began his second term.",
+      "reason": "AP federal-grants source identifies States United Democracy Center and Grant Witness as the tracker sponsors; command-line fetch failed."
+    },
+    {
+      "claim": "U.S",
+      "kind": "name",
+      "example": "AP reported global stocks higher early Wednesday while U.S.",
+      "reason": "False-positive tokenization from U.S. futures and U.S. crude in the AP market source."
+    },
+    {
+      "claim": "Warsh",
+      "kind": "name",
+      "example": "A quarter-point policy hike would push the benchmark rate to about 3.9 percent, but the more important signal is whether investors believe Warsh is restoring inflation credibility.",
+      "reason": "AP Fed source supports Warsh references; command-line fetch failed."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "The useful message to clients is not, \"Washington cut money.\" It is which grant is frozen, which service is still funded, and when the next court or agency decision could change staffing.",
+      "reason": "The script uses Washington as plain-language shorthand for federal action, not a separate source-specific claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

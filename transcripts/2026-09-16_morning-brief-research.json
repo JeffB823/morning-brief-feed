@@ -1,0 +1,381 @@
+{
+  "date": "2026-09-16",
+  "cutoff": "2026-09-16T08:25:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-09_morning-brief-script.md",
+    "2026-09-10_morning-brief-script.md",
+    "2026-09-11_morning-brief-script.md",
+    "2026-09-12_morning-brief-script.md",
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "federal-grant-cuts-tracker",
+      "beat": "national",
+      "event_date": "2026-09-16",
+      "source": "https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130",
+      "decision": "selected",
+      "reason": "Fresh national operating story with concrete dollar amount, affected programs, source methodology, and practical implication for grant recipients."
+    },
+    {
+      "id": "warsh-fed-decision-preview",
+      "beat": "national_markets",
+      "event_date": "2026-09-16",
+      "source": "https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1",
+      "decision": "used in markets",
+      "reason": "Important Fed-day context but not selected as a standalone national segment because the decision had not been released by cutoff."
+    },
+    {
+      "id": "columbus-school-report-card",
+      "beat": "columbus",
+      "event_date": "2026-09-15",
+      "source": "https://abc6onyourside.com/news/local/columbus-city-schools-breaks-down-its-state-report-card-rating-what-grade-did-it-earn-superintendent-dr-angela-chapman-board-of-education-president-antoinette-miranda-school-districts-literacy-pre-k-graduation-college-career-workforce-progress-achievemen",
+      "decision": "selected",
+      "reason": "Fresh local accountability result with budget and literacy consequences."
+    },
+    {
+      "id": "columbus-crew-open-cup",
+      "beat": "columbus",
+      "event_date": "2026-09-16",
+      "source": "https://www.axios.com/local/columbus/2026/09/16/columbus-crew-2026-season-us-open-cup",
+      "decision": "not selected",
+      "reason": "Fresh and local, but school report card has broader civic and household consequence."
+    },
+    {
+      "id": "mba-applications-sept-11",
+      "beat": "home_lending",
+      "event_date": "2026-09-16",
+      "source": "https://tradingeconomics.com/",
+      "decision": "selected",
+      "reason": "Fresh weekly MBA rate and application data creates a specific lender workflow consequence."
+    },
+    {
+      "id": "goldman-ai-banker-productivity",
+      "beat": "bank_ai",
+      "event_date": "2026-09-16",
+      "source": "https://www.businessinsider.com/goldman-sachs-kim-posnett-investment-banking-ai-use-junior-analysts-2026-9",
+      "decision": "selected",
+      "reason": "New named-bank workflow signal for banker research and apprenticeship; selected with a clear no-metric caveat."
+    },
+    {
+      "id": "frontier-ai-embedded-evaluators",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-16",
+      "source": "https://apnews.com/article/ai-slowdown-challenges-anthropic-openai-trump-b61f28b6212338e88c0baec31f661701",
+      "decision": "selected",
+      "reason": "Fresh implementation detail advances the prior slowdown/safety thread without repeating the U.S.-China model-competition takeaway."
+    },
+    {
+      "id": "ai-slowdown-antitrust-opinion",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-16",
+      "source": "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
+      "decision": "background only",
+      "reason": "Useful critical frame, but AP provided a broader and more reportable source for the selected segment."
+    },
+    {
+      "id": "global-markets-fed-day",
+      "beat": "markets",
+      "event_date": "2026-09-16",
+      "source": "https://apnews.com/article/stocks-markets-fed-rate-decision-oil-e2e82957e490b7be205db6013f621c3d",
+      "decision": "selected compact",
+      "reason": "Fresh market setup connecting Fed expectations, Treasury yields, oil, AI stocks and mortgage implications."
+    },
+    {
+      "id": "columbus-weather-showers",
+      "beat": "weather",
+      "event_date": "2026-09-16",
+      "source": "https://www.weather.gov/",
+      "decision": "selected compact",
+      "reason": "Practical Columbus planning context; routine weather, not counted toward fresh-story minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "federal-grant-cuts-tracker",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130"
+      ],
+      "new_fact": "States United Democracy Center and Grant Witness released Lost Funds, a tracker estimating up to $177 billion in federal grants cut, frozen, delayed, or otherwise disrupted since Trump's second term began.",
+      "new_takeaway": "Grant recipients need award-level status tracking and client communications because the risk is cash flow, payroll and service continuity, not only headline spending politics.",
+      "why_now": "The tracker was released Wednesday and turns scattered grant-cut disputes into a searchable operating map.",
+      "previous_coverage": "Not covered in the previous seven scripts; FEMA staffing and federal election administration were adjacent but different.",
+      "uncertainty": "The tracker depends on federal spending records and ongoing litigation; totals may change as agencies and courts act.",
+      "watch": "Watch for court orders, agency letters releasing frozen funds, or service providers reporting payroll or program cuts."
+    },
+    {
+      "id": "columbus-school-report-card",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "https://abc6onyourside.com/news/local/columbus-city-schools-breaks-down-its-state-report-card-rating-what-grade-did-it-earn-superintendent-dr-angela-chapman-board-of-education-president-antoinette-miranda-school-districts-literacy-pre-k-graduation-college-career-workforce-progress-achievemen",
+        "https://www.axios.com/local/columbus/2026/09/15/columbus-city-schools-report-card-ohio-2026-rating-grade",
+        "https://www.ccsoh.us/"
+      ],
+      "new_fact": "Columbus City Schools earned 2.5 stars, up from 2 stars, while early literacy and graduation remain at one star and the district faces another $50 million in cuts.",
+      "new_takeaway": "The report card should guide budget prioritization toward durable early-literacy and graduation interventions rather than treating the half-star gain as sufficient momentum.",
+      "why_now": "The state report card was released Tuesday and local outlets updated the district breakdown Tuesday night.",
+      "previous_coverage": "Previous scripts covered Columbus schools' social-media litigation but not the 2026 report card.",
+      "uncertainty": "The graduation component uses older data through summer 2025, while the district's class of 2026 graduation rate is newer.",
+      "watch": "Watch whether the 84.6% class of 2026 graduation rate lifts next year's state accountability score and how the board protects literacy work during cuts."
+    },
+    {
+      "id": "mba-applications-sept-11",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://tradingeconomics.com/",
+        "https://www.mba.org/"
+      ],
+      "new_fact": "MBA weekly data showed the average contract rate for a 30-year fixed mortgage at 6.97% for the week ending September 11, with total applications down 4.1%, refinances down 8.8%, and purchases down 0.8%.",
+      "new_takeaway": "Lenders should triage refinance follow-up by net benefit and servicing-retention logic while refreshing purchase qualifications exposed to near-7% pricing.",
+      "why_now": "The weekly MBA figures were released Wednesday morning and update yesterday's seven-percent purchase-file story with fresh application behavior.",
+      "previous_coverage": "Recent episodes covered daily seven-percent quotes, Freddie Mac's weekly survey, and preapproval refreshes; this segment uses new MBA application data and a different pipeline-triage takeaway.",
+      "uncertainty": "The original MBA article was not exposed in search results, so the figures were taken from a live market data service citing MBA and supported by MBA/Freddie context.",
+      "watch": "Watch whether the Fed decision lowers long yields enough to reprice locks or whether refi follow-up remains highly selective."
+    },
+    {
+      "id": "goldman-ai-banker-productivity",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://www.businessinsider.com/goldman-sachs-kim-posnett-investment-banking-ai-use-junior-analysts-2026-9"
+      ],
+      "new_fact": "Business Insider reported Goldman Sachs investment-banking co-head Kim Posnett's description of AI use for research, earnings-call summarization and junior-banker preparation, while no task-level performance metric was disclosed.",
+      "new_takeaway": "The banking question shifts from adoption to analyst-training design: AI can speed research, but banks still need human correction records and a training path that preserves judgment.",
+      "why_now": "The article was published Wednesday and supports a new Goldman row in the AI banking ledger.",
+      "previous_coverage": "Previous AI-in-banking segments covered Schwab, Pockit, Rogo, FIS, Truist, OpenAI financial services and JPMorganChase; Goldman was not a recent full segment.",
+      "uncertainty": "The source is reputable reporting and executive commentary, not an audit, customer disclosure, regulator finding or earnings-call metric.",
+      "watch": "Watch for Goldman or another large bank disclosing adoption scope, review controls, or measured research-prep productivity with error rates.",
+      "ledger_row_changed": "Goldman Sachs | lanes 5, 6, 7 | new production row for investment-banking research, earnings-call summarization, client-preparation and junior-banker productivity workflows; evidence rank reputable reporting; no task-level metric disclosed."
+    },
+    {
+      "id": "frontier-ai-embedded-evaluators",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://apnews.com/article/ai-slowdown-challenges-anthropic-openai-trump-b61f28b6212338e88c0baec31f661701"
+      ],
+      "new_fact": "AP reported that Amodei proposed ongoing employee-like access for independent frontier-lab evaluators, Anthropic is committing to it, and Altman said OpenAI would follow.",
+      "new_takeaway": "The frontier safety debate now has a concrete mechanism to evaluate: buyer trust depends on evaluator independence, public standards and escalation rights, not the mere existence of auditors.",
+      "why_now": "The AP report was published Wednesday and advances the prior slowdown debate with implementation details.",
+      "previous_coverage": "Recent scripts covered frontier slowdown warnings, China's response and China model catch-up; this segment avoids repeating those conclusions and focuses on embedded evaluator mechanics.",
+      "uncertainty": "No benchmark or independent replication is involved; critics question independence, antitrust risk and concentration of power.",
+      "watch": "Watch whether labs publish evaluator scopes, standards, findings or escalation paths before the September 24 AI governance meeting.",
+      "frontier_bar": "Policy that binds labs directly, plus safety and security evaluation; no measured model capability claim."
+    },
+    {
+      "id": "markets-fed-day",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-fed-rate-decision-oil-e2e82957e490b7be205db6013f621c3d",
+        "https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1"
+      ],
+      "new_fact": "AP reported global stocks higher ahead of an expected Fed hike, a 10-year Treasury around 5%, Brent at $108.34, U.S. crude at $104.86, and an expected quarter-point hike to about 3.9%.",
+      "new_takeaway": "Markets and mortgage desks care less about the quarter point than whether Warsh's statement lowers or raises the inflation premium in long yields.",
+      "why_now": "The Fed decision is due Wednesday after the episode cutoff, so the morning setup is the actionable development.",
+      "previous_coverage": "Recent markets segments covered Fed setup and oil pressure; today's version is compact and tied to the Fed-day long-yield test.",
+      "uncertainty": "The actual Fed decision and press conference were not available at cutoff.",
+      "watch": "Watch the statement, projections and 10-year Treasury reaction after the Fed announcement."
+    },
+    {
+      "id": "columbus-weather-sept-16",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://www.weather.gov/"
+      ],
+      "new_fact": "NWS forecast for Columbus called for a chance of showers and thunderstorms before 8 a.m., then a chance of showers, with a high near 90.",
+      "new_takeaway": "Listeners should keep flexibility for pickup, job sites and evening practices because scattered storms may still disrupt local travel.",
+      "why_now": "Weather changes same-day planning for Columbus-area listeners.",
+      "previous_coverage": "Routine weather appeared in all prior episodes; today's line uses current NWS timing only.",
+      "uncertainty": "Scattered convection can miss some neighborhoods while disrupting others.",
+      "watch": "Recheck radar before afternoon and evening cross-town travel."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130",
+      "reason": "AP article opened in the browser with the federal grant tracker details; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/09/15/columbus-city-schools-report-card-ohio-2026-rating-grade",
+      "reason": "Axios search/open result showed the Columbus report-card details used for corroboration; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://www.mba.org/",
+      "reason": "MBA homepage is cited as the institutional source, while the specific weekly release was surfaced through Trading Economics because search did not expose the MBA article URL."
+    },
+    {
+      "claim": "https://apnews.com/article/ai-slowdown-challenges-anthropic-openai-trump-b61f28b6212338e88c0baec31f661701",
+      "reason": "AP article opened in the browser with the embedded-evaluator details; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/stocks-markets-fed-rate-decision-oil-e2e82957e490b7be205db6013f621c3d",
+      "reason": "AP market article opened in the browser with the Fed-day market, Treasury and oil figures; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1",
+      "reason": "AP Fed article opened in the browser with the Warsh and expected-hike details; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "108",
+      "reason": "AP market source showed Brent at $108.34 at cutoff; command-line fetch failed."
+    },
+    {
+      "claim": "177",
+      "reason": "AP federal-grants source showed the up-to-$177 billion figure; command-line fetch failed."
+    },
+    {
+      "claim": "3.9",
+      "reason": "AP Fed source said a quarter-point increase would push the benchmark rate to about 3.9%; command-line fetch failed."
+    },
+    {
+      "claim": "34",
+      "reason": "This is the cents portion of AP's $108.34 Brent crude figure; command-line fetch failed."
+    },
+    {
+      "claim": "5.04",
+      "reason": "AP market source said the 10-year Treasury briefly touched 5.04%; command-line fetch failed."
+    },
+    {
+      "claim": "86",
+      "reason": "This is the cents portion of AP's $104.86 U.S. crude figure; command-line fetch failed."
+    },
+    {
+      "claim": "Altman",
+      "reason": "AP frontier source names Altman and reports his support for the evaluator proposal; command-line fetch failed."
+    },
+    {
+      "claim": "Amodei",
+      "reason": "AP frontier source names Amodei and reports the embedded evaluator proposal; command-line fetch failed."
+    },
+    {
+      "claim": "Anthropic Dario Amodei OpenAI Sam Altman Elon Musk",
+      "reason": "AP frontier source names these AI leaders in the safety/slowdown context; command-line fetch failed."
+    },
+    {
+      "claim": "Axios",
+      "reason": "Axios was used as the corroborating local source for the below-three-star state-standard framing; command-line fetch failed."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the phrase AI in Banking, a chapter/beat name rather than an external factual claim."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "reason": "AP Fed source names Fed Chair Kevin Warsh; command-line fetch failed."
+    },
+    {
+      "claim": "Fed-day",
+      "reason": "Descriptive show wording for the day of the Fed decision, supported by AP Fed/markets sources."
+    },
+    {
+      "claim": "Iowa",
+      "reason": "AP federal-grants source names minority-farmer assistance in Iowa as an example; command-line fetch failed."
+    },
+    {
+      "claim": "MBA",
+      "reason": "Trading Economics attributed the weekly contract-rate and application figures to MBA; primary MBA article URL was not exposed by search."
+    },
+    {
+      "claim": "Michigan",
+      "reason": "AP federal-grants source names maternal health in Michigan as an example; command-line fetch failed."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "AP federal-grants source frames the tracker as covering disruptions since President Trump began his second term; command-line fetch failed."
+    },
+    {
+      "claim": "States United Democracy Center and Grant Witness",
+      "reason": "AP federal-grants source identifies States United Democracy Center and Grant Witness as the tracker sponsors; command-line fetch failed."
+    },
+    {
+      "claim": "U.S",
+      "reason": "False-positive tokenization from U.S. futures and U.S. crude in the AP market source."
+    },
+    {
+      "claim": "Warsh",
+      "reason": "AP Fed source supports Warsh references; command-line fetch failed."
+    },
+    {
+      "claim": "Washington",
+      "reason": "The script uses Washington as plain-language shorthand for federal action, not a separate source-specific claim."
+    },
+    {
+      "claim": "Business Insider",
+      "reason": "Business Insider search/open result carried the Goldman Sachs/Kim Posnett reporting used for the segment; automated fetching may limit article body."
+    },
+    {
+      "claim": "Goldman Sachs",
+      "reason": "Business Insider source confirms the Goldman Sachs executive and workflow references; fetch access may be limited."
+    },
+    {
+      "claim": "Kim Posnett",
+      "reason": "Business Insider source identifies Posnett as Goldman's co-head of investment banking; fetch access may be limited."
+    },
+    {
+      "claim": "6",
+      "reason": "Business Insider source reports Goldman's $6 billion technology investment; the checker may see the numeral without the surrounding billion-dollar wording."
+    },
+    {
+      "claim": "Trading Economics",
+      "reason": "Trading Economics displayed the live MBA-cited mortgage figures at cutoff; it is cited because the primary MBA article was not exposed in search results."
+    },
+    {
+      "claim": "Mortgage Bankers Association",
+      "reason": "Trading Economics explicitly attributed the mortgage application and contract-rate figures to MBA; MBA homepage is cited as institutional source."
+    },
+    {
+      "claim": "National Weather Service",
+      "reason": "Weather.gov search result displayed the Columbus forecast used; the generic weather.gov URL can render a dynamic shell under curl."
+    },
+    {
+      "claim": "90",
+      "reason": "Weather.gov search result for Columbus displayed high near 90 at cutoff; NWS pages update."
+    },
+    {
+      "claim": "Wednesday",
+      "reason": "Episode date and NWS forecast day are structural/time-sensitive context."
+    }
+  ],
+  "editorial_review": {
+    "chapters_checked": true,
+    "history_reviewed": true,
+    "freshness_checked": true,
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "source_dates_checked": true,
+    "home_lending_specificity_checked": true,
+    "lending_workflow_checked": true,
+    "bank_ai_specificity_checked": true,
+    "frontier_ai_specificity_checked": true,
+    "cohost_questions_checked": true,
+    "cohost_answers_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "script_sha256": "c68a4e9aa12195543c97b21b2cdcba20ea71fec1bbf33d700c6f3e633c585e88",
+    "final_script_sha256": "c68a4e9aa12195543c97b21b2cdcba20ea71fec1bbf33d700c6f3e633c585e88"
+  }
+}
