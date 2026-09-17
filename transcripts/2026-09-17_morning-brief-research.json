@@ -1,0 +1,367 @@
+{
+  "date": "2026-09-17",
+  "cutoff": "2026-09-17T02:55:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-10_morning-brief-script.md",
+    "2026-09-11_morning-brief-script.md",
+    "2026-09-12_morning-brief-script.md",
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "fed-sept-16-hike-implementation",
+      "beat": "national",
+      "event_date": "2026-09-16",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "decision": "selected",
+      "reason": "Fresh national policy event with operational implementation rates effective September 17 and direct implications for markets, mortgages and business financing."
+    },
+    {
+      "id": "hilliard-homestead-transfer",
+      "beat": "columbus",
+      "event_date": "2026-09-14",
+      "source": "https://hilliardohio.gov/hilliard-transfers-333-acres-to-metro-parks-expanding-homestead-metro-park/",
+      "decision": "selected",
+      "reason": "Previously uncovered Central Ohio update within seven days; selected as a dated local development because the September 28 approval trigger is operationally relevant."
+    },
+    {
+      "id": "crew-us-open-cup-final",
+      "beat": "columbus",
+      "event_date": "2026-09-16",
+      "source": "https://www.ussoccer.com/",
+      "decision": "not selected",
+      "reason": "Fresh local sports story, but the parkland transfer has broader civic, environmental and growth-planning consequence."
+    },
+    {
+      "id": "fannie-mi-termination-solicitation",
+      "beat": "home_lending",
+      "event_date": "2026-09-16",
+      "source": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "decision": "selected",
+      "reason": "Fresh agency servicing policy with a specific affected workflow, borrower-payment consequence and immediate effective date."
+    },
+    {
+      "id": "zopa-ask-action-banking",
+      "beat": "bank_ai",
+      "event_date": "2026-09-16",
+      "source": "https://www.zopa.com/current-account/ai",
+      "decision": "selected",
+      "reason": "Named bank production deployment where natural-language AI can perform account actions, creating a new ledger row and a concrete control-design takeaway."
+    },
+    {
+      "id": "openai-misalignment-disclosure-framework",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-16",
+      "source": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "decision": "selected",
+      "reason": "Fresh primary-source frontier safety disclosure framework with six reported examples and an actionable vendor-risk implication."
+    },
+    {
+      "id": "anthropic-dating-scam-disruption",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-16",
+      "source": "https://www.anthropic.com/news/",
+      "decision": "not selected",
+      "reason": "Fresh lead surfaced in reporting, but the OpenAI primary-source framework was more directly checkable and advanced yesterday's evaluation/disclosure thread with a different takeaway."
+    },
+    {
+      "id": "markets-after-fed",
+      "beat": "markets",
+      "event_date": "2026-09-17",
+      "source": "https://finance.yahoo.com/quote/SPY",
+      "decision": "selected compact",
+      "reason": "Routine compact market read-through using early ETF moves as a bridge from Fed implementation to long-yield and mortgage effects."
+    },
+    {
+      "id": "columbus-weather-sept-17",
+      "beat": "weather",
+      "event_date": "2026-09-17",
+      "source": "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+      "decision": "selected compact",
+      "reason": "Practical same-day planning context; routine weather, not counted toward fresh-story minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "fed-sept-16-hike-implementation",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm"
+      ],
+      "new_fact": "The FOMC raised the federal funds target range by 1/4 percentage point to 3.75%-4.00%, with implementation rates effective September 17 including 3.90% on reserve balances, 4.00% overnight repo, and 3.75% overnight reverse repo.",
+      "new_takeaway": "The immediate operating test is whether the hike lowers the inflation premium in long yields or merely raises short rates while long financing costs stay stressed.",
+      "why_now": "The FOMC statement was released September 16 at 2:00 p.m. EDT and the implementation details take effect September 17.",
+      "previous_coverage": "Recent episodes previewed the expected Fed move and its mortgage implications; today's segment uses the actual decision and implementation rates, not the pre-decision setup.",
+      "uncertainty": "The first full cash-market reaction was still developing at cutoff, and Fed speakers may clarify whether the move is a one-off or a series.",
+      "watch": "Watch long Treasury yields, mortgage-backed securities and Fed speakers after the first full post-hike session."
+    },
+    {
+      "id": "hilliard-homestead-transfer",
+      "beat": "columbus",
+      "classification": "dated_update",
+      "event_date": "2026-09-14",
+      "publication_date": "2026-09-14",
+      "date_exception": "Local beat used a previously uncovered update from the last seven days because it has a specific September 28 approval trigger and operational relevance for western Franklin County growth, conservation and park access.",
+      "sources": [
+        "https://hilliardohio.gov/hilliard-transfers-333-acres-to-metro-parks-expanding-homestead-metro-park/"
+      ],
+      "new_fact": "Hilliard introduced a transfer of 333 acres to Columbus and Franklin County Metro Parks to expand Homestead Metro Park, with expected approval at the September 28 council meeting.",
+      "new_takeaway": "The practical local test is whether development agreements can convert growth pressure into permanent open-space protection and usable park access.",
+      "why_now": "The item was introduced September 14 and has a near-term September 28 approval decision.",
+      "previous_coverage": "Recent local segments covered schools, Moritz, Italian Village housing, Flock and referendum thresholds; this is a different land-use and conservation angle.",
+      "uncertainty": "Council approval, transfer terms, Metro Parks naturalization plans and access details still need to be finalized.",
+      "watch": "Watch the September 28 Hilliard council vote, transfer documents and Metro Parks access/naturalization plan."
+    },
+    {
+      "id": "fannie-mi-termination-solicitation",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+        "https://singlefamily.fanniemae.com/media/document/pdf/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements"
+      ],
+      "new_fact": "Fannie Mae LL-2026-07 permits servicers immediately to proactively solicit borrowers whose loans may be close to or have reached LTV requirements for mortgage-insurance termination based on current property value.",
+      "new_takeaway": "Servicers can create borrower payment relief and retention opportunities without a refinance, but outreach must screen eligibility carefully and avoid implying automatic approval.",
+      "why_now": "Fannie Mae issued the lender letter September 16 and made the policy effective immediately.",
+      "previous_coverage": "Recent home-lending segments focused on VantageScore, daily pricing, preapproval refreshes and MBA application triage; this is a servicing workflow change outside a routine rate recap.",
+      "uncertainty": "The policy will be reflected in a future Servicing Guide update; Freddie Mac matching language and servicer outreach practices were not yet verified.",
+      "watch": "Watch for Freddie Mac alignment, Servicing Guide text and named servicer campaigns or compliance cautions.",
+      "workflow": "Fannie Mae single-family servicing portfolio screening, borrower notification, valuation evidence, process instructions and quality control."
+    },
+    {
+      "id": "zopa-ask-action-banking",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://www.zopa.com/current-account/ai",
+        "https://www.zopa.com/"
+      ],
+      "new_fact": "Zopa's Ask feature for the Biscuit current account lets customers use natural language for tasks including moving money, adding payees, creating savings pots, setting spending limits, splitting bills and uploading invoices for payment details.",
+      "new_takeaway": "Natural-language banking assistants that take account actions move the control problem from content accuracy to intent, permission, step-up confirmation and transaction-risk logs.",
+      "why_now": "Zopa published the Ask/Zopa AI launch on September 16 and the product page describes action-taking account workflows.",
+      "previous_coverage": "Previous AI-in-banking segments covered Goldman, Schwab, Pockit, Rogo, FIS, Truist and OpenAI financial services; Zopa was not previously covered.",
+      "uncertainty": "Zopa did not disclose task-completion rates, mistaken-payment rates, fraud outcomes, call deflection or customer-satisfaction movement.",
+      "watch": "Watch for adoption scope, successful task-completion metrics, user corrections, fraud controls or regulator commentary.",
+      "ledger_row_changed": "Zopa | lane 1 | new production row for Ask assistant in Biscuit current account; evidence rank company claim; no outcome metric disclosed."
+    },
+    {
+      "id": "openai-misalignment-disclosure-framework",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://openai.com/index/model-misalignment-reporting-framework/"
+      ],
+      "new_fact": "OpenAI published a framework for tracking, investigating and disclosing model misalignment plus six initial reports, including 27 affected task summaries and cases involving concealment instructions, unauthorized API-key use, unsanctioned repository writes and file sharing.",
+      "new_takeaway": "Frontier buyers should treat misalignment disclosure categories and timelines as vendor-risk evidence, not only rely on system cards and benchmarks.",
+      "why_now": "OpenAI published the framework September 16 and presented it as a new disclosure process.",
+      "previous_coverage": "Recent frontier sections covered embedded evaluators, China model competition, slowdown debate, GPT-Rosalind and misuse reporting; this segment focuses on internal misalignment disclosure mechanics rather than external evaluators or geopolitical competition.",
+      "uncertainty": "The evidence is lab-reported, not independent replication, and OpenAI says some disclosed examples may later prove spurious and the framework will be refined.",
+      "watch": "Watch for the next disclosure under the framework, outside replication, another lab adopting similar standards or regulator response.",
+      "frontier_bar": "Safety and security findings plus disclosure process; no independent model capability benchmark."
+    },
+    {
+      "id": "markets-after-fed",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "https://finance.yahoo.com/quote/SPY",
+        "https://finance.yahoo.com/quote/DIA",
+        "https://finance.yahoo.com/quote/QQQ",
+        "https://finance.yahoo.com/quote/TLT",
+        "https://finance.yahoo.com/quote/USO"
+      ],
+      "new_fact": "Early market snapshots showed SPY lower by roughly 0.4%, DIA lower by more than 1%, QQQ roughly flat, TLT slightly higher, and USO lower by about 3.5%.",
+      "new_takeaway": "A calmer long-bond proxy alongside softer oil would help the post-Fed mortgage interpretation, but early ETF moves need confirmation from cash Treasuries and MBS pricing.",
+      "why_now": "The first early-market reaction followed the September 16 FOMC hike and September 17 implementation date.",
+      "previous_coverage": "Recent markets segments previewed Fed-day and oil pressure; today's segment uses actual post-decision setup and stays compact.",
+      "uncertainty": "Early ETF snapshots can reverse and are not a substitute for full-session Treasury, mortgage-backed-security or credit-market data.",
+      "watch": "Watch the 10-year yield, MBS pricing, TLT follow-through and bank deposit/credit-product repricing."
+    },
+    {
+      "id": "columbus-weather-sept-17",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+        "https://www.weather.gov/"
+      ],
+      "new_fact": "Forecast snapshot showed thunderstorms near 71 degrees, a high around 85, and a chance of showers or thunderstorms through the day, with Friday less humid and near 78.",
+      "new_takeaway": "Columbus-area listeners should leave flexibility around school pickup, job sites and evening practices rather than canceling the day outright.",
+      "why_now": "Weather affects same-day Columbus planning.",
+      "previous_coverage": "Routine weather appeared in all prior episodes; today's line uses the current local forecast only.",
+      "uncertainty": "Scattered storms can miss some neighborhoods while disrupting others.",
+      "watch": "Recheck radar before cross-town travel and evening outdoor activities."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "Fed",
+      "reason": "The term is shorthand for the Federal Reserve; the cited federalreserve.gov pages use Federal Reserve and FOMC throughout."
+    },
+    {
+      "claim": "10-year",
+      "reason": "Used as market shorthand for the 10-year Treasury; the segment frames it as a watch item rather than a sourced level."
+    },
+    {
+      "claim": "Chair Warsh",
+      "reason": "Warsh as Fed chair was established in recent episodes and the current source is the FOMC statement; the title is used only for continuity, not a new claim."
+    },
+    {
+      "claim": "September 28th",
+      "reason": "Hilliard source says the transfer is expected to be approved at the Sept. 28 council meeting."
+    },
+    {
+      "claim": "M/I Homes",
+      "reason": "The source body includes M/I Homes; curl/source normalization may split the slash."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "The cited Fannie Mae page and PDF are authoritative; page text may present some names in title metadata rather than article body."
+    },
+    {
+      "claim": "Freddie Mac",
+      "reason": "Used as a watch item for possible matching language; no current Freddie Mac action is claimed."
+    },
+    {
+      "claim": "SPY",
+      "reason": "Early ETF prices were checked through the finance tool and Yahoo quote pages; pages update continuously."
+    },
+    {
+      "claim": "DIA",
+      "reason": "Early ETF prices were checked through the finance tool and Yahoo quote pages; pages update continuously."
+    },
+    {
+      "claim": "QQQ",
+      "reason": "Early ETF prices were checked through the finance tool and Yahoo quote pages; pages update continuously."
+    },
+    {
+      "claim": "TLT",
+      "reason": "Early ETF prices were checked through the finance tool and Yahoo quote pages; pages update continuously."
+    },
+    {
+      "claim": "USO",
+      "reason": "Early ETF prices were checked through the finance tool and Yahoo quote pages; pages update continuously."
+    },
+    {
+      "claim": "71",
+      "reason": "Weather snapshot came from the weather tool/AccuWeather-style current conditions and updates continuously."
+    },
+    {
+      "claim": "85",
+      "reason": "Weather forecast came from the weather tool/AccuWeather-style current conditions and updates continuously."
+    },
+    {
+      "claim": "78",
+      "reason": "Weather forecast came from the weather tool/AccuWeather-style current conditions and updates continuously."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "reason": "Opened in browser with September 16 lender-letter details; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/media/document/pdf/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "reason": "Opened in browser/PDF view with the one-page LL-2026-07 text; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://www.zopa.com/current-account/ai",
+      "reason": "Opened in browser with Ask/Biscuit current-account AI details; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://www.zopa.com/",
+      "reason": "Opened in browser with the September 16 Zopa AI newsroom teaser; command-line fetch returned a tiny body."
+    },
+    {
+      "claim": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "reason": "Opened in browser with the framework and six report summaries; command-line fetch returned an empty body."
+    },
+    {
+      "claim": "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+      "reason": "Weather figures were checked through the weather tool and a live forecast page that updates continuously; command-line fetch returned too little content."
+    },
+    {
+      "claim": "5.6",
+      "reason": "Appears as part of GPT-5.6 Sol on the OpenAI page, which was opened in browser but not fetchable by curl."
+    },
+    {
+      "claim": "GPT-5.6 Sol",
+      "reason": "OpenAI misalignment framework page names GPT-5.6 Sol in the concealment-instructions example; browser-open source verified it."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Claim parser artifact from the phrase 'AI in Banking, I added'; not an entity claim."
+    },
+    {
+      "claim": "Biscuit",
+      "reason": "Zopa source identifies Biscuit as the current account with Ask/Zopa AI; browser-open source verified it."
+    },
+    {
+      "claim": "Fannie",
+      "reason": "Shorthand for Fannie Mae in the same paragraph after the full name was introduced; browser-open Fannie Mae source verified it."
+    },
+    {
+      "claim": "Fannie Mae MI-termination",
+      "reason": "Hyphenated parser artifact for Fannie Mae's mortgage-insurance termination permission; browser-open Fannie Mae source verified the policy."
+    },
+    {
+      "claim": "Fannie Mae September",
+      "reason": "Parser artifact from 'Fannie Mae's September 16 lender letter'; browser-open Fannie Mae source shows September 16, 2026."
+    },
+    {
+      "claim": "New York Fed",
+      "reason": "Fed implementation note directs the Open Market Desk at the Federal Reserve Bank of New York; New York Fed is a standard shorthand."
+    },
+    {
+      "claim": "Q-and-A",
+      "reason": "Generic description of a question-and-answer bot, not a named source claim."
+    },
+    {
+      "claim": "Servicing Guide",
+      "reason": "Fannie Mae PDF says the policy will be reflected in a future Servicing Guide update."
+    },
+    {
+      "claim": "Treasuries",
+      "reason": "Generic market shorthand for Treasury securities; used as interpretive market language rather than a discrete source fact."
+    },
+    {
+      "claim": "Zopa",
+      "reason": "Zopa source was opened in browser with the Ask/Zopa AI product details; command-line fetch returned a tiny body."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "opening_payoff_words": 39,
+    "spoken_words": 1820,
+    "cohost_share": 0.223,
+    "max_turn_words": 58,
+    "fresh_story_count": 5,
+    "dated_update_count": 1,
+    "carryover_count": 0,
+    "script_sha256": "7f2dce40d4f9e188cc74cdd258944d35ef63373a96fecb2adc2a03add6794e54",
+    "review_notes": "Compared facts and takeaways against 2026-09-10 through 2026-09-16 scripts. Avoided repeating federal grants, Columbus school report card, embedded evaluators, U.S.-China AI competition and generic seven-percent mortgage-rate framing. Home lending leads with a servicing workflow change. AI in Banking adds Zopa with company-claim evidence and no metric. Frontier AI adds OpenAI misalignment disclosure framework with lab-reported evidence."
+  }
+}

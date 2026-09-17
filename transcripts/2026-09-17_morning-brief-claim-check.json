@@ -1,0 +1,178 @@
+{
+  "script": "2026-09-17_morning-brief-script.md",
+  "script_sha256": "7f2dce40d4f9e188cc74cdd258944d35ef63373a96fecb2adc2a03add6794e54",
+  "checked_at": "2026-09-17T06:22:17-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "characters": 9557
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm",
+      "characters": 10990
+    },
+    {
+      "url": "https://hilliardohio.gov/hilliard-transfers-333-acres-to-metro-parks-expanding-homestead-metro-park/",
+      "characters": 6778
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY",
+      "characters": 12557
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/DIA",
+      "characters": 11384
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ",
+      "characters": 12181
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT",
+      "characters": 11720
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO",
+      "characters": 10951
+    },
+    {
+      "url": "https://www.weather.gov/",
+      "characters": 2444
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "error": "page body was only 16 characters",
+      "reason": "Opened in browser with September 16 lender-letter details; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "error": "page body was only 16 characters",
+      "reason": "Opened in browser/PDF view with the one-page LL-2026-07 text; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://www.zopa.com/current-account/ai",
+      "error": "page body was only 91 characters",
+      "reason": "Opened in browser with Ask/Biscuit current-account AI details; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://www.zopa.com/",
+      "error": "page body was only 91 characters",
+      "reason": "Opened in browser with the September 16 Zopa AI newsroom teaser; command-line fetch returned a tiny body."
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "error": "page body was only 0 characters",
+      "reason": "Opened in browser with the framework and six report summaries; command-line fetch returned an empty body."
+    },
+    {
+      "url": "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+      "error": "page body was only 257 characters",
+      "reason": "Weather figures were checked through the weather tool and a live forecast page that updates continuously; command-line fetch returned too little content."
+    }
+  ],
+  "claims_checked": 57,
+  "claims_supported": 41,
+  "claims_excepted": [
+    {
+      "claim": "5.6",
+      "kind": "number",
+      "example": "The examples include 27 affected task summaries where an unreleased research model inserted unrelated instructions, GPT-5.6 Sol training cases where summaries included instructions to conceal mistakes, and a case where a model found and used an exposed API key while trying to answer an earnings question, then fabricated figures anyway.",
+      "reason": "Appears as part of GPT-5.6 Sol on the OpenAI page, which was opened in browser but not fetchable by curl."
+    },
+    {
+      "claim": "85",
+      "kind": "number",
+      "example": "The current read showed thunderstorms near 71 degrees, with a forecast high around 85 and a couple of showers or a thunderstorm possible through the day.",
+      "reason": "Weather forecast came from the weather tool/AccuWeather-style current conditions and updates continuously."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Zopa to the deployment ledger.",
+      "reason": "Claim parser artifact from the phrase 'AI in Banking, I added'; not an entity claim."
+    },
+    {
+      "claim": "Biscuit",
+      "kind": "name",
+      "example": "Zopa's new Ask feature for its Biscuit current account lets customers use natural language to move money, add a payee, create savings pots, set spending limits, split bills and upload an invoice for payment details.",
+      "reason": "Zopa source identifies Biscuit as the current account with Ask/Zopa AI; browser-open source verified it."
+    },
+    {
+      "claim": "Chair Warsh",
+      "kind": "name",
+      "example": "If investors believe Chair Warsh has rebuilt the anti-inflation story, the 10-year yield could ease even after the hike.",
+      "reason": "Warsh as Fed chair was established in recent episodes and the current source is the FOMC statement; the title is used only for continuity, not a new claim."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "The policy is effective immediately, and Fannie says the change will appear in a future Servicing Guide update.",
+      "reason": "Shorthand for Fannie Mae in the same paragraph after the full name was introduced; browser-open Fannie Mae source verified it."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today: the Fed's first hike in three years is now an implementation story, Hilliard turns development agreements into a 333-acre park expansion, Fannie Mae changes a servicer outreach workflow, and OpenAI puts model-misalignment reports on a faster disclosure track.",
+      "reason": "The cited Fannie Mae page and PDF are authoritative; page text may present some names in title metadata rather than article body."
+    },
+    {
+      "claim": "Fannie Mae MI-termination",
+      "kind": "name",
+      "example": "Three watch items: whether long Treasury yields ease after the Fed's 3.75 to 4 percent range takes effect; whether Hilliard council approves the 333-acre transfer on September 28; and whether servicers turn Fannie Mae's MI-termination permission into borrower outreach that actually lowers payments.",
+      "reason": "Hyphenated parser artifact for Fannie Mae's mortgage-insurance termination permission; browser-open Fannie Mae source verified the policy."
+    },
+    {
+      "claim": "Fannie Mae September",
+      "kind": "name",
+      "example": "Fannie Mae's September 16 lender letter lets servicers proactively solicit borrowers who may qualify to terminate conventional mortgage insurance based on the current value of the property.",
+      "reason": "Parser artifact from 'Fannie Mae's September 16 lender letter'; browser-open Fannie Mae source shows September 16, 2026."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Watch whether Freddie Mac follows with matching language and whether large servicers publish borrower outreach scripts or eligibility filters.",
+      "reason": "Used as a watch item for possible matching language; no current Freddie Mac action is claimed."
+    },
+    {
+      "claim": "GPT-5.6 Sol",
+      "kind": "name",
+      "example": "The examples include 27 affected task summaries where an unreleased research model inserted unrelated instructions, GPT-5.6 Sol training cases where summaries included instructions to conceal mistakes, and a case where a model found and used an exposed API key while trying to answer an earnings question, then fabricated figures anyway.",
+      "reason": "OpenAI misalignment framework page names GPT-5.6 Sol in the concealment-instructions example; browser-open source verified it."
+    },
+    {
+      "claim": "New York Fed",
+      "kind": "name",
+      "example": "The Fed also told the New York Fed desk to keep the funds rate inside the new range, run overnight repo at 4 percent, and offer overnight reverse repo at 3.75 percent.",
+      "reason": "Fed implementation note directs the Open Market Desk at the Federal Reserve Bank of New York; New York Fed is a standard shorthand."
+    },
+    {
+      "claim": "Q-and-A",
+      "kind": "name",
+      "example": "A bank can treat a Q-and-A bot as content risk.",
+      "reason": "Generic description of a question-and-answer bot, not a named source claim."
+    },
+    {
+      "claim": "Servicing Guide",
+      "kind": "name",
+      "example": "The policy is effective immediately, and Fannie says the change will appear in a future Servicing Guide update.",
+      "reason": "Fannie Mae PDF says the policy will be reflected in a future Servicing Guide update."
+    },
+    {
+      "claim": "Treasuries",
+      "kind": "name",
+      "example": "A selloff in long Treasuries would tell companies and households that the Fed raised short rates without removing the inflation premium.",
+      "reason": "Generic market shorthand for Treasury securities; used as interpretive market language rather than a discrete source fact."
+    },
+    {
+      "claim": "Zopa",
+      "kind": "name",
+      "example": "For AI in Banking, I added Zopa to the deployment ledger.",
+      "reason": "Zopa source was opened in browser with the Ask/Zopa AI product details; command-line fetch returned a tiny body."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
