@@ -1,0 +1,234 @@
+{
+  "script": "2026-09-18_morning-brief-script.md",
+  "script_sha256": "ac85db468e82ab710651a2f27849bc719d67abe7cef93373337525cf88dfb152",
+  "checked_at": "2026-09-18T01:47:58-0400",
+  "sources_fetched": [
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034",
+      "characters": 3022
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10995
+    },
+    {
+      "url": "https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9",
+      "characters": 10416
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15802",
+      "characters": 4414
+    },
+    {
+      "url": "https://forecast.weather.gov/",
+      "characters": 2453
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/early-voting-midterms-congress-10a3e620ce194144ce1af5e9d4fb6786",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/17/hardin-wyche-propose-new-data-center-guardrails",
+      "error": "page body was only 16 characters",
+      "reason": "Axios page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://apnews.com/article/inflation-warsh-trump-federal-reserve-cbf10411b50040aed24ec5a28e4c0c5a",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a8ce06ff4ffcf66d9f28bd3453bdf998",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+      "error": "page body was only 253 characters",
+      "reason": "AccuWeather is a dynamic forecast page; weather was cross-checked at cutoff and may update hourly."
+    }
+  ],
+  "claims_checked": 59,
+  "claims_supported": 31,
+  "claims_excepted": [
+    {
+      "claim": "0.6",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the Dow Jones Industrial Average rose 0.6% on Thursday."
+    },
+    {
+      "claim": "1.1",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the S&P 500 rose 1.1% on Thursday."
+    },
+    {
+      "claim": "1.7",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the Nasdaq composite rose 1.7% on Thursday."
+    },
+    {
+      "claim": "18",
+      "kind": "number",
+      "example": "This is your Morning Brief for Friday, September 18, 2026.",
+      "reason": "Episode date is the automation run date in America/New_York."
+    },
+    {
+      "claim": "26",
+      "kind": "number",
+      "example": "AP reports Claude is now leading 26 percent of Anthropic's model research and development, meaning it can complete most of a task end to end from a high-level prompt while still under human supervision.",
+      "reason": "AP Anthropic article opened in browser reports Claude is leading 26% of Anthropic model R&D."
+    },
+    {
+      "claim": "30000",
+      "kind": "number",
+      "example": "Anthropic says about 90 percent of its research and development is now done in collaboration with Claude, and AP reports roughly 30000 agents were doing research and engineering work as of August.",
+      "reason": "AP Anthropic article opened in browser reports approximately 30,000 agents doing research and engineering work as of August."
+    },
+    {
+      "claim": "4.93",
+      "kind": "number",
+      "example": "The 10-year Treasury yield fell to 4.93 percent, according to AP, while Brent crude slipped 1 percent.",
+      "reason": "AP market article opened in browser reports the 10-year Treasury yield fell to 4.93%."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "Part of S&P 500 index name; AP market article supports the S&P 500 reference and move."
+    },
+    {
+      "claim": "90",
+      "kind": "number",
+      "example": "Anthropic says about 90 percent of its research and development is now done in collaboration with Claude, and AP reports roughly 30000 agents were doing research and engineering work as of August.",
+      "reason": "AP Anthropic article opened in browser reports about 90% of Anthropic R&D is done in collaboration with Claude."
+    },
+    {
+      "claim": "AI-related",
+      "kind": "name",
+      "example": "The test is follow-through, especially if investors keep worrying about inflation, federal debt and AI-related borrowing.",
+      "reason": "Used as a descriptive modifier for borrowing; AP Federal Reserve article discusses AI data-center borrowing as a driver of rates."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports Council President Shannon Hardin and Councilmember Christopher Wyche are backing new guardrails for future data center projects, and the first ordinance is already on the September 28 council agenda.",
+      "reason": "Publisher and local desk label for the cited Axios Columbus article opened in browser."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I changed the JPMorganChase ledger row.",
+      "reason": "Parser artifact from the chapter phrase AI in Banking, which is show structure rather than a factual claim."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "The 10-year Treasury yield fell to 4.93 percent, according to AP, while Brent crude slipped 1 percent.",
+      "reason": "AP market article opened in browser reports Brent crude fell 1%."
+    },
+    {
+      "claim": "Claude and AP",
+      "kind": "name",
+      "example": "Anthropic says about 90 percent of its research and development is now done in collaboration with Claude, and AP reports roughly 30000 agents were doing research and engineering work as of August.",
+      "reason": "Parser joined adjacent names; AP Anthropic article supports both Claude and AP-reported figures."
+    },
+    {
+      "claim": "Council President Shannon Hardin and Councilmember Christopher Wyche",
+      "kind": "name",
+      "example": "Axios Columbus reports Council President Shannon Hardin and Councilmember Christopher Wyche are backing new guardrails for future data center projects, and the first ordinance is already on the September 28 council agenda.",
+      "reason": "Axios Columbus article opened in browser names Hardin and Wyche as sponsors/supporters of the package."
+    },
+    {
+      "claim": "Election",
+      "kind": "name",
+      "example": "Election administrators say they are prepared, but AP notes voter-rights groups are still encouraging early ballots partly because of concern about Postal Service processing delays.",
+      "reason": "Sentence-start parser artifact; AP early-voting article supports the election-administrator claim."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "Early voting is supposed to reduce Election Day lines and give officials more time to process ballots.",
+      "reason": "General election calendar term; AP early-voting article discusses early voting easing lines and faster results."
+    },
+    {
+      "claim": "Idaho Minnesota and South Dakota",
+      "kind": "name",
+      "example": "AP reports in-person voting for the midterms begins today in Virginia, while voters in Idaho, Minnesota and South Dakota can cast absentee ballots in person, usually at local election offices or voting centers.",
+      "reason": "AP early-voting article opened in browser names Idaho, Minnesota and South Dakota for in-person absentee voting."
+    },
+    {
+      "claim": "Iran",
+      "kind": "name",
+      "example": "The next six weeks will test voting operations, redrawn districts, affordability anxiety, the Iran war and AI worries at the same time.",
+      "reason": "AP early-voting article names the war in Iran among issues voters face."
+    },
+    {
+      "claim": "JPMorganChase",
+      "kind": "name",
+      "example": "For AI in Banking, I changed the JPMorganChase ledger row.",
+      "reason": "Ledger uses JPMorganChase as the institution name; the Business Insider source styles the company as JPMorgan."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the Nasdaq composite move."
+    },
+    {
+      "claim": "Postal Service",
+      "kind": "name",
+      "example": "The Supreme Court left lower-court blocks in place against the Postal Service mail-ballot plan, but AP says other federal efforts continue, including court challenges, searches for noncitizen voters and pressure on states to share sensitive voter data.",
+      "reason": "AP early-voting article links the current voting context to the Postal Service mail-ballot dispute and processing concerns."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the S&P 500 move."
+    },
+    {
+      "claim": "Saturday and Sunday",
+      "kind": "name",
+      "example": "For Saturday and Sunday, check the latest local forecast before youth sports, yard work or longer drives, because scattered storms can change timing without turning the whole weekend into a washout.",
+      "reason": "Routine forecast planning language based on current weather pages, which update continuously."
+    },
+    {
+      "claim": "Supreme Court",
+      "kind": "name",
+      "example": "The Supreme Court left lower-court blocks in place against the Postal Service mail-ballot plan, but AP says other federal efforts continue, including court challenges, searches for noncitizen voters and pressure on states to share sensitive voter data.",
+      "reason": "AP early-voting article opened in browser says the Supreme Court rejected the administration bid to restrict mail ballots this week."
+    },
+    {
+      "claim": "the Dow",
+      "kind": "name",
+      "example": "AP says the S&P 500 rose 1.1 percent Thursday, the Dow gained 0.6 percent and the Nasdaq climbed 1.7 percent, helped by falling oil and easing bond pressure after the rate hike.",
+      "reason": "AP market article opened in browser reports the Dow Jones Industrial Average move."
+    },
+    {
+      "claim": "the Fed",
+      "kind": "name",
+      "example": "Does the Fed hike itself cause this, or is that too simple?",
+      "reason": "Common shorthand for the Federal Reserve; AP Federal Reserve article supports the Fed context."
+    },
+    {
+      "claim": "the September",
+      "kind": "name",
+      "example": "Watch the September 28 vote and whether Columbus Water and Power comes back with a concrete rate design rather than a slogan.",
+      "reason": "Parser artifact from the September 28 vote reference; Axios and Columbus legislation page support that date."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

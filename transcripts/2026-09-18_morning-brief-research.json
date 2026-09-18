@@ -1,0 +1,410 @@
+{
+  "date": "2026-09-18",
+  "cutoff": "2026-09-18T01:43:29-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-11_morning-brief-script.md",
+    "2026-09-12_morning-brief-script.md",
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "early-voting-begins",
+      "beat": "national",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/early-voting-midterms-congress-10a3e620ce194144ce1af5e9d4fb6786",
+      "decision": "selected",
+      "reason": "Fresh national operating event: voting begins, turning prior election-administration disputes into county workflow and voter-instruction issues."
+    },
+    {
+      "id": "fed-post-hike-analysis",
+      "beat": "national",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/inflation-warsh-trump-federal-reserve-cbf10411b50040aed24ec5a28e4c0c5a",
+      "decision": "not selected as lead",
+      "reason": "Useful context but yesterday's full national segment covered the Fed hike; used only as mortgage/markets context to avoid a repeated full segment."
+    },
+    {
+      "id": "columbus-data-center-guardrails",
+      "beat": "columbus",
+      "event_date": "2026-09-17",
+      "source": "https://www.axios.com/local/columbus/2026/09/17/hardin-wyche-propose-new-data-center-guardrails",
+      "decision": "selected",
+      "reason": "Fresh Central Ohio utility and growth-management story with September 28 vote trigger and direct resident bill/infrastructure implications."
+    },
+    {
+      "id": "ohio-senate-brown-husted",
+      "beat": "national",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/d136734520db923e03398156046d8dc4",
+      "decision": "not selected",
+      "reason": "Fresh Ohio politics background, but early voting has clearer immediate operating consequence for a national lead."
+    },
+    {
+      "id": "freddie-pmms-695",
+      "beat": "home_lending",
+      "event_date": "2026-09-17",
+      "source": "https://www.freddiemac.com/pmms",
+      "decision": "selected",
+      "reason": "Fresh primary-source mortgage benchmark with a specific workflow consequence: requalification, lock counseling and offer math."
+    },
+    {
+      "id": "mastercard-agentic-payments",
+      "beat": "bank_ai",
+      "event_date": "2026-09-18",
+      "source": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+      "decision": "not selected",
+      "reason": "Fresh financial-services AI story, but JPMorgan's control architecture is more bank-operational and changes an existing ledger row."
+    },
+    {
+      "id": "jpmorgan-claude-devspace",
+      "beat": "bank_ai",
+      "event_date": "2026-09-18",
+      "source": "https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9",
+      "decision": "selected",
+      "reason": "Fresh bank AI implementation update that changes the JPMorganChase ledger row from broad LLM Suite use to concrete coding-assistant containment controls."
+    },
+    {
+      "id": "anthropic-claude-rd-self-improvement",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+      "decision": "selected",
+      "reason": "Fresh frontier metric with measurable share of AI-led R&D, clear limitation and direct connection to recursive self-improvement monitoring."
+    },
+    {
+      "id": "openai-hacktron-bug-bounty",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-18",
+      "source": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
+      "decision": "not selected",
+      "reason": "Fresh but relies on paywalled reporting and repeats yesterday's AI safety disclosure theme more than Anthropic's checkable R&D metric."
+    },
+    {
+      "id": "markets-sept-17-rebound",
+      "beat": "markets",
+      "event_date": "2026-09-17",
+      "source": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a8ce06ff4ffcf66d9f28bd3453bdf998",
+      "decision": "selected compact",
+      "reason": "Fresh market follow-through after the Fed decision, used compactly for long-yield and mortgage read-through."
+    },
+    {
+      "id": "columbus-weather-sept-18",
+      "beat": "weather",
+      "event_date": "2026-09-18",
+      "source": "https://forecast.weather.gov/",
+      "decision": "selected compact",
+      "reason": "Routine same-day planning value; not counted toward the fresh-story minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "early-voting-begins",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://apnews.com/article/early-voting-midterms-congress-10a3e620ce194144ce1af5e9d4fb6786"
+      ],
+      "new_fact": "AP reported that in-person voting for the midterms begins Friday in Virginia and that voters in Idaho, Minnesota and South Dakota can cast absentee ballots in person.",
+      "new_takeaway": "Election-administration disputes now become live voter-instruction and county-workflow problems, not only court-calendar issues.",
+      "why_now": "Friday, September 18 is the first day of in-person voting in Virginia and the start of the final six-week operating window before November 3.",
+      "previous_coverage": "Recent episodes covered the mail-ballot injunctions and DHS voter-check project; this segment uses the new event that voting has begun and shifts the takeaway from litigation to execution.",
+      "uncertainty": "Federal efforts around voter data and noncitizen searches continue, and misinformation can still alter voter behavior even without a rule change.",
+      "watch": "Watch county-level voter instructions, early-vote processing and any evidence that federal election-administration efforts create voter confusion."
+    },
+    {
+      "id": "columbus-data-center-guardrails",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/09/17/hardin-wyche-propose-new-data-center-guardrails",
+        "https://columbus.legistar.com/LegislationDetail.aspx?GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034"
+      ],
+      "new_fact": "Columbus leaders introduced legislation requiring Columbus Water and Power to establish peak rates or other fees and charges for large load/high-volume users, including data centers, with a September 28 agenda date.",
+      "new_takeaway": "The local policy question is whether data-center growth pays for the infrastructure capacity it requires rather than shifting costs to residents and small businesses.",
+      "why_now": "Axios reported the package September 17 after a Wednesday press conference and the ordinance is on the September 28 council agenda.",
+      "previous_coverage": "Recent local stories covered Moritz downtown, school report cards, Hilliard parkland and housing approvals; this is a different utility-rate and infrastructure-cost story.",
+      "uncertainty": "The ordinance sets an expectation and deadline but does not itself rewrite rates; Columbus Water and Power must still design a concrete structure.",
+      "watch": "Watch the September 28 council vote and the rate design Columbus Water and Power brings back."
+    },
+    {
+      "id": "freddie-pmms-695",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "https://www.freddiemac.com/pmms",
+        "https://apnews.com/article/inflation-warsh-trump-federal-reserve-cbf10411b50040aed24ec5a28e4c0c5a"
+      ],
+      "new_fact": "Freddie Mac reported the 30-year fixed-rate mortgage averaged 6.95% as of September 17, up from 6.76% the prior week, while the 15-year averaged 6.26%.",
+      "new_takeaway": "The public weekly benchmark has caught up to near-seven-percent pricing, forcing purchase-file requalification and updated concession, lock and buydown math.",
+      "why_now": "The PMMS update was published September 17, within 24 hours of the episode cutoff.",
+      "previous_coverage": "Recent home-lending coverage discussed daily pricing, application triage, preapproval refreshes and MI termination; this segment uses the fresh weekly benchmark and keeps the Fed as context.",
+      "uncertainty": "Post-Fed long-yield relief may or may not pass through to daily mortgage pricing; the weekly survey lags some desk moves.",
+      "watch": "Watch whether the 10-year Treasury and MBS pricing let daily quotes move below Freddie's 6.95% weekly average.",
+      "workflow": "Active purchase-file requalification, lock counseling, seller-credit negotiation, buydown math and approval-letter refreshes."
+    },
+    {
+      "id": "jpmorgan-claude-devspace",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9"
+      ],
+      "new_fact": "Business Insider reported that JPMorgan is pairing a $2,000 monthly Claude spending limit for some users with Devspace, a containerized AWS-hosted environment that restricts Claude's access to credentials and internal systems.",
+      "new_takeaway": "The banking-AI control question shifts from whether coding assistants are useful to whether they can run with identity, logging and no standing entitlements to sensitive systems.",
+      "why_now": "The report was published September 18 and changes a previously tracked JPMorganChase AI productivity row.",
+      "previous_coverage": "Recent AI-in-banking segments covered Zopa, Goldman, Schwab, Pockit, Rogo, FIS and Truist; JPMorgan was in the ledger but had not been used as a current control-architecture story.",
+      "uncertainty": "No measured code-quality, defect, security-finding or developer-productivity outcome was disclosed; it is unclear whether or when all Claude-using engineers will move into Devspace.",
+      "watch": "Watch for measured coding-assistant outcomes or a wider JPMorganChase rollout of the sandboxed architecture.",
+      "ledger_row_changed": "JPMorganChase | lane 7 | status remains production but row updated with Claude Devspace containment controls, $2,000 limit for some users, about 8,000 Claude licenses and about 1,900 Devspace Teams members; evidence rank reputable reporting; no outcome metric disclosed."
+    },
+    {
+      "id": "anthropic-claude-rd-self-improvement",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+        "https://arxiv.org/abs/2609.15802"
+      ],
+      "new_fact": "AP reported that Claude is leading 26% of Anthropic's model R&D, participates in about 90% of R&D in collaboration with humans, and that about 30,000 agents were doing research and engineering work as of August.",
+      "new_takeaway": "Frontier labs are starting to disclose metrics for AI-led AI development, but the same disclosure shows why outsider-comparable methodology and agent oversight matter.",
+      "why_now": "AP published the Anthropic disclosure September 18, and the metric is a new frontier safety and capability measurement.",
+      "previous_coverage": "Recent frontier sections covered OpenAI misalignment reporting, embedded evaluators, China model competition, GPT-Rosalind and misuse reporting; this advances the self-improvement measurement thread with a different takeaway.",
+      "uncertainty": "Anthropic says the model is not fully autonomous and AP reports it is unclear how close the company believes it is to recursive self-improvement.",
+      "watch": "Watch whether other frontier labs publish comparable AI-R&D contribution metrics and whether third-party evaluators can verify them.",
+      "frontier_bar": "Agent and tool-use advances plus safety measurement; measured by Anthropic and reported by AP, not independently replicated."
+    },
+    {
+      "id": "markets-sept-17-rebound",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-17",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a8ce06ff4ffcf66d9f28bd3453bdf998"
+      ],
+      "new_fact": "AP reported the S&P 500 rose 1.1%, the Dow gained 0.6%, the Nasdaq rose 1.7%, Brent crude fell 1% and the 10-year Treasury yield fell to 4.93% on Thursday.",
+      "new_takeaway": "The first post-hike relief signal helped stocks and long yields, but mortgage affordability still needs pass-through into rate sheets.",
+      "why_now": "The market move occurred September 17 after the September 16 Fed hike.",
+      "previous_coverage": "Recent market segments previewed Fed-day and oil pressure; this uses the first post-decision session and stays compact.",
+      "uncertainty": "One session does not establish a sustained trend, and Freddie's weekly mortgage survey still rose sharply.",
+      "watch": "Watch whether the 10-year yield stays below 5% and whether MBS pricing improves enough for lenders to reprice."
+    },
+    {
+      "id": "columbus-weather-sept-18",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://forecast.weather.gov/",
+        "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128"
+      ],
+      "new_fact": "Forecast sources indicated a warm Friday with highs in the low to mid 80s and weekend thunderstorm chances.",
+      "new_takeaway": "Columbus listeners should use Friday for errands or outdoor work where possible and recheck radar before weekend activities.",
+      "why_now": "Weather affects same-day and weekend planning.",
+      "previous_coverage": "Routine weather appears daily; this is current practical planning only.",
+      "uncertainty": "Scattered storms can change timing by neighborhood.",
+      "watch": "Recheck local radar before Friday evening and weekend outdoor plans."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "September 18th",
+      "reason": "Episode date from local system time and automation schedule; AP early-voting source independently says Friday begins voting."
+    },
+    {
+      "claim": "Columbus Water and Power",
+      "reason": "The city legislation page abbreviates Columbus Water and Power as CWP and expands it in the explanation."
+    },
+    {
+      "claim": "Home Road Water Plant",
+      "reason": "The city legislation text cites the new 48-million-gallon-per-day Home Road Water Plant."
+    },
+    {
+      "claim": "Freddie Mac",
+      "reason": "The cited PMMS page is Freddie Mac's primary mortgage-rate page; some claim-check extraction may treat the publisher name separately."
+    },
+    {
+      "claim": "Fed",
+      "reason": "Used as shorthand for Federal Reserve, supported by the AP Federal Reserve article and recent prior context."
+    },
+    {
+      "claim": "JPMorganChase",
+      "reason": "Ledger uses JPMorganChase as the institution name; the Business Insider source styles the company as JPMorgan."
+    },
+    {
+      "claim": "Business Insider",
+      "reason": "Business Insider is the publisher of the cited source and may appear in page metadata rather than article body."
+    },
+    {
+      "claim": "AWS",
+      "reason": "The source describes Devspace as hosted in Amazon Web Services; AWS is the standard acronym."
+    },
+    {
+      "claim": "September 28",
+      "reason": "Axios and the Columbus legislation page identify September 28 as the expected/agenda vote date."
+    },
+    {
+      "claim": "low to mid 80s",
+      "reason": "Weather pages update continuously; forecast was checked at cutoff and is used for routine planning rather than a durable factual claim."
+    },
+    {
+      "claim": "https://apnews.com/article/early-voting-midterms-congress-10a3e620ce194144ce1af5e9d4fb6786",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/09/17/hardin-wyche-propose-new-data-center-guardrails",
+      "reason": "Axios page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://apnews.com/article/inflation-warsh-trump-federal-reserve-cbf10411b50040aed24ec5a28e4c0c5a",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a8ce06ff4ffcf66d9f28bd3453bdf998",
+      "reason": "AP page was opened and read through the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://www.accuweather.com/en/us/columbus/43215/weather-forecast/350128",
+      "reason": "AccuWeather is a dynamic forecast page; weather was cross-checked at cutoff and may update hourly."
+    },
+    {
+      "claim": "0.6",
+      "reason": "AP market article opened in browser reports the Dow Jones Industrial Average rose 0.6% on Thursday."
+    },
+    {
+      "claim": "1.1",
+      "reason": "AP market article opened in browser reports the S&P 500 rose 1.1% on Thursday."
+    },
+    {
+      "claim": "1.7",
+      "reason": "AP market article opened in browser reports the Nasdaq composite rose 1.7% on Thursday."
+    },
+    {
+      "claim": "18",
+      "reason": "Episode date is the automation run date in America/New_York."
+    },
+    {
+      "claim": "26",
+      "reason": "AP Anthropic article opened in browser reports Claude is leading 26% of Anthropic model R&D."
+    },
+    {
+      "claim": "30000",
+      "reason": "AP Anthropic article opened in browser reports approximately 30,000 agents doing research and engineering work as of August."
+    },
+    {
+      "claim": "4.93",
+      "reason": "AP market article opened in browser reports the 10-year Treasury yield fell to 4.93%."
+    },
+    {
+      "claim": "500",
+      "reason": "Part of S&P 500 index name; AP market article supports the S&P 500 reference and move."
+    },
+    {
+      "claim": "90",
+      "reason": "AP Anthropic article opened in browser reports about 90% of Anthropic R&D is done in collaboration with Claude."
+    },
+    {
+      "claim": "AI-related",
+      "reason": "Used as a descriptive modifier for borrowing; AP Federal Reserve article discusses AI data-center borrowing as a driver of rates."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Publisher and local desk label for the cited Axios Columbus article opened in browser."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Parser artifact from the chapter phrase AI in Banking, which is show structure rather than a factual claim."
+    },
+    {
+      "claim": "Brent",
+      "reason": "AP market article opened in browser reports Brent crude fell 1%."
+    },
+    {
+      "claim": "Claude and AP",
+      "reason": "Parser joined adjacent names; AP Anthropic article supports both Claude and AP-reported figures."
+    },
+    {
+      "claim": "Council President Shannon Hardin and Councilmember Christopher Wyche",
+      "reason": "Axios Columbus article opened in browser names Hardin and Wyche as sponsors/supporters of the package."
+    },
+    {
+      "claim": "Election",
+      "reason": "Sentence-start parser artifact; AP early-voting article supports the election-administrator claim."
+    },
+    {
+      "claim": "Election Day",
+      "reason": "General election calendar term; AP early-voting article discusses early voting easing lines and faster results."
+    },
+    {
+      "claim": "Idaho Minnesota and South Dakota",
+      "reason": "AP early-voting article opened in browser names Idaho, Minnesota and South Dakota for in-person absentee voting."
+    },
+    {
+      "claim": "Iran",
+      "reason": "AP early-voting article names the war in Iran among issues voters face."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "AP market article opened in browser reports the Nasdaq composite move."
+    },
+    {
+      "claim": "Postal Service",
+      "reason": "AP early-voting article links the current voting context to the Postal Service mail-ballot dispute and processing concerns."
+    },
+    {
+      "claim": "S&P",
+      "reason": "AP market article opened in browser reports the S&P 500 move."
+    },
+    {
+      "claim": "Saturday and Sunday",
+      "reason": "Routine forecast planning language based on current weather pages, which update continuously."
+    },
+    {
+      "claim": "Supreme Court",
+      "reason": "AP early-voting article opened in browser says the Supreme Court rejected the administration bid to restrict mail ballots this week."
+    },
+    {
+      "claim": "the Dow",
+      "reason": "AP market article opened in browser reports the Dow Jones Industrial Average move."
+    },
+    {
+      "claim": "the Fed",
+      "reason": "Common shorthand for the Federal Reserve; AP Federal Reserve article supports the Fed context."
+    },
+    {
+      "claim": "the September",
+      "reason": "Parser artifact from the September 28 vote reference; Axios and Columbus legislation page support that date."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "ac85db468e82ab710651a2f27849bc719d67abe7cef93373337525cf88dfb152"
+  }
+}
