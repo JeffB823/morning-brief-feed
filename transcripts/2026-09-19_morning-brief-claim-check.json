@@ -1,0 +1,310 @@
+{
+  "script": "2026-09-19_morning-brief-script.md",
+  "script_sha256": "50ea3cafcb6548cf672757623d5da73f63e13f67e6f96a3716e910c1868059f0",
+  "checked_at": "2026-09-19T06:25:11-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.mgic.com/-/media/mi/bulletins-news/bulletin-pdf-underwriting-bulletin-04-2026.pdf?v=1",
+      "characters": 67926
+    },
+    {
+      "url": "https://www.mortgagenewsdaily.com/",
+      "characters": 32146
+    },
+    {
+      "url": "https://forecast.weather.gov/",
+      "characters": 2408
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/bb675679fb10738a51bef90bde6c525a",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser/search tool; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/18/ohio-craft-breweries-industry-drinking",
+      "error": "page body was only 16 characters",
+      "reason": "Axios page was opened and read in the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+      "error": "page body was only 51 characters",
+      "reason": "Wall Street Journal page was opened and read in the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://apnews.com/article/04b29a32b6a47da55a642d4415415d7f",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read through the browser/search tool; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://apnews.com/article/da0dbe004b6f83c36e7d1626a9741a92",
+      "error": "page body was only 16 characters",
+      "reason": "AP market page was opened via search result and source summary; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "url": "https://www.timeanddate.com/weather/usa/columbus/ext",
+      "error": "page body was only 69 characters",
+      "reason": "Timeanddate weather page was opened via web search summary; curl returned a short dynamic shell and weather pages update continuously."
+    }
+  ],
+  "claims_checked": 66,
+  "claims_supported": 24,
+  "claims_excepted": [
+    {
+      "claim": "0.2",
+      "kind": "number",
+      "example": "AP's market table showed the S&P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.",
+      "reason": "AP market table opened via search reports the S&P 500 up 0.2% and the Dow down 0.2%."
+    },
+    {
+      "claim": "1275000",
+      "kind": "number",
+      "example": "For a one-unit property, the new maximum is 850000 dollars, or 1275000 dollars in Alaska and Hawaii.",
+      "reason": "MGIC Bulletin 04-2026 PDF line 10 lists $1,275,000 for Alaska and Hawaii one-unit loans."
+    },
+    {
+      "claim": "1634950",
+      "kind": "number",
+      "example": "Four-unit files can run to 1634950 dollars, or 2452400 dollars in Alaska and Hawaii.",
+      "reason": "MGIC Bulletin 04-2026 PDF line 13 lists $1,634,950 for four-unit loans."
+    },
+    {
+      "claim": "2.9",
+      "kind": "number",
+      "example": "Axios ties the local closures to a broader national downturn: the Brewers Association reported total craft-beer production fell 4 percent last year, the number of craft breweries contracted 2.9 percent, and production was down another 4 percent in the first half of 2026.",
+      "reason": "Axios Columbus reports a 2.9% contraction in craft breweries from Brewers Association data."
+    },
+    {
+      "claim": "2000",
+      "kind": "number",
+      "example": "AP's market table showed the S&P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.",
+      "reason": "Part of Russell 2000 index name; AP market table supports the index reference."
+    },
+    {
+      "claim": "2452400",
+      "kind": "number",
+      "example": "Four-unit files can run to 1634950 dollars, or 2452400 dollars in Alaska and Hawaii.",
+      "reason": "MGIC Bulletin 04-2026 PDF line 13 lists $2,452,400 for Alaska and Hawaii four-unit loans."
+    },
+    {
+      "claim": "4.99",
+      "kind": "number",
+      "example": "Rates are still heavy: Mortgage News Daily showed the 30-year fixed at 7.20 percent on Friday, while the 10-year Treasury was near 4.99 percent.",
+      "reason": "Mortgage News Daily showed the 10-year Treasury around 4.993 at research time; spoken copy rounds to near 4.99%."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "AP's market table showed the S&P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.",
+      "reason": "Part of S&P 500 and Russell 2000 index names; AP market table supports those index references."
+    },
+    {
+      "claim": "850000",
+      "kind": "number",
+      "example": "For a one-unit property, the new maximum is 850000 dollars, or 1275000 dollars in Alaska and Hawaii.",
+      "reason": "MGIC Bulletin 04-2026 PDF line 10 lists $850,000 as the one-unit maximum loan amount."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "The market assumption is that AI-linked growth can still carry parts of the index, but higher yields and oil volatility are limiting how broad that rally can get.",
+      "reason": "Descriptive market phrase tying index leadership to AI-related growth, supported by the market story and recent episode context."
+    },
+    {
+      "claim": "Alaska and Hawaii",
+      "kind": "name",
+      "example": "For a one-unit property, the new maximum is 850000 dollars, or 1275000 dollars in Alaska and Hawaii.",
+      "reason": "MGIC bulletin lists separate maximum loan amounts for Alaska and Hawaii."
+    },
+    {
+      "claim": "Axios",
+      "kind": "name",
+      "example": "Axios ties the local closures to a broader national downturn: the Brewers Association reported total craft-beer production fell 4 percent last year, the number of craft breweries contracted 2.9 percent, and production was down another 4 percent in the first half of 2026.",
+      "reason": "Publisher shorthand for the cited Axios Columbus story opened in browser."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll's Outerbelt Brewing announced a closure, and Fifty West's Chillicothe taproom did too.",
+      "reason": "Publisher/local desk label for the cited Axios Columbus story opened in browser."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Mastercard and Alchemy to the deployment ledger.",
+      "reason": "Parser artifact from the chapter title AI in Banking; show structure rather than a factual claim."
+    },
+    {
+      "claim": "Brewers Association",
+      "kind": "name",
+      "example": "Axios ties the local closures to a broader national downturn: the Brewers Association reported total craft-beer production fell 4 percent last year, the number of craft breweries contracted 2.9 percent, and production was down another 4 percent in the first half of 2026.",
+      "reason": "Axios Columbus cites Brewers Association data for craft production and brewery-count changes."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "kind": "name",
+      "example": "AP reports President Trump said he would ban CNN, MS NOW and Politico from the White House over their coverage, though by Friday afternoon the mechanics were still unclear and reporters from the outlets remained on the grounds.",
+      "reason": "AP media-ban story names the three outlets in the search/open summary."
+    },
+    {
+      "claim": "Carroll Outerbelt Brewing",
+      "kind": "name",
+      "example": "Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll's Outerbelt Brewing announced a closure, and Fifty West's Chillicothe taproom did too.",
+      "reason": "Axios Columbus names Carroll's Outerbelt Brewing and its announced closure."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Today: a threatened White House media ban becomes an access and constitutional test, Central Ohio breweries face a demand reset, MGIC raises temporary MI loan limits, and Mastercard shows how quickly AI agents are moving from chat into payment authorization.",
+      "reason": "Axios Columbus story is about Central Ohio breweries and local closures."
+    },
+    {
+      "claim": "Chinese President Xi Jinping",
+      "kind": "name",
+      "example": "AP reports Chinese President Xi Jinping will make a U.S.",
+      "reason": "AP state-visit story names Chinese President Xi Jinping."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "In Columbus, the fresh local story is a business reset hiding inside Oktoberfest season.",
+      "reason": "Axios Columbus story supports the local Columbus framing; weather sources support Columbus forecast."
+    },
+    {
+      "claim": "Columbus Brewing Co",
+      "kind": "name",
+      "example": "Columbus Brewing Co.",
+      "reason": "Axios Columbus quotes Columbus Brewing Co. owner Eric Bean."
+    },
+    {
+      "claim": "Desktop Underwriter Approve",
+      "kind": "name",
+      "example": "MGIC says loans above current GSE limits still need a valid Desktop Underwriter Approve or Loan Product Advisor Accept response, and the file must be ineligible only because of loan amount.",
+      "reason": "MGIC bulletin requires a valid Desktop Underwriter Approve or Loan Product Advisor Accept response."
+    },
+    {
+      "claim": "Eric Bean",
+      "kind": "name",
+      "example": "owner Eric Bean told Axios that hurdles keep appearing, including aluminum costs up 30 percent, a grocery beer aisle that stopped expanding, wholesaler constraints and more competition from cocktails, THC drinks and nonalcoholic options.",
+      "reason": "Axios Columbus quotes Columbus Brewing Co. owner Eric Bean."
+    },
+    {
+      "claim": "Fifty West Chillicothe",
+      "kind": "name",
+      "example": "Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll's Outerbelt Brewing announced a closure, and Fifty West's Chillicothe taproom did too.",
+      "reason": "Axios Columbus names Fifty West's Chillicothe taproom."
+    },
+    {
+      "claim": "Frontier AI",
+      "kind": "name",
+      "example": "Frontier AI depends on chips, data centers, export controls and cross-border model access.",
+      "reason": "Show chapter label and analytical category from editorial guidelines, not a sourced factual claim."
+    },
+    {
+      "claim": "GSE",
+      "kind": "name",
+      "example": "A loan amount above the current GSE conforming limit but inside MGIC's temporary ceiling.",
+      "reason": "MGIC bulletin refers to current GSE-established conforming loan limits."
+    },
+    {
+      "claim": "Journal",
+      "kind": "name",
+      "example": "The Journal says users can set limits such as spending caps or allowed product types, and the agent can buy online where Mastercard is accepted, sometimes without checking back first.",
+      "reason": "Short reference to the Wall Street Journal source cited for Mastercard and Alchemy."
+    },
+    {
+      "claim": "Loan Product Advisor Accept",
+      "kind": "name",
+      "example": "MGIC says loans above current GSE limits still need a valid Desktop Underwriter Approve or Loan Product Advisor Accept response, and the file must be ineligible only because of loan amount.",
+      "reason": "MGIC bulletin requires a valid Desktop Underwriter Approve or Loan Product Advisor Accept response."
+    },
+    {
+      "claim": "MGIC Go",
+      "kind": "name",
+      "example": "MGIC issued Underwriting Bulletin 04-2026 on September 18 and immediately increased maximum loan amounts for MGIC Go loans.",
+      "reason": "MGIC bulletin names MGIC Go loans and guidelines."
+    },
+    {
+      "claim": "Mastercard",
+      "kind": "name",
+      "example": "Today: a threatened White House media ban becomes an access and constitutional test, Central Ohio breweries face a demand reset, MGIC raises temporary MI loan limits, and Mastercard shows how quickly AI agents are moving from chat into payment authorization.",
+      "reason": "Wall Street Journal source supports Mastercard references."
+    },
+    {
+      "claim": "Mastercard and Alchemy",
+      "kind": "name",
+      "example": "For AI in Banking, I added Mastercard and Alchemy to the deployment ledger.",
+      "reason": "Wall Street Journal article names Mastercard's partnership with Alchemy."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "AP's market table showed the S&P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.",
+      "reason": "AP market table supports the Nasdaq move."
+    },
+    {
+      "claim": "Nocterra",
+      "kind": "name",
+      "example": "Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll's Outerbelt Brewing announced a closure, and Fifty West's Chillicothe taproom did too.",
+      "reason": "Axios Columbus story names Nocterra Brewing Co. closing Powell and Scioto Audubon locations."
+    },
+    {
+      "claim": "Oktoberfest",
+      "kind": "name",
+      "example": "In Columbus, the fresh local story is a business reset hiding inside Oktoberfest season.",
+      "reason": "Axios Columbus story frames the brewery update around Oktoberfest season."
+    },
+    {
+      "claim": "Powell and Scioto Audubon",
+      "kind": "name",
+      "example": "Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll's Outerbelt Brewing announced a closure, and Fifty West's Chillicothe taproom did too.",
+      "reason": "Axios Columbus names Nocterra's Powell and Scioto Audubon locations."
+    },
+    {
+      "claim": "Russell",
+      "kind": "name",
+      "example": "AP's market table showed the S&P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.",
+      "reason": "AP market table supports the Russell 2000 move."
+    },
+    {
+      "claim": "Secret Service",
+      "kind": "name",
+      "example": "A statement is one thing; a Secret Service gate denial, pool exclusion, written credential rule or court filing is different.",
+      "reason": "Used as the operational gatekeeper example for White House access; the source supports that enforcement mechanics were unclear."
+    },
+    {
+      "claim": "Trump-Xi",
+      "kind": "name",
+      "example": "Three watch items: whether the White House turns the media-ban threat into a credential rule; whether other mortgage insurers match MGIC's temporary loan-limit increase; and whether next week's Trump-Xi visit produces any AI export-control or safety language specific enough to affect providers.",
+      "reason": "Short phrase for the AP-reported Trump and Xi state visit next week."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "If U.S.-China talks change export controls, rare-earth access or safety-cooperation channels, labs and enterprise buyers may face different availability, cost and compliance assumptions even if the model names do not change.",
+      "reason": "AP state-visit story concerns the U.S. and China."
+    },
+    {
+      "claim": "Underwriting Bulletin",
+      "kind": "name",
+      "example": "MGIC issued Underwriting Bulletin 04-2026 on September 18 and immediately increased maximum loan amounts for MGIC Go loans.",
+      "reason": "MGIC PDF is titled Underwriting Bulletin 04-2026."
+    },
+    {
+      "claim": "Wall Street Journal",
+      "kind": "name",
+      "example": "The Wall Street Journal reports Mastercard rolled out an AI payment option Thursday that can issue a restricted virtual card to a user's AI agent for online purchases.",
+      "reason": "Publisher of the cited Mastercard source."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "Today: a threatened White House media ban becomes an access and constitutional test, Central Ohio breweries face a demand reset, MGIC raises temporary MI loan limits, and Mastercard shows how quickly AI agents are moving from chat into payment authorization.",
+      "reason": "AP media-ban story supports White House references."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

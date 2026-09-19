@@ -1,0 +1,504 @@
+{
+  "date": "2026-09-19",
+  "cutoff": "2026-09-19T06:21:01-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-12_morning-brief-script.md",
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "white-house-media-ban-threat",
+      "beat": "national",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/bb675679fb10738a51bef90bde6c525a",
+      "decision": "selected",
+      "reason": "Fresh national access and constitutional story with a clear operational test: whether a threat becomes credential enforcement."
+    },
+    {
+      "id": "trump-xi-state-visit-ai-agenda",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/04b29a32b6a47da55a642d4415415d7f",
+      "decision": "selected",
+      "reason": "Fresh AI-policy/access story; state-visit agenda includes AI and strategic trade constraints that affect frontier availability."
+    },
+    {
+      "id": "ohio-craft-brewery-downturn",
+      "beat": "columbus",
+      "event_date": "2026-09-18",
+      "source": "https://www.axios.com/local/columbus/2026/09/18/ohio-craft-breweries-industry-drinking",
+      "decision": "selected",
+      "reason": "Fresh Central Ohio small-business story with specific closures and regional tourism/neighborhood consequences."
+    },
+    {
+      "id": "mgic-go-loan-limit-increase",
+      "beat": "home_lending",
+      "event_date": "2026-09-18",
+      "source": "https://www.mgic.com/-/media/mi/bulletins-news/bulletin-pdf-underwriting-bulletin-04-2026.pdf?v=1",
+      "decision": "selected",
+      "reason": "Fresh primary-source underwriting update with affected MI workflow and a consequence outside a routine rate recap."
+    },
+    {
+      "id": "mastercard-alchemy-agentic-payments",
+      "beat": "bank_ai",
+      "event_date": "2026-09-18",
+      "source": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+      "decision": "selected",
+      "reason": "Fresh financial-services AI implementation story that changes the deployment ledger and raises issuer control/liability questions."
+    },
+    {
+      "id": "friday-market-close-yields",
+      "beat": "markets",
+      "event_date": "2026-09-18",
+      "source": "https://apnews.com/article/da0dbe004b6f83c36e7d1626a9741a92",
+      "decision": "selected compact",
+      "reason": "Fresh market close with index moves and a 10-year yield signal relevant to lending and risk appetite."
+    },
+    {
+      "id": "china-oil-reserve-market-cushion",
+      "beat": "national",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/78b8ccd21cbc4bc0ab19a79f68372ec0",
+      "decision": "not selected",
+      "reason": "Fresh and useful, but markets/weather can handle oil briefly while national lead goes to direct institutional access."
+    },
+    {
+      "id": "alaska-ballot-mail-delay",
+      "beat": "national",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/c139cd179dac2b7779cdaf13d84a0cb7",
+      "decision": "not selected",
+      "reason": "Fresh election-operations example, but recent episodes already carried early voting and mail-ballot administration."
+    },
+    {
+      "id": "mortgage-news-daily-daily-rate",
+      "beat": "home_lending",
+      "event_date": "2026-09-18",
+      "source": "https://www.mortgagenewsdaily.com/",
+      "decision": "context only",
+      "reason": "Useful rate context for MGIC segment but not selected as lead because recent episodes already used mortgage-rate pressure."
+    },
+    {
+      "id": "columbus-weather-sept-19",
+      "beat": "weather",
+      "event_date": "2026-09-19",
+      "source": "https://www.timeanddate.com/weather/usa/columbus/ext",
+      "decision": "selected compact",
+      "reason": "Routine practical same-day planning; does not count toward the fresh-story minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "white-house-media-ban-threat",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-19",
+      "sources": [
+        "https://apnews.com/article/bb675679fb10738a51bef90bde6c525a"
+      ],
+      "new_fact": "AP reported Trump said he would ban CNN, MS NOW and Politico from the White House over coverage, while reporters from those outlets remained on the grounds Friday afternoon and enforcement details were unclear.",
+      "new_takeaway": "The story becomes concrete only if the threat turns into credential enforcement, pool exclusion, a gate denial or court action.",
+      "why_now": "The statement was made September 18 and was published in current AP coverage before the September 19 episode.",
+      "previous_coverage": "The prior week focused on FEMA staffing, mail voting, elections, Fed and data centers; no recent full segment covered press credentials or White House access.",
+      "uncertainty": "The White House had not detailed enforcement mechanics at the time of reporting.",
+      "watch": "Watch for written credential rules, pool exclusion, Secret Service gate denials or emergency court filings."
+    },
+    {
+      "id": "ohio-craft-brewery-downturn",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/09/18/ohio-craft-breweries-industry-drinking"
+      ],
+      "new_fact": "Axios Columbus reported three more Central Ohio beer brands or locations recently dropped off the map and connected that to national craft production declines and local cost pressures.",
+      "new_takeaway": "A local identity and tourism story is becoming a small-business margin and vacancy story as drink preferences and costs move against taprooms.",
+      "why_now": "The Axios story was published September 18 during Oktoberfest season and after another set of closures.",
+      "previous_coverage": "Recent local segments covered data-center guardrails, Hilliard parkland, OSU speech rules, Italian Village housing and school report cards; this is a different local business beat.",
+      "uncertainty": "It is unclear whether closures accelerate after seasonal traffic or whether stronger local brands stabilize.",
+      "watch": "Watch closures after Oktoberfest and whether breweries shift into food, events, distribution, THC drinks or nonalcoholic products."
+    },
+    {
+      "id": "mgic-go-loan-limit-increase",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://www.mgic.com/-/media/mi/bulletins-news/bulletin-pdf-underwriting-bulletin-04-2026.pdf?v=1",
+        "https://www.mortgagenewsdaily.com/"
+      ],
+      "new_fact": "MGIC increased temporary maximum loan amounts for MGIC Go loans effective immediately, including 850,000 dollars for one-unit properties and 1,634,950 dollars for four-unit properties, with higher Alaska and Hawaii ceilings.",
+      "new_takeaway": "Loan teams get a near-conforming MI routing option for some files above current GSE limits if AUS acceptance and loan-amount-only ineligibility conditions are met.",
+      "why_now": "MGIC issued Underwriting Bulletin 04-2026 on September 18, superseding Bulletin 02-2026 from September 11.",
+      "previous_coverage": "Recent lending segments covered Freddie PMMS, Fannie MI termination, active-purchase rate triage and VantageScore; this is a distinct MI eligibility/routing update.",
+      "uncertainty": "Other MGIC Go guidelines, AUS responses and investor overlays can still block the file; other MIs may or may not match.",
+      "watch": "Watch whether other mortgage insurers match MGIC's temporary loan-limit increase and whether investors accept those files without overlays.",
+      "workflow": "MI eligibility and loan-routing workflow for above-current-conforming loan amounts that are otherwise AUS-acceptable."
+    },
+    {
+      "id": "mastercard-alchemy-agentic-payments",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b"
+      ],
+      "new_fact": "The Wall Street Journal reported Mastercard rolled out an AI payment option with Alchemy that can issue a restricted virtual card to a user's AI agent for online purchases.",
+      "new_takeaway": "Issuer control design shifts from a human click to proving the customer's delegated intent, limits and liability when software buys on the customer's behalf.",
+      "why_now": "The Journal reported the rollout September 18, following the Thursday announcement.",
+      "previous_coverage": "Recent AI in Banking segments covered JPMorgan coding controls, Zopa transaction assistant, Goldman bankers, Schwab advisors, Pockit support, Rogo and FIS; this rotates to payments and authorization.",
+      "uncertainty": "No adoption, mistaken-purchase, fraud-loss, dispute-volume or issuer-support metric was disclosed.",
+      "watch": "Watch for issuer participation, agentic-token details and dispute data after real customers use the tool.",
+      "ledger_row_changed": "Added Mastercard / Alchemy | lanes 1 and 8 | announced | agentic-commerce payment option using restricted virtual cards for AI agents; evidence rank reputable reporting; no outcome metrics disclosed."
+    },
+    {
+      "id": "trump-xi-state-visit-ai-agenda",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-19",
+      "publication_date": "2026-09-19",
+      "sources": [
+        "https://apnews.com/article/04b29a32b6a47da55a642d4415415d7f"
+      ],
+      "new_fact": "AP reported Xi Jinping will make a U.S. state visit next week and that the agenda includes artificial intelligence, tariffs, rare earths and strategic trade issues.",
+      "new_takeaway": "Frontier AI availability is constrained by diplomacy and export-control channels as much as by benchmark progress.",
+      "why_now": "AP published the state-visit agenda September 19 and the meeting is next week.",
+      "previous_coverage": "Recent frontier segments covered Anthropic R&D metrics, OpenAI misalignment reporting, embedded evaluators, China model competition and U.S.-China AI safety disagreements; this adds the dated state-visit venue and access-policy watch.",
+      "uncertainty": "No binding AI agreement, export-control change or safety process has been announced.",
+      "watch": "Watch whether the visit produces AI export-control, chip, rare-earth or safety language specific enough to affect labs and enterprise providers.",
+      "frontier_bar": "Policy that binds labs directly or changes access; this is a diplomatic agenda/access item, not a model capability benchmark."
+    },
+    {
+      "id": "friday-market-close-yields",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-19",
+      "sources": [
+        "https://apnews.com/article/da0dbe004b6f83c36e7d1626a9741a92"
+      ],
+      "new_fact": "AP's Friday market table reported the S&P 500 up 0.2%, Nasdaq up 0.4%, Dow down 0.2%, Russell 2000 down 0.5%, and the 10-year Treasury yield near 5%.",
+      "new_takeaway": "Technology strength is cushioning the index while yields keep pressure on small caps, mortgage pricing and refinancing assumptions.",
+      "why_now": "The market move was Friday's close before the Saturday episode.",
+      "previous_coverage": "Markets were covered daily, but this is a compact current close rather than a repeated Fed segment.",
+      "uncertainty": "Weekend oil and bond-market developments can change Monday pricing.",
+      "watch": "Watch whether the 10-year stays near 5% and whether market breadth weakens beneath AI-linked leadership."
+    },
+    {
+      "id": "columbus-weather-sept-19",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-19",
+      "publication_date": "2026-09-19",
+      "sources": [
+        "https://www.timeanddate.com/weather/usa/columbus/ext",
+        "https://forecast.weather.gov/"
+      ],
+      "new_fact": "Forecast sources indicated Columbus highs around 79 to 81 for Saturday, near 80 Sunday and upper 60s Monday, with rain risk in the period.",
+      "new_takeaway": "Outdoor plans are workable but need radar checks, and Monday may be the more disruptive commute setup.",
+      "why_now": "Weather is included for same-day and near-term planning.",
+      "previous_coverage": "Routine weather appears daily; this is current planning only.",
+      "uncertainty": "Rain timing can shift by neighborhood and forecast update.",
+      "watch": "Recheck radar before Saturday outdoor plans and Monday commute timing."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/bb675679fb10738a51bef90bde6c525a",
+      "reason": "AP page was opened and read through the browser/search tool; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://apnews.com/article/04b29a32b6a47da55a642d4415415d7f",
+      "reason": "AP page was opened and read through the browser/search tool; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://apnews.com/article/da0dbe004b6f83c36e7d1626a9741a92",
+      "reason": "AP market page was opened via search result and source summary; curl may return a dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "September 19th",
+      "reason": "Episode date comes from local America/New_York system date and automation schedule."
+    },
+    {
+      "claim": "MS NOW",
+      "reason": "AP media-ban story names MS NOW in the search/open summary."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "reason": "AP media-ban story names the three outlets in the search/open summary."
+    },
+    {
+      "claim": "Secret Service",
+      "reason": "Used as the operational gatekeeper example for White House access; the source supports that enforcement mechanics were unclear."
+    },
+    {
+      "claim": "Oktoberfest",
+      "reason": "Axios Columbus story frames the brewery update around Oktoberfest season."
+    },
+    {
+      "claim": "Nocterra",
+      "reason": "Axios Columbus story names Nocterra Brewing Co. closing Powell and Scioto Audubon locations."
+    },
+    {
+      "claim": "Carroll's Outerbelt Brewing",
+      "reason": "Axios Columbus story names Carroll's Outerbelt Brewing and its announced closure."
+    },
+    {
+      "claim": "Fifty West",
+      "reason": "Axios Columbus story names Fifty West's Chillicothe taproom."
+    },
+    {
+      "claim": "Brewers Association",
+      "reason": "Axios Columbus cites Brewers Association data for craft production and brewery-count changes."
+    },
+    {
+      "claim": "Columbus Brewing Co",
+      "reason": "Axios Columbus quotes Columbus Brewing Co. owner Eric Bean."
+    },
+    {
+      "claim": "Eric Bean",
+      "reason": "Axios Columbus quotes Columbus Brewing Co. owner Eric Bean."
+    },
+    {
+      "claim": "THC",
+      "reason": "Axios Columbus names THC drinks as an emerging revenue lane for breweries."
+    },
+    {
+      "claim": "MGIC Go",
+      "reason": "MGIC bulletin names MGIC Go loans and guidelines."
+    },
+    {
+      "claim": "Alaska and Hawaii",
+      "reason": "MGIC bulletin lists separate maximum loan amounts for Alaska and Hawaii."
+    },
+    {
+      "claim": "Desktop Underwriter Approve",
+      "reason": "MGIC bulletin requires a valid Desktop Underwriter Approve or Loan Product Advisor Accept response."
+    },
+    {
+      "claim": "Loan Product Advisor Accept",
+      "reason": "MGIC bulletin requires a valid Desktop Underwriter Approve or Loan Product Advisor Accept response."
+    },
+    {
+      "claim": "FHFA",
+      "reason": "MGIC bulletin says temporary amounts will align with FHFA-announced 2027 conforming limits."
+    },
+    {
+      "claim": "Mortgage News Daily",
+      "reason": "Mortgage News Daily homepage showed the September 18 daily 30-year fixed and 10-year Treasury context at research time."
+    },
+    {
+      "claim": "Mastercard and Alchemy",
+      "reason": "Wall Street Journal article names Mastercard's partnership with Alchemy."
+    },
+    {
+      "claim": "Wall Street Journal",
+      "reason": "Publisher of the cited Mastercard source."
+    },
+    {
+      "claim": "Journal",
+      "reason": "Short reference to the Wall Street Journal source cited for Mastercard and Alchemy."
+    },
+    {
+      "claim": "Xi Jinping",
+      "reason": "AP state-visit story names Xi Jinping."
+    },
+    {
+      "claim": "China",
+      "reason": "AP state-visit story concerns China's leader and U.S.-China agenda."
+    },
+    {
+      "claim": "U.S.-China",
+      "reason": "AP state-visit story concerns the U.S. and China."
+    },
+    {
+      "claim": "AP",
+      "reason": "Associated Press is the cited publisher for national, frontier and market stories."
+    },
+    {
+      "claim": "S&P",
+      "reason": "AP market table supports the S&P 500 reference and move."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "AP market table supports the Nasdaq move."
+    },
+    {
+      "claim": "Dow",
+      "reason": "AP market table supports the Dow Jones Industrial Average move."
+    },
+    {
+      "claim": "Russell",
+      "reason": "AP market table supports the Russell 2000 move."
+    },
+    {
+      "claim": "10-year Treasury",
+      "reason": "AP market table and Mortgage News Daily source support the 10-year Treasury context."
+    },
+    {
+      "claim": "79 to 81",
+      "reason": "Weather pages update continuously; forecast was checked at cutoff for routine planning."
+    },
+    {
+      "claim": "80",
+      "reason": "Weather pages update continuously; forecast was checked at cutoff for routine planning."
+    },
+    {
+      "claim": "60s",
+      "reason": "Weather pages update continuously; forecast was checked at cutoff for routine planning."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/09/18/ohio-craft-breweries-industry-drinking",
+      "reason": "Axios page was opened and read in the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+      "reason": "Wall Street Journal page was opened and read in the browser tool; curl returned a short dynamic shell during claim-check fetch."
+    },
+    {
+      "claim": "https://www.timeanddate.com/weather/usa/columbus/ext",
+      "reason": "Timeanddate weather page was opened via web search summary; curl returned a short dynamic shell and weather pages update continuously."
+    },
+    {
+      "claim": "0.2",
+      "reason": "AP market table opened via search reports the S&P 500 up 0.2% and the Dow down 0.2%."
+    },
+    {
+      "claim": "0.4",
+      "reason": "AP market table opened via search reports the Nasdaq up 0.4%."
+    },
+    {
+      "claim": "0.5",
+      "reason": "AP market table opened via search reports the Russell 2000 down 0.5%."
+    },
+    {
+      "claim": "500",
+      "reason": "Part of S&P 500 and Russell 2000 index names; AP market table supports those index references."
+    },
+    {
+      "claim": "2000",
+      "reason": "Part of Russell 2000 index name; AP market table supports the index reference."
+    },
+    {
+      "claim": "2.9",
+      "reason": "Axios Columbus reports a 2.9% contraction in craft breweries from Brewers Association data."
+    },
+    {
+      "claim": "4",
+      "reason": "Axios Columbus reports craft production down 4% last year and another 4% in the first half of 2026."
+    },
+    {
+      "claim": "30",
+      "reason": "Axios Columbus reports Eric Bean said aluminum costs are up 30%."
+    },
+    {
+      "claim": "850000",
+      "reason": "MGIC Bulletin 04-2026 PDF line 10 lists $850,000 as the one-unit maximum loan amount."
+    },
+    {
+      "claim": "1275000",
+      "reason": "MGIC Bulletin 04-2026 PDF line 10 lists $1,275,000 for Alaska and Hawaii one-unit loans."
+    },
+    {
+      "claim": "1634950",
+      "reason": "MGIC Bulletin 04-2026 PDF line 13 lists $1,634,950 for four-unit loans."
+    },
+    {
+      "claim": "2452400",
+      "reason": "MGIC Bulletin 04-2026 PDF line 13 lists $2,452,400 for Alaska and Hawaii four-unit loans."
+    },
+    {
+      "claim": "4.99",
+      "reason": "Mortgage News Daily showed the 10-year Treasury around 4.993 at research time; spoken copy rounds to near 4.99%."
+    },
+    {
+      "claim": "7.20",
+      "reason": "Mortgage News Daily showed the September 18 daily 30-year fixed at 7.20%."
+    },
+    {
+      "claim": "AI-linked",
+      "reason": "Descriptive market phrase tying index leadership to AI-related growth, supported by the market story and recent episode context."
+    },
+    {
+      "claim": "Axios",
+      "reason": "Publisher shorthand for the cited Axios Columbus story opened in browser."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Publisher/local desk label for the cited Axios Columbus story opened in browser."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Parser artifact from the chapter title AI in Banking; show structure rather than a factual claim."
+    },
+    {
+      "claim": "Carroll Outerbelt Brewing",
+      "reason": "Axios Columbus names Carroll's Outerbelt Brewing and its announced closure."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Axios Columbus story is about Central Ohio breweries and local closures."
+    },
+    {
+      "claim": "Chinese President Xi Jinping",
+      "reason": "AP state-visit story names Chinese President Xi Jinping."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Axios Columbus story supports the local Columbus framing; weather sources support Columbus forecast."
+    },
+    {
+      "claim": "Fifty West Chillicothe",
+      "reason": "Axios Columbus names Fifty West's Chillicothe taproom."
+    },
+    {
+      "claim": "Frontier AI",
+      "reason": "Show chapter label and analytical category from editorial guidelines, not a sourced factual claim."
+    },
+    {
+      "claim": "GSE",
+      "reason": "MGIC bulletin refers to current GSE-established conforming loan limits."
+    },
+    {
+      "claim": "Mastercard",
+      "reason": "Wall Street Journal source supports Mastercard references."
+    },
+    {
+      "claim": "Powell and Scioto Audubon",
+      "reason": "Axios Columbus names Nocterra's Powell and Scioto Audubon locations."
+    },
+    {
+      "claim": "Trump-Xi",
+      "reason": "Short phrase for the AP-reported Trump and Xi state visit next week."
+    },
+    {
+      "claim": "Underwriting Bulletin",
+      "reason": "MGIC PDF is titled Underwriting Bulletin 04-2026."
+    },
+    {
+      "claim": "White House",
+      "reason": "AP media-ban story supports White House references."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "50ea3cafcb6548cf672757623d5da73f63e13f67e6f96a3716e910c1868059f0"
+  }
+}
