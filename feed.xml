@@ -27,6 +27,79 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Press Access, Brewery Stress, MI Loan Limits, and Agentic Payments - September 19, 2026</title>
+    <description>The September 19 Morning Brief covers Trump's threatened White House media ban, Central Ohio brewery closures, MGIC's immediate mortgage-insurance loan-limit increase, Mastercard's agentic-payment move with Alchemy, the Trump-Xi AI governance agenda, Friday's mixed markets, and practical Columbus weather.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a threatened White House media ban becomes an access and constitutional test, Central Ohio breweries face a demand reset, MGIC raises temporary MI loan limits, and Mastercard shows how quickly AI agents are moving from chat into payment authorization.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Saturday, September 19th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with press access. AP reports President Trump said he would ban CNN, MS NOW and Politico from the White House over their coverage, though by Friday afternoon the mechanics were still unclear and reporters from the outlets remained on the grounds.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is the immediate issue free speech, or the daily operation of covering the presidency?</p>
+<p><span style="font-weight:bold">Host:</span> Both. The constitutional issue is viewpoint discrimination: whether the government can punish news organizations because it dislikes their coverage. The operating issue is the White House pool, where a small set of reporters, photographers and camera crews provide access for everyone else when space is limited.</p>
+<p><span style="font-weight:bold">Host:</span> If the ban becomes credential enforcement, court action becomes likely. If it stays a threat, it still changes behavior because outlets, pool coordinators and press-freedom groups have to prepare for sudden access fights at events where the public cannot simply send another reporter into the room.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should listeners watch besides the outrage cycle?</p>
+<p><span style="font-weight:bold">Host:</span> Watch enforcement. A statement is one thing; a Secret Service gate denial, pool exclusion, written credential rule or court filing is different. The useful question is whether this becomes an actual rule that changes who can observe presidential activity on behalf of the public.</p>
+<p><span style="font-weight:bold">Co-host:</span> And for institutions, access rules matter because primary observation is part of accountability. If access becomes conditional on favorable coverage, every later dispute over transcripts, photos, pool notes and official video gets harder to trust.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the fresh local story is a business reset hiding inside Oktoberfest season. Axios Columbus reports three more Central Ohio beer brands recently dropped off the map: Nocterra closed its Powell and Scioto Audubon locations, Carroll&#x27;s Outerbelt Brewing announced a closure, and Fifty West&#x27;s Chillicothe taproom did too.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why is that bigger than a few taproom closings?</p>
+<p><span style="font-weight:bold">Host:</span> Because craft brewing became part of the region&#x27;s neighborhood and tourism identity during the 2010s. Axios ties the local closures to a broader national downturn: the Brewers Association reported total craft-beer production fell 4 percent last year, the number of craft breweries contracted 2.9 percent, and production was down another 4 percent in the first half of 2026.</p>
+<p><span style="font-weight:bold">Co-host:</span> So this is really a small-business margin story.</p>
+<p><span style="font-weight:bold">Host:</span> Right. Columbus Brewing Co. owner Eric Bean told Axios that hurdles keep appearing, including aluminum costs up 30 percent, a grocery beer aisle that stopped expanding, wholesaler constraints and more competition from cocktails, THC drinks and nonalcoholic options.</p>
+<p><span style="font-weight:bold">Host:</span> The consequence for Central Ohio is not just fewer places to get a pint. It is retail vacancy, fewer local production jobs, less neighborhood foot traffic and more pressure on breweries to add food, events, distribution or non-beer products. Watch whether closures keep spreading after Oktoberfest, when seasonal traffic fades.</p>
+<p><span style="font-weight:bold">Co-host:</span> That also changes how landlords and neighborhood groups should read a taproom. A full patio in September does not prove the business model works in February, especially if aluminum, distribution and shelf space are all moving against the operator.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is mortgage-insurance capacity at the top of the loan-size range. MGIC issued Underwriting Bulletin 04-2026 on September 18 and immediately increased maximum loan amounts for MGIC Go loans.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which file does that actually change?</p>
+<p><span style="font-weight:bold">Host:</span> A loan amount above the current GSE conforming limit but inside MGIC&#x27;s temporary ceiling. For a one-unit property, the new maximum is 850,000 dollars, or 1,275,000 dollars in Alaska and Hawaii. Four-unit files can run to 1,634,950 dollars, or 2,452,400 dollars in Alaska and Hawaii.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does that mean every larger file now gets mortgage insurance?</p>
+<p><span style="font-weight:bold">Host:</span> No. MGIC says loans above current GSE limits still need a valid Desktop Underwriter Approve or Loan Product Advisor Accept response, and the file must be ineligible only because of loan amount. All other MGIC Go guidelines still apply, and the temporary amounts will later align with FHFA&#x27;s 2027 conforming limits.</p>
+<p><span style="font-weight:bold">Host:</span> The consequence is routing. Loan officers can identify near-conforming borrowers who might avoid a pure jumbo execution if automated underwriting supports the file and MI is available. But the workflow must check AUS response, property units, geography, delegated versus non-delegated handling and investor acceptance before a borrower hears that the path works.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a better conversation than just quoting the rate.</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. Rates are still heavy: Mortgage News Daily showed the 30-year fixed at 7.20 percent on Friday, while the 10-year Treasury was near 4.99 percent. But this update is about product fit. Watch whether other mortgage insurers match MGIC&#x27;s temporary limits and whether investors accept those files without adding overlays.</p>
+<p><span style="font-weight:bold">Co-host:</span> The borrower-facing version is careful hope. A higher loan amount ceiling might keep a deal in the insured-conventional lane, but it does not erase income, reserves, appraisal, property-type or pricing constraints. The file still has to earn the approval.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Mastercard and Alchemy to the deployment ledger. The lane is agentic payments and control design. The Wall Street Journal reports Mastercard rolled out an AI payment option Thursday that can issue a restricted virtual card to a user&#x27;s AI agent for online purchases.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is that a banking story if Mastercard is not a bank?</p>
+<p><span style="font-weight:bold">Host:</span> It is, because card issuers, processors and banks have to decide how an agent proves intent. The Journal says users can set limits such as spending caps or allowed product types, and the agent can buy online where Mastercard is accepted, sometimes without checking back first.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank and what is missing?</p>
+<p><span style="font-weight:bold">Host:</span> Reputable reporting of a company rollout. The missing scorecard is important: no disclosed adoption, mistaken-purchase rate, fraud loss, dispute volume, authorization failure rate or issuer-support metric. The big-bank decision is whether payment authorization can move from a person clicking buy to a token that encodes user intent, limits and merchant context.</p>
+<p><span style="font-weight:bold">Host:</span> The one control that matters most here is liability reconstruction. If an agent buys the wrong item, exceeds a customer preference or follows a bad prompt, the issuer needs to show what the customer authorized, what the agent did, which limits applied and who pays for the dispute.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the frontier is not a clever shopping bot. It is whether old card protections survive when the buyer is software.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. The next evidence upgrade would be issuer-level participation and dispute data after real customers use the tool.</p>
+<p><span style="font-weight:bold">Co-host:</span> And banks should not treat this as a distant retail experiment. The same control question will show up in treasury payments, expense cards and small-business purchasing, where delegated buying already exists but the delegate used to be a person.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, the new item is diplomacy rather than a model release. AP reports Chinese President Xi Jinping will make a U.S. state visit next week, and the agenda includes artificial intelligence, tariffs, rare earths and strategic trade issues.</p>
+<p><span style="font-weight:bold">Co-host:</span> What bar does that clear for this section?</p>
+<p><span style="font-weight:bold">Host:</span> Policy and access. Frontier AI depends on chips, data centers, export controls and cross-border model access. AP says the U.S. is willing to consider tariff relief on nonstrategic goods, but the harder strategic controls are still central to the relationship.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> There is no benchmark here. The checkable fact is the dated state-visit agenda and the stated economic topics. The claim is that AI governance can be discussed by the two governments; the uncertainty is whether they agree on anything specific enough to bind labs, cloud providers or chip supply.</p>
+<p><span style="font-weight:bold">Host:</span> The useful takeaway is that model capability is not the only frontier constraint. If U.S.-China talks change export controls, rare-earth access or safety-cooperation channels, labs and enterprise buyers may face different availability, cost and compliance assumptions even if the model names do not change.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the bridge to banks?</p>
+<p><span style="font-weight:bold">Host:</span> The earliest bank relevance is vendor-risk review: a regulated bank using frontier tools needs to know whether its provider&#x27;s model access, data routing or chip supply depends on a policy channel that could move after next week&#x27;s visit.</p>
+<p><span style="font-weight:bold">Co-host:</span> That makes the watch item narrower than &quot;will the leaders get along.&quot; The bank question is whether a vendor&#x27;s roadmap, regional availability or security promises survive a policy shock between the two countries building and constraining the stack.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets closed Friday with a narrow tech-led cushion and a rate warning underneath. AP&#x27;s market table showed the S&amp;P 500 up 0.2 percent, the Nasdaq up 0.4 percent, the Dow down 0.2 percent and the Russell 2000 down 0.5 percent.</p>
+<p><span style="font-weight:bold">Co-host:</span> What was the mortgage-relevant part?</p>
+<p><span style="font-weight:bold">Host:</span> The 10-year Treasury climbed back to about 5 percent, which keeps pressure on mortgages, small caps and any business that depends on cheap refinancing. The market assumption is that AI-linked growth can still carry parts of the index, but higher yields and oil volatility are limiting how broad that rally can get.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the market message is split: investors still like the AI growth story, but financing-sensitive companies do not get the same benefit when the risk-free rate is pressing back toward 5 percent.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> For Columbus weather, plan for a mild but not perfectly dry Saturday. Forecast sources pointed to a high around 79 to 81 degrees, with clouds and a meaningful rain chance. Sunday looks near 80, and Monday cools sharply into the upper 60s with a wetter setup possible.</p>
+<p><span style="font-weight:bold">Co-host:</span> So outdoor plans are workable, but not set-and-forget.</p>
+<p><span style="font-weight:bold">Host:</span> Right. Check radar before longer errands, games or outdoor events, especially later in the day, and keep Monday&#x27;s commute in mind if rain timing firms up.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: whether the White House turns the media-ban threat into a credential rule; whether other mortgage insurers match MGIC&#x27;s temporary loan-limit increase; and whether next week&#x27;s Trump-Xi visit produces any AI export-control or safety language specific enough to affect providers.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the triggers: access enforcement, MI market follow-through and whether AI diplomacy becomes operating policy.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Saturday, September 19th. Have a good morning, and keep the headline tied to the decision it changes.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-19_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-19_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-19_morning-brief.mp3" length="12294167" type="audio/mpeg"/>
+    <pubDate>Sat, 19 Sep 2026 06:30:59 -0400</pubDate>
+    <itunes:duration>00:12:46</itunes:duration>
+    <itunes:episode>20260919</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-09-19</guid>
+  </item>
+  <item>
     <title>Morning Brief — Early Voting, Data Center Rates, Seven-Percent Mortgages, and AI Self-Improvement - September 18, 2026</title>
     <description>Early voting begins under existing state systems while federal pressure on election administration continues; Columbus weighs data-center utility guardrails; Freddie Mac puts the 30-year mortgage average at 6.95 percent; JPMorgan moves Claude use toward sandboxed controls; Anthropic says Claude now leads a quarter of its model R&D; markets and Columbus weather stay compact.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -768,69 +841,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-09</guid>
   </item>
   <item>
-    <title>Morning Brief — Canada Tariffs, Columbus Flock Pause, and AI Cyber Evidence — September 8, 2026</title>
-    <description>Canada’s retaliatory tariffs take effect, Columbus pauses its Flock license-plate camera use, mortgage teams face fresh lock-pressure from high rates, Better’s shareholder letter exposes the difference between AI platform claims and distribution results, Google releases Gemini 3.8 Flash Cyber with measured security benchmarks, and oil keeps markets focused on inflation.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: Canada turns tariff retaliation from threat into cost, Columbus stops collecting new Flock data while police audit camera use, and mortgage teams get a fresh reminder that a near-seven-percent market changes locks, disclosures, and sales discipline. Then, an AI cyber release with numbers attached.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, September 8th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start with trade. MarketWatch reports Canada’s retaliatory tariffs on about 20 billion dollars of U.S. goods take effect today. The rates range from 15 percent to 50 percent, and the list includes steel, dairy products, appliances, and farm equipment.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changes today for a business that already knew this fight was coming?</p>
-<p><span style="font-weight:bold">Host:</span> The invoice changes. A threatened tariff lets companies plan scenarios. An effective tariff changes landed cost, purchase orders, supplier calls, and customer pricing. The U.S. imposed its own 50 percent tariffs on roughly comparable Canadian goods after talks collapsed. Canada is now trying to show it can retaliate without immediately cutting off the resources the U.S. also needs.</p>
-<p><span style="font-weight:bold">Co-host:</span> That makes the leverage messy. Canada wants pressure, but not self-harm.</p>
-<p><span style="font-weight:bold">Host:</span> Right. The useful detail is interdependence. Canada supplies oil, aluminum, fertilizer inputs, auto parts, and electricity into U.S. systems. So this is not a clean import-versus-export fight. Retailers, factories, farms, utilities, and border communities may all feel different pieces of the same policy. The next turn is whether either side restarts negotiations before the Trump administration’s threatened January escalation.</p>
-<p><span style="font-weight:bold">Co-host:</span> And Bombardier matters because aerospace supply chains do not stop at the border.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. MarketWatch says President Trump threatened the Canadian jetmaker while Bombardier pointed to its U.S. footprint, including suppliers across 47 states. That tells companies to watch actual orders, exemptions, and customs guidance, not just speeches. The takeaway is that North American supply chains are being asked to price political risk every week, and the adjustment is no longer theoretical.</p>
-<p><span style="font-weight:bold">Co-host:</span> For a household, that can show up indirectly: a higher appliance price, a farm-equipment repair delay, a utility cost pass-through, or a border employer slowing orders. The policy fight sounds national, but the operating pain is often buried inside ordinary purchasing.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, Mayor Andrew Ginther has paused the city’s use of Flock license-plate readers after another misuse allegation. Axios Columbus reports the pause has no set end date. During the pause, the system will stop collecting new data while Police Chief Elaine Bryant conducts a full audit.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is this a ban, or a control reset?</p>
-<p><span style="font-weight:bold">Host:</span> It is a control reset for now. WOSU reported Friday that Columbus police began covering the city’s 65 Flock cameras one day after the mayor suspended use of the technology. The distinction matters because other cameras in Central Ohio may be owned by universities, ODOT, or other local governments, so one city pause does not erase the whole regional network.</p>
-<p><span style="font-weight:bold">Co-host:</span> For residents, the question is not only whether cameras help solve crimes. It is who can search the data, why, and what happens after misuse.</p>
-<p><span style="font-weight:bold">Host:</span> That is the operating issue. Police and city leaders have argued the readers help investigations. Critics point to privacy, immigration enforcement concerns, and auditability. The useful next fact is the audit result: which searches were improper, which policies failed, and whether the December contract expiration becomes a renewal vote, a rewrite, or a shutdown.</p>
-<p><span style="font-weight:bold">Co-host:</span> This also gives council a concrete governance test before the contract expires.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. If the city wants the tool back, it has to explain retention, access, discipline, and outside sharing in plain terms. If it cannot, the pause becomes evidence that a public-safety tool can lose legitimacy faster than it produces trust.</p>
-<p><span style="font-weight:bold">Co-host:</span> The local angle is practical even for people who never think about surveillance policy. Cameras sit on streets people use every day. Trust depends on whether the city can show the search trail after the fact, not just promise that access is limited.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the fresh operational change is rate-lock management. Freddie Mac’s latest weekly survey put the 30-year fixed mortgage at 6.71 percent on September 3rd, up from 6.66 percent a week earlier. Mortgage News Daily’s daily index was 6.79 percent this morning.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is still a rate story. What is the workflow change?</p>
-<p><span style="font-weight:bold">Host:</span> The workflow is when the file gets repriced, redisclosed, or paused. Near seven percent, a small market move can push a borrower out of a payment target after preapproval, inspection, or a seller-credit negotiation. Loan officers need a lock conversation tied to the actual contract calendar, not a generic “rates may change” warning.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the affected file is a purchase borrower who qualified last week but has not locked yet.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. The consequence is operational: update payment tolerance, check whether points or credits are still acceptable, document the borrower’s choice, and avoid quoting a stale payment into a weekend offer. For lenders, this is pipeline hygiene. A high-rate week turns sloppy redisclosure and vague affordability language into pull-through risk.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would weaken that conclusion?</p>
-<p><span style="font-weight:bold">Host:</span> A sharp drop in the 10-year Treasury or a calmer inflation report could improve pricing quickly. But today’s oil move keeps inflation anxiety alive. The next mortgage watch is Thursday’s Freddie Mac survey and whether daily pricing confirms another push toward seven percent or backs away before more borrowers have to decide.</p>
-<p><span style="font-weight:bold">Co-host:</span> That also changes the sales manager’s review. The weak file is not only the borrower with marginal credit. It is the file where the team cannot explain which payment was quoted, when it changed, and whether the borrower understood the lock choice.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Better Home and Finance to the deployment ledger today. The row is not there because Better proved a new AI result. It is there because today’s shareholder letter makes the missing link unusually clear: AI mortgage tooling still needs repeatable distribution.</p>
-<p><span style="font-weight:bold">Co-host:</span> What exactly changed in the row?</p>
-<p><span style="font-weight:bold">Host:</span> Better’s investor site describes Tinman as its AI-native mortgage platform and Betsy as an AI loan agent that gives application-status updates, answers questions, and moves applications along around the clock. Today’s letter from interim CEO Daniel Lewis says the immediate focus is TinmanGo wholesale distribution, HELOC remarketing and data rights, and platforms that give consumers more choice.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank?</p>
-<p><span style="font-weight:bold">Host:</span> Company claim. The letter discloses more than 45 million dollars of annualized cost reductions, but it does not isolate an AI productivity metric, a defect metric, or a borrower-outcome metric for Betsy or Tinman. That absence is the point for banks and lenders. A model or platform can be impressive and still leave management with the harder job of enterprise sales, implementation, support, and measurable economics.</p>
-<p><span style="font-weight:bold">Co-host:</span> What decision would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It would push vendor evaluation away from demo quality and toward whether the partner can deliver a repeatable channel with controls, training, support, and unit economics. The limitation that matters here is attribution: if cost reductions, faster approvals, or partner growth are not tied to the AI workflow, a buyer should treat them as corporate claims, not proof that the agent improved lending operations.</p>
-<p><span style="font-weight:bold">Co-host:</span> In other words, the useful procurement question is not “does the agent answer nicely?” It is “which cost line, borrower step, or partner workflow moved because this system ran?” If that answer is missing, the demo is still pre-evidence.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, the strongest dated item is Google’s September 2nd release of Gemini 3.8 Flash and Gemini 3.8 Flash Cyber. It clears the bar for measured capability and access limits because Google published security benchmarks and restricted the Cyber version to trusted defenders through its Fairwind Program.</p>
-<p><span style="font-weight:bold">Co-host:</span> What was measured, and who measured it?</p>
-<p><span style="font-weight:bold">Host:</span> Google says Gemini 3.8 Flash Cyber topped its prior cyber model and larger frontier models on CyberGym. On Google’s internal multi-language vulnerability benchmark, the company says the model exceeded a 70 percent success rate. On CWE-Bench, Google cites Collinear’s external patching benchmark: 47.2 percent pass at one attempt, close to another leading model at 47.8 percent, but at lower cost.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is stronger than a demo, but still partly lab-reported.</p>
-<p><span style="font-weight:bold">Host:</span> Correct. The Chrome example is Google-on-Google: the company says Chrome Security got 2.6 times more correct vulnerability patches than with larger commercial models. Wiz supplied another customer-style signal, reporting higher recall on its internal penetration-testing benchmark at lower cost. The limitation is access and transferability. A trusted-defender cyber model is not a general production assistant.</p>
-<p><span style="font-weight:bold">Host:</span> The workflow implication is narrow but important. Security teams may get cheaper, faster vulnerability discovery and patch drafting, while attackers may push labs to restrict the same capabilities. The earliest bank use is a controlled security-engineering pilot on nonproduction code, gated by vendor approval, legal scope, and secure review before any patch reaches production.</p>
-<p><span style="font-weight:bold">Co-host:</span> The bank translation is narrow on purpose. This is not a reason to let a cyber model roam through production. It is a reason to test whether it can find and draft fixes inside a contained queue faster than the current secure-code-review process.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets are reading the same oil and inflation story. Market data showed Wall Street lower Tuesday as oil prices climbed, with Brent near 98 dollars a barrel and traders looking toward this week’s inflation reports. The S&amp;P 500 was down about three tenths of a percent in the late-morning quote I checked.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the market is not just reacting to oil. It is translating oil into the Fed path.</p>
-<p><span style="font-weight:bold">Host:</span> Right. Higher crude can feed inflation expectations just before the last major price data before the September 15th and 16th Fed meeting. In the live ETF tape I checked late morning, SPY was down about three tenths, QQQ was slightly higher, TLT was slightly higher, and the United States Oil Fund was up about 1 percent. The assumption is that energy pressure can keep rates restrictive even if growth worries are visible.</p>
-<p><span style="font-weight:bold">Co-host:</span> The number to watch is not only Brent. It is whether energy pressure leaks into inflation expectations and Treasury yields. If yields stay contained while oil jumps, markets are saying they see a shock, not a new inflation regime.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> For Columbus weather, today is warm and usable. The National Weather Service forecast for downtown Columbus calls for a high near 87 and a partly cloudy night near 71. Wednesday turns hotter near 90, with a late-day shower or thunderstorm chance.</p>
-<p><span style="font-weight:bold">Co-host:</span> The planning change is Wednesday night into Thursday, right?</p>
-<p><span style="font-weight:bold">Host:</span> Yes. The Weather Service puts showers and storms likely Wednesday night, then more showers and a possible thunderstorm Thursday, with new rainfall that could reach three quarters of an inch to an inch. Use today for outdoor errands, and keep Thursday morning plans flexible around wet roads and heavier rain.</p>
-<p><span style="font-weight:bold">Co-host:</span> For school drop-offs and the commute, that means Wednesday evening is the time to recheck timing. If the heavier rain holds into Thursday morning, give yourself more road time and expect slower starts around low spots.</p>
-<p><span style="font-weight:bold">Host:</span> Three things to watch: whether U.S. and Canadian negotiators reopen talks before January tariff threats harden; whether Columbus’ Flock audit produces a renewal path or a shutdown case; and whether Thursday’s Freddie Mac survey confirms mortgage pricing is still pressing toward seven percent.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are practical triggers: customs guidance, audit findings, and the next rate print.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Tuesday, September 8th. Have a good morning.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Tuesday, September 08, 2026</title>
+    <description>Your Morning Brief for Tuesday, September 08, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-08_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-08_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-08_morning-brief.mp3" length="13751588" type="audio/mpeg"/>
@@ -1030,18 +1043,6 @@
     <itunes:duration>00:15:40</itunes:duration>
     <itunes:episode>20260820</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-08-20</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, August 19, 2026</title>
-    <description>Your Morning Brief for Wednesday, August 19, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-08-19_morning-brief.mp3" length="12770349" type="audio/mpeg"/>
-    <pubDate>Wed, 19 Aug 2026 04:23:32 -0600</pubDate>
-    <itunes:duration>00:13:18</itunes:duration>
-    <itunes:episode>20260819</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-08-19</guid>
   </item>
 </channel>
 </rss>
