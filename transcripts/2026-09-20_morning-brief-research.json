@@ -1,0 +1,336 @@
+{
+  "date": "2026-09-20",
+  "cutoff": "2026-09-20T07:30:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-13_morning-brief-script.md",
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "white-house-badge-denials",
+      "beat": "national",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523",
+      "decision": "selected",
+      "rationale": "Fresh enforcement of a story covered yesterday only as a threat; new operational fact is badge deactivation and denial."
+    },
+    {
+      "id": "columbus-downpour-flooding",
+      "beat": "local",
+      "event_date": "2026-09-20",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "decision": "selected",
+      "rationale": "Local planning consequence for roadways, events, and Monday commute on a quiet Sunday local-news day."
+    },
+    {
+      "id": "fannie-mi-termination",
+      "beat": "home_lending",
+      "event_date": "2026-09-16",
+      "source": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "decision": "selected_as_dated_update",
+      "rationale": "Operational servicing update uncovered today; older than 48 hours, so does not count toward the four fresh stories."
+    },
+    {
+      "id": "ant-international-ai-stack",
+      "beat": "bank_ai",
+      "event_date": "2026-09-18",
+      "source": "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/",
+      "decision": "selected",
+      "rationale": "Fresh financial-services AI deployment announcement with specific payment, FX and treasury claims."
+    },
+    {
+      "id": "ai-slowdown-antitrust-lawsuit",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "decision": "selected",
+      "rationale": "Fresh legal development directly tied to frontier-lab slowdown coordination and safety policy."
+    },
+    {
+      "id": "trump-xi-ai-agenda",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/04b29a32b6a47da55a642d4415415d7f",
+      "decision": "rejected",
+      "rationale": "Covered September 19; no new fact since the state-visit agenda story."
+    },
+    {
+      "id": "mgic-go-loan-limits",
+      "beat": "home_lending",
+      "event_date": "2026-09-18",
+      "source": "https://www.mgic.com/-/media/mi/bulletins-news/bulletin-pdf-underwriting-bulletin-04-2026.pdf?v=1",
+      "decision": "rejected",
+      "rationale": "Covered September 19; no verified matching insurer or investor overlay today."
+    },
+    {
+      "id": "friday-market-split",
+      "beat": "markets",
+      "event_date": "2026-09-19",
+      "source": "https://finance.yahoo.com/quote/SPY/",
+      "decision": "selected_compact",
+      "rationale": "Useful compact market context; not treated as a major freshness-count story."
+    }
+  ],
+  "stories": [
+    {
+      "id": "white-house-badge-denials",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-19",
+      "publication_date": "2026-09-20",
+      "sources": [
+        "https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523"
+      ],
+      "new_fact": "CNN, MS NOW and Politico reporters were denied White House access after Trump's ban threat, with AP reporting badge deactivation or confiscation.",
+      "new_takeaway": "The story moved from a threat to an access-control action, making enforcement mechanics and emergency legal relief the next operating tests.",
+      "why_now": "The denials happened Saturday, September 19, one day after the stated ban threat.",
+      "previous_coverage": "September 19 covered the threat and noted reporters still remained on grounds; today's segment uses the new badge-denial fact and different takeaway.",
+      "uncertainty": "Whether the White House restores access, issues a written rule, or faces immediate litigation remains unresolved.",
+      "watch": "Emergency court filing, written credential rule, restored badges, or WHCA-negotiated access workaround.",
+      "carryover": true
+    },
+    {
+      "id": "columbus-downpour-flooding",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-20",
+      "publication_date": "2026-09-20",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "The Sunday Columbus forecast called for cloudy, humid weather with an afternoon thunderstorm and downpours able to cause temporary roadway flooding.",
+      "new_takeaway": "The operational local risk is concentrated downpour and drainage timing, not a broad all-day washout.",
+      "why_now": "The forecast applies to Sunday afternoon and Monday's commute setup.",
+      "previous_coverage": "Recent episodes used routine Columbus weather at the end; no full local beat used today's downpour planning angle.",
+      "uncertainty": "Storm placement and whether repeated cells train over one corridor are uncertain.",
+      "watch": "Radar trends for repeated afternoon cells and Monday morning road impacts."
+    },
+    {
+      "id": "fannie-mi-termination",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-09-16",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+        "https://www.freddiemac.com/pmms"
+      ],
+      "new_fact": "Fannie Mae permitted servicers to solicit borrowers who may be eligible to terminate conventional mortgage insurance based on current property value.",
+      "new_takeaway": "The lending consequence is proactive servicing outreach and valuation workflow, not refinance origination or rate quoting.",
+      "why_now": "This is a previously uncovered operational update from the last seven days, relevant on a quiet Sunday and to current borrower payment relief.",
+      "previous_coverage": "Recent home-lending segments covered Freddie rates, MGIC loan limits, VantageScore and refi convexity; none covered proactive MI termination outreach.",
+      "uncertainty": "Actual borrower savings depend on eligibility tests, valuation process, investor overlays and servicer adoption.",
+      "watch": "Borrower notices, servicer list-building, valuation standards and Freddie/Fannie alignment implementation.",
+      "date_exception": "Quiet Sunday specialist-beat update uncovered within seven days; it changes current servicing workflow but is not counted toward four fresh stories."
+    },
+    {
+      "id": "ant-international-ai-stack",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-18",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/"
+      ],
+      "new_fact": "Ant International announced an AI-native financial stack spanning payments, account, FX, treasury and growth operations with vendor-reported chargeback and forecasting claims.",
+      "new_takeaway": "Large banks should treat agent-enabled payments and treasury forecasting as a build-versus-partner control decision, with auditability as the limiting factor.",
+      "why_now": "The announcement was reported Friday, September 18, within 48 hours of the episode date.",
+      "previous_coverage": "September 19 covered Mastercard/Alchemy agentic cards; this segment shifts to treasury, FX and multi-product financial operations with a different control focus.",
+      "uncertainty": "Claims are company-reported, with no independent bank production metric or loss/error baseline disclosed.",
+      "watch": "Named bank production scope, independently reviewed error or loss metrics, and adoption of know-your-agent standards.",
+      "ledger_row_changed": "Added Ant International / AI-native payment, FX and treasury stack as announced; evidence is company claim through PYMNTS coverage; no independent bank validation."
+    },
+    {
+      "id": "ai-slowdown-antitrust-lawsuit",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-19",
+      "publication_date": "2026-09-20",
+      "sources": [
+        "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
+      ],
+      "new_fact": "A lawsuit filed Friday accused Anthropic, OpenAI, SpaceXAI and Google of an illegal agreement to slow AI development.",
+      "new_takeaway": "The frontier governance question is no longer just whether labs should coordinate safety; it is whether they can do so without antitrust protection or a government framework.",
+      "why_now": "The lawsuit was filed September 18 and AP covered it for the September 20 news cycle.",
+      "previous_coverage": "Recent episodes covered slowdown debate, embedded evaluators, Claude-led R&D and Trump-Xi policy agenda; none covered antitrust litigation over coordination.",
+      "uncertainty": "The lawsuit is an allegation, company responses are pending, and no court has found an illegal agreement.",
+      "watch": "Court order, motion to dismiss, company response, government antitrust exemption proposal or federal safety framework.",
+      "frontier_bar": "Policy that binds labs directly; safety-process governance and legal exposure around coordinated slowdown."
+    },
+    {
+      "id": "friday-market-split",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-19",
+      "publication_date": "2026-09-20",
+      "sources": [
+        "https://finance.yahoo.com/quote/SPY/",
+        "https://finance.yahoo.com/quote/QQQ/",
+        "https://finance.yahoo.com/quote/DIA/",
+        "https://finance.yahoo.com/quote/TLT/",
+        "https://finance.yahoo.com/quote/USO/"
+      ],
+      "new_fact": "Friday's ETF tape showed QQQ higher while SPY, DIA, TLT and USO were lower.",
+      "new_takeaway": "AI-linked tech leadership can coexist with financing pressure when long-bond proxies weaken.",
+      "why_now": "Friday's close was the latest available market data before the Sunday episode.",
+      "previous_coverage": "September 19 also noted narrow tech leadership and rate pressure; today's market item is compact context rather than a repeated full segment.",
+      "uncertainty": "ETF quote pages update dynamically and may not preserve the exact captured state.",
+      "watch": "Whether long yields ease enough for mortgage and credit-sensitive borrowers."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-20",
+      "publication_date": "2026-09-20",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "Cloudy and humid near 79 Sunday, cooler near 65 with periods of rain Monday, and cloudy with showers Tuesday.",
+      "new_takeaway": "Sunday needs radar checks and Monday needs commute patience.",
+      "why_now": "Weather affects today's local planning.",
+      "previous_coverage": "Routine daily weather, not a repeated full story.",
+      "uncertainty": "Forecast timing can shift during the day.",
+      "watch": "Afternoon storm timing and Monday commute rain."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523",
+      "reason": "AP page was opened in browser research and showed the September 19 badge denial, deactivation/confiscation details, named reporters, and outlet responses; the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "reason": "AP page was opened in browser research and showed the lawsuit filing, named labs, plaintiffs' theory, and pending company responses; the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "reason": "Fannie Mae page was opened in browser research and displayed LL-2026-07 and its servicing outreach summary; the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "Yahoo Finance ETF quote values and direction",
+      "reason": "ETF quote pages are dynamic; values and directions were captured from the finance feed at 07:10 America/New_York and used only as compact market context."
+    },
+    {
+      "claim": "Columbus weather values",
+      "reason": "Forecast values were captured from the weather feed at 07:08 America/New_York; weather pages update throughout the day."
+    },
+    {
+      "claim": "68",
+      "reason": "Tuesday Columbus high captured from the weather feed at 07:08 America/New_York; forecast pages update during the day."
+    },
+    {
+      "claim": "79",
+      "reason": "Sunday Columbus high captured from the weather feed at 07:08 America/New_York; forecast pages update during the day."
+    },
+    {
+      "claim": "AI-linked",
+      "reason": "Show analysis term for Nasdaq/technology leadership, not a discrete source claim."
+    },
+    {
+      "claim": "Ant Antom",
+      "reason": "PYMNTS source identifies Ant International and the Antom 3-in-1 Transformer; checker merged adjacent words into a non-source phrase."
+    },
+    {
+      "claim": "Anthropic OpenAI SpaceXAI and Google",
+      "reason": "AP lawsuit story names these companies in the allegation; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Checker artifact from the phrase AI in Banking plus first-person ledger update, not a factual entity."
+    },
+    {
+      "claim": "CNN Betsy Klein and MS NOW Akayla Gardner",
+      "reason": "AP badge-denial story names the outlets and reporters; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "reason": "AP badge-denial story names these outlets; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Geographic framing for Columbus-area listeners; local forecast is sourced separately."
+    },
+    {
+      "claim": "Cheyenne Haslett",
+      "reason": "AP badge-denial story names the Politico reporter; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Dario Amodei September",
+      "reason": "AP lawsuit story describes Amodei's September 12 essay; checker merged the name and month."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Fannie Mae LL-2026-07 source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Freddie Mac-aligned",
+      "reason": "Analysis phrase referring to Fannie/Freddie process alignment discussed in housing coverage; not a discrete named entity."
+    },
+    {
+      "claim": "LL-2026-07",
+      "reason": "Fannie Mae source identifies LL-2026-07; source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Lender Letter LL-2026-07",
+      "reason": "Fannie Mae source identifies Lender Letter LL-2026-07; source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Northern District of California",
+      "reason": "AP lawsuit story identifies the filing venue; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "PMI",
+      "reason": "Common shorthand for private mortgage insurance in the Fannie Mae mortgage-insurance termination context."
+    },
+    {
+      "claim": "PMI-removal",
+      "reason": "Show shorthand for mortgage-insurance termination described in Fannie Mae LL-2026-07."
+    },
+    {
+      "claim": "Politico",
+      "reason": "AP badge-denial story names Politico; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "AP badge-denial story names President Trump; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "SPY and DIA",
+      "reason": "ETF quote direction captured from the finance feed at 07:10 America/New_York; quote pages are dynamic."
+    },
+    {
+      "claim": "Sam Altman Elon Musk and Demis Hassabis",
+      "reason": "AP lawsuit story names these executives in relation to public responses; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "White House",
+      "reason": "AP badge-denial story is specifically about White House access; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "White House Correspondents Association",
+      "reason": "AP badge-denial story cites the association's call to restore access; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "the White House",
+      "reason": "AP badge-denial story is specifically about White House access; AP source was manually opened but unreachable to curl."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "cbc1cc2b6a86078740da238f0e6aae08db55ffeefd43a3e1d7a244a095bf3d54"
+  }
+}

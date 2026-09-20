@@ -1,0 +1,213 @@
+{
+  "script": "2026-09-20_morning-brief-script.md",
+  "script_sha256": "cbc1cc2b6a86078740da238f0e6aae08db55ffeefd43a3e1d7a244a095bf3d54",
+  "checked_at": "2026-09-20T06:21:21-0400",
+  "sources_fetched": [
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 5218
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10995
+    },
+    {
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/",
+      "characters": 5853
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY/",
+      "characters": 12131
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ/",
+      "characters": 12173
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/DIA/",
+      "characters": 11809
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT/",
+      "characters": 11729
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO/",
+      "characters": 10831
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened in browser research and showed the September 19 badge denial, deactivation/confiscation details, named reporters, and outlet responses; the local curl-based checker received a 16-character body."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae page was opened in browser research and displayed LL-2026-07 and its servicing outreach summary; the local curl-based checker received a 16-character body."
+    },
+    {
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened in browser research and showed the lawsuit filing, named labs, plaintiffs' theory, and pending company responses; the local curl-based checker received a 16-character body."
+    }
+  ],
+  "claims_checked": 48,
+  "claims_supported": 23,
+  "claims_excepted": [
+    {
+      "claim": "68",
+      "kind": "number",
+      "example": "Tuesday stays cloudy, with a couple of showers and a high near 68.",
+      "reason": "Tuesday Columbus high captured from the weather feed at 07:08 America/New_York; forecast pages update during the day."
+    },
+    {
+      "claim": "79",
+      "kind": "number",
+      "example": "For Columbus weather, today is cloudy and humid near 79, with an afternoon thunderstorm possible and downpours able to create temporary roadway flooding.",
+      "reason": "Sunday Columbus high captured from the weather feed at 07:08 America/New_York; forecast pages update during the day."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "The assumption is that AI-linked growth can keep supporting the Nasdaq, but mortgage and credit-sensitive parts of the economy need lower long yields, not just a few strong software headlines.",
+      "reason": "Show analysis term for Nasdaq/technology leadership, not a discrete source claim."
+    },
+    {
+      "claim": "Ant Antom",
+      "kind": "name",
+      "example": "The release says the stack uses Ant's Antom 3-in-1 Transformer payment model and FalconTST time-series model, plus security architecture, Agentic Mobile Protocol and WhaleRTP for settlement interoperability.",
+      "reason": "PYMNTS source identifies Ant International and the Antom 3-in-1 Transformer; checker merged adjacent words into a non-source phrase."
+    },
+    {
+      "claim": "Anthropic OpenAI SpaceXAI and Google",
+      "kind": "name",
+      "example": "AP reports a lawsuit filed Friday in the Northern District of California claims Anthropic, OpenAI, SpaceXAI and Google made an illegal agreement to slow their AI development.",
+      "reason": "AP lawsuit story names these companies in the allegation; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Ant International to the ledger.",
+      "reason": "Checker artifact from the phrase AI in Banking plus first-person ledger update, not a factual entity."
+    },
+    {
+      "claim": "CNN Betsy Klein and MS NOW Akayla Gardner",
+      "kind": "name",
+      "example": "AP says CNN's Betsy Klein and MS NOW's Akayla Gardner reported their press badges had been deactivated, and Politico said Cheyenne Haslett was denied entry and had her badge confiscated.",
+      "reason": "AP badge-denial story names the outlets and reporters; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "kind": "name",
+      "example": "AP reports reporters from CNN, MS NOW and Politico were denied access to the White House on Saturday, one day after President Trump said he was barring those outlets over coverage he called fake news.",
+      "reason": "AP badge-denial story names these outlets; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "In Central Ohio, the local story is weather becoming an operations problem.",
+      "reason": "Geographic framing for Columbus-area listeners; local forecast is sourced separately."
+    },
+    {
+      "claim": "Cheyenne Haslett",
+      "kind": "name",
+      "example": "AP says CNN's Betsy Klein and MS NOW's Akayla Gardner reported their press badges had been deactivated, and Politico said Cheyenne Haslett was denied entry and had her badge confiscated.",
+      "reason": "AP badge-denial story names the Politico reporter; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Dario Amodei September",
+      "kind": "name",
+      "example": "The lawsuit argues the companies coordinated after Dario Amodei's September 12 essay urging industrywide deceleration for safety, and that Sam Altman, Elon Musk and Demis Hassabis publicly responded in agreement the same day.",
+      "reason": "AP lawsuit story describes Amodei's September 12 essay; checker merged the name and month."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today: the White House press fight moved from threat to badge denial, Columbus faces a rain-and-roadway flooding test, Fannie Mae gives servicers a new PMI outreach option, and AI safety coordination now has an antitrust lawsuit attached to it.",
+      "reason": "Fannie Mae LL-2026-07 source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Freddie Mac-aligned",
+      "kind": "name",
+      "example": "The next useful evidence is borrower notices, valuation rules, investor overlays, and whether Freddie Mac-aligned processes make lenders more comfortable contacting eligible households.",
+      "reason": "Analysis phrase referring to Fannie/Freddie process alignment discussed in housing coverage; not a discrete named entity."
+    },
+    {
+      "claim": "LL-2026-07",
+      "kind": "name",
+      "example": "Three watch items: whether the denied White House outlets file for emergency access; whether Fannie Mae servicers begin borrower outreach for PMI termination under LL-2026-07; and whether the AI slowdown lawsuit produces a court order or company response that clarifies what labs can coordinate.",
+      "reason": "Fannie Mae source identifies LL-2026-07; source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Lender Letter LL-2026-07",
+      "kind": "name",
+      "example": "Fannie Mae issued Lender Letter LL-2026-07 on September 16, permitting servicers to solicit borrowers who may be eligible to terminate conventional mortgage insurance based on the current value of the property.",
+      "reason": "Fannie Mae source identifies Lender Letter LL-2026-07; source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "Northern District of California",
+      "kind": "name",
+      "example": "AP reports a lawsuit filed Friday in the Northern District of California claims Anthropic, OpenAI, SpaceXAI and Google made an illegal agreement to slow their AI development.",
+      "reason": "AP lawsuit story identifies the filing venue; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "PMI",
+      "kind": "name",
+      "example": "Today: the White House press fight moved from threat to badge denial, Columbus faces a rain-and-roadway flooding test, Fannie Mae gives servicers a new PMI outreach option, and AI safety coordination now has an antitrust lawsuit attached to it.",
+      "reason": "Common shorthand for private mortgage insurance in the Fannie Mae mortgage-insurance termination context."
+    },
+    {
+      "claim": "PMI-removal",
+      "kind": "name",
+      "example": "But a PMI-removal outreach can reduce payment friction without touching the note rate.",
+      "reason": "Show shorthand for mortgage-insurance termination described in Fannie Mae LL-2026-07."
+    },
+    {
+      "claim": "Politico",
+      "kind": "name",
+      "example": "AP says CNN's Betsy Klein and MS NOW's Akayla Gardner reported their press badges had been deactivated, and Politico said Cheyenne Haslett was denied entry and had her badge confiscated.",
+      "reason": "AP badge-denial story names Politico; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "AP reports reporters from CNN, MS NOW and Politico were denied access to the White House on Saturday, one day after President Trump said he was barring those outlets over coverage he called fake news.",
+      "reason": "AP badge-denial story names President Trump; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "SPY and DIA",
+      "kind": "name",
+      "example": "QQQ finished higher, while SPY and DIA slipped, and TLT also fell.",
+      "reason": "ETF quote direction captured from the finance feed at 07:10 America/New_York; quote pages are dynamic."
+    },
+    {
+      "claim": "Sam Altman Elon Musk and Demis Hassabis",
+      "kind": "name",
+      "example": "The lawsuit argues the companies coordinated after Dario Amodei's September 12 essay urging industrywide deceleration for safety, and that Sam Altman, Elon Musk and Demis Hassabis publicly responded in agreement the same day.",
+      "reason": "AP lawsuit story names these executives in relation to public responses; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "AP reports reporters from CNN, MS NOW and Politico were denied access to the White House on Saturday, one day after President Trump said he was barring those outlets over coverage he called fake news.",
+      "reason": "AP badge-denial story is specifically about White House access; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "White House Correspondents Association",
+      "kind": "name",
+      "example": "It shifts the next move to the news organizations, the White House Correspondents' Association and, likely, the courts.",
+      "reason": "AP badge-denial story cites the association's call to restore access; AP source was manually opened but unreachable to curl."
+    },
+    {
+      "claim": "the White House",
+      "kind": "name",
+      "example": "Today: the White House press fight moved from threat to badge denial, Columbus faces a rain-and-roadway flooding test, Fannie Mae gives servicers a new PMI outreach option, and AI safety coordination now has an antitrust lawsuit attached to it.",
+      "reason": "AP badge-denial story is specifically about White House access; AP source was manually opened but unreachable to curl."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

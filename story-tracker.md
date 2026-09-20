@@ -1,24 +1,36 @@
-# Story Tracker - updated 2026-09-19
+# Story Tracker - updated 2026-09-20
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## White House Media Access Threat
-- Last covered / verified development: 2026-09-19; AP reported President Trump said he would ban CNN, MS NOW and Politico from the White House over their coverage, while enforcement mechanics were unclear and reporters from those outlets remained on the grounds Friday afternoon.
-- Last takeaway: The story becomes operational only if a threat turns into credential enforcement, pool exclusion, gate denial or court action.
-- Source: https://apnews.com/article/bb675679fb10738a51bef90bde6c525a
-- Revisit only for: written White House credential rule, Secret Service denial, pool exclusion, emergency court filing, negotiated press-pool workaround, or outlet-specific access change. Expire September 24 without a development.
+## White House Press Access Denials
+- Last covered / verified development: 2026-09-20; AP reported CNN, MS NOW and Politico reporters were denied access to the White House on September 19 after President Trump's ban threat, with badges deactivated or confiscated.
+- Last takeaway: The story has moved from threat to gate-control action; the operating question is whether access is restored, formalized, litigated or selectively enforced.
+- Source: https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523
+- Revisit only for: emergency court filing, written credential rule, restored access, WHCA-negotiated access workaround, Secret Service gate procedure, or another outlet-specific denial. Expire September 25 without a development.
+
+## Fannie Mae MI Termination Outreach
+- Last covered / verified development: 2026-09-20; Fannie Mae LL-2026-07, dated September 16, permits servicers to solicit borrowers who may be eligible to terminate conventional mortgage insurance based on current property value.
+- Last takeaway: This is a servicing outreach and valuation workflow update, not automatic PMI removal.
+- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements
+- Revisit only for: servicer borrower notices, investor overlays, valuation-procedure clarification, Freddie Mac matching change, or evidence of borrower uptake. Expire September 25 without a development.
+
+## Ant International Agentic Financial Stack
+- Last covered / verified development: 2026-09-20; PYMNTS reported Ant International announced an AI-native financial stack across payments, accounts, FX, treasury and growth operations, with company-claimed chargeback and forecasting metrics.
+- Last takeaway: The large-bank issue is auditability and build-versus-partner control design for agent-enabled money movement and treasury forecasts.
+- Source: https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/
+- Revisit only for: named bank production adoption, independent validation of loss/error/forecast metrics, regulator statement on know-your-agent controls, or material product availability terms. Expire September 25 without a development.
+
+## AI Slowdown Antitrust Lawsuit
+- Last covered / verified development: 2026-09-20; AP reported a lawsuit filed in the Northern District of California alleges Anthropic, OpenAI, SpaceXAI and Google illegally agreed to slow AI development after the September 12 Amodei essay and public responses.
+- Last takeaway: Frontier-lab safety coordination now has antitrust exposure unless courts, regulators or lawmakers define the allowed framework.
+- Source: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b
+- Revisit only for: company response, motion to dismiss, preliminary court order, government antitrust-exemption proposal, or a federal AI-safety framework addressing lab coordination. Expire September 25 without a development.
 
 ## MGIC Go Temporary Loan Limits
 - Last covered / verified development: 2026-09-19; MGIC Bulletin 04-2026 increased maximum loan amounts for MGIC Go loans effective immediately and superseded the September 11 bulletin.
 - Last takeaway: This is a routing and MI-eligibility update for some above-current-conforming files, not a blanket larger-loan approval.
 - Source: https://www.mgic.com/-/media/mi/bulletins-news/bulletin-pdf-underwriting-bulletin-04-2026.pdf?v=1
 - Revisit only for: another MI matching or rejecting the temporary limits, investor overlays, FHFA 2027 conforming-limit announcement, or lender instructions changing AUS/MI routing. Expire September 24 without a development.
-
-## Mastercard / Alchemy Agentic Payments
-- Last covered / verified development: 2026-09-19; Wall Street Journal reported Mastercard rolled out an AI payment option with Alchemy that can issue a restricted virtual card to a user's AI agent for online purchases.
-- Last takeaway: The control question is whether issuers can reconstruct customer intent, limits and liability when software makes a purchase.
-- Source: https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b
-- Revisit only for: named issuer support, agentic-token technical detail, fraud or dispute metric, regulator statement, or customer availability terms. Expire September 24 without a development.
 
 ## Trump-Xi AI Governance State Visit
 - Last covered / verified development: 2026-09-19; AP reported Xi Jinping will make a U.S. state visit next week and that AI, tariffs, rare earths and strategic trade issues are on the agenda.
@@ -27,9 +39,9 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Revisit only for: joint AI statement, export-control change, chip or rare-earth agreement, safety-cooperation mechanism, tariff detail affecting AI infrastructure, or failed-talks readout. Expire September 25 without a development.
 
 ## Fed Hike / Long-Yield Mortgage Test
-- Last covered / verified development: 2026-09-19; AP's Friday market table put the 10-year Treasury near 5% while Mortgage News Daily showed the 30-year fixed at 7.20%.
-- Last takeaway: Mortgage relief still depends on sustained long-yield and MBS improvement, not a one-day equity bounce.
-- Source: https://apnews.com/article/da0dbe004b6f83c36e7d1626a9741a92
+- Last covered / verified development: 2026-09-20; Friday's ETF tape kept the financing-pressure signal alive, with QQQ higher while long-bond proxies remained weak.
+- Last takeaway: Mortgage relief still depends on sustained long-yield and MBS improvement, not a narrow tech-led equity cushion.
+- Source: https://finance.yahoo.com/quote/TLT/
 - Revisit only for: sustained 10-year move materially below/above 5%, MBS repricing, lender rate sheets moving below Freddie's 6.95% weekly average, next inflation print, or Fed speaker defining whether another hike is likely. Expire September 24 without a development.
 
 ## Early Voting / Election Operations
@@ -38,12 +50,6 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://apnews.com/article/early-voting-midterms-congress-10a3e620ce194144ce1af5e9d4fb6786
 - Revisit only for: court order changing voting instructions, state/county operational failure, verified voter-data conflict, postal processing disruption, or material early-vote turnout/processing data. Expire September 23 without a development.
 
-## Anthropic Claude-Led R&D Metric
-- Last covered / verified development: 2026-09-18; AP reported Anthropic disclosed Claude is leading 26% of model R&D, collaborating on about 90%, and using about 30,000 research and engineering agents as of August.
-- Last takeaway: Frontier labs are starting to disclose AI-led AI-development metrics, but buyers need comparable methodology and outside verification before treating those numbers as governance evidence.
-- Source: https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132
-- Revisit only for: another frontier lab publishing comparable AI-R&D metrics, third-party evaluator verification, a new Anthropic methodology update, or regulatory response to recursive self-improvement disclosures. Expire September 23 without a development.
-
 ## Retired From Automatic Carryover
 
-Columbus data-center utility guardrails until the September 28 vote or amended language, Hilliard / Homestead Metro Park transfer until the September 28 vote or transfer terms, Ohio craft brewery closures unless another named Central Ohio closure or legislative/wholesaler action occurs, federal grant disruptions/Lost Funds tracker, Columbus school report card, embedded frontier AI evaluators, U.S.-China AI model competition without a state-visit development, Amazon / 21 Air crash response, FEMA staffing ruling, Strait of Hormuz vessel risk, OSU chalking-ban dispute, routine mortgage rates, frontier AI slowdown debate without an implementation mechanism, August CPI alone, Ohio local referendum threshold, Fannie Mae VantageScore mechanics, Truist AI Call Summaries, Anthropic September misuse report, Franklin County Flock misuse review, OpenAI Financial Services Assistant, ChatGPT Images 2.5, August PPI relief alone, Canada import bans, oil above $100 alone, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Grove City data-center charter fight, Moritz Downtown Move, Federal Election Administration mail-ballot ruling unless DHS/state action occurs, routine high-six mortgage rates, and routine Crew sports results remain off the script unless a verified new event creates a different takeaway.
+Columbus data-center utility guardrails until the September 28 vote or amended language, Hilliard / Homestead Metro Park transfer until the September 28 vote or transfer terms, Ohio craft brewery closures unless another named Central Ohio closure or legislative/wholesaler action occurs, federal grant disruptions/Lost Funds tracker, Columbus school report card, embedded frontier AI evaluators, U.S.-China AI model competition without a state-visit development, Amazon / 21 Air crash response, FEMA staffing ruling, Strait of Hormuz vessel risk, OSU chalking-ban dispute, routine mortgage rates, frontier AI slowdown debate without an implementation mechanism, August CPI alone, Ohio local referendum threshold, Fannie Mae VantageScore mechanics, Truist AI Call Summaries, Anthropic September misuse report, Franklin County Flock misuse review, OpenAI Financial Services Assistant, ChatGPT Images 2.5, August PPI relief alone, Canada import bans, oil above $100 alone, Columbus schools social-media litigation, Better Mortgage AI claims, Gemini 3.8 Flash Cyber, OpenAI Navier-Stokes agents, Grove City data-center charter fight, Moritz Downtown Move, Federal Election Administration mail-ballot ruling unless DHS/state action occurs, routine high-six mortgage rates, routine Crew sports results, Anthropic Claude-led R&D metric without independent verification, and Mastercard / Alchemy agentic payments without issuer participation or dispute metrics remain off the script unless a verified new event creates a different takeaway.
