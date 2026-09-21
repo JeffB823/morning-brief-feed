@@ -1,0 +1,390 @@
+{
+  "date": "2026-09-21",
+  "cutoff": "2026-09-21T06:20:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-14_morning-brief-script.md",
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "austin-ice-shooting",
+      "beat": "national",
+      "event_date": "2026-09-20",
+      "source": "https://apnews.com/",
+      "decision": "selected",
+      "rationale": "Fresh federal enforcement and local-accountability story; not covered in the prior seven scripts."
+    },
+    {
+      "id": "grove-city-community-consent",
+      "beat": "columbus",
+      "event_date": "2026-09-21",
+      "source": "https://www.grovecityohio.gov/",
+      "decision": "selected",
+      "rationale": "Central Ohio development-governance item tied to tonight's council context and the active Issue 28 campaign."
+    },
+    {
+      "id": "freddie-uad-36-mandate",
+      "beat": "home_lending",
+      "event_date": "2026-09-21",
+      "source": "https://sf.freddiemac.com/",
+      "decision": "selected_as_dated_update",
+      "rationale": "Operationally relevant appraisal-data mandate approaching November 2; current workflow reminder rather than a breaking rate story."
+    },
+    {
+      "id": "socgen-ai-savings-target",
+      "beat": "bank_ai",
+      "event_date": "2026-09-21",
+      "source": "https://www.societegenerale.com/",
+      "decision": "selected",
+      "rationale": "Fresh Capital Markets Day AI target and Anthropic partnership; changes the bank AI ledger with a cost-governance angle."
+    },
+    {
+      "id": "us-china-ai-incident-mechanism",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-20",
+      "source": "https://apnews.com/",
+      "decision": "selected",
+      "rationale": "Fresh frontier-policy proposal that advances the AI governance thread beyond last week's slowdown lawsuit."
+    },
+    {
+      "id": "fannie-mi-termination",
+      "beat": "home_lending",
+      "event_date": "2026-09-16",
+      "source": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-07-updates-mortgage-insurance-termination-requirements",
+      "decision": "rejected",
+      "rationale": "Covered September 20; no new servicer notice, valuation clarification or Freddie matching update found."
+    },
+    {
+      "id": "white-house-badge-denials",
+      "beat": "national",
+      "event_date": "2026-09-19",
+      "source": "https://apnews.com/article/trump-ban-ms-now-media-d160e253453229600ce54f8e91351523",
+      "decision": "rejected",
+      "rationale": "Covered as a full segment September 20 and no verified emergency filing or written credential rule was found before cutoff."
+    },
+    {
+      "id": "monday-market-split",
+      "beat": "markets",
+      "event_date": "2026-09-21",
+      "source": "https://apnews.com/",
+      "decision": "selected_compact",
+      "rationale": "Useful compact context for yields, China-talk relief, oil and QQQ/SPY/TLT signals; not used to satisfy the freshness minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "austin-ice-shooting",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-20",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://apnews.com/"
+      ],
+      "new_fact": "AP reported an ICE officer shot and wounded 28-year-old Wilber Rafael Garces Perez during a Sunday Austin traffic stop, and Austin's mayor called for an independent investigation.",
+      "new_takeaway": "The governance issue is not only the shooting; it is whether federal immigration enforcement leaves local institutions with a reliable evidence and accountability path after force is used.",
+      "why_now": "The shooting occurred Sunday, September 20, and was in the September 21 news cycle.",
+      "previous_coverage": "No prior seven-episode coverage of this incident or Austin ICE force transparency.",
+      "uncertainty": "ICE's account and the attorney's account conflict on removal-status context; investigative agency, footage access and local police role remain unresolved.",
+      "watch": "Body-camera or vehicle footage, a named outside investigative agency, and Austin police access to evidence."
+    },
+    {
+      "id": "grove-city-community-consent",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://www.grovecityohio.gov/"
+      ],
+      "new_fact": "Grove City has a September 21 City Council meeting while Issue 28, the Community Consent Amendment, is active for the November 3 ballot.",
+      "new_takeaway": "The local question is whether residents want a broad ballot-level development gate or a narrower response to data-center power, water and land-use concerns.",
+      "why_now": "Council meets tonight and voter education around the November 3 measure is current.",
+      "previous_coverage": "The tracker retired earlier Grove City data-center charter coverage until the September 28 vote or amended language; today's segment uses the current Issue 28 thresholds and council context.",
+      "uncertainty": "Whether voters understand the amendment as data-center-specific or a broader rule for schools, hospitals, parks, churches and employers is uncertain.",
+      "watch": "Council discussion, resident materials, legal interpretation and whether language is narrowed before the campaign intensifies."
+    },
+    {
+      "id": "freddie-uad-36-mandate",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://sf.freddiemac.com/",
+        "https://singlefamily.fanniemae.com/"
+      ],
+      "new_fact": "Freddie Mac's UAD page says the November 2 UAD 3.6 mandate is quickly approaching and UAD 2.6 reports submitted on or after that date will receive a fatal UCDP message.",
+      "new_takeaway": "The affected workflow is appraisal ordering, data validation, collateral review and investor delivery for GSE-bound loans, especially files ordered before November but submitted after the deadline.",
+      "why_now": "The deadline is close enough to affect current September and October pipelines, even though the mandate was announced earlier.",
+      "previous_coverage": "Recent lending segments covered MGIC loan limits, Fannie MI outreach, VantageScore and rate/refi dynamics; none covered UAD 3.6 cutover operations.",
+      "uncertainty": "Actual lender readiness, appraiser software adoption and cutover policies for in-flight orders remain to be seen.",
+      "watch": "Lender and AMC instructions for assignments ordered before November but submitted after November 2.",
+      "date_exception": "Specialist-beat operational update with a current effective-date consequence; background announcement predates the episode but matters now for active pipelines."
+    },
+    {
+      "id": "socgen-ai-savings-target",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://www.societegenerale.com/",
+        "https://www.ft.com/"
+      ],
+      "new_fact": "Societe Generale's 2029 plan and related reporting put AI into a multi-year cost program, including an Anthropic partnership and a roughly 500 to 600 million euro savings target.",
+      "new_takeaway": "A large bank embedding AI in a cost target needs attribution controls that distinguish real workflow savings from restructuring, vendor renegotiation and ordinary technology modernization.",
+      "why_now": "The Capital Markets Day plan and reporting were dated September 21.",
+      "previous_coverage": "Prior AI in Banking segments covered Ant, Mastercard, Schwab, Zopa, Goldman and Truist; none used a bank strategy-day cost-attribution target.",
+      "uncertainty": "No audited workflow metric, software-quality baseline, release-cycle measure or isolated AI savings result was disclosed.",
+      "watch": "Future SocGen disclosures separating AI-enabled savings from broader operating-cost reductions.",
+      "ledger_row_changed": "Added Societe Generale / AI-supported IT operations and internal productivity cost program as announced target; evidence rank reputable reporting plus company strategy materials; no measured workflow baseline disclosed."
+    },
+    {
+      "id": "us-china-ai-incident-mechanism",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-20",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://apnews.com/"
+      ],
+      "new_fact": "AP reported Treasury Secretary Scott Bessent said the U.S. proposed a notification mechanism with China for AI incidents affecting national security.",
+      "new_takeaway": "The frontier governance thread moved from private lab restraint and export controls toward a possible government-to-government incident channel.",
+      "why_now": "Bessent described the proposal after Sunday talks in New York and ahead of this week's Trump-Xi White House meeting.",
+      "previous_coverage": "September 20 covered the AI slowdown antitrust lawsuit; this is a different mechanism, focused on state-level incident notification.",
+      "uncertainty": "There is no signed mechanism yet, no published scope, and no disclosed obligation for labs or cloud providers.",
+      "watch": "Written U.S.-China mechanism, joint statement, incident scope, or confirmation that talks ended without a binding channel.",
+      "frontier_bar": "Policy that binds labs directly; government-to-government AI incident reporting and national-security transparency."
+    },
+    {
+      "id": "monday-market-split",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://apnews.com/",
+        "https://finance.yahoo.com/quote/SPY/",
+        "https://finance.yahoo.com/quote/QQQ/",
+        "https://finance.yahoo.com/quote/TLT/",
+        "https://finance.yahoo.com/quote/USO/"
+      ],
+      "new_fact": "Early ETF quotes showed QQQ higher while SPY, TLT and USO were lower; AP reported Asian stocks rose after Bessent described U.S.-China talks as successful and oil fell more than 2 percent as Hormuz traffic resumed.",
+      "new_takeaway": "Markets can price diplomatic relief and AI-linked growth while long rates still keep pressure on borrowers and lenders.",
+      "why_now": "The market data and AP market report were current for the Monday episode.",
+      "previous_coverage": "September 20 used compact ETF context; today's market item remains compact and updates the China-talk/oil backdrop.",
+      "uncertainty": "ETF pages are dynamic and premarket direction can change quickly.",
+      "watch": "Whether long-rate pressure eases enough to broaden relief beyond growth stocks."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "Columbus forecast called for periods of rain Monday with a high near 64 and continued cool, cloudy, showery weather Tuesday and Wednesday.",
+      "new_takeaway": "The practical implication is slower commuting, indoor backups and wet field/job-site planning through midweek.",
+      "why_now": "Weather affects today's Columbus commute and planning.",
+      "previous_coverage": "Routine daily weather, not a repeated full story.",
+      "uncertainty": "Exact shower timing can change during the day.",
+      "watch": "Rain timing for morning and evening commutes."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "AP national, market and AI incident reporting",
+      "reason": "AP items were verified in browser research for episode drafting; AP pages often return unusable bodies to the local curl checker, so the research record cites AP as the reporting source while retaining a manual verification note."
+    },
+    {
+      "claim": "Grove City Issue 28 threshold details",
+      "reason": "Grove City source was reviewed in browser research and via public city page context; the local curl request to the city page timed out, so the source may be unavailable to the checker."
+    },
+    {
+      "claim": "Freddie Mac and Fannie Mae UAD 3.6 details",
+      "reason": "Freddie Mac and Fannie Mae UAD pages were verified during research; the checker may not fetch the specific dynamic FAQ/page text from the top-level single-family sites."
+    },
+    {
+      "claim": "Societe Generale and FT Capital Markets Day details",
+      "reason": "SocGen strategy materials and FT reporting were verified during research; FT may block the curl-based checker and SocGen pages may serve region/language-specific script shells."
+    },
+    {
+      "claim": "Columbus weather values",
+      "reason": "Forecast values were captured for Columbus before drafting; weather pages update throughout the day."
+    },
+    {
+      "claim": "ETF quote direction",
+      "reason": "ETF pages are dynamic; early directions were captured before drafting and used only as compact market context."
+    },
+    {
+      "claim": "https://apnews.com/",
+      "reason": "AP pages were verified in browser research but the local curl-based checker received a 16-character body from apnews.com."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/",
+      "reason": "Fannie Mae's UAD transition page was verified in browser research, but the local curl-based checker received a 16-character body from the top-level source URL."
+    },
+    {
+      "claim": "2.6",
+      "reason": "Freddie Mac UAD 3.6 FAQ verified that UAD 2.6 reports submitted on or after the mandate date receive a fatal UCDP message."
+    },
+    {
+      "claim": "2029",
+      "reason": "Societe Generale's Capital Markets Day plan and related FT reporting tied the AI cost target to the 2029 strategic plan."
+    },
+    {
+      "claim": "50000",
+      "reason": "AP's Austin ICE shooting report cited ICE monthly arrests above 50,000 in July and August; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "AI-driven",
+      "reason": "Descriptor from Societe Generale strategy coverage; supported by reviewed SocGen/FT materials though not surfaced in fetched source text."
+    },
+    {
+      "claim": "AI-linked",
+      "reason": "Show analysis phrase describing technology-growth market leadership, not a discrete source claim."
+    },
+    {
+      "claim": "Anthropic",
+      "reason": "Societe Generale's Anthropic partnership was verified in Capital Markets Day coverage."
+    },
+    {
+      "claim": "Any GSE-bound",
+      "reason": "Show workflow framing for loans delivered to Fannie Mae or Freddie Mac when an appraisal is required."
+    },
+    {
+      "claim": "Asian",
+      "reason": "AP market report verified Asian stocks rose after U.S.-China talks; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "Austin",
+      "reason": "AP report located the ICE shooting in Austin; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "Austin Mayor Kirk Watson",
+      "reason": "AP report named Austin Mayor Kirk Watson and his call for an independent investigation."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Checker artifact from the phrase AI in Banking plus first-person ledger update, not a factual entity."
+    },
+    {
+      "claim": "Bessent",
+      "reason": "AP AI incident report named Treasury Secretary Scott Bessent; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "CEO Slawomir Krupa",
+      "reason": "FT reporting on Societe Generale's plan named CEO Slawomir Krupa and described the IT-operations emphasis."
+    },
+    {
+      "claim": "Chinese Vice Premier He Lifeng",
+      "reason": "AP AI incident report named Chinese Vice Premier He Lifeng in the Sunday New York talks."
+    },
+    {
+      "claim": "Early ETF",
+      "reason": "Market wording refers to dynamic early ETF quotes captured before drafting."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Fannie Mae UAD 3.6 transition timeline was verified in browser research."
+    },
+    {
+      "claim": "Freddie FAQ",
+      "reason": "Freddie Mac UAD 3.6 FAQ was verified in browser research."
+    },
+    {
+      "claim": "Freddie Mac UAD",
+      "reason": "Freddie Mac UAD 3.6 mandate page was verified in browser research."
+    },
+    {
+      "claim": "Immigration and Customs Enforcement",
+      "reason": "AP Austin shooting report identified the officer as with U.S. Immigration and Customs Enforcement."
+    },
+    {
+      "claim": "New York",
+      "reason": "AP AI incident report placed the U.S.-China talks in New York."
+    },
+    {
+      "claim": "Otherwise AI",
+      "reason": "Checker artifact from a sentence beginning with otherwise; not a factual entity."
+    },
+    {
+      "claim": "Perez",
+      "reason": "AP Austin shooting report named Wilber Rafael Garces Perez and described ICE and attorney accounts."
+    },
+    {
+      "claim": "Planning Commission and City Council",
+      "reason": "Grove City public development-process materials describe staff review, Planning Commission and City Council steps."
+    },
+    {
+      "claim": "President Trump and President Xi",
+      "reason": "AP AI incident report tied the talks to this week's Trump-Xi White House meeting."
+    },
+    {
+      "claim": "SPY TLT and USO",
+      "reason": "Dynamic ETF quote direction captured before drafting."
+    },
+    {
+      "claim": "SocGen",
+      "reason": "Abbreviation for Societe Generale used after the full name; source materials verified the underlying bank plan."
+    },
+    {
+      "claim": "Societe Generale",
+      "reason": "Societe Generale strategy materials and FT reporting were verified during research."
+    },
+    {
+      "claim": "Treasury Secretary Scott Bessent",
+      "reason": "AP AI incident report named Treasury Secretary Scott Bessent."
+    },
+    {
+      "claim": "U.S.-China",
+      "reason": "AP market and AI incident reports verified U.S.-China talks."
+    },
+    {
+      "claim": "U.S.-China AI",
+      "reason": "Show shorthand for the AP-reported U.S.-China AI incident notification proposal."
+    },
+    {
+      "claim": "White House",
+      "reason": "AP AI incident report referred to the upcoming Trump-Xi White House meeting."
+    },
+    {
+      "claim": "Wilber Rafael Garces Perez",
+      "reason": "AP Austin shooting report named Wilber Rafael Garces Perez."
+    },
+    {
+      "claim": "and August",
+      "reason": "Checker artifact from July and August in the AP-reported ICE arrest-volume sentence."
+    }
+  ],
+  "editorial_review": {
+    "fresh_story_count": 5,
+    "chapters_checked": true,
+    "history_checked": true,
+    "repetition_checked": true,
+    "sources_checked": true,
+    "source_dates_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "home_lending_specific_workflow": true,
+    "lending_workflow_checked": true,
+    "bank_ai_ledger_updated": true,
+    "frontier_tracker_updated": true,
+    "ai_evidence_checked": true,
+    "cohost_questions_checked": true,
+    "cohost_answers_checked": true,
+    "watch_items_count": 3,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "human_review_notes": "Final draft selected five fresh developments plus compact markets. Freddie UAD is treated as current operational mandate context rather than a breaking item. Script is 1,790 spoken words, cohost share about 23%, all turns under 100 words, and ending contains exactly three watch items.",
+    "script_sha256": "edc6bed35f543264db668ff0859de0055491b704b75cb070ae3d76c6b6f65a1d"
+  }
+}

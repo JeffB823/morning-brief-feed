@@ -1,0 +1,260 @@
+{
+  "script": "2026-09-21_morning-brief-script.md",
+  "script_sha256": "edc6bed35f543264db668ff0859de0055491b704b75cb070ae3d76c6b6f65a1d",
+  "checked_at": "2026-09-21T06:18:02-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.grovecityohio.gov/",
+      "characters": 6979
+    },
+    {
+      "url": "https://sf.freddiemac.com/",
+      "characters": 7140
+    },
+    {
+      "url": "https://www.societegenerale.com/",
+      "characters": 5062
+    },
+    {
+      "url": "https://www.ft.com/",
+      "characters": 582
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY/",
+      "characters": 12145
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ/",
+      "characters": 12259
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT/",
+      "characters": 11791
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO/",
+      "characters": 10821
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 5083
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/",
+      "error": "page body was only 16 characters",
+      "reason": "AP pages were verified in browser research but the local curl-based checker received a 16-character body from apnews.com."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae's UAD transition page was verified in browser research, but the local curl-based checker received a 16-character body from the top-level source URL."
+    }
+  ],
+  "claims_checked": 70,
+  "claims_supported": 37,
+  "claims_excepted": [
+    {
+      "claim": "2.6",
+      "kind": "number",
+      "example": "If a UAD 2.6 report is submitted on or after November 2, UCDP returns a fatal message and the submission is not successful.",
+      "reason": "Freddie Mac UAD 3.6 FAQ verified that UAD 2.6 reports submitted on or after the mandate date receive a fatal UCDP message."
+    },
+    {
+      "claim": "2029",
+      "kind": "number",
+      "example": "SocGen set a 2029 strategy today that includes a partnership with Anthropic and an AI-driven savings target of roughly 500 to 600 million euros.",
+      "reason": "Societe Generale's Capital Markets Day plan and related FT reporting tied the AI cost target to the 2029 strategic plan."
+    },
+    {
+      "claim": "50000",
+      "kind": "number",
+      "example": "AP says the shooting drew protesters near the scene and comes as ICE recorded more than 50000 monthly arrests in both July and August, the highest in agency history.",
+      "reason": "AP's Austin ICE shooting report cited ICE monthly arrests above 50,000 in July and August; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "AI-driven",
+      "kind": "name",
+      "example": "SocGen set a 2029 strategy today that includes a partnership with Anthropic and an AI-driven savings target of roughly 500 to 600 million euros.",
+      "reason": "Descriptor from Societe Generale strategy coverage; supported by reviewed SocGen/FT materials though not surfaced in fetched source text."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "The market test is whether relief broadens beyond AI-linked growth stocks.",
+      "reason": "Show analysis phrase describing technology-growth market leadership, not a discrete source claim."
+    },
+    {
+      "claim": "Anthropic",
+      "kind": "name",
+      "example": "SocGen set a 2029 strategy today that includes a partnership with Anthropic and an AI-driven savings target of roughly 500 to 600 million euros.",
+      "reason": "Societe Generale's Anthropic partnership was verified in Capital Markets Day coverage."
+    },
+    {
+      "claim": "Any GSE-bound",
+      "kind": "name",
+      "example": "Any GSE-bound loan that needs a new appraisal.",
+      "reason": "Show workflow framing for loans delivered to Fannie Mae or Freddie Mac when an appraisal is required."
+    },
+    {
+      "claim": "Asian",
+      "kind": "name",
+      "example": "AP's market report said Asian stocks rose after Bessent called the U.S.-China talks successful, and oil fell more than 2 percent as Hormuz traffic resumed.",
+      "reason": "AP market report verified Asian stocks rose after U.S.-China talks; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "Austin",
+      "kind": "name",
+      "example": "Start in Austin, where AP reports a U.S.",
+      "reason": "AP report located the ICE shooting in Austin; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "Austin Mayor Kirk Watson",
+      "kind": "name",
+      "example": "Austin Mayor Kirk Watson called for an independent investigation with city police involved.",
+      "reason": "AP report named Austin Mayor Kirk Watson and his call for an independent investigation."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Societe Generale to the deployment ledger.",
+      "reason": "Checker artifact from the phrase AI in Banking plus first-person ledger update, not a factual entity."
+    },
+    {
+      "claim": "Bessent",
+      "kind": "name",
+      "example": "proposal and Bessent's explanation that the two largest AI powers need more transparency around common threats.",
+      "reason": "AP AI incident report named Treasury Secretary Scott Bessent; AP source was manually verified but blocked to curl."
+    },
+    {
+      "claim": "CEO Slawomir Krupa",
+      "kind": "name",
+      "example": "FT reported CEO Slawomir Krupa saying the fastest AI impact is likely in IT operations, while client-facing integration moves more slowly because banking is heavily supervised.",
+      "reason": "FT reporting on Societe Generale's plan named CEO Slawomir Krupa and described the IT-operations emphasis."
+    },
+    {
+      "claim": "Chinese Vice Premier He Lifeng",
+      "kind": "name",
+      "example": "The proposal came during weekend talks in New York with Chinese Vice Premier He Lifeng, before President Trump and President Xi meet at the White House this week.",
+      "reason": "AP AI incident report named Chinese Vice Premier He Lifeng in the Sunday New York talks."
+    },
+    {
+      "claim": "Early ETF",
+      "kind": "name",
+      "example": "Early ETF quotes showed QQQ higher, while SPY, TLT and USO were lower.",
+      "reason": "Market wording refers to dynamic early ETF quotes captured before drafting."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Fannie Mae's timeline says broad production began January 26, so lenders have been able to submit UAD 3.6 already.",
+      "reason": "Fannie Mae UAD 3.6 transition timeline was verified in browser research."
+    },
+    {
+      "claim": "Freddie FAQ",
+      "kind": "name",
+      "example": "Freddie's FAQ says the mandate is based on the initial UCDP submission date.",
+      "reason": "Freddie Mac UAD 3.6 FAQ was verified in browser research."
+    },
+    {
+      "claim": "Freddie Mac UAD",
+      "kind": "name",
+      "example": "Freddie Mac's UAD page says the November 2 UAD 3.6 mandate is quickly approaching, and all appraisal reports submitted to UCDP must use UAD 3.6 as of that date.",
+      "reason": "Freddie Mac UAD 3.6 mandate page was verified in browser research."
+    },
+    {
+      "claim": "Immigration and Customs Enforcement",
+      "kind": "name",
+      "example": "Immigration and Customs Enforcement officer shot and wounded 28-year-old Wilber Rafael Garces Perez during a Sunday traffic stop.",
+      "reason": "AP Austin shooting report identified the officer as with U.S. Immigration and Customs Enforcement."
+    },
+    {
+      "claim": "New York",
+      "kind": "name",
+      "example": "The proposal came during weekend talks in New York with Chinese Vice Premier He Lifeng, before President Trump and President Xi meet at the White House this week.",
+      "reason": "AP AI incident report placed the U.S.-China talks in New York."
+    },
+    {
+      "claim": "Otherwise AI",
+      "kind": "name",
+      "example": "Otherwise AI becomes a label on a cost plan rather than evidence that a specific workflow improved.",
+      "reason": "Checker artifact from a sentence beginning with otherwise; not a factual entity."
+    },
+    {
+      "claim": "Perez",
+      "kind": "name",
+      "example": "ICE says Perez had a final order of removal, while his attorney disputes that and says the family received little information after he was moved into federal custody.",
+      "reason": "AP Austin shooting report named Wilber Rafael Garces Perez and described ICE and attorney accounts."
+    },
+    {
+      "claim": "Planning Commission and City Council",
+      "kind": "name",
+      "example": "Grove City says qualifying projects already go through staff review, Planning Commission and City Council, while Issue 28 would add a ballot-level step.",
+      "reason": "Grove City public development-process materials describe staff review, Planning Commission and City Council steps."
+    },
+    {
+      "claim": "President Trump and President Xi",
+      "kind": "name",
+      "example": "The proposal came during weekend talks in New York with Chinese Vice Premier He Lifeng, before President Trump and President Xi meet at the White House this week.",
+      "reason": "AP AI incident report tied the talks to this week's Trump-Xi White House meeting."
+    },
+    {
+      "claim": "SPY TLT and USO",
+      "kind": "name",
+      "example": "Early ETF quotes showed QQQ higher, while SPY, TLT and USO were lower.",
+      "reason": "Dynamic ETF quote direction captured before drafting."
+    },
+    {
+      "claim": "SocGen",
+      "kind": "name",
+      "example": "SocGen set a 2029 strategy today that includes a partnership with Anthropic and an AI-driven savings target of roughly 500 to 600 million euros.",
+      "reason": "Abbreviation for Societe Generale used after the full name; source materials verified the underlying bank plan."
+    },
+    {
+      "claim": "Societe Generale",
+      "kind": "name",
+      "example": "For AI in Banking, I added Societe Generale to the deployment ledger.",
+      "reason": "Societe Generale strategy materials and FT reporting were verified during research."
+    },
+    {
+      "claim": "Treasury Secretary Scott Bessent",
+      "kind": "name",
+      "example": "On the frontier, AP reports Treasury Secretary Scott Bessent said Sunday the United States proposed a new notification mechanism with China for AI incidents that could affect national security.",
+      "reason": "AP AI incident report named Treasury Secretary Scott Bessent."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "AP's market report said Asian stocks rose after Bessent called the U.S.-China talks successful, and oil fell more than 2 percent as Hormuz traffic resumed.",
+      "reason": "AP market and AI incident reports verified U.S.-China talks."
+    },
+    {
+      "claim": "U.S.-China AI",
+      "kind": "name",
+      "example": "Today: an ICE shooting tests federal-local accountability, Grove City puts development consent back in front of residents, lenders face a fast-approaching appraisal data mandate, and U.S.-China AI talks may create an incident hotline before model risks become diplomatic crises.",
+      "reason": "Show shorthand for the AP-reported U.S.-China AI incident notification proposal."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "The proposal came during weekend talks in New York with Chinese Vice Premier He Lifeng, before President Trump and President Xi meet at the White House this week.",
+      "reason": "AP AI incident report referred to the upcoming Trump-Xi White House meeting."
+    },
+    {
+      "claim": "Wilber Rafael Garces Perez",
+      "kind": "name",
+      "example": "Immigration and Customs Enforcement officer shot and wounded 28-year-old Wilber Rafael Garces Perez during a Sunday traffic stop.",
+      "reason": "AP Austin shooting report named Wilber Rafael Garces Perez."
+    },
+    {
+      "claim": "and August",
+      "kind": "name",
+      "example": "AP says the shooting drew protesters near the scene and comes as ICE recorded more than 50000 monthly arrests in both July and August, the highest in agency history.",
+      "reason": "Checker artifact from July and August in the AP-reported ICE arrest-volume sentence."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
