@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-22",
+  "cutoff": "2026-09-22T06:20:03-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-15_morning-brief-script.md",
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "white-house-press-access-order",
+      "beat": "national",
+      "event_date": "2026-09-21",
+      "source": "https://apnews.com/article/trump-ban-ms-now-media-cnn-politico-72f9acf68244ca70e9078d9d3661c722",
+      "decision": "selected",
+      "rationale": "Fresh court order restoring access for specific outlets; different development and takeaway from the September 20 press-access segment."
+    },
+    {
+      "id": "columbus-rainy-day-budget",
+      "beat": "columbus",
+      "event_date": "2026-09-21",
+      "source": "https://www.axios.com/local/columbus/2026/09/21/mayor-ginther-rainy-day-fund-budget-2026-ohio",
+      "decision": "selected",
+      "rationale": "Local operating story about reserve use in the 2026 budget and what council hearings should test."
+    },
+    {
+      "id": "fannie-multifamily-documents-effective",
+      "beat": "home_lending",
+      "event_date": "2026-09-22",
+      "source": "https://multifamily.fanniemae.com/news-insights/multifamily-news/lender-letter-25-12-loan-document-updates",
+      "decision": "selected",
+      "rationale": "Effective-date operational change affecting multifamily commitment and closing workflows today."
+    },
+    {
+      "id": "danske-mastercard-agent-payment",
+      "beat": "bank_ai",
+      "event_date": "2026-09-21",
+      "source": "https://www.mastercard.com/news/europe/da-dk/nyhedsrum/pressemeddelelser/dk-dk/2026/mastercard-og-danske-bank-gennemforer-danmarks-forste-betaling-foretaget-af-en-ai-agent/",
+      "decision": "selected",
+      "rationale": "Fresh bank-integrated agentic payment demonstration; changes the banking AI ledger."
+    },
+    {
+      "id": "grok-47-release",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-21",
+      "source": "https://x.ai/news/grok-4-7",
+      "decision": "selected",
+      "rationale": "Fresh frontier model release with access, pricing and coding-agent workflow implications."
+    },
+    {
+      "id": "us-china-ai-hotline-follow",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-22",
+      "source": "https://asiatimes.com/2026/09/us-china-open-hotline-to-rein-in-runaway-ai/",
+      "decision": "rejected",
+      "rationale": "Would be a carryover of yesterday's U.S.-China AI incident proposal without a primary signed mechanism."
+    },
+    {
+      "id": "mortgage-applications-preview",
+      "beat": "home_lending",
+      "event_date": "2026-09-22",
+      "source": "https://www.mba.org/news-and-research/newsroom/",
+      "decision": "rejected",
+      "rationale": "No fresher MBA weekly release verified before cutoff; avoided another generic rate/application segment."
+    },
+    {
+      "id": "market-long-rate-split",
+      "beat": "markets",
+      "event_date": "2026-09-22",
+      "source": "https://finance.yahoo.com/quote/TLT/",
+      "decision": "selected_compact",
+      "rationale": "Useful compact context on tech resilience versus long-rate pressure; not counted toward specialist freshness."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "event_date": "2026-09-22",
+      "source": "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0",
+      "decision": "selected_compact",
+      "rationale": "Practical daily weather for Columbus-area commute and outdoor planning."
+    }
+  ],
+  "stories": [
+    {
+      "id": "white-house-press-access-order",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://apnews.com/article/trump-ban-ms-now-media-cnn-politico-72f9acf68244ca70e9078d9d3661c722"
+      ],
+      "new_fact": "AP reported a federal judge ordered the White House to restore access for reporters from CNN, Politico, The Hill and MS NOW while their lawsuit continues.",
+      "new_takeaway": "The issue has moved from outlet-specific denials to a court-tested question about whether neutral logistics rules become viewpoint discrimination.",
+      "why_now": "The order was issued Monday, September 21, and changes today's access posture.",
+      "previous_coverage": "September 20 covered initial denials; today's development has a new court order and a different takeaway focused on temporary legal relief.",
+      "uncertainty": "The underlying lawsuit is unresolved; appeal, policy rewrite or compliance posture are not yet known.",
+      "watch": "White House appeal, revised credential rules, or restored access while the case proceeds."
+    },
+    {
+      "id": "columbus-rainy-day-budget",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/09/21/mayor-ginther-rainy-day-fund-budget-2026-ohio"
+      ],
+      "new_fact": "Axios reported Mayor Andrew Ginther's 2026 budget plan would use $25 million from Columbus's rainy-day fund to help balance operations.",
+      "new_takeaway": "Reserve use becomes a budget-discipline test: one-time money can smooth a year, but not fix a recurring cost and revenue mismatch.",
+      "why_now": "The 2026 budget proposal was reported Monday and heads into local scrutiny.",
+      "previous_coverage": "No prior seven-episode coverage of Columbus reserve-fund pressure; recent local stories covered schools, civic facilities and Grove City development consent.",
+      "uncertainty": "The final council budget, remaining reserve balance and recurring spending choices are not yet settled.",
+      "watch": "Budget hearings showing whether reserve use is paired with recurring cost, revenue or service-level decisions."
+    },
+    {
+      "id": "fannie-multifamily-documents-effective",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://multifamily.fanniemae.com/news-insights/multifamily-news/lender-letter-25-12-loan-document-updates"
+      ],
+      "new_fact": "Fannie Mae Multifamily Lender Letter 25-12 makes updated loan documents applicable to new multifamily commitments issued on or after September 22, 2026.",
+      "new_takeaway": "The affected workflow is legal-document selection and closing-package control for multifamily loans, not consumer rate shopping.",
+      "why_now": "The effective date is today, September 22.",
+      "previous_coverage": "Recent lending segments covered UAD appraisal delivery, PMI outreach, MGIC limits, VantageScore and rates; none covered multifamily loan documents.",
+      "uncertainty": "Borrower counsel, lender systems and closing teams may apply the date gate differently until internal instructions are tested.",
+      "watch": "Whether lenders publish clean commitment-date gates and closing-package instructions for new multifamily commitments."
+    },
+    {
+      "id": "danske-mastercard-agent-payment",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://www.mastercard.com/news/europe/da-dk/nyhedsrum/pressemeddelelser/dk-dk/2026/mastercard-og-danske-bank-gennemforer-danmarks-forste-betaling-foretaget-af-en-ai-agent/",
+        "https://www.pymnts.com/news/payments-innovation/2026/mastercard-helps-danske-bank-with-denmark-first-agentic-transaction/"
+      ],
+      "new_fact": "Mastercard and Danske Bank said they completed Denmark's first payment where an AI agent made the purchase and payment on behalf of a consumer, using Mastercard Agent Pay.",
+      "new_takeaway": "Agentic payments move the banking-AI question from assistant output to authorization, issuer signals, authentication and dispute proof.",
+      "why_now": "The transaction announcement was dated September 21.",
+      "previous_coverage": "September 19 covered Mastercard and Alchemy's broader agentic commerce deal; this is a named bank demonstration with a completed transaction.",
+      "uncertainty": "No adoption, fraud, dispute, customer-satisfaction or error-rate metric was disclosed.",
+      "watch": "Named issuer metrics on agent-authorized payment attempts, declines, mistaken purchases, disputes or customer-service volume.",
+      "ledger_row_changed": "Added Danske Bank / Mastercard Agent Pay for consumer-authorized AI-agent purchase and payment; lane 1/8 payments and controls; announced; evidence company claim plus trade reporting; no performance metric disclosed."
+    },
+    {
+      "id": "grok-47-release",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://x.ai/news/grok-4-7",
+        "https://docs.x.ai/developers/grok-4-7",
+        "https://docs.x.ai/developers/release-notes"
+      ],
+      "new_fact": "SpaceXAI released Grok 4.7, made it available on the xAI API, and documented a U.S. regional endpoint with a 10 percent premium plus a fast variant billed at twice standard token rates in limited channels.",
+      "new_takeaway": "The frontier workflow implication is model routing for coding agents: access, region, token economics and long-task reliability matter as much as headline benchmark scores.",
+      "why_now": "The release and docs were dated September 21.",
+      "previous_coverage": "No prior seven-episode coverage of Grok 4.7; recent frontier stories covered U.S.-China governance, slowdown litigation and AI self-improvement metrics.",
+      "uncertainty": "Benchmarks are lab-reported; independent replication and real cost per completed coding task remain unknown.",
+      "watch": "Independent coding-agent evaluations and customer reports on task completion cost versus Grok 4.6, GPT-5.6 Sol and Claude Fable 5.1.",
+      "frontier_bar": "Price or access shift plus agent and tool-use advance; a new model release with API access, regional endpoint and coding-agent positioning."
+    },
+    {
+      "id": "market-long-rate-split",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://finance.yahoo.com/quote/SPY/",
+        "https://finance.yahoo.com/quote/QQQ/",
+        "https://finance.yahoo.com/quote/TLT/",
+        "https://finance.yahoo.com/quote/USO/"
+      ],
+      "new_fact": "Early ETF screens showed QQQ modestly higher, SPY near flat and TLT still central to the long-rate watch.",
+      "new_takeaway": "Tech resilience does not by itself relieve borrowers if long bonds remain weak.",
+      "why_now": "Market context was checked before drafting on September 22.",
+      "previous_coverage": "Markets are covered compactly each day; today's angle stays short and updates the financing-stress screen.",
+      "uncertainty": "ETF prices and direction change through the trading day.",
+      "watch": "Whether TLT stabilizes and broader indexes join any AI-linked strength."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-21",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0"
+      ],
+      "new_fact": "The National Weather Service forecast for the Ohio State University Airport area called for cloudy skies Tuesday, a high near 67, a 50 percent shower chance Tuesday night and showers likely Wednesday.",
+      "new_takeaway": "The useful local weather advice is less about severe weather and more about damp commutes, slow-drying fields and outdoor backups.",
+      "why_now": "Weather affects today's Columbus commute and planning.",
+      "previous_coverage": "Routine daily weather, not a repeated full story.",
+      "uncertainty": "Shower timing and local totals can change with later forecast updates.",
+      "watch": "Overnight showers and Wednesday morning wet-road timing."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "AP White House press-access reporting",
+      "reason": "AP article was reviewed in browser research; AP sometimes blocks or truncates local curl fetches used by the claim checker."
+    },
+    {
+      "claim": "https://apnews.com/article/trump-ban-ms-now-media-cnn-politico-72f9acf68244ca70e9078d9d3661c722",
+      "reason": "AP article was opened during browser research, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/09/21/mayor-ginther-rainy-day-fund-budget-2026-ohio",
+      "reason": "Axios local article was reviewed during research; local curl received a 16-character body."
+    },
+    {
+      "claim": "https://multifamily.fanniemae.com/news-insights/multifamily-news/lender-letter-25-12-loan-document-updates",
+      "reason": "Fannie Mae Multifamily page was verified in browser/search context but returned a Cloudflare challenge to local curl."
+    },
+    {
+      "claim": "https://www.mastercard.com/news/europe/da-dk/nyhedsrum/pressemeddelelser/dk-dk/2026/mastercard-og-danske-bank-gennemforer-danmarks-forste-betaling-foretaget-af-en-ai-agent/",
+      "reason": "Mastercard newsroom article was opened during browser research; local curl returned an unusably short body."
+    },
+    {
+      "claim": "CNN, Politico, The Hill and MS NOW",
+      "reason": "Outlet list is from the AP article reviewed during research; AP may not be locally fetchable."
+    },
+    {
+      "claim": "CNN Politico The Hill and MS NOW",
+      "reason": "Outlet list is from the AP article reviewed during research; AP may not be locally fetchable."
+    },
+    {
+      "claim": "White House",
+      "reason": "White House access dispute and credential restoration are from the reviewed AP article."
+    },
+    {
+      "claim": "First Amendment",
+      "reason": "First Amendment claim is the legal theory reported in the AP access-case article."
+    },
+    {
+      "claim": "25",
+      "reason": "Axios reported the $25 million Columbus rainy-day fund draw; local news pages may be dynamically rendered or blocked to the checker."
+    },
+    {
+      "claim": "Mayor Andrew Ginther",
+      "reason": "Axios identified Mayor Andrew Ginther's 2026 Columbus budget proposal."
+    },
+    {
+      "claim": "Columbus Axios",
+      "reason": "Show phrasing joining the city and reporting outlet; underlying budget fact was checked against Axios."
+    },
+    {
+      "claim": "Fannie Mae Multifamily Lender Letter 25-12",
+      "reason": "Fannie Mae's page was verified from search/browser context; the site returned a Cloudflare challenge to local curl, so the checker cannot inspect the body."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Fannie Mae Multifamily notice was the source for the document-update effective date."
+    },
+    {
+      "claim": "Fannie Mae Multifamily Lender Letter",
+      "reason": "Fannie Mae Multifamily Lender Letter 25-12 was verified from browser/search context."
+    },
+    {
+      "claim": "Multifamily",
+      "reason": "The segment concerns Fannie Mae's multifamily loan-document update."
+    },
+    {
+      "claim": "PayOS",
+      "reason": "Mastercard and PYMNTS reporting identified PayOS as handling the technical transaction flow."
+    },
+    {
+      "claim": "September 22",
+      "reason": "Episode date, Fannie Mae effective date, and NWS forecast date were verified in sources; the same date appears in multiple contexts."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False-positive extraction from the phrase AI in Banking; it is a show chapter label rather than an external claim."
+    },
+    {
+      "claim": "10",
+      "reason": "SpaceXAI documentation says the U.S. regional endpoint carries a 10 percent premium; source was opened during research."
+    },
+    {
+      "claim": "U.S.-only",
+      "reason": "SpaceXAI documentation described a U.S. regional endpoint; the script paraphrases it as U.S.-only."
+    },
+    {
+      "claim": "twice",
+      "reason": "SpaceXAI documentation states the Grok 4.7 Fast variant is billed at twice standard token rates."
+    },
+    {
+      "claim": "AI-linked",
+      "reason": "Show analysis phrase for technology-growth market leadership, not a discrete sourced entity."
+    },
+    {
+      "claim": "Early ETF",
+      "reason": "False-positive name extraction from market context; ETF direction was checked on dynamic quote pages before drafting."
+    },
+    {
+      "claim": "ETF screens",
+      "reason": "Finance values are dynamic and were checked before drafting; used only as compact market context."
+    },
+    {
+      "claim": "Weather values",
+      "reason": "NWS forecast was checked before drafting; forecast pages update through the day."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Drafted with prior seven episodes compared. Avoided yesterday's ICE, Grove City, UAD, SocGen and U.S.-China incident-channel carryovers because no new qualifying development was verified. Final script hash to be filled after claim-check edits.",
+    "script_sha256": "58aaf95335dac582c12c55d85449566496bd61444b4ef7409c9df88c6aa044f1"
+  }
+}

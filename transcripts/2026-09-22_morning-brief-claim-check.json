@@ -1,0 +1,150 @@
+{
+  "script": "2026-09-22_morning-brief-script.md",
+  "script_sha256": "58aaf95335dac582c12c55d85449566496bd61444b4ef7409c9df88c6aa044f1",
+  "checked_at": "2026-09-22T06:24:29-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/mastercard-helps-danske-bank-with-denmark-first-agentic-transaction/",
+      "characters": 6006
+    },
+    {
+      "url": "https://x.ai/news/grok-4-7",
+      "characters": 4933
+    },
+    {
+      "url": "https://docs.x.ai/developers/grok-4-7",
+      "characters": 6432
+    },
+    {
+      "url": "https://docs.x.ai/developers/release-notes",
+      "characters": 16678
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY/",
+      "characters": 12440
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ/",
+      "characters": 13461
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT/",
+      "characters": 12127
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO/",
+      "characters": 10705
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0",
+      "characters": 2715
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/trump-ban-ms-now-media-cnn-politico-72f9acf68244ca70e9078d9d3661c722",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened during browser research, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/09/21/mayor-ginther-rainy-day-fund-budget-2026-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "Axios local article was reviewed during research; local curl received a 16-character body."
+    },
+    {
+      "url": "https://multifamily.fanniemae.com/news-insights/multifamily-news/lender-letter-25-12-loan-document-updates",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae Multifamily page was verified in browser/search context but returned a Cloudflare challenge to local curl."
+    },
+    {
+      "url": "https://www.mastercard.com/news/europe/da-dk/nyhedsrum/pressemeddelelser/dk-dk/2026/mastercard-og-danske-bank-gennemforer-danmarks-forste-betaling-foretaget-af-en-ai-agent/",
+      "error": "page body was only 357 characters",
+      "reason": "Mastercard newsroom article was opened during browser research; local curl returned an unusably short body."
+    }
+  ],
+  "claims_checked": 45,
+  "claims_supported": 32,
+  "claims_excepted": [
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "The market can like AI-linked growth and still punish rate-sensitive parts of the economy if long bonds do not improve.",
+      "reason": "Show analysis phrase for technology-growth market leadership, not a discrete sourced entity."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Danske Bank and Mastercard to the deployment ledger.",
+      "reason": "False-positive extraction from the phrase AI in Banking; it is a show chapter label rather than an external claim."
+    },
+    {
+      "claim": "CNN Politico The Hill and MS NOW",
+      "kind": "name",
+      "example": "AP reports a federal judge on Monday ordered the White House to restore credentials for reporters from CNN, Politico, The Hill and MS NOW while their lawsuit continues.",
+      "reason": "Outlet list is from the AP article reviewed during research; AP may not be locally fetchable."
+    },
+    {
+      "claim": "Columbus Axios",
+      "kind": "name",
+      "example": "In Columbus, Axios reports Mayor Andrew Ginther's 2026 budget plan would use 25 million dollars from the city's rainy-day fund to help balance operations, after several years of strong reserves.",
+      "reason": "Show phrasing joining the city and reporting outlet; underlying budget fact was checked against Axios."
+    },
+    {
+      "claim": "Early ETF",
+      "kind": "name",
+      "example": "Early ETF screens showed QQQ modestly higher while SPY was little changed, and TLT was still the pressure point for borrowers watching long rates.",
+      "reason": "False-positive name extraction from market context; ETF direction was checked on dynamic quote pages before drafting."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Fannie Mae's Multifamily Lender Letter 25-12 says updated loan documents apply to new Fannie Mae multifamily commitments issued on or after today, September 22.",
+      "reason": "Fannie Mae Multifamily notice was the source for the document-update effective date."
+    },
+    {
+      "claim": "Fannie Mae Multifamily Lender Letter",
+      "kind": "name",
+      "example": "Fannie Mae's Multifamily Lender Letter 25-12 says updated loan documents apply to new Fannie Mae multifamily commitments issued on or after today, September 22.",
+      "reason": "Fannie Mae Multifamily Lender Letter 25-12 was verified from browser/search context."
+    },
+    {
+      "claim": "First Amendment",
+      "kind": "name",
+      "example": "The judge did not finish the whole case, but the temporary order moves those reporters back into the operating system while the First Amendment claim is tested.",
+      "reason": "First Amendment claim is the legal theory reported in the AP access-case article."
+    },
+    {
+      "claim": "Mayor Andrew Ginther",
+      "kind": "name",
+      "example": "In Columbus, Axios reports Mayor Andrew Ginther's 2026 budget plan would use 25 million dollars from the city's rainy-day fund to help balance operations, after several years of strong reserves.",
+      "reason": "Axios identified Mayor Andrew Ginther's 2026 Columbus budget proposal."
+    },
+    {
+      "claim": "Multifamily",
+      "kind": "name",
+      "example": "Multifamily lenders need a date gate in their pipeline, not just a memo in a policy folder.",
+      "reason": "The segment concerns Fannie Mae's multifamily loan-document update."
+    },
+    {
+      "claim": "PayOS",
+      "kind": "name",
+      "example": "The agent selected and bought the experience using a Mastercard issued by Danske Bank, with PayOS handling the transaction flow and Mastercard Agent Pay supplying the payment framework.",
+      "reason": "Mastercard and PYMNTS reporting identified PayOS as handling the technical transaction flow."
+    },
+    {
+      "claim": "U.S.-only",
+      "kind": "name",
+      "example": "The checkable workflow change is access: a new API model, model-gateway availability, and an optional U.S.-only endpoint.",
+      "reason": "SpaceXAI documentation described a U.S. regional endpoint; the script paraphrases it as U.S.-only."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "Today: a judge puts several newsrooms back inside the White House access system, Columbus budget reserves become a real constraint, multifamily lenders hit a document-change date, and AI agents move from shopping demos toward bank-authenticated payments and pricier coding models.",
+      "reason": "White House access dispute and credential restoration are from the reviewed AP article."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

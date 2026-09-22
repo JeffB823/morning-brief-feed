@@ -1,18 +1,18 @@
-# Story Tracker - updated 2026-09-21
+# Story Tracker - updated 2026-09-22
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## Austin ICE Shooting
-- Last covered / verified development: 2026-09-21; AP reported an ICE officer shot and wounded 28-year-old Wilber Rafael Garces Perez during a September 20 Austin traffic stop, with Austin Mayor Kirk Watson calling for an independent investigation.
-- Last takeaway: The operating issue is evidence access and federal-local accountability after immigration enforcement uses force inside a city, not only the legal merits of the individual stop.
-- Source: https://apnews.com/
-- Revisit only for: body-camera or vehicle footage, named outside investigative agency, Austin police access to evidence, court filing, updated medical status, or official correction of the removal-status dispute. Expire September 26 without a development.
+## White House Press Access Case
+- Last covered / verified development: 2026-09-22; AP reported a federal judge ordered the White House to restore access for CNN, Politico, The Hill and MS NOW reporters while their lawsuit continues.
+- Last takeaway: The access fight is now about whether credential logistics become viewpoint discrimination when outlets must accept preferred language to enter pooled events.
+- Source: https://apnews.com/article/trump-ban-ms-now-media-cnn-politico-72f9acf68244ca70e9078d9d3661c722
+- Revisit only for: appeal, stay, written credential-policy rewrite, final injunction ruling, restored access confirmation, or another outlet-specific denial tied to the same policy. Expire September 27 without a development.
 
-## Grove City Issue 28 / Community Consent
-- Last covered / verified development: 2026-09-21; Grove City has a September 21 council meeting while Issue 28, the Community Consent Amendment, moves toward the November 3 ballot.
-- Last takeaway: The decision is whether residents want a broad ballot-level development gate or a narrower response to data-center power, water and land-use concerns.
-- Source: https://www.grovecityohio.gov/
-- Revisit only for: amended ballot language, legal opinion, campaign finance filing, city-issued clarification, council action, or resident/business coalition statement that changes the development-process takeaway. Expire September 26 without a development.
+## Columbus 2026 Budget Reserves
+- Last covered / verified development: 2026-09-22; Axios reported Mayor Andrew Ginther's 2026 budget plan would use $25 million from Columbus's rainy-day fund to help balance operations.
+- Last takeaway: Reserve use is a budget-discipline warning light unless paired with recurring spending, revenue or service-level choices.
+- Source: https://www.axios.com/local/columbus/2026/09/21/mayor-ginther-rainy-day-fund-budget-2026-ohio
+- Revisit only for: council hearing detail, revised budget number, auditor/bond-rating reaction, named cuts or fees, or a formal plan to stop future reserve draws. Expire September 27 without a development.
 
 ## Freddie Mac UAD 3.6 Appraisal Mandate
 - Last covered / verified development: 2026-09-21; Freddie Mac's UAD page says the November 2 UAD 3.6 mandate is approaching and UAD 2.6 reports submitted on or after that date will receive a fatal UCDP message.
@@ -20,17 +20,35 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://sf.freddiemac.com/
 - Revisit only for: lender or AMC cutover instructions, Fannie/Freddie clarification for in-flight orders, UCDP readiness notice, appraiser software issue, or deadline modification. Expire September 26 without a development.
 
+## Fannie Mae Multifamily Document Updates
+- Last covered / verified development: 2026-09-22; Fannie Mae Multifamily Lender Letter 25-12 made updated loan documents applicable to new multifamily commitments issued on or after September 22.
+- Last takeaway: Multifamily lenders need a commitment-date gate for legal-document selection and closing package control, not just a policy memo.
+- Source: https://multifamily.fanniemae.com/news-insights/multifamily-news/lender-letter-25-12-loan-document-updates
+- Revisit only for: lender closing instructions, Fannie correction or extension, borrower-counsel issue, post-closing cure guidance, or evidence that commitments are delayed by document selection. Expire September 27 without a development.
+
 ## Societe Generale AI Savings Target
 - Last covered / verified development: 2026-09-21; Societe Generale's 2029 plan and related reporting put AI into a multi-year cost program with an Anthropic partnership and a roughly €500 million to €600 million savings target.
 - Last takeaway: A bank embedding AI in a cost target needs attribution controls that prove which internal workflow changed and which savings came from ordinary restructuring or platform work.
 - Source: https://www.societegenerale.com/
 - Revisit only for: disclosed measured workflow result, Anthropic implementation scope, IT-operations baseline, regulator comment, or financial update separating AI savings from broader cost reduction. Expire September 26 without a development.
 
+## Danske Bank / Mastercard Agentic Payment
+- Last covered / verified development: 2026-09-22; Mastercard and Danske Bank announced Denmark's first AI-agent payment using Mastercard Agent Pay for a consumer-authorized purchase.
+- Last takeaway: Agentic payments shift banking-AI controls from generated text to issuer signals, authorization boundaries, authentication and dispute proof.
+- Source: https://www.mastercard.com/news/europe/da-dk/nyhedsrum/pressemeddelelser/dk-dk/2026/mastercard-og-danske-bank-gennemforer-danmarks-forste-betaling-foretaget-af-en-ai-agent/
+- Revisit only for: named issuer volume, fraud/dispute metrics, consumer opt-in flow, regulator comment, production rollout date, or another bank disclosing live customer use. Expire September 27 without a development.
+
 ## U.S.-China AI Incident Notification Proposal
 - Last covered / verified development: 2026-09-21; AP reported Treasury Secretary Scott Bessent said the U.S. proposed a notification mechanism with China for AI incidents affecting national security.
 - Last takeaway: The frontier governance thread moved from private lab coordination risk toward a possible government-to-government incident channel.
 - Source: https://apnews.com/
 - Revisit only for: written U.S.-China mechanism, joint statement, defined incident scope, lab/cloud provider reporting duty, export-control change, or confirmation talks ended without a binding channel. Expire September 26 without a development.
+
+## Grok 4.7 Release
+- Last covered / verified development: 2026-09-22; SpaceXAI released Grok 4.7 with API availability, model-gateway access, a U.S. regional endpoint at a 10% premium, and a fast variant in limited channels at twice standard token rates.
+- Last takeaway: The relevant frontier question is cost per completed coding-agent task after access, region and reasoning-token behavior are included, not only launch benchmarks.
+- Source: https://x.ai/news/grok-4-7
+- Revisit only for: independent coding-agent evaluation, SpaceXAI model-card correction, pricing change, regional-endpoint compliance update, or customer evidence comparing task completion cost with Grok 4.6 or rival models. Expire September 27 without a development.
 
 ## Fed / Long-Yield Mortgage Test
 - Last covered / verified development: 2026-09-21; AP market context and early ETF signals kept the long-rate pressure story alive after last week's Fed hike, with the 10-year Treasury near 5%.
