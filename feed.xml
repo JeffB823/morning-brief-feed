@@ -27,6 +27,83 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Press Access, Columbus Reserves, Multifamily Loan Docs, and Agentic Payments - September 22, 2026</title>
+    <description>The September 22 Morning Brief covers a court order restoring White House access for several outlets, Columbus reserve-fund pressure, Fannie Mae&#x27;s multifamily loan-document effective date, Mastercard and Danske Bank&#x27;s AI-agent payment, SpaceXAI&#x27;s Grok 4.7 release, mixed market signals, and cool Columbus weather.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a judge puts several newsrooms back inside the White House access system, Columbus budget reserves become a real constraint, multifamily lenders hit a document-change date, and AI agents move from shopping demos toward bank-authenticated payments and pricier coding models.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, September 22nd, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with press access. AP reports a federal judge on Monday ordered the White House to restore credentials for reporters from CNN, Politico, The Hill and MS NOW while their lawsuit continues.</p>
+<p><span style="font-weight:bold">Co-host:</span> What changed from the earlier access fight?</p>
+<p><span style="font-weight:bold">Host:</span> The useful change is legal leverage. The outlets say the White House punished them over editorial choices after they declined to sign new rules for press-pool participation. The judge did not finish the whole case, but the temporary order moves those reporters back into the operating system while the First Amendment claim is tested.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why should a non-journalist care about which reporters get into a pool?</p>
+<p><span style="font-weight:bold">Host:</span> Because the pool is how information from small or restricted events reaches everyone else: taxpayers, markets, foreign governments and local stations. If access depends on agreeing to language the administration prefers, the risk is not only fewer reporters in a room. It is a public record shaped by compliance pressure before the questions are asked.</p>
+<p><span style="font-weight:bold">Host:</span> The uncertainty is where the government can set neutral logistics rules and where those rules become viewpoint discrimination. The next real marker is whether the White House appeals, rewrites the credential policy, or restores access while fighting the larger case.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the practical watch is not just press freedom as an abstraction. It is whether agencies, companies and voters can rely on contested events being covered by reporters who did not have to trade independence for entry.</p>
+<p><span style="font-weight:bold">Host:</span> There is also a timing point. Temporary access keeps the daily information channel open while the litigation runs, but it does not settle the rules for the next crisis, trip or closed-door event. That makes any written replacement policy more important than the day&#x27;s courtroom win.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, Axios reports Mayor Andrew Ginther&#x27;s 2026 budget plan would use 25 million dollars from the city&#x27;s rainy-day fund to help balance operations, after several years of strong reserves.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is that a fiscal emergency or a warning light?</p>
+<p><span style="font-weight:bold">Host:</span> More like a warning light. The city has treated reserves as a strength, but using them for recurring operations changes the question for council. One-time reserves can smooth a budget year; they do not fix a structural gap if payroll, safety, housing, infrastructure and service costs keep rising faster than revenue.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should a Columbus resident listen for in budget hearings?</p>
+<p><span style="font-weight:bold">Host:</span> Listen for whether officials pair the reserve draw with durable choices: hiring pace, overtime, capital timing, fees, service levels, or revenue assumptions. A reserve transfer by itself can make the spreadsheet work while postponing the harder decision about what the city can sustain in 2027.</p>
+<p><span style="font-weight:bold">Co-host:</span> That matters locally because the same household can want faster police response, better roads, affordable housing and lower fees. The budget makes those preferences collide.</p>
+<p><span style="font-weight:bold">Host:</span> Right. The near-term consequence is scrutiny. Council members, neighborhood leaders and bond-watchers will want to know how much reserve remains, whether the draw is truly temporary, and what trigger would stop the city from coming back to that account next year.</p>
+<p><span style="font-weight:bold">Co-host:</span> It also changes how residents should hear new project promises. If a proposal depends on operating dollars, the question is no longer just whether the project sounds good. It is whether the city is paying for today&#x27;s service level with yesterday&#x27;s cushion.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is in multifamily loan closing files. Fannie Mae&#x27;s Multifamily Lender Letter 25-12 says updated loan documents apply to new Fannie Mae multifamily commitments issued on or after today, September 22.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is commercial lending, not a consumer rate headline. Why put it in this beat?</p>
+<p><span style="font-weight:bold">Host:</span> Because multifamily finance affects rental supply, agency execution and lender closing operations. The affected workflow is not pricing a 30-year homeowner quote; it is legal-document selection, commitment review, counsel coordination and closing checklists for apartment loans going to Fannie Mae.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can go wrong if a lender treats it like a paperwork refresh?</p>
+<p><span style="font-weight:bold">Host:</span> The risk is using the wrong document set for a commitment date, or missing borrower, property, insurance, reserve or servicing language that counsel expects in the new package. Even small document mismatches can slow a closing, create post-closing cures, or force legal review when the borrower expected a clean execution.</p>
+<p><span style="font-weight:bold">Host:</span> The useful consequence is timing discipline. Deals committed before today may follow one document path, while new commitments should be checked against the updated forms before closing packages go out. Multifamily lenders need a date gate in their pipeline, not just a memo in a policy folder.</p>
+<p><span style="font-weight:bold">Co-host:</span> And for apartment owners, the issue is not whether a form changed on a website. It is whether the lender can still close on schedule when agency documents, borrower counsel and investor delivery all need to line up.</p>
+<p><span style="font-weight:bold">Host:</span> This is also why I am treating it as an operations story instead of a rates story. A multifamily borrower can negotiate proceeds, rate locks and third-party reports carefully and still lose time if the closing package is built on the wrong side of the effective date.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Danske Bank and Mastercard to the deployment ledger. The lane is payments and consumer authorization. Mastercard says the two companies completed Denmark&#x27;s first payment made by an AI agent on behalf of a consumer.</p>
+<p><span style="font-weight:bold">Co-host:</span> What actually happened?</p>
+<p><span style="font-weight:bold">Host:</span> The consumer asked an AI agent to book a coffee tasting through Mastercard&#x27;s Priceless.com platform. The agent selected and bought the experience using a Mastercard issued by Danske Bank, with PayOS handling the transaction flow and Mastercard Agent Pay supplying the payment framework.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is there a disclosed performance metric?</p>
+<p><span style="font-weight:bold">Host:</span> None for adoption, error rate, fraud, dispute volume or abandoned purchases. The evidence rank is company claim supported by trade reporting. What changed in the ledger is not a proven business result; it is a bank-integrated demonstration where the agent reaches the payment step under consumer consent.</p>
+<p><span style="font-weight:bold">Host:</span> The large-bank decision this changes is card controls. If agents can initiate purchases, issuers need clearer signals about who authorized the agent, what spending boundary applied, what merchant data the agent saw, and when the customer confirmed the final transaction.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is different from a chatbot answering a balance question. This touches money movement, chargebacks, authentication and customer service scripts after something goes wrong.</p>
+<p><span style="font-weight:bold">Host:</span> The limitation that matters is reversibility and proof. A bank can tolerate an agent recommending the wrong coffee tasting. It needs much stronger evidence before an agent can handle higher-dollar travel, subscriptions, bill payment or recurring purchases where mistaken authority becomes a loss or conduct issue.</p>
+<p><span style="font-weight:bold">Co-host:</span> The unanswered customer question is plain: did I approve the idea, the merchant, the amount, or the exact transaction? Banks will need that distinction before agentic commerce moves from controlled examples to everyday spending.</p>
+<p><span style="font-weight:bold">Host:</span> That is the control story. A card issuer can block, approve or challenge a transaction only if the data coming through the network tells it something useful about the agent&#x27;s mandate. Otherwise the dispute center inherits the ambiguity after the money has moved.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, SpaceXAI released Grok 4.7 on Monday, with docs saying the model is now available on the xAI API and supports a U.S. regional endpoint at a 10 percent price premium.</p>
+<p><span style="font-weight:bold">Co-host:</span> What bar does that clear besides another model launch?</p>
+<p><span style="font-weight:bold">Host:</span> Price, access and agentic coding capability. SpaceXAI says Grok 4.7 is a larger model than 4.6, trained for longer-running coding and knowledge-work tasks, and served at the same standard token rates as 4.6. The fast variant costs twice standard rates and is limited to Cursor and Grok Build.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured and what is claimed?</p>
+<p><span style="font-weight:bold">Host:</span> The release reports benchmark gains from SpaceXAI, so those are lab-reported, not independent replication. The checkable workflow change is access: a new API model, model-gateway availability, and an optional U.S.-only endpoint. The unresolved tradeoff is cost per completed task if 4.7 uses more reasoning steps or tokens than 4.6 in real coding work.</p>
+<p><span style="font-weight:bold">Host:</span> The disruption point is vendor routing. Teams that buy coding-agent capacity now compare not just score, but regional inference, encrypted reasoning support, fast-mode pricing and whether the model can finish long tasks without burning the budget.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the bank bridge?</p>
+<p><span style="font-weight:bold">Host:</span> The earliest bank use is controlled developer-tool testing on non-sensitive repositories, gated by model-risk review, code-security scanning and approval of the regional endpoint before regulated data enters the workflow.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the interesting buyer test is a completed pull request, not a launch chart. If a model is cheaper per token but wanders, retries or overthinks, the real bill can still rise.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets are mixed rather than calm. Early ETF screens showed QQQ modestly higher while SPY was little changed, and TLT was still the pressure point for borrowers watching long rates.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the signal is still tech resilience against financing strain.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. The market can like AI-linked growth and still punish rate-sensitive parts of the economy if long bonds do not improve. For lenders, builders and small businesses, the useful screen is whether TLT stabilizes enough to suggest long yields are easing, not whether one growth index can hold up.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would change the tone today?</p>
+<p><span style="font-weight:bold">Host:</span> A broader stock bid, lower long yields and calmer oil would suggest markets are pricing a softer landing after last week&#x27;s Fed move. If the Nasdaq leads alone while bonds sag, the financing squeeze stays in the foreground.</p>
+<p><span style="font-weight:bold">Co-host:</span> For mortgage desks, that means the market watch is still practical. A borrower does not close on an index headline; the file closes on the rate sheet, the lock window and whether bond-market relief lasts long enough to matter.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus stays cool and gray. The National Weather Service forecast for the Ohio State University Airport area calls for cloudy skies today, a high near 67, and northeast wind around 9 to 11 miles per hour.</p>
+<p><span style="font-weight:bold">Co-host:</span> Any commute risk?</p>
+<p><span style="font-weight:bold">Host:</span> Less storm risk than yesterday, but still a damp pattern. Tonight brings a 50 percent shower chance mainly after midnight, and Wednesday has showers likely with a high near 65. Keep the rain gear handy and expect fields, job sites and low spots to dry slowly.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: whether the White House appeals or rewrites its credential rules; whether Columbus pairs the reserve draw with recurring budget choices; and whether Grok 4.7&#x27;s real coding cost matches the launch pricing story.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the pressure points: access rules, city budget discipline and measured model economics.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Tuesday, September 22nd. Have a good morning, and let the fresh evidence do the steering.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-22_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-22_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-22_morning-brief.mp3" length="12586024" type="audio/mpeg"/>
+    <pubDate>Tue, 22 Sep 2026 06:28:15 -0400</pubDate>
+    <itunes:duration>00:13:04</itunes:duration>
+    <itunes:episode>20260922</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-09-22</guid>
+  </item>
+  <item>
     <title>Morning Brief — ICE Shooting, Grove City Consent, UAD Appraisals, and AI Incident Alerts - September 21, 2026</title>
     <description>The September 21 Morning Brief covers an ICE-agent shooting in Austin and transparency pressure; Grove City&#x27;s Issue 28 development-consent debate; Freddie Mac&#x27;s approaching UAD 3.6 appraisal mandate; Societe Generale&#x27;s AI savings target and Anthropic partnership; a proposed U.S.-China AI incident notification mechanism; mixed premarket ETF signals; and cool, wet Columbus weather.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -776,65 +853,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-12</guid>
   </item>
   <item>
-    <title>Morning Brief — Morning Brief for Friday, September 11, 2026</title>
-    <description>Today&#x27;s brief leads with August consumer inflation rising faster than yesterday&#x27;s wholesale relief suggested, and what that does to the Fed, households, mortgage desks, and markets. Columbus gets a local-control story as Ohio&#x27;s higher referendum threshold changes the math for development fights. Home lending turns to Fannie Mae&#x27;s immediate VantageScore 4.0 availability, with workflow consequences for credit ordering, pricing, delivery data, and manual underwriting. In AI, Truist&#x27;s call-summary r</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: hotter consumer inflation complicates the Fed setup, Ohio just made local referendums much harder, mortgage lenders can start using VantageScore 4.0 broadly at Fannie Mae, and Anthropic&#x27;s newest misuse report turns frontier AI safety into a post-market monitoring story.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. It is Friday, September 11th, 2026, and this is your Morning Brief.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start with the inflation whiplash. The Bureau of Labor Statistics said this morning that the Consumer Price Index rose 0.4 percent in August after rising 0.1 percent in July. Over twelve months, all-items inflation was 3.4 percent. Core CPI, excluding food and energy, rose 0.3 percent in August and 2.4 percent over the year.</p>
-<p><span style="font-weight:bold">Co-host:</span> That lands one day after producer prices looked softer. Which one should people treat as the better signal?</p>
-<p><span style="font-weight:bold">Host:</span> Treat them as different parts of the pipeline. Yesterday&#x27;s producer-price report said wholesale final demand rose 0.4 percent in August, with goods up 1.1 percent and services up 0.1 percent. Today&#x27;s CPI says the consumer side still felt pressure, especially where gasoline and monthly household costs show through faster.</p>
-<p><span style="font-weight:bold">Host:</span> That makes the September fifteenth and sixteenth Fed meeting harder to simplify. A clean soft-inflation story would have pushed yields lower and helped borrowers. Instead, officials now have a cooler services-input signal, a hotter consumer print, August payroll growth of 162,000, unemployment still at 4.1 percent, and oil rising again this morning.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the question is not whether inflation is solved. It is which pressure the Fed thinks is most persistent.</p>
-<p><span style="font-weight:bold">Host:</span> Right. If gasoline explains much of the monthly jump, the committee may look through some of it. If shelter, services, or expectations firm up, rate relief becomes harder to justify. For households, the immediate issue is budget friction: pay gains have to cover fuel, rent, food, insurance, and loan payments before discretionary spending improves.</p>
-<p><span style="font-weight:bold">Co-host:</span> And for businesses, this is where planning gets awkward. If customers feel squeezed but input costs are not clearly falling, companies have to choose between protecting margin, offering discounts, or slowing hiring.</p>
-<p><span style="font-weight:bold">Host:</span> The useful watch is Treasury reaction. A hotter CPI can pull long yields up even before the Fed speaks, and that affects mortgage quotes, equity valuations, credit spreads, and company financing plans.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Central Ohio, the fresh civic story is Ohio&#x27;s referendum math. Axios Columbus reports the new state budget raised the signature requirement for many local referendums from 10 percent to 35 percent of voters in the last gubernatorial election. That matters now because Worthington residents are trying to challenge a redevelopment plan.</p>
-<p><span style="font-weight:bold">Co-host:</span> This sounds procedural, but it changes leverage. Who actually feels the difference?</p>
-<p><span style="font-weight:bold">Host:</span> Residents trying to stop or force reconsideration of a local development decision feel it first. So do city councils, planning commissions, developers, school districts, and neighbors who worry about traffic, density, utilities, or tax-base promises. In a city without its own charter referendum rule, the state threshold can turn a door that was difficult into one that is almost closed.</p>
-<p><span style="font-weight:bold">Host:</span> The Central Ohio angle is bigger than Worthington. The region is already arguing over housing supply, data centers, school sites, road capacity, water, and neighborhood character. When the referendum threshold rises, opponents may shift from repeal campaigns to charter amendments, lawsuits, election challenges, or pressure before council votes happen.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does that make development easier, or does it just move the fight earlier?</p>
-<p><span style="font-weight:bold">Host:</span> Both are possible. Developers may get more certainty after approval, which can help financing and construction schedules. But residents who feel locked out may organize sooner and harder, especially if they believe a project meets regional goals while ignoring neighborhood costs. The next signal is whether lawmakers advance a separate proposal to lower the threshold to 20 percent, and whether Central Ohio cities write their own local rules.</p>
-<p><span style="font-weight:bold">Co-host:</span> For a listener, the practical move is earlier attention. By the time signatures are being gathered, the real leverage may already have passed through zoning notices, planning meetings, traffic studies, and council hearings.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is not a rate quote. Fannie Mae&#x27;s September ninth lender letter says VantageScore 4.0 is now broadly available to all Fannie Mae-approved lenders, effective immediately. Lenders may originate and deliver eligible loans using VantageScore 4.0 without prior written approval.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changes in the loan file, not just the policy headline?</p>
-<p><span style="font-weight:bold">Host:</span> Credit ordering, automated underwriting, pricing, and delivery data all change. Fannie says Desktop Underwriter version 12.1 now permits credit reports using VantageScore 4.0 for all DU casefiles. If a lender chooses that model, it must request VantageScore 4.0 from each of the three repositories, use the same score model for all borrowers on the loan, retain the report in the file, and deliver Special Feature Code 067.</p>
-<p><span style="font-weight:bold">Host:</span> There are important limits. Lenders that are not ready can keep using eligible Classic FICO models. Manual underwriting still uses Classic FICO. FICO Score 10T is not currently eligible for delivery. And Fannie says the Selling Guide will be updated later, so compliance teams still have a bridge period between the letter and full guide text.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does this matter before a borrower ever hears the phrase VantageScore?</p>
-<p><span style="font-weight:bold">Host:</span> Because the first risk is operational inconsistency. A lender cannot let one channel order Classic FICO, another order VantageScore, and pricing or delivery staff discover the mismatch late. The opportunity is broader credit access and potentially better fit for some thin-file borrowers. The control is making sure loan officers, credit vendors, underwriting systems, LLPA tables, disclosure checks, and delivery edits all know which score model drove the decision.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also changes training. A loan officer needs to know whether a different score model actually changed eligibility, or whether the file still failed because income, assets, collateral, debt ratio, or manual-underwriting rules did not move.</p>
-<p><span style="font-weight:bold">Host:</span> Rate context stays brief: today&#x27;s hotter CPI and higher oil tone may keep daily mortgage pricing tense even though VantageScore changes eligibility plumbing. Watch whether Freddie Mac posts matching operational detail, and whether lenders publish overlays before putting the new score model into ordinary production.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, the ledger change today is Truist in consumer servicing. Truist said this week that AI Call Summaries are deployed across its care centers to help teammates see key information from prior interactions and prepare follow-up conversations. The evidence rank is company claim, but it includes a real production metric: more than 36,000 hours saved from reduced manual note-taking.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is more concrete than a partner announcement. What is the baseline?</p>
-<p><span style="font-weight:bold">Host:</span> The baseline is the prior human note-taking workflow after customer calls. Truist has not disclosed error rates, audit defect rates, complaint outcomes, or customer satisfaction movement tied to the tool, so this is a productivity disclosure, not a full quality study. Still, for a large bank, call summaries touch staffing capacity, supervisor review, complaint reconstruction, and continuity between contacts.</p>
-<p><span style="font-weight:bold">Host:</span> The implementation point is narrow and useful. A contact-center summary tool succeeds only if the generated record is reliable enough for the next teammate, but not treated as a legally perfect transcript. The control that matters here is reviewability: supervisors need access to the underlying call and a way to correct summaries before they harden into the customer record.</p>
-<p><span style="font-weight:bold">Co-host:</span> Could a bank use that lesson outside servicing?</p>
-<p><span style="font-weight:bold">Host:</span> Yes, but only workflow by workflow. Relationship-manager notes, collections calls, mortgage servicing contacts, fraud interviews, and branch follow-ups each have different risk. The big-bank decision is whether call-summary tools become a standard productivity layer, and whether model-risk teams measure saved time together with downstream defects.</p>
-<p><span style="font-weight:bold">Co-host:</span> The better scorecard would pair time saved with reopened complaints, corrected notes, escalation accuracy, and whether the next employee understood the customer&#x27;s prior issue faster.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> At the frontier, Anthropic published a September misuse report covering disrupted activity from December 2025 through August 2026. It clears the safety-and-security bar, not because it is a new model release, but because it shows how misuse has evolved: more operations used AI for direct execution or orchestration, not just advice.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is new compared with the older fear that someone might ask a chatbot for bad instructions?</p>
-<p><span style="font-weight:bold">Host:</span> The workflow is the change. Reporting on the Anthropic document describes multi-agent frameworks coordinating reconnaissance, theft, exploitation, influence content, scams, biological misuse, weapons work, and illicit distillation. One reported supply-chain case involved malicious instructions in an evaluation sandbox and attempts to steal production API keys from AI companies. Anthropic says it disrupted the activity.</p>
-<p><span style="font-weight:bold">Host:</span> The measured evidence is still lab-reported threat intelligence. It is stronger than a vague warning, because it names categories, time period, and disruption practice. It is weaker than independent replication, because the public cannot rerun the cases. The limit is also important: reports say the newest Fable and Mythos class models were largely not involved, except an illicit distillation case, so this is not proof that every frontier release is equally misused.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should a regulated firm take from that without turning it into panic?</p>
-<p><span style="font-weight:bold">Host:</span> Treat agent security as supply-chain security. The earliest a bank should use similar agent frameworks on sensitive systems is after vendor security review proves sandbox isolation, key handling, logging, and incident reporting work under adversarial prompts. That is the bridge from frontier safety to regulated adoption.</p>
-<p><span style="font-weight:bold">Co-host:</span> The important difference is that a misuse report is not just a scary story. It is an operating signal: which tactics actually appeared, which controls caught them, and where vendors still need to disclose more.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets are digesting the CPI surprise as a rates-and-energy problem. Before the U.S. open, SPY was down about 0.6 percent, QQQ was down about 1.1 percent, DIA was down about 0.6 percent, and TLT was down about 1.1 percent. USO was up more than 5 percent, showing oil pressure stayed in the tape.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is not a clean risk-off move; it is inflation pressure hitting duration.</p>
-<p><span style="font-weight:bold">Host:</span> Right. Growth stocks, long bonds, and mortgage-sensitive names all dislike the same combination: hotter consumer prices, higher oil, and less obvious Fed relief. The challenge to that setup would be a reversal in energy or a bond-market view that August CPI was gasoline-heavy and temporary.</p>
-<p><span style="font-weight:bold">Co-host:</span> For ordinary investors, the tell is whether the selloff stays concentrated in rate-sensitive assets or broadens into cyclicals, banks, and small caps.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> For Columbus weather, plan around humidity and a weekend rain window. This morning has patchy fog in spots, then sun and clouds with a high near 82. Saturday brings clouds, humidity, and a couple of showers or a thunderstorm. Sunday turns warmer, near 86, with intervals of clouds and sun.</p>
-<p><span style="font-weight:bold">Co-host:</span> So Friday travel is mostly a visibility and humidity story, while Saturday outdoor plans need a backup.</p>
-<p><span style="font-weight:bold">Co-host:</span> If you have early soccer, errands, or a tailgate setup, check the latest radar before loading the car. The rain risk is not a washout guarantee, but it is enough to change timing.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items for the weekend. One, whether Treasury yields rise after CPI or fade the gasoline-heavy parts of the report. Two, whether lenders publish overlays or workflow notices for VantageScore 4.0 before using it at scale. Three, whether Anthropic-style misuse reporting becomes an expectation for other frontier labs.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Friday, September 11th. Have a good morning, and keep an eye on the operating details. That is where the headline turns into a decision.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Friday, September 11, 2026</title>
+    <description>Your Morning Brief for Friday, September 11, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-11_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-11_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-11_morning-brief.mp3" length="13348616" type="audio/mpeg"/>
@@ -1034,18 +1055,6 @@
     <itunes:duration>00:14:20</itunes:duration>
     <itunes:episode>20260823</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-08-23</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Saturday, August 22, 2026</title>
-    <description>Your Morning Brief for Saturday, August 22, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-08-22_morning-brief.mp3" length="14608941" type="audio/mpeg"/>
-    <pubDate>Sat, 22 Aug 2026 03:49:45 -0600</pubDate>
-    <itunes:duration>00:15:12</itunes:duration>
-    <itunes:episode>20260822</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-08-22</guid>
   </item>
 </channel>
 </rss>
