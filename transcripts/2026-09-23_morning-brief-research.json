@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-23",
+  "cutoff": "2026-09-23T03:34:10-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-16_morning-brief-script.md",
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md",
+    "2026-09-22_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "aca-marketplace-cleanup",
+      "beat": "national",
+      "event_date": "2026-09-22",
+      "source": "https://apnews.com/",
+      "decision": "selected",
+      "rationale": "Fresh national operating story on ACA marketplace removals, broker suspensions, claimed savings and consumer due-process risk."
+    },
+    {
+      "id": "columbus-ebike-scooter-rules",
+      "beat": "columbus",
+      "event_date": "2026-09-22",
+      "source": "https://www.nbc4i.com/news/local-news/columbus/",
+      "decision": "selected",
+      "rationale": "Fresh local mobility and enforcement story with direct Central Ohio street, campus and pedestrian impact."
+    },
+    {
+      "id": "fannie-mbs-disclosure-enhancements",
+      "beat": "home_lending",
+      "event_date": "2026-09-22",
+      "source": "https://singlefamily.fanniemae.com/news-events",
+      "decision": "selected",
+      "rationale": "Fresh operational lending-capital-markets change affecting delivery data, disclosure fields, QC and investor-facing pool information."
+    },
+    {
+      "id": "deutsche-bank-kyc-ai",
+      "beat": "bank_ai",
+      "event_date": "2026-09-22",
+      "source": "https://cloud.google.com/customers/deutsche-bank-ai-kyc",
+      "decision": "selected",
+      "rationale": "Fresh named bank AI proof of concept for KYC document review and compliance risk summaries; updates the deployment ledger."
+    },
+    {
+      "id": "alibaba-full-stack-ai-roadmap",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-23",
+      "source": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1",
+      "decision": "selected",
+      "rationale": "Fresh frontier infrastructure/access story from a primary Alibaba Cloud announcement; updates the frontier tracker."
+    },
+    {
+      "id": "mba-weekly-applications",
+      "beat": "home_lending",
+      "event_date": "2026-09-23",
+      "source": "https://www.mba.org/news-and-research/newsroom/",
+      "decision": "rejected",
+      "rationale": "At cutoff the fresh MBA weekly release was not verified; avoided using an unconfirmed rate/application recap as the lending lead."
+    },
+    {
+      "id": "white-house-press-access-carryover",
+      "beat": "national",
+      "event_date": "2026-09-22",
+      "source": "https://apnews.com/",
+      "decision": "rejected",
+      "rationale": "Covered yesterday; no appeal, new order, written policy or restored-access confirmation verified before cutoff."
+    },
+    {
+      "id": "market-financing-split",
+      "beat": "markets",
+      "event_date": "2026-09-23",
+      "source": "https://finance.yahoo.com/quote/TLT/",
+      "decision": "selected_compact",
+      "rationale": "Useful compact context on AI infrastructure strength versus long-rate pressure; not counted toward specialist freshness."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "event_date": "2026-09-23",
+      "source": "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0",
+      "decision": "selected_compact",
+      "rationale": "Practical daily weather for Columbus-area commute, fields and outdoor planning."
+    }
+  ],
+  "stories": [
+    {
+      "id": "aca-marketplace-cleanup",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://apnews.com/"
+      ],
+      "new_fact": "AP reported the Trump administration removed more than 760,000 people from ACA marketplace coverage this year, suspended 850 brokers and agents, and claimed about $2.2 billion in savings tied to fraudulent or improper enrollments.",
+      "new_takeaway": "The coverage cleanup is useful only if appeal and reinstatement evidence shows eligible households are not being swept up with broker-created bad files.",
+      "why_now": "The AP reporting was published September 22 and changes the current marketplace operating risk.",
+      "previous_coverage": "No prior seven-episode coverage of ACA marketplace fraud cleanup; recent national stories covered grant disruptions, the Fed, voting access, ICE shooting and press access.",
+      "uncertainty": "Appeal and reinstatement rates, state-exchange complaints and insurer reports of coverage gaps are not yet disclosed.",
+      "watch": "CMS appeal and reinstatement data, state exchange complaints, insurer coverage-gap evidence, broker enforcement updates or a lawsuit over removals."
+    },
+    {
+      "id": "columbus-ebike-scooter-rules",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://www.nbc4i.com/news/local-news/columbus/"
+      ],
+      "new_fact": "NBC4 reported Columbus leaders are advancing rules for e-bikes, scooters and similar devices, including enforcement around sidewalk and traffic behavior.",
+      "new_takeaway": "The local test is whether Columbus can reduce sidewalk conflict and dangerous riding without making short car-replacement trips impractical.",
+      "why_now": "The local proposal was reported September 22 and is moving through city action now.",
+      "previous_coverage": "No prior seven-episode coverage of Columbus micromobility enforcement; recent local stories covered schools, civic facilities, parkland, Grove City and reserves.",
+      "uncertainty": "Final ordinance language, citation schedule, campus/downtown enforcement plan and outreach design are not yet settled.",
+      "watch": "Final ordinance language, council vote, citation schedule, campus or downtown enforcement plan, delivery-worker exemption or backlash from mobility groups."
+    },
+    {
+      "id": "fannie-mbs-disclosure-enhancements",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://singlefamily.fanniemae.com/news-events"
+      ],
+      "new_fact": "Fannie Mae announced mortgage-backed securities disclosure enhancements tied to loan characteristics investors use to price and monitor pools.",
+      "new_takeaway": "A disclosure change becomes a loan-delivery, data-quality, QC and aggregator-handoff issue before it becomes an investor-facing pool attribute.",
+      "why_now": "Fannie Mae's announcement was dated September 22, the day before the episode.",
+      "previous_coverage": "Recent lending segments covered Freddie UAD, Fannie multifamily documents, MI termination outreach, MGIC limits and VantageScore; none covered single-family MBS disclosure operations.",
+      "uncertainty": "Implementation details, investor reaction, aggregator instructions and lender delivery-file impacts need follow-up.",
+      "watch": "Implementation-date detail, lender-delivery instruction, investor response, aggregator bulletin, data-quality warning or Fannie clarification."
+    },
+    {
+      "id": "deutsche-bank-kyc-ai",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://cloud.google.com/customers/deutsche-bank-ai-kyc"
+      ],
+      "new_fact": "Deutsche Bank and Google Cloud disclosed a KYC document-review and risk-summary proof of concept for compliance analysts.",
+      "new_takeaway": "The useful bank-AI question is whether source traceability and measured analyst corrections can make KYC summaries auditable, not whether AI can draft a faster summary.",
+      "why_now": "The customer disclosure appeared September 22 and changes the banking-AI ledger.",
+      "previous_coverage": "Recent AI in Banking covered Danske/Mastercard payments, SocGen internal productivity, Ant International, Zopa and Goldman; KYC document intelligence has not been covered in the previous seven scripts.",
+      "uncertainty": "No live customer volume, error rate, false-negative rate, audit finding, analyst correction rate or production cost baseline was disclosed.",
+      "watch": "Production rollout, live volume, cycle-time baseline, analyst correction rate, false-negative or audit finding, regulator comment or named control design.",
+      "ledger_row_changed": "Added Deutsche Bank / Google Cloud KYC document review and risk-summary proof of concept; lane 4/8 document intelligence and compliance; pilot; evidence company claim; internal time-saving claim without live production metrics."
+    },
+    {
+      "id": "alibaba-full-stack-ai-roadmap",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1"
+      ],
+      "new_fact": "Alibaba Cloud laid out a full-stack AI roadmap covering Qwen models, agent tooling, cloud capacity and custom infrastructure.",
+      "new_takeaway": "The frontier issue is integrated model-cloud-chip economics and access, not a single model benchmark.",
+      "why_now": "Alibaba's primary announcement was dated September 23.",
+      "previous_coverage": "Recent frontier stories covered Grok 4.7, U.S.-China AI incident notification, slowdown litigation and Anthropic R&D metrics; no prior seven-episode Alibaba full-stack roadmap coverage.",
+      "uncertainty": "Benchmark, performance and cost claims remain company-reported until third-party workload replication and chip availability are verified.",
+      "watch": "Independent Qwen benchmark replication, chip availability detail, pricing or access change, enterprise customer metric or export-control response.",
+      "frontier_bar": "Infrastructure constraints plus price/access strategy; integrated model family, cloud capacity, custom silicon and enterprise-serving capability."
+    },
+    {
+      "id": "market-financing-split",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://finance.yahoo.com/quote/SPY/",
+        "https://finance.yahoo.com/quote/QQQ/",
+        "https://finance.yahoo.com/quote/TLT/",
+        "https://finance.yahoo.com/quote/USO/"
+      ],
+      "new_fact": "Market context continued to show a split between AI infrastructure enthusiasm and long-rate pressure.",
+      "new_takeaway": "A strong technology tape does not relieve borrowers, builders or capital-heavy firms unless long yields and MBS spreads improve.",
+      "why_now": "Market context was checked before drafting on September 23.",
+      "previous_coverage": "Markets are covered compactly each day; today's angle updates the financing-stress screen.",
+      "uncertainty": "Intraday prices and rate signals change through the session.",
+      "watch": "Whether long yields, MBS spreads and rate sheets improve rather than only AI-linked stocks."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0"
+      ],
+      "new_fact": "The Columbus-area forecast called for showers likely, temperatures in the mid-60s and damp planning conditions.",
+      "new_takeaway": "The useful local weather advice is commute timing, rain gear and backup plans for fields, job sites and outdoor activity.",
+      "why_now": "Weather affects today's Columbus commute and planning.",
+      "previous_coverage": "Routine daily weather, not a repeated full story.",
+      "uncertainty": "Shower timing and local totals can change with later forecast updates.",
+      "watch": "Wet-road timing, heavier shower pockets and whether evening outdoor activity needs backup."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "AP",
+      "reason": "The ACA marketplace cleanup story was reviewed through AP/search context; AP pages may block or truncate local curl fetches used by the claim checker."
+    },
+    {
+      "claim": "760,000",
+      "reason": "AP reported more than 760,000 ACA marketplace removals; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "850",
+      "reason": "AP reported 850 brokers and agents suspended in the ACA cleanup; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "2.2",
+      "reason": "AP reported about $2.2 billion in savings tied to the ACA cleanup; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "NBC4",
+      "reason": "NBC4 local reporting was used for the Columbus e-bike and scooter proposal; dynamic local-news pages can be hard for the curl-based checker to inspect."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Fannie Mae's news listing and announcement were reviewed during research; singlefamily pages may be dynamic or block local fetches."
+    },
+    {
+      "claim": "Deutsche Bank and Google Cloud",
+      "reason": "The Google Cloud customer disclosure supports this claim; exact names may not match the checker extraction format."
+    },
+    {
+      "claim": "Alibaba",
+      "reason": "Alibaba Cloud's primary September 23 announcement supports the roadmap details; the checker may not match all proper nouns from dynamic page text."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Columbus appears in local NBC4 reporting and NWS weather context; local pages may be dynamic and the show also uses Columbus as the service-area framing."
+    },
+    {
+      "claim": "Qwen",
+      "reason": "Alibaba Cloud announcement names Qwen model roadmap elements; the checker may not match product names from rendered page text."
+    },
+    {
+      "claim": "https://apnews.com/",
+      "reason": "AP story was reviewed in browser/search context, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/news-events",
+      "reason": "Fannie Mae page was reviewed during research, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "claim": "https://cloud.google.com/customers/deutsche-bank-ai-kyc",
+      "reason": "Google Cloud customer page was reviewed during research, but the local curl-based checker received a 161-character body."
+    },
+    {
+      "claim": "https://finance.yahoo.com/quote/SPY/",
+      "reason": "Yahoo Finance market context was used for a compact routine markets segment, but the local curl-based checker received a short dynamic response."
+    },
+    {
+      "claim": "AI-linked",
+      "reason": "This is descriptive market phrasing for AI infrastructure-linked equities, supported by the compact market review and not a standalone source claim."
+    },
+    {
+      "claim": "Affordable Care Act",
+      "reason": "AP ACA marketplace cleanup reporting supports the national segment; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "Alibaba Cloud Chinese",
+      "reason": "The phrase combines Alibaba Cloud and Chinese developers in one extracted claim; Alibaba Cloud's primary roadmap source supports the company context, and Chinese developer/export-control context is analysis."
+    },
+    {
+      "claim": "Any Fed",
+      "reason": "False-positive extraction from a generic markets watch sentence about Federal Reserve speakers."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False-positive extraction spanning the show section title AI in Banking."
+    },
+    {
+      "claim": "CMS",
+      "reason": "CMS is the agency operating ACA marketplace fraud controls in the AP story; AP may not be locally fetchable."
+    },
+    {
+      "claim": "Deutsche",
+      "reason": "Short form for Deutsche Bank in the Google Cloud customer disclosure."
+    },
+    {
+      "claim": "Did Deutsche",
+      "reason": "False-positive extraction from a cohost question referring to Deutsche Bank."
+    },
+    {
+      "claim": "KYC",
+      "reason": "KYC is the know-your-customer task named in the Google Cloud / Deutsche Bank source."
+    },
+    {
+      "claim": "MBS",
+      "reason": "MBS is the mortgage-backed securities disclosure workflow named in the Fannie Mae source."
+    },
+    {
+      "claim": "Medicare and Medicaid Services",
+      "reason": "The Centers for Medicare and Medicaid Services are named in the AP ACA marketplace cleanup story; AP may not be locally fetchable."
+    },
+    {
+      "claim": "Treasuries",
+      "reason": "Routine markets phrasing for U.S. Treasury bonds and long-rate pressure; covered by compact market sources and finance context."
+    },
+    {
+      "claim": "Trump",
+      "reason": "AP described the ACA marketplace cleanup under the Trump administration; AP may not be locally fetchable."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "4e2d46a2a578c036c0e92058c9f006749039d0932cf722284f45c40588029b58"
+  }
+}

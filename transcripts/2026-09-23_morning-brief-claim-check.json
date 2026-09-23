@@ -1,0 +1,161 @@
+{
+  "script": "2026-09-23_morning-brief-script.md",
+  "script_sha256": "4e2d46a2a578c036c0e92058c9f006749039d0932cf722284f45c40588029b58",
+  "checked_at": "2026-09-23T06:24:00-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.nbc4i.com/news/local-news/columbus/",
+      "characters": 8343
+    },
+    {
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1",
+      "characters": 12901
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/SPY/",
+      "characters": 12923
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/QQQ/",
+      "characters": 13051
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/TLT/",
+      "characters": 12710
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/USO/",
+      "characters": 10889
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?FcstType=text&TextType=1&lat=40.0795&lg=english&lon=-83.0732&unit=0",
+      "characters": 2637
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/",
+      "error": "page body was only 16 characters",
+      "reason": "AP story was reviewed in browser/search context, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae page was reviewed during research, but the local curl-based checker received a 16-character body."
+    },
+    {
+      "url": "https://cloud.google.com/customers/deutsche-bank-ai-kyc",
+      "error": "page body was only 161 characters",
+      "reason": "Google Cloud customer page was reviewed during research, but the local curl-based checker received a 161-character body."
+    }
+  ],
+  "claims_checked": 29,
+  "claims_supported": 12,
+  "claims_excepted": [
+    {
+      "claim": "2.2",
+      "kind": "number",
+      "example": "The Centers for Medicare and Medicaid Services also suspended 850 brokers and agents, and says the fraud controls have produced about 2.2 billion dollars in savings.",
+      "reason": "AP reported about $2.2 billion in savings tied to the ACA cleanup; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "760000",
+      "kind": "number",
+      "example": "AP reports the Trump administration has removed more than 760000 people from ACA coverage this year as part of a cleanup aimed at fraudulent or improper enrollments.",
+      "reason": "AP reported more than 760,000 ACA marketplace removals; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "850",
+      "kind": "number",
+      "example": "The Centers for Medicare and Medicaid Services also suspended 850 brokers and agents, and says the fraud controls have produced about 2.2 billion dollars in savings.",
+      "reason": "AP reported 850 brokers and agents suspended in the ACA cleanup; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "For mortgage desks and builders, the useful screen is whether long yields and MBS spreads improve enough to move actual rate sheets, not whether one AI-linked group gets another bid.",
+      "reason": "This is descriptive market phrasing for AI infrastructure-linked equities, supported by the compact market review and not a standalone source claim."
+    },
+    {
+      "claim": "Affordable Care Act",
+      "kind": "name",
+      "example": "Start nationally with the Affordable Care Act marketplace, because the new development is operational, not rhetorical.",
+      "reason": "AP ACA marketplace cleanup reporting supports the national segment; AP may not be locally fetchable by the checker."
+    },
+    {
+      "claim": "Any Fed",
+      "kind": "name",
+      "example": "Any Fed speaker who sounds less worried about inflation, a calmer oil tape, or a broader bond rally would help the rate-sensitive side.",
+      "reason": "False-positive extraction from a generic markets watch sentence about Federal Reserve speakers."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Deutsche Bank and Google Cloud to the deployment ledger.",
+      "reason": "False-positive extraction spanning the show section title AI in Banking."
+    },
+    {
+      "claim": "CMS",
+      "kind": "name",
+      "example": "If CMS can show removals are concentrated in broker-created accounts with low reinstatement rates, the cleanup looks more credible.",
+      "reason": "CMS is the agency operating ACA marketplace fraud controls in the AP story; AP may not be locally fetchable."
+    },
+    {
+      "claim": "Deutsche",
+      "kind": "name",
+      "example": "Deutsche says an AI proof of concept reviewed know-your-customer documents and generated risk summaries for human teams.",
+      "reason": "Short form for Deutsche Bank in the Google Cloud customer disclosure."
+    },
+    {
+      "claim": "Deutsche Bank and Google Cloud",
+      "kind": "name",
+      "example": "For AI in Banking, I added Deutsche Bank and Google Cloud to the deployment ledger.",
+      "reason": "The Google Cloud customer disclosure supports this claim; exact names may not match the checker extraction format."
+    },
+    {
+      "claim": "Did Deutsche",
+      "kind": "name",
+      "example": "Did Deutsche disclose a measured result?",
+      "reason": "False-positive extraction from a cohost question referring to Deutsche Bank."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today: health-insurance fraud controls start removing hundreds of thousands of marketplace enrollees, Columbus prepares a street-level e-bike crackdown, Fannie Mae changes a secondary-market disclosure workflow, and bank AI gets a more concrete KYC test while Alibaba raises the frontier infrastructure bar.",
+      "reason": "Fannie Mae's news listing and announcement were reviewed during research; singlefamily pages may be dynamic or block local fetches."
+    },
+    {
+      "claim": "KYC",
+      "kind": "name",
+      "example": "Today: health-insurance fraud controls start removing hundreds of thousands of marketplace enrollees, Columbus prepares a street-level e-bike crackdown, Fannie Mae changes a secondary-market disclosure workflow, and bank AI gets a more concrete KYC test while Alibaba raises the frontier infrastructure bar.",
+      "reason": "KYC is the know-your-customer task named in the Google Cloud / Deutsche Bank source."
+    },
+    {
+      "claim": "MBS",
+      "kind": "name",
+      "example": "MBS investors price cash flows and risk from the data they trust.",
+      "reason": "MBS is the mortgage-backed securities disclosure workflow named in the Fannie Mae source."
+    },
+    {
+      "claim": "Medicare and Medicaid Services",
+      "kind": "name",
+      "example": "The Centers for Medicare and Medicaid Services also suspended 850 brokers and agents, and says the fraud controls have produced about 2.2 billion dollars in savings.",
+      "reason": "The Centers for Medicare and Medicaid Services are named in the AP ACA marketplace cleanup story; AP may not be locally fetchable."
+    },
+    {
+      "claim": "Treasuries",
+      "kind": "name",
+      "example": "A strong tech tape can coexist with pressure on borrowers if Treasuries do not rally.",
+      "reason": "Routine markets phrasing for U.S. Treasury bonds and long-rate pressure; covered by compact market sources and finance context."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "AP reports the Trump administration has removed more than 760000 people from ACA coverage this year as part of a cleanup aimed at fraudulent or improper enrollments.",
+      "reason": "AP described the ACA marketplace cleanup under the Trump administration; AP may not be locally fetchable."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
