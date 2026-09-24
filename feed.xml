@@ -27,6 +27,81 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — China Summit, Snow Crews, ARM Share, and AI Cost Moves - September 24, 2026</title>
+    <description>The September 24 Morning Brief covers the Trump-Xi summit and extended trade truce, Franklin County winter road prep, MBA&#x27;s higher ARM share as fixed rates hit 7.12 percent, Paywhere&#x27;s AI banking channel, OpenAI and Anthropic model-cost moves, compact markets, and a clearer Columbus forecast.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a White House summit turns AI chips and tariffs into a live operating risk, Franklin County starts winter road prep before the first freeze, mortgage desks see borrowers leaning harder on ARMs, and AI model pricing gets practical enough to change pilot budgets.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Thursday, September 24th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with the Trump and Xi meeting at the White House today, because the fresh development is a negotiation clock. AP reports the two sides agreed Wednesday to extend a one-year trade truce, now set to expire November 10, by two more months.</p>
+<p><span style="font-weight:bold">Co-host:</span> So what changes this morning if the leaders have not signed a larger deal yet?</p>
+<p><span style="font-weight:bold">Host:</span> The leverage map becomes clearer. China wants looser restrictions on advanced chips and a permanent halt to arms sales to Taiwan. The Trump administration wants China to pressure Iran toward U.S. terms in the war and wants room to protect strategic technology without triggering broader economic disruption.</p>
+<p><span style="font-weight:bold">Co-host:</span> That makes this more than a tariff story. It touches chips, oil diplomacy, Taiwan risk and inflation at the same time.</p>
+<p><span style="font-weight:bold">Host:</span> Right. The consequence is planning uncertainty. Importers get a short runway, chip buyers wait for export-control language, and markets listen for whether the truce extension is a bridge to an agreement or just another delay before the November deadline.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should businesses watch after the photo-op?</p>
+<p><span style="font-weight:bold">Host:</span> Watch written commitments, not tone. A durable result would name affected goods, chip categories, rare-earth handling, Iran pressure, or Taiwan guardrails. If the meeting produces only cordial language, procurement and compliance teams still have to plan around a deadline that moved but did not disappear.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the two-month extension can cut both ways. It lowers immediate disruption, but it also keeps companies from knowing whether to rebuild supplier contracts, reroute compliance reviews or keep inventory buffers higher than usual.</p>
+<p><span style="font-weight:bold">Host:</span> There is a second national thread, but it stays compact because the show carried it this week. A federal judge ordered CNN, MS NOW and Politico access restored early today for 14 days after the White House ban. The useful new fact is temporary relief, not final law.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Central Ohio, the local operating story is winter readiness arriving while the forecast still looks mild. NBC4 reports the Franklin County Engineer&#x27;s Office held its annual snow-fighters roadeo Wednesday, with plow drivers doing classroom training, skills tests and an obstacle course.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why cover snow training in September instead of waiting for the first storm?</p>
+<p><span style="font-weight:bold">Host:</span> Because the first storm is too late to discover a training gap. The county has to clear roads quickly with large equipment, rotating crews and changing pavement conditions. Practicing before winter lowers the chance that the first messy commute becomes the training exercise.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is there anything new beyond the annual ritual?</p>
+<p><span style="font-weight:bold">Host:</span> The report says new tools were added this year, and the broader point is operational. Franklin County is preparing drivers, equipment checks and route discipline before salt demand, staffing gaps or sudden weather compete for attention.</p>
+<p><span style="font-weight:bold">Co-host:</span> For residents, the test is whether preparation shows up as response time. People do not care how good the obstacle course looked if bridge decks ice up or side roads wait too long.</p>
+<p><span style="font-weight:bold">Host:</span> That is the right test. Watch whether the engineer&#x27;s office publishes route priorities, staffing updates or salt inventory before the first advisory-level storm. Early prep only matters if it turns into clearer expectations for drivers, schools, job sites and emergency vehicles.</p>
+<p><span style="font-weight:bold">Co-host:</span> It also gives local employers a planning cue. Warehouse shifts, school transportation and home health visits all depend on whether county roads are passable before neighborhood streets are perfect, so route priority is a workforce issue too.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, today&#x27;s operational change is ARM counseling, not another generic rate recap. MBA says mortgage applications fell 1.5 percent for the week ending September 18, while the average conforming 30-year fixed rate in its survey reached 7.12 percent.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which loan workflow is affected?</p>
+<p><span style="font-weight:bold">Host:</span> Purchase and refinance files where the fixed-rate payment no longer fits. MBA says the ARM share rose to 9.8 percent of applications because 5/1 ARM rates were more than one percentage point below fixed rates. That changes how loan officers explain payment risk, qualification and lock strategy.</p>
+<p><span style="font-weight:bold">Co-host:</span> A lower ARM payment can help a borrower qualify, but what has to be handled carefully?</p>
+<p><span style="font-weight:bold">Host:</span> The borrower needs a clear comparison: initial payment, adjustment date, caps, index, margin, worst-case reset path and whether the household could still afford the loan if rates are higher when the fixed period ends. The operational workflow is suitability, disclosure, secondary pricing and follow-up, not just quoting a cheaper monthly number.</p>
+<p><span style="font-weight:bold">Co-host:</span> And refinance demand tells the same story from the other side?</p>
+<p><span style="font-weight:bold">Host:</span> Yes. MBA says refinance applications fell 3 percent for the week and hit their slowest pace since February 2025. That means lenders cannot rely on refi volume to fill capacity. The useful consequence is pipeline triage: purchase files with payment stress get reviewed first, and ARM education has to happen before a borrower mistakes a temporary payment advantage for permanent affordability.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would change the takeaway?</p>
+<p><span style="font-weight:bold">Host:</span> If long yields ease and fixed rates come down, the ARM share could cool quickly. If fixed quotes stay above 7 percent, lenders should expect more borrowers to ask for ARM options, builder buydowns and seller credits in the same conversation.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Paywhere to the deployment ledger. The lane is consumer and small-business servicing, with a compliance angle. Paywhere says its programmable banking platform is commercially available so banks and credit unions can serve customers inside assistants such as ChatGPT, Claude and Copilot.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is this a bank deployment or a vendor asking banks to connect?</p>
+<p><span style="font-weight:bold">Host:</span> It is an announced vendor platform, so the evidence rank is company claim. No named bank customer, live transaction volume, completion rate, error rate or fraud metric was disclosed. That is why the ledger status is announced, not production.</p>
+<p><span style="font-weight:bold">Co-host:</span> Then why does it matter to a bank executive?</p>
+<p><span style="font-weight:bold">Host:</span> Because the task is specific. Paywhere is trying to make the bank the secure channel when customers conduct financial work inside AI tools they already use. At a large bank, that changes channel strategy and consent design: who authenticates the customer, what the assistant is allowed to see, and where the final banking instruction is recorded.</p>
+<p><span style="font-weight:bold">Co-host:</span> The control problem is not just a chatbot answer. It is whether an outside assistant can become the doorway to balances, invoices, payments or business cash-flow tasks.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. The one limitation that matters is mandate proof. A bank needs a durable record of what the customer allowed, what data left the bank, and what action was confirmed. The next proof point is a named financial institution disclosing a live use case with task completion and exception rates.</p>
+<p><span style="font-weight:bold">Co-host:</span> That missing customer name matters. A vendor can describe architecture, but a bank buyer needs to see how support teams handle lockouts, mistaken instructions, disputed payments and customers who blame the bank when the assistant misunderstood the task.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, the fresh move is cost and access more than a single model trophy. OpenAI&#x27;s API changelog says GPT-6 Sol and GPT-6 Luna were released on September 22 for Responses and Chat Completions, with Sol priced at 2 dollars per million input tokens and 10 dollars per million output tokens, and Luna at 10 cents input and 50 cents output.</p>
+<p><span style="font-weight:bold">Co-host:</span> What bar does that clear for frontier coverage?</p>
+<p><span style="font-weight:bold">Host:</span> Price and access shift. OpenAI also says the models accept text and image inputs, and its Work and Codex documentation says they sit inside ChatGPT Work and Codex rather than ordinary ChatGPT conversations. That changes which enterprise workflows can test them first.</p>
+<p><span style="font-weight:bold">Co-host:</span> And Anthropic moved the same week.</p>
+<p><span style="font-weight:bold">Host:</span> Anthropic introduced Claude Opus 5.5 on September 22, saying it performs at the level of Claude Fable 5.1 on most work while costing 40 percent less to run than Opus 5. Anthropic also says external evaluators, including Frontier Design and METR, tested it before release.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> The prices and access routes are checkable product facts. The performance comparisons are lab-reported unless an outside evaluator publishes task-level results. The tradeoff is that cheaper tokens do not prove cheaper completed work if a model retries, overuses tools or needs more review.</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is controlled software, document or analyst pilots on non-sensitive data, gated by vendor-risk approval, model-access policy and a cost-per-completed-task benchmark before production data enters the workflow.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets are watching the summit and the rate channel more than a clean index story. The risk-on case is simple: a longer U.S.-China truce, calmer oil and cheaper AI capacity would support technology spending and supply-chain confidence.</p>
+<p><span style="font-weight:bold">Co-host:</span> The risk-off case is just as practical: if export controls, Iran pressure or Taiwan language harden, companies may have to price a larger geopolitical premium.</p>
+<p><span style="font-weight:bold">Host:</span> For housing and credit, the bond side still matters most. MBA data showed the conforming 30-year application rate at 7.12 percent, so a stock rally alone does not help borrowers unless Treasuries and mortgage-backed securities also improve.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the useful market screen today is whether optimism reaches financing conditions.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Watch long yields, oil and chip-linked names after any summit statement. A broad relief move would help the rate-sensitive economy. A narrow AI bid with sticky long rates would keep the same split we have been living with all week.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus finally gets a cleaner planning day. The National Weather Service forecast for the Ohio State University Airport area calls for clouds early, then gradual clearing, with a high near 69 and east wind around 9 miles per hour.</p>
+<p><span style="font-weight:bold">Co-host:</span> So yesterday&#x27;s wet pattern backs off?</p>
+<p><span style="font-weight:bold">Host:</span> Mostly. Tonight looks clear, with a low near 45. Friday is mostly sunny with a high near 69, and Saturday is sunny near 72. Fields and job sites may still need drying time, but the main planning move is layers for a cool start and better outdoor windows by afternoon.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: the written outcome from today&#x27;s Trump and Xi summit, especially chips and the November trade-truce clock; whether lenders see ARM demand keep rising after MBA&#x27;s 9.8 percent share; and whether OpenAI or Anthropic users publish real cost-per-completed-task results from the September 22 model releases.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the useful triggers: policy language, borrower behavior and whether cheaper model access lowers the whole job cost.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Thursday, September 24th. Have a good morning, and keep the next decision tied to the fact that actually moved.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-24_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-24_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-24_morning-brief.mp3" length="12337534" type="audio/mpeg"/>
+    <pubDate>Thu, 24 Sep 2026 06:26:56 -0400</pubDate>
+    <itunes:duration>00:12:49</itunes:duration>
+    <itunes:episode>20260924</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-09-24</guid>
+  </item>
+  <item>
     <title>Morning Brief — ACA Cleanup, E-Bike Rules, MBS Disclosure, and Bank KYC AI - September 23, 2026</title>
     <description>The September 23 Morning Brief covers ACA marketplace removals tied to broker fraud controls, Columbus e-bike and scooter enforcement, Fannie Mae MBS disclosure changes, Deutsche Bank&#x27;s KYC AI proof of concept, Alibaba&#x27;s frontier AI roadmap, mixed markets, and a wet Central Ohio forecast.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -789,72 +864,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-14</guid>
   </item>
   <item>
-    <title>Morning Brief — Morning Brief for Sunday, September 13, 2026</title>
-    <description>Today&#x27;s brief leads with a federal ruling against FEMA staffing cuts and what that means for disaster readiness. It also covers a Strait of Hormuz ship strike, Trump&#x27;s proposed $5,000 dividend running into Congress, Ohio State&#x27;s chalking-ban fight, mortgage rates moving back above seven percent, Rogo&#x27;s bank-backed AI expansion, the frontier-AI slowdown debate, compact markets, and practical Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: a court ruling turns FEMA staffing from a budget idea into a disaster-readiness test, a Hormuz ship strike keeps oil risk alive, Ohio State&#x27;s chalking ban nears a possible lawsuit, and mortgage rates are back above seven percent in daily pricing.</p>
-<p><span style="font-weight:bold">Host:</span> Good evening. It is Sunday, September 13th, 2026, and this is your Morning Brief.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start with FEMA, because the fresh national development is not abstract government downsizing. AP reports a federal judge ruled Saturday night that the Trump administration&#x27;s plan to cut FEMA staffing by 50 percent was unlawful.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does a staffing ruling matter beyond Washington?</p>
-<p><span style="font-weight:bold">Host:</span> Because FEMA is an operating agency. The judge said the 50 percent target came from top Homeland Security officials even though FEMA leaders objected, and she called the figure arbitrary. The remedy still has to be negotiated, but the ruling changes leverage for labor groups, disaster planners, and states preparing for storms, floods, heat, and wildfire response.</p>
-<p><span style="font-weight:bold">Host:</span> AP also notes the Government Accountability Office found that 17 percent of FEMA&#x27;s workforce left in 2025, with institutional knowledge leaving too. That matters because disaster response depends on experienced people who know grant rules, logistics, local contacts, and how to move resources under stress.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the operational question is whether a court can restore capacity fast enough for the next emergency.</p>
-<p><span style="font-weight:bold">Host:</span> Right. A ruling can stop an unlawful staffing plan, but it cannot instantly recreate trained surge capacity. Watch the remedy talks, whether FEMA hires or recalls staff, and whether Congress turns GAO&#x27;s planning recommendation into a requirement.</p>
-<p><span style="font-weight:bold">Host:</span> The other national headline is fiscal politics. AP reports House Speaker Mike Johnson said President Trump&#x27;s proposed 5,000 dollar dividend checks would need congressional approval. Trump had pitched the payments to adults if Republicans keep Congress after the midterms.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds like a campaign promise, but the key detail is legislative authority.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. The meaning is that households should not treat a promised check as scheduled income, and markets should not treat it as enacted stimulus. AP&#x27;s estimate puts the cost above one trillion dollars, in a period already shaped by deficits, energy pressure, and high rates. The next test is whether a bill appears, who pays for it, and whether deficit hawks inside the Republican coalition push back.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also matters for state and local planning. A large federal payment would change consumer spending assumptions, tax receipts, and inflation expectations, but only after Congress writes something real enough to score.</p>
-<p><span style="font-weight:bold">Host:</span> Overseas risk stayed active too. AP reports Iranian media said one person was killed and three were injured when a commercial ship was struck near Qeshm Island in the Strait of Hormuz. The UK Maritime Trade Operations also confirmed a vessel was hit in that area.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does that change the oil story immediately?</p>
-<p><span style="font-weight:bold">Host:</span> It keeps the risk premium alive, even if one incident does not prove a sustained shipping shutdown. The useful watch is commercial behavior: reroutes, insurance pricing, naval escorts, and whether more strikes hit vessels rather than being intercepted away from trade lanes.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, WOSU&#x27;s fresh local story is Ohio State standing by its campus chalking ban after an ACLU challenge. WOSU reports the university disagrees with the ACLU of Ohio&#x27;s legal analysis, while the ACLU says it is prepared to file a lawsuit.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why should non-students care about sidewalk chalk?</p>
-<p><span style="font-weight:bold">Host:</span> Because it is a Central Ohio version of a national campus-governance fight. Ohio State is a large public university, a major employer, and a civic institution. When it says a rule is content neutral and the ACLU says it suppresses speech, the dispute becomes a test of how public institutions manage protest, safety complaints, facilities rules, and First Amendment risk.</p>
-<p><span style="font-weight:bold">Host:</span> The new fact is the university response, not the original ban. WOSU says the policy has been in place for a year, and the current dispute follows the ACLU&#x27;s threat of legal action. Students are now questioning the response, which matters as fall campus activity builds.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would actually move the story next?</p>
-<p><span style="font-weight:bold">Host:</span> A filed complaint, a court request for an injunction, or a policy change from the university. For Columbus listeners, the consequence is practical: campus speech rules can affect demonstrations, student organizing, security staffing, public records, alumni pressure, and how other Ohio institutions write their own conduct policies.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also puts administrators in a narrow lane. If they defend the rule as neutral, enforcement has to look neutral when the next controversial message appears.</p>
-<p><span style="font-weight:bold">Co-host:</span> And if the university revises the policy before litigation, that becomes its own signal: public institutions may decide the lower-cost move is clearer time, place, and manner language before a judge gets involved.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the specific operating change is daily pricing moving above the weekly survey. Mortgage News Daily showed the 30-year fixed rate at 7.12 percent on September eleventh, while Freddie Mac&#x27;s weekly survey still had 6.76 percent.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why lead with rates when the show usually tries to avoid generic rate recaps?</p>
-<p><span style="font-weight:bold">Host:</span> Because this is not just a rate number; it changes lock-desk behavior. When daily pricing jumps above the weekly headline, borrowers who heard mid-six quotes can suddenly face a different payment, and loan officers have to decide whether to float, relock, renegotiate seller credits, or rework the loan structure before conditions expire.</p>
-<p><span style="font-weight:bold">Host:</span> The affected workflow is the active purchase pipeline. Files near contract deadlines are most exposed because a higher daily rate can change debt-to-income ratios, cash-to-close, discount-point decisions, and whether a buydown still makes sense. Refinance leads are even more fragile unless the borrower has a cash-out need or a large old-rate gap.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the consequence for lenders on Monday morning?</p>
-<p><span style="font-weight:bold">Host:</span> Triage. Do not send a broad refinance blast. Pull loans with locks expiring soon, borrowers close to approval limits, and purchase contracts with seller-credit room. Then separate borrowers who need payment certainty from those who can wait for the Fed meeting and Treasury volatility.</p>
-<p><span style="font-weight:bold">Host:</span> The caution is that weekly Freddie Mac numbers are still useful for trend history, but they lag the desk reality after a fast bond-market move. Watch the 10-year Treasury, mortgage-backed securities spreads, and whether lenders publish overlays around the new VantageScore option while affordability is deteriorating.</p>
-<p><span style="font-weight:bold">Co-host:</span> The borrower-facing version is simple: ask whether today&#x27;s quote still supports the approval, not whether last week&#x27;s public survey sounded better.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Rogo to the deployment ledger. The lane is markets, research, and relationship-manager support. Rogo said September tenth that Citi, Barclays, BNP Paribas, MUFG, and Societe Generale joined as strategic investors, and it describes its platform as already used across investment banking, wealth management, and asset management.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank?</p>
-<p><span style="font-weight:bold">Host:</span> Company claim. It is stronger than a vague trend story because the named financial institutions are public, but Rogo did not disclose a controlled baseline for analyst hours saved, research accuracy, compliance review time, client revenue, or error rates. So the ledger row is production, but the metric is none disclosed.</p>
-<p><span style="font-weight:bold">Host:</span> The large-bank decision is whether research copilots become a standard knowledge layer for bankers and advisors. That touches vendor choice, permissioning around client material, and whether regulated advice workflows can use generated synthesis without confusing it with approved research.</p>
-<p><span style="font-weight:bold">Co-host:</span> What limitation matters most?</p>
-<p><span style="font-weight:bold">Host:</span> Entitlement control. In markets and wealth, the dangerous failure is not only a bad summary; it is a good-looking answer built from material the user was not allowed to see or reuse with a client. The next evidence that would upgrade the row is a named bank explaining production scope and audited quality results.</p>
-<p><span style="font-weight:bold">Co-host:</span> That makes this a useful but unfinished signal. The buyers are real, the workflow is bank-relevant, and the hard proof is still missing.</p>
-<p><span style="font-weight:bold">Co-host:</span> It is also a procurement signal. When several global banks invest around the same workflow, competitors have to decide whether to build internally, buy a specialist tool, or wait for their existing platform vendor.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> At the frontier, the new story is not a model release. It is a policy and safety threshold fight. AP reports President Trump downplayed the need to check AI development during an Ireland visit, saying he did not want the United States to cede its edge to China.</p>
-<p><span style="font-weight:bold">Co-host:</span> What makes that a frontier story instead of ordinary politics?</p>
-<p><span style="font-weight:bold">Host:</span> It binds the labs directly because the timing follows Anthropic CEO Dario Amodei&#x27;s call for the industry to slow development so safety measures can catch up. AP reports Amodei warned that within six to 12 months, stronger AI could lead coordinated agent activity capable of taking over the internet. That is a lab-reported risk argument, not an independent measurement.</p>
-<p><span style="font-weight:bold">Host:</span> The qualifying bar is policy that binds labs and safety findings. The measured side is thin: the public evidence is executive warning, recent misuse reports, and incident descriptions, not a reproducible benchmark proving the scenario. The new capability implied is longer, more coordinated agent action; the limitation is that the policy mechanism is unsettled.</p>
-<p><span style="font-weight:bold">Co-host:</span> So what should a regulated bank do with this now?</p>
-<p><span style="font-weight:bold">Host:</span> Treat it as a vendor-roadmap risk. If labs slow, access dates, model behavior, and pricing may change. If government refuses to slow, banks still need their own approval gates before autonomous agents touch code, data, payments, customer records, or external systems. Earliest use is controlled pilots with independent security review.</p>
-<p><span style="font-weight:bold">Co-host:</span> The useful watch is whether this becomes a concrete rule, a voluntary lab pact, or just a weekend argument.</p>
-<p><span style="font-weight:bold">Co-host:</span> The weakness in the debate is that both sides can sound certain without showing comparable tests. Banks should ask vendors for eval access and incident disclosure rather than accepting either reassurance or alarm.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets went into the weekend with risk assets up and oil lower, but the tape still carries inflation stress. SPY rose about 0.9 percent Friday, QQQ rose about 0.9 percent, and DIA rose about 1.0 percent. TLT was nearly flat, and USO fell about 2.2 percent.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is a relief bounce, not a clean all-clear.</p>
-<p><span style="font-weight:bold">Host:</span> Right. Stocks liked oil easing, but mortgage pricing and long-rate pressure show the bond market is not relaxed. The next test is whether Hormuz risk, the Fed meeting, and deficit politics push yields back up before borrowers and companies get real relief.</p>
-<p><span style="font-weight:bold">Co-host:</span> Breadth matters Monday; a narrow rally would leave the rate-sensitive parts of the economy exposed.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> For Columbus weather, tonight stays practical. The latest forecast has a warm, breezy Sunday with a thunderstorm in spots and a high near 89. Storms can bring localized damaging wind gusts, hail, and flooding downpours. Monday turns less humid, with clouds and sun near 74.</p>
-<p><span style="font-weight:bold">Co-host:</span> So outdoor plans tonight still need a radar check, especially if you are driving through low spots.</p>
-<p><span style="font-weight:bold">Host:</span> Tuesday warms again, near 86, which means Monday is the cleaner reset day. Three watch items for the next few days. One, whether FEMA remedy talks produce staffing instructions before the next major disaster response. Two, whether daily mortgage pricing stays above seven percent after the Fed meeting. Three, whether AI labs turn slowdown talk into outside evaluation access or a voluntary pact.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Sunday, September 13th. Have a good evening, and keep the next decision close to the actual operating signal.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Sunday, September 13, 2026</title>
+    <description>Your Morning Brief for Sunday, September 13, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-13_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-13_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-13_morning-brief.mp3" length="13106005" type="audio/mpeg"/>
@@ -1054,18 +1066,6 @@
     <itunes:duration>00:13:00</itunes:duration>
     <itunes:episode>20260825</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-08-25</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, August 24, 2026</title>
-    <description>Your Morning Brief for Monday, August 24, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-08-24_morning-brief.mp3" length="13205037" type="audio/mpeg"/>
-    <pubDate>Mon, 24 Aug 2026 04:13:52 -0600</pubDate>
-    <itunes:duration>00:13:45</itunes:duration>
-    <itunes:episode>20260824</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-08-24</guid>
   </item>
 </channel>
 </rss>
