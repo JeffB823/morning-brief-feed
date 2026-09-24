@@ -1,0 +1,75 @@
+{
+  "script": "2026-09-24_morning-brief-script.md",
+  "script_sha256": "f75a8dcb3fc45b7cf265a2df11b7497e517ff5417b43beb848eef1dfedb93e0c",
+  "checked_at": "2026-09-24T06:23:11-0400",
+  "sources_fetched": [
+    {
+      "url": "https://gmg-kprc-prod.cdn.arcpublishing.com/business/2026/09/24/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/",
+      "characters": 13873
+    },
+    {
+      "url": "https://www.kolotv.com/2026/09/24/judge-orders-white-house-restore-access-news-outlets-trump-banned/?outputType=amp",
+      "characters": 8723
+    },
+    {
+      "url": "https://www.aol.com/articles/snow-crews-prepare-winter-weather-210000000.html",
+      "characters": 5737
+    },
+    {
+      "url": "https://www.mortgage.news/article/mortgage-applications-slip-mba-rate-7-12-september-23-2026",
+      "characters": 4523
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/paywhere-launches-ai-banking-channel-144000987.html",
+      "characters": 11614
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 56123
+    },
+    {
+      "url": "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text",
+      "characters": 40333
+    },
+    {
+      "url": "https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925",
+      "characters": 7463
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078",
+      "characters": 4116
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+      "error": "page body was only 16 characters",
+      "reason": "MBA primary source was opened in browser/search and corroborated by a readable article carrying the same MBA 7.12%, 9.8% ARM share, 1.5% application decline and 3% refinance decline; local curl received a short response."
+    }
+  ],
+  "claims_checked": 53,
+  "claims_supported": 50,
+  "claims_excepted": [
+    {
+      "claim": "ARMs and AI",
+      "kind": "name",
+      "example": "Today: a White House summit turns AI chips and tariffs into a live operating risk, Franklin County starts winter road prep before the first freeze, mortgage desks see borrowers leaning harder on ARMs, and AI model pricing gets practical enough to change pilot budgets.",
+      "reason": "False-positive span created by the claim parser across separate preview clauses; ARMs are supported by MBA/mortgage.news and AI model pricing by OpenAI/Anthropic sources."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "kind": "name",
+      "example": "A federal judge ordered CNN, MS NOW and Politico access restored early today for 14 days after the White House ban.",
+      "reason": "The AP/Kolo source names CNN, MS NOW and Politico; parser removed punctuation/order while the cited source supports the outlet names and restoration order."
+    },
+    {
+      "claim": "Treasuries",
+      "kind": "name",
+      "example": "MBA data showed the conforming 30-year application rate at 7.12 percent, so a stock rally alone does not help borrowers unless Treasuries and mortgage-backed securities also improve.",
+      "reason": "Market inference based on mortgage-rate mechanics; the script does not assert a sourced Treasury quote, only that borrower relief depends on bond and MBS improvement."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

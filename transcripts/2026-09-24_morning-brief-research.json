@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-24",
+  "cutoff": "2026-09-24T06:18:26-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-17_morning-brief-script.md",
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md",
+    "2026-09-22_morning-brief-script.md",
+    "2026-09-23_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "trump-xi-summit-truce",
+      "beat": "national",
+      "event_date": "2026-09-23",
+      "source": "https://gmg-kprc-prod.cdn.arcpublishing.com/business/2026/09/24/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/",
+      "decision": "selected",
+      "rationale": "Fresh national operating story published late September 23 with a summit today, a two-month trade-truce extension, and implications for tariffs, chips, Iran and Taiwan."
+    },
+    {
+      "id": "press-access-tro",
+      "beat": "national",
+      "event_date": "2026-09-24",
+      "source": "https://www.kolotv.com/2026/09/24/judge-orders-white-house-restore-access-news-outlets-trump-banned/?outputType=amp",
+      "decision": "selected compact",
+      "rationale": "Fresh court order restoring access for 14 days, but limited to a brief update because the press-access story had two full recent segments."
+    },
+    {
+      "id": "franklin-county-snow-roadeo",
+      "beat": "columbus",
+      "event_date": "2026-09-23",
+      "source": "https://www.aol.com/articles/snow-crews-prepare-winter-weather-210000000.html",
+      "decision": "selected",
+      "rationale": "Fresh local services story with practical consequence for winter road response, staffing and route expectations."
+    },
+    {
+      "id": "columbus-weekend-events",
+      "beat": "columbus",
+      "event_date": "2026-09-23",
+      "source": "https://www.aol.com/articles/4-weekend-harvest-blooms-lantern-233000000.html",
+      "decision": "rejected",
+      "rationale": "Useful local planning item, but the snow-roadeo story has stronger civic operations value."
+    },
+    {
+      "id": "mba-arm-share-application-drop",
+      "beat": "home_lending",
+      "event_date": "2026-09-23",
+      "source": "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+      "decision": "selected",
+      "rationale": "Fresh primary-source lending data; selected for its ARM-share workflow implication rather than as a generic rate recap."
+    },
+    {
+      "id": "paywhere-ai-banking-channel",
+      "beat": "bank_ai",
+      "event_date": "2026-09-23",
+      "source": "https://finance.yahoo.com/technology/ai/articles/paywhere-launches-ai-banking-channel-144000987.html",
+      "decision": "selected",
+      "rationale": "Fresh vendor announcement relevant to banks and credit unions serving customers through external AI assistants; changes the bank AI ledger as an announced vendor-platform row."
+    },
+    {
+      "id": "openai-gpt6-sol-luna-access",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-22",
+      "source": "https://developers.openai.com/api/docs/changelog",
+      "decision": "selected",
+      "rationale": "Fresh frontier price and access shift with primary-source model IDs and pricing, paired with Anthropic's Opus 5.5 cost move for a practical workflow takeaway."
+    },
+    {
+      "id": "anthropic-opus-55",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-22",
+      "source": "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text",
+      "decision": "selected paired context",
+      "rationale": "Fresh primary-source model release and cost reduction; paired with OpenAI rather than made a separate model-scorecard segment to avoid repetitive launch coverage."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "event_date": "2026-09-24",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078",
+      "decision": "selected compact",
+      "rationale": "Fresh official weather forecast for practical Columbus planning; not counted toward the four-story freshness minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "trump-xi-summit-truce",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://gmg-kprc-prod.cdn.arcpublishing.com/business/2026/09/24/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/",
+        "https://www.kolotv.com/2026/09/24/judge-orders-white-house-restore-access-news-outlets-trump-banned/?outputType=amp"
+      ],
+      "new_fact": "AP reported that Trump and Xi are meeting at the White House today after the countries agreed to extend the current trade truce, originally expiring November 10, by two months.",
+      "new_takeaway": "Businesses should watch written commitments on chips, rare earths, Iran pressure and Taiwan because the extension moves the deadline but does not remove operating uncertainty.",
+      "why_now": "Xi arrived September 23 and the meeting is scheduled for September 24, making the truce extension and agenda live today.",
+      "previous_coverage": "Recent scripts covered AI diplomacy and U.S.-China incident proposals, but not this White House summit or truce extension as the national lead.",
+      "uncertainty": "No durable agreement was available at cutoff, and the truce extension may produce only temporary relief.",
+      "watch": "Written summit outcome naming goods, chip categories, rare earths, Iran pressure, Taiwan language or a changed November trade deadline."
+    },
+    {
+      "id": "franklin-county-snow-roadeo",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://www.aol.com/articles/snow-crews-prepare-winter-weather-210000000.html"
+      ],
+      "new_fact": "NBC4 reported the Franklin County Engineer's Office held its annual snow-fighters roadeo Wednesday, including classroom training, skills tests, an obstacle course and new tools.",
+      "new_takeaway": "The local value is not the event itself but whether early crew practice turns into faster, clearer winter-road response expectations.",
+      "why_now": "The training happened September 23, before winter weather but close enough to the season for route and staffing preparation to matter.",
+      "previous_coverage": "No recent episode covered Franklin County winter road operations.",
+      "uncertainty": "The public report did not disclose staffing levels, route priority updates, salt inventory or measured response-time targets.",
+      "watch": "Franklin County route priorities, staffing updates, salt inventory and first advisory-level storm response."
+    },
+    {
+      "id": "mba-arm-share-application-drop",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+        "https://www.mortgage.news/article/mortgage-applications-slip-mba-rate-7-12-september-23-2026"
+      ],
+      "new_fact": "MBA reported applications fell 1.5 percent for the week ending September 18, the 30-year fixed conforming rate reached 7.12 percent, ARMs rose to 9.8 percent of application activity and refinance volume fell 3 percent.",
+      "new_takeaway": "The operational story is ARM counseling and pipeline triage: lenders need clearer reset-risk disclosures and purchase-file reviews when fixed rates make payment math harder.",
+      "why_now": "MBA published the weekly survey on September 23 with data for the week ending September 18.",
+      "previous_coverage": "September 18 covered Freddie Mac's 6.95 percent weekly average; this episode uses the fresh MBA ARM share and application-mix workflow rather than repeating a rate recap.",
+      "uncertainty": "Holiday adjustment, rates and borrower mix all affect the application decline; the data does not prove lasting ARM demand.",
+      "watch": "Next MBA ARM share, fixed-rate movement, builder buydowns and seller-credit use in purchase files."
+    },
+    {
+      "id": "paywhere-ai-banking-channel",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://finance.yahoo.com/technology/ai/articles/paywhere-launches-ai-banking-channel-144000987.html"
+      ],
+      "new_fact": "Paywhere announced commercial availability of a programmable banking platform for banks and credit unions to serve customers through AI assistants, applications and agents.",
+      "new_takeaway": "For banks, the channel decision turns on customer authentication, data-sharing scope and mandate proof when external assistants become banking doorways.",
+      "why_now": "The commercial availability announcement was published September 23.",
+      "previous_coverage": "Recent bank AI coverage focused on Deutsche Bank KYC and agentic payments; Paywhere is a vendor-channel announcement with a different consent and channel-control takeaway.",
+      "uncertainty": "No named financial institution, live transaction volume, completion rate, error rate, fraud outcome or customer satisfaction metric was disclosed.",
+      "watch": "Named bank or credit union customer, live task volume, exception rate, fraud metric, customer-consent architecture or regulator response.",
+      "ledger_row_changed": "Added Paywhere / programmable banking platform as an announced vendor-platform row for consumer and small-business servicing with compliance controls."
+    },
+    {
+      "id": "openai-anthropic-cost-access-shift",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-22",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "https://developers.openai.com/api/docs/changelog",
+        "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text",
+        "https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925"
+      ],
+      "new_fact": "OpenAI released GPT-6 Sol and GPT-6 Luna in the API on September 22 with published token prices, while Anthropic introduced Claude Opus 5.5 the same day with a claimed 40 percent lower running cost than Opus 5.",
+      "new_takeaway": "The immediate frontier implication is not just model ranking; lower published prices and Work/Codex access change which enterprise pilots can be economically tested.",
+      "why_now": "Both primary-source model and pricing updates are dated September 22 and were uncovered for this episode.",
+      "previous_coverage": "September 22 covered Grok 4.7 and September 23 covered Alibaba infrastructure; this is a new price and access shift across major frontier providers.",
+      "uncertainty": "OpenAI pricing is checkable, but performance and total job-cost claims need third-party task-level replication; Anthropic performance comparisons are lab-reported unless external evaluators publish their own details.",
+      "watch": "Independent cost-per-completed-task tests, evaluator reports, enterprise access changes and any model-card or pricing update.",
+      "frontier_bar": "Price or access shift: published API pricing and enterprise tool access change workflow economics."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078"
+      ],
+      "new_fact": "NWS forecast for the Ohio State University Airport area called for clouds early, gradual clearing, a high near 69, east wind around 9 miles per hour, and a clear night near 45.",
+      "new_takeaway": "The planning advice is a cool layered start, drying time for wet ground and better afternoon outdoor windows.",
+      "why_now": "Official local forecast was updated early September 24.",
+      "previous_coverage": "September 23 covered a wet planning day; today's forecast is a different, improving local weather setup.",
+      "uncertainty": "Microclimates and remaining wet ground may vary around Central Ohio.",
+      "watch": "Whether next Wednesday's shower chance strengthens in later NWS updates."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey",
+      "reason": "MBA primary source was opened in browser/search and corroborated by a readable article carrying the same MBA 7.12%, 9.8% ARM share, 1.5% application decline and 3% refinance decline; local curl received a short response."
+    },
+    {
+      "claim": "ARMs and AI",
+      "reason": "False-positive span created by the claim parser across separate preview clauses; ARMs are supported by MBA/mortgage.news and AI model pricing by OpenAI/Anthropic sources."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "reason": "The AP/Kolo source names CNN, MS NOW and Politico; parser removed punctuation/order while the cited source supports the outlet names and restoration order."
+    },
+    {
+      "claim": "Treasuries",
+      "reason": "Market inference based on mortgage-rate mechanics; the script does not assert a sourced Treasury quote, only that borrower relief depends on bond and MBS improvement."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "f75a8dcb3fc45b7cf265a2df11b7497e517ff5417b43beb848eef1dfedb93e0c"
+  }
+}
