@@ -27,6 +27,86 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Summit Aftermath, Utility Rates, Rental Income, and AI Privacy Tests - September 25, 2026</title>
+    <description>The September 25 Morning Brief covers unresolved U.S.-China summit issues, Columbus large-load utility rates, Fannie Mae rental-income implementation, BNP Paribas and Google Cloud&#x27;s agentic-AI partnership, the ConfAIde privacy benchmark, pressure from yields and oil, and a clear Columbus Friday.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: the China summit leaves companies with a longer clock but not a settled rulebook, Columbus puts data-center utility costs on Monday&#x27;s agenda, Fannie Mae gives lenders a rental-income deadline, and a new AI privacy test shows why high scores still need context.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Friday, September 25th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with what the Trump-Xi summit did not settle. Reuters reported Thursday that the clearest result was still the two-month extension of the U.S.-China trade truce, while tariffs, rare earths, Taiwan language and technology restrictions were pushed into the next round.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the fresh fact is not a grand bargain. It is the absence of one after the White House meeting?</p>
+<p><span style="font-weight:bold">Host:</span> Right. That absence matters because companies now know the truce runs to January 10, but they do not know whether advanced-chip restrictions loosen, whether rare-earth supply gets written guarantees, or whether agricultural purchase gaps become a tariff fight again.</p>
+<p><span style="font-weight:bold">Co-host:</span> What does that change for a business this morning?</p>
+<p><span style="font-weight:bold">Host:</span> It keeps contingency planning alive. Importers and manufacturers can avoid immediate disruption, but procurement teams still have to hold inventory buffers, compliance teams still have to plan for export-control checks, and chip buyers still cannot treat summit warmth as permission to reorder restricted technology.</p>
+<p><span style="font-weight:bold">Co-host:</span> And Taiwan is not just diplomatic background if arms sales or chip supply chains are part of the negotiation.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. The useful takeaway is that the meeting reduced deadline pressure without reducing strategic ambiguity. Watch written follow-up from Treasury, Commerce and Beijing, because press-conference tone will not tell a supply-chain manager which shipment clears, which license applies, or which January deadline is real.</p>
+<p><span style="font-weight:bold">Co-host:</span> That also keeps finance teams in a holding pattern. If a contract depends on Chinese inputs, Taiwanese production, or restricted U.S. technology, the risk is not only price. It is whether the delivery date survives a licensing or customs decision.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the local operating story is now on the city calendar. File 2560-2026 is on the September 28 council agenda, and it would require Columbus Water and Power to establish peak rates, fees or charges for large-load, high-volume industrial and manufacturing users.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is this still mostly a data-center story?</p>
+<p><span style="font-weight:bold">Host:</span> Data centers are the pressure point, but the ordinance is broader. The city file says Central Ohio has more than one hundred operational data centers and close to two hundred statewide, while chip fabrication, breweries, beverage makers and food processors can also strain water, sewer and power systems.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would actually change if council passes it?</p>
+<p><span style="font-weight:bold">Host:</span> The department would have to bring back a concrete rate proposal instead of relying only on ordinary volumetric charges. The options named in the file include tiered or block water charges, demand charges based on meter size or peak capacity, and minimum bills tied to contracted capacity.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why should a household care about an industrial rate design?</p>
+<p><span style="font-weight:bold">Host:</span> Because the city says a volumetric-only structure can shift infrastructure costs onto residential and small-commercial customers whose demand is flatter. The Home Road Water Plant adds forty-eight million gallons a day of capacity, and the policy question is who pays for capacity built to handle peak industrial load.</p>
+<p><span style="font-weight:bold">Co-host:</span> The watch item is not whether leaders like or dislike data centers. It is whether the proposed rate actually prices peak demand.</p>
+<p><span style="font-weight:bold">Host:</span> That is the useful test. Monday&#x27;s vote would not write the final bill, but it would tell Columbus Water and Power to produce one.</p>
+<p><span style="font-weight:bold">Co-host:</span> And it gives residents a clearer place to look. Instead of arguing about growth in the abstract, they can ask for the demand assumption, the rate class, the capacity charge and how small users are protected.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is rental-income review. Fannie Mae says its September Selling Guide update reorganized and clarified rental-income requirements, and lenders may apply the September changes now but must do so no later than November 1.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which loan file feels that first?</p>
+<p><span style="font-weight:bold">Host:</span> Investor and owner-occupied files using rental income to qualify. The workflow is not only reading a cleaner guide. Underwriters, processors and quality-control teams have to update training, bookmarked sections, income worksheets and exception handling before the mandatory date.</p>
+<p><span style="font-weight:bold">Co-host:</span> Did Fannie Mae expand who qualifies, or is this mostly documentation?</p>
+<p><span style="font-weight:bold">Host:</span> The source says the section was rewritten for clarity, navigation and usability, with some policy updates and clarifications. So the safe operating posture is to treat it as an implementation project: compare old and new rental-income steps, identify any changed treatment, and make sure loan-origination system aids point to the right guide text.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why does that matter to a borrower?</p>
+<p><span style="font-weight:bold">Host:</span> A borrower using lease income, departure-residence income or investment-property rent can lose time if a file is underwritten from stale instructions. For loan officers, the consequence is better upfront document collection and fewer last-minute conditions. For lenders, the consequence is rep-and-warrant risk if a November file is still reviewed under the old map.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the next thing to watch?</p>
+<p><span style="font-weight:bold">Host:</span> Whether Fannie publishes more FAQs before November 1, and whether aggregators or investors issue overlays that make the transition stricter than the base guide.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is especially important for mixed-use borrowers and small landlords. If an investor overlay asks for more history or cleaner leases, the borrower may not find out until the file is already moving.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added BNP Paribas and Google Cloud to the deployment ledger. The lane is markets, research and internal productivity. The two companies announced a five-year partnership Thursday to expand BNP Paribas access to Google Cloud infrastructure, Gemini Enterprise and Gemini models.</p>
+<p><span style="font-weight:bold">Co-host:</span> What changed in the row: production status or buying path?</p>
+<p><span style="font-weight:bold">Host:</span> Buying path and rollout scope. The release says initial use cases include plans to integrate Gemini models into LLM at CIB, the corporate and institutional bank&#x27;s internal generative-AI assistant, and to deploy agentic-AI use cases inside Corporate and Institutional Banking.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank?</p>
+<p><span style="font-weight:bold">Host:</span> Company claim. It is stronger than a generic vendor roadmap because a named bank and named division are attached, but no measured result was disclosed. There is no baseline for analyst time saved, research defects, trade-support accuracy, compliance review time or customer impact.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank if it works?</p>
+<p><span style="font-weight:bold">Host:</span> It changes vendor concentration and platform approval. A bank can move more knowledge work onto one cloud and model stack, but model risk, data residency, access controls and record retention have to be designed around the actual CIB tasks, not around the phrase agentic AI.</p>
+<p><span style="font-weight:bold">Co-host:</span> The limitation is that partnership length is not the same as workflow evidence.</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. The next proof point is a named CIB task with volume, human review rate, error rate and whether the assistant changed a decision or merely drafted the first version faster.</p>
+<p><span style="font-weight:bold">Co-host:</span> A five-year agreement can be strategically meaningful and still leave the operating question unanswered. The buyer lesson is to separate platform commitment from measured productivity.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, the fresh item is a privacy benchmark rather than another launch. Prosaic Intelligence published ConfAIde data today, scoring fourteen API model configurations on whether they reveal private information when social norms say it should stay confidential.</p>
+<p><span style="font-weight:bold">Co-host:</span> What bar does that clear?</p>
+<p><span style="font-weight:bold">Host:</span> Benchmark and safety evaluation. The headline metric is privacy-sharing error rate, converted to a zero-to-one-hundred score. Claude Opus 5.5 with medium reasoning and Zhipu&#x27;s GLM 5.3 Flash with high reasoning both scored 98.62, while GPT-6 Sol with medium reasoning scored 98.37.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those scores are close. Should buyers treat that as a ranking?</p>
+<p><span style="font-weight:bold">Host:</span> Carefully. The page says the headline tier uses 270 single-turn scenarios, ten repeats, rule-based grading and API model configurations. It also says measurement dates, sample sizes and confidence intervals are not included in the score-only feed, and the results do not establish how a consumer app behaves with its own prompts, tools or safeguards.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the useful result is less &quot;which model won&quot; and more &quot;what kind of privacy mistake is being tested.&quot;</p>
+<p><span style="font-weight:bold">Host:</span> Yes. The example task asks whether a model lists people who should not know a confidential fact. That maps directly to enterprise risk: customer notes, HR issues, investigation files and relationship-manager context can all leak through an assistant that over-shares. For a regulated bank, the earliest use is vendor screening for privacy-sensitive copilots, gated by internal test sets that match the bank&#x27;s own data and permission model.</p>
+<p><span style="font-weight:bold">Co-host:</span> The missing confidence intervals matter too. When scores are separated by a few tenths of a point, a procurement team should not pretend it has a hard ordering unless the underlying measurement supports that precision.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets are sending a narrow message: the bond and oil channels are still doing more work than the index tape. Reuters said the S&amp;P 500 ended almost unchanged Thursday, the Nasdaq was nearly flat, and the Dow fell about a third of a percent.</p>
+<p><span style="font-weight:bold">Co-host:</span> What was underneath the quiet close?</p>
+<p><span style="font-weight:bold">Host:</span> Treasury yields rose, with the 30-year yield reaching its highest level since 2004, and Middle East uncertainty kept oil in focus. That is why the market segment connects back to mortgages and city finance: high long yields pressure borrowers, builders, utilities and capital projects even when equities hold together.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would improve the signal today?</p>
+<p><span style="font-weight:bold">Host:</span> A calmer oil tape, lower long yields and more detail from U.S.-China follow-up would matter more than a one-day bounce in a few technology names. For housing, the screen is still whether Treasuries and mortgage-backed securities improve enough to reach rate sheets.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is why the market read feels repetitive only on the surface. The practical pressure keeps showing up in different rooms: mortgage desks, municipal borrowing, utilities planning capacity and companies funding AI infrastructure.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets a straightforward Friday. The current forecast shows clear conditions around the morning, then luminous sunshine and a pleasant high near 71. Tonight drops into the mid-40s, and Saturday looks sunny with a high near 74.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the planning move is simple: layers early, outdoor windows later.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. It is a good day for job sites, errands, school events and Friday evening plans. Fields and shaded areas may still be cool early, but this is a low-drama weather day after a damp stretch.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: whether U.S. and Chinese officials publish enforceable summit follow-up before the January 10 truce date; whether Columbus council passes the large-load utility-rate ordinance Monday; and whether Fannie Mae or investors issue more rental-income transition guidance before November 1.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the practical triggers: written trade rules, a local rate-design vote and the mortgage deadline that changes how files get reviewed.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Friday, September 25th. Have a good morning, and keep the next decision tied to the rule, source or deadline that actually moved.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-25_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-25_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-25_morning-brief.mp3" length="12710799" type="audio/mpeg"/>
+    <pubDate>Fri, 25 Sep 2026 01:51:31 -0400</pubDate>
+    <itunes:duration>00:13:12</itunes:duration>
+    <itunes:episode>20260925</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-09-25</guid>
+  </item>
+  <item>
     <title>Morning Brief — China Summit, Snow Crews, ARM Share, and AI Cost Moves - September 24, 2026</title>
     <description>The September 24 Morning Brief covers the Trump-Xi summit and extended trade truce, Franklin County winter road prep, MBA&#x27;s higher ARM share as fixed rates hit 7.12 percent, Paywhere&#x27;s AI banking channel, OpenAI and Anthropic model-cost moves, compact markets, and a clearer Columbus forecast.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -791,70 +871,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-15</guid>
   </item>
   <item>
-    <title>Morning Brief — Mail Ballots, Cargo Oversight, Mortgage Convexity, and AI Governance — September 14, 2026</title>
-    <description>A second federal judge blocks the Postal Service mail-ballot rule as the Supreme Court reviews the dispute; Amazon pauses 21 Air after the Miami cargo crash; Columbus drivers face renewed distracted-driving enforcement data; mortgage teams watch prepayment risk; Pockit shows a customer-support AI result; and China answers Anthropic on frontier AI pacing.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: election administrators get another court shield while the Supreme Court weighs mail-ballot rules, Amazon turns a fatal cargo crash into a vendor oversight story, and mortgage desks face a different refi problem if rates finally break lower.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Monday, September 14th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start with elections. AP reports U.S. District Judge Carl Nichols late Sunday blocked the Postal Service from implementing President Trump&#x27;s mail-ballot executive order, adding a second federal injunction while the Supreme Court already considers a related Boston order.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changes for election officials this morning?</p>
-<p><span style="font-weight:bold">Host:</span> The operating risk moves from planning to timing. The rule issued August twenty-first would require Postal Service pre-approval of ballot-envelope designs and state uploads of voter identities into an online portal that AP says is still inactive. Nichols said the plaintiffs showed a risk that lawful absentee or mail ballots would not be counted.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the practical problem is not whether mail voting can be regulated in theory. It is whether a new federal process can be jammed into live election calendars.</p>
-<p><span style="font-weight:bold">Host:</span> Right. AP says mail ballots are already going out in Alabama, North Carolina, and Wisconsin, with more states preparing this week. The Supreme Court can still change the picture, but for county offices and ballot vendors, the useful watch is whether the justices leave the freeze in place before envelopes and voter files are already in motion.</p>
-<p><span style="font-weight:bold">Co-host:</span> The listener-level point is that election disputes can become operations disputes very fast. Once ballots are printed, mailed, or scanned into local systems, the cost of changing instructions is no longer political theater; it is staff time, vendor rework, and voter confusion.</p>
-<p><span style="font-weight:bold">Host:</span> A second national story is cargo oversight. AP says Amazon paused operations with 21 Air after the September sixth Miami runway crash involving a Boeing 767 loaded with Amazon packages. Five people died, all in a van struck after the aircraft overran the runway.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is Amazon&#x27;s pause a finding about the carrier?</p>
-<p><span style="font-weight:bold">Host:</span> No. The National Transportation Safety Board is still investigating. But the pause is a commercial control action before the final report. AP says the aircraft traveled roughly thirteen hundred feet past the end of the runway, and preliminary flight information included pilot warnings about excess speed during approach and after touchdown.</p>
-<p><span style="font-weight:bold">Co-host:</span> That matters for any company outsourcing critical logistics. The question is not only who owns the aircraft; it is what triggers a customer to suspend a carrier while investigators sort out maintenance, training, weather, and operating history.</p>
-<p><span style="font-weight:bold">Host:</span> The watch is the cockpit transcript and Amazon&#x27;s next vendor move: temporary pause, permanent exit, or new operating conditions.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Central Ohio, Axios Columbus turns the Amy Acton incident into a broader public-service pressure story. Patrick Havas, the man arrested September sixth at the Canfield Fair, pleaded not guilty Tuesday to assault, disorderly conduct, and inducing panic, and was released on a five-thousand-dollar bond.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why make that a Columbus story if the arrest was near Youngstown?</p>
-<p><span style="font-weight:bold">Host:</span> Because the risk has Central Ohio anchors. Axios notes Acton previously faced armed and antisemitic protests outside her Bexley home while she was state health director. It also cites Frank LaRose receiving a threatening letter with powder at his Upper Arlington home in 2024.</p>
-<p><span style="font-weight:bold">Host:</span> The larger data point is that Princeton&#x27;s Bridging Divides Initiative documented more than twenty-one hundred reported threats and harassment events from January 2022 through April 2026, including eighty-one in Ohio, according to Axios&#x27; analysis.</p>
-<p><span style="font-weight:bold">Co-host:</span> What does that change for local government?</p>
-<p><span style="font-weight:bold">Host:</span> It makes public access more expensive. Town halls, fairs, school-board meetings, and campaign stops need security judgment that still preserves ordinary contact with voters. The uncertainty is whether officials respond with smarter threat assessment or simply fewer open appearances.</p>
-<p><span style="font-weight:bold">Host:</span> Axios also gives Columbus drivers a practical local reminder. Franklin County recorded three thousand five hundred fifty distracted-driving crashes from 2021 through 2025, third-highest in Ohio, and the State Highway Patrol issued forty-two thousand three hundred seventy-one distracted-driving citations in 2025.</p>
-<p><span style="font-weight:bold">Co-host:</span> The road takeaway is simpler than the politics: Ohio&#x27;s hands-free law lets officers stop drivers for illegal phone use. That enforcement change is already visible, and Franklin County is not a marginal case.</p>
-<p><span style="font-weight:bold">Host:</span> For commuters, that means the enforcement risk and the safety risk now point in the same direction. Put the phone down before the work zone, the school zone, or the freeway merge, because Franklin County&#x27;s five-year crash count says this is not a theoretical hazard.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the specific operational change is not another rate complaint. It is convexity coming back into mortgage-bond and servicing decisions. The Wall Street Journal reports more than forty percent of unpaid mortgage balances carried rates of five percent or higher as of July.</p>
-<p><span style="font-weight:bold">Co-host:</span> Translate that for a lender or servicer. Which workflow changes?</p>
-<p><span style="font-weight:bold">Host:</span> Retention monitoring. When many borrowers sit far below market rates, a small rate dip does not create much refinance activity. But if a larger share already has five-plus-percent coupons, a drop in market rates can wake up more loans, faster. Servicers need recapture triggers, call-center staffing assumptions, and borrower segmentation ready before the first public refi wave.</p>
-<p><span style="font-weight:bold">Host:</span> The near-term pressure is still high rates. MarketWatch reported Thursday that Mortgage News Daily&#x27;s thirty-year fixed average reached 7.07 percent, up eighteen basis points in two days, while Freddie Mac&#x27;s September tenth survey averaged 6.76 percent.</p>
-<p><span style="font-weight:bold">Co-host:</span> So high rates hurt purchase files today, but lower rates could hurt mortgage-bond investors tomorrow through faster prepayments.</p>
-<p><span style="font-weight:bold">Host:</span> That is the two-sided risk. If rates rise, affordability and duration pressure stay ugly. If rates fall, loans with higher coupons refinance sooner, and servicing teams race to retain the borrower. The affected workflow is the portfolio review: identify loans with a plausible refinance incentive, not just new leads shopping this week&#x27;s rate.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would weaken that conclusion?</p>
-<p><span style="font-weight:bold">Host:</span> If Treasury yields stay high through the Fed meeting, the refi option remains out of the money for many borrowers. The next useful signal is whether daily mortgage pricing retreats after the meeting or confirms that seven percent is still the desk reality.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, the deployment ledger now includes Pockit and Gradient Labs. This is a consumer-servicing row, and the evidence rank is customer disclosure on a vendor-hosted case study, stronger than a generic vendor promise but still not an independent audit.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed in the row?</p>
-<p><span style="font-weight:bold">Host:</span> The new row records an actual customer-support task: Pockit&#x27;s AI agent handles inbound chat and email across a broad set of regulated fintech support topics. Gradient&#x27;s case study says more than seven in ten inbound queries are resolved end-to-end by the agent, with eighty percent CSAT, after reaching the goal in under six months.</p>
-<p><span style="font-weight:bold">Co-host:</span> What was the baseline?</p>
-<p><span style="font-weight:bold">Host:</span> The useful baseline is not human performance. Pockit said its legacy chatbot closed tickets but customer satisfaction had fallen, which means closure did not equal resolution. The disclosed metric is therefore resolution and CSAT for cases handled by the agent, not a bankwide cost-cutting figure or proof that every case should be automated.</p>
-<p><span style="font-weight:bold">Host:</span> The large-bank decision is whether servicing automation should be judged by deflection or completed customer outcome. If the system closes tickets while customers reopen them, it is fake efficiency. If it resolves the task, preserves compliance-sensitive human review, and lowers repeat contact, it starts to change staffing and vendor choice.</p>
-<p><span style="font-weight:bold">Co-host:</span> What limitation matters most?</p>
-<p><span style="font-weight:bold">Host:</span> The handoff boundary. Pockit still keeps humans for disputes, account-review outcomes, restricted-account questions, and other compliance-sensitive decisions. That is the control worth copying: automate context gathering and routine answers, but keep decision accountability where regulation and customer harm are most concentrated.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is also why the row is production but not a victory lap. The disclosed numbers are useful, and the customer is named, but a bank would still want complaint trends, escalation quality, and repeat-contact data before treating the model as a permanent staffing substitute.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, the story advanced overnight because China answered Anthropic&#x27;s safety argument. AP reports China&#x27;s Foreign Ministry on Monday criticized Dario Amodei&#x27;s call for continued restrictions on advanced AI chips and chipmaking equipment to China.</p>
-<p><span style="font-weight:bold">Co-host:</span> What bar does that clear?</p>
-<p><span style="font-weight:bold">Host:</span> Policy that could bind labs directly, with a safety and infrastructure angle. Amodei argued Saturday for global pacing and said continued export limits were needed to preserve the U.S. AI edge. China responded that fear, confrontation, and vicious competition would disrupt global AI governance.</p>
-<p><span style="font-weight:bold">Host:</span> The measured evidence is thin. This is a diplomatic and lab-leader exchange, not an independent test proving an agent swarm can take over the internet. But the operational change is real: AP says Trump and Xi are expected to discuss AI governance at a September twenty-fourth meeting.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the frontier issue moved from a weekend warning to a U.S.-China agenda item.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. If the discussion produces export controls, evaluator access, or a shared safety forum, model access and chip supply assumptions can change. If it produces only slogans, labs keep racing under national-security pressure. For a regulated bank, the earliest use is still controlled pilots, gated by model-risk review and security approval before agents touch systems or customer data.</p>
-<p><span style="font-weight:bold">Co-host:</span> The constraint is that geopolitical pressure can make every vendor roadmap sound urgent. Banks should separate national strategy from deployment readiness: a model can matter strategically and still be nowhere near approved for payments, code changes, or customer-facing autonomy.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets start the week around the Fed, oil risk, and AI leadership. Friday&#x27;s tape gave stocks a relief bid, but the bond market still matters more for mortgages and rate-sensitive companies. The question is whether traders price a credible inflation turn before Wednesday&#x27;s Fed decision.</p>
-<p><span style="font-weight:bold">Co-host:</span> Watch breadth, not just the big AI names. If rates stay high and only the largest technology stocks hold up, the economy beneath the index still looks strained.</p>
-<p><span style="font-weight:bold">Host:</span> The mortgage read-through is direct. A stock rally can improve sentiment, but loan pricing still follows Treasury yields and mortgage-backed-security spreads. If the Fed message keeps long rates sticky, a better equity tape will not rescue borrowers who need today&#x27;s payment to qualify.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> For Columbus weather, today looks like the usable day. The local forecast calls for a cooler, less humid Monday with clouds and sun, then warmer conditions Tuesday. Keep an eye on midweek rain chances before locking outdoor work or evening plans.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items for the next few days. One, whether the Supreme Court leaves the mail-ballot injunctions in place before more ballots go out. Two, whether post-Fed mortgage pricing falls enough to activate refi-retention planning. Three, whether the September twenty-fourth Trump-Xi meeting produces an AI governance mechanism or only positioning.</p>
-<p><span style="font-weight:bold">Co-host:</span> That gives the week a clean test: court timing, rate timing, and whether AI safety becomes policy.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Monday, September 14th. Have a good morning, and keep your next decision tied to the newest operating fact.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Monday, September 14, 2026</title>
+    <description>Your Morning Brief for Monday, September 14, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-14_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-14_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-14_morning-brief.mp3" length="13012391" type="audio/mpeg"/>
@@ -1054,18 +1073,6 @@
     <itunes:duration>00:12:22</itunes:duration>
     <itunes:episode>20260826</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-08-26</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Tuesday, August 25, 2026</title>
-    <description>Your Morning Brief for Tuesday, August 25, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-08-25_morning-brief.mp3" length="12483117" type="audio/mpeg"/>
-    <pubDate>Tue, 25 Aug 2026 03:48:22 -0600</pubDate>
-    <itunes:duration>00:13:00</itunes:duration>
-    <itunes:episode>20260825</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-08-25</guid>
   </item>
 </channel>
 </rss>
