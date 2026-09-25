@@ -1,0 +1,193 @@
+{
+  "script": "2026-09-25_morning-brief-script.md",
+  "script_sha256": "b4168c8ef625255994f29db24b641230c8a23a722ac9f3fda3f63c48d66e974c",
+  "checked_at": "2026-09-25T01:48:11-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.fidelity.com/news/article/us-markets/202609241600RTRSNEWSCOMBINED_L6N45G17A_1",
+      "characters": 6971
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=",
+      "characters": 10166
+    },
+    {
+      "url": "https://columbus.legistar.com/Calendar.aspx",
+      "characters": 1975
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/bnp-paribas-and-google-cloud-announce-new-partnership-on-agentic-ai-and-cloud-innovation-302888664.html",
+      "characters": 16465
+    },
+    {
+      "url": "https://www.prnewswire.com/in/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888316.html",
+      "characters": 13247
+    },
+    {
+      "url": "https://consumeraisafety.com/benchmarks/confaide",
+      "characters": 10483
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 56149
+    },
+    {
+      "url": "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text",
+      "characters": 40333
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078",
+      "characters": 4324
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246",
+      "error": "page body was only 3 characters",
+      "reason": "Reuters summit takeaways page was readable in web search/browser context but local curl returned a three-character body; national claims were verified from the Reuters text surfaced there."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae page was verified through search/browser text but local curl returned a Cloudflare challenge; the same page is cited for the November 1 rental-income implementation date."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae policy-communications page was verified through search/browser text but local curl can return a Cloudflare challenge; it corroborates the September Selling Guide rental-income update."
+    }
+  ],
+  "claims_checked": 56,
+  "claims_supported": 35,
+  "claims_excepted": [
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "Reuters said the S&P 500 ended almost unchanged Thursday, the Nasdaq was nearly flat, and the Dow fell about a third of a percent.",
+      "reason": "Parser extracted the 500 portion of S&P 500; Reuters market source supports S&P 500, Nasdaq and Dow close context."
+    },
+    {
+      "claim": "71",
+      "kind": "number",
+      "example": "The current forecast shows clear conditions around the morning, then luminous sunshine and a pleasant high near 71.",
+      "reason": "Columbus forecast high was checked against the NWS forecast page at cutoff; the page updates dynamically and may not retain the same value in local fetch."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added BNP Paribas and Google Cloud to the deployment ledger.",
+      "reason": "Parser artifact from the phrase 'For AI in Banking, I added'; AI in Banking is a show chapter and BNP Paribas/Google Cloud are supported by the cited release."
+    },
+    {
+      "claim": "Did Fannie Mae",
+      "kind": "name",
+      "example": "Did Fannie Mae expand who qualifies, or is this mostly documentation?",
+      "reason": "Parser artifact caused by a question beginning with Did; Fannie Mae is supported by the cited policy pages."
+    },
+    {
+      "claim": "FAQs",
+      "kind": "name",
+      "example": "Whether Fannie publishes more FAQs before November 1, and whether aggregators or investors issue overlays that make the transition stricter than the base guide.",
+      "reason": "Generic implementation watch term; Fannie Mae source page references FAQs and Ask Poli support for income policy updates."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today: the China summit leaves companies with a longer clock but not a settled rulebook, Columbus puts data-center utility costs on Monday's agenda, Fannie Mae gives lenders a rental-income deadline, and a new AI privacy test shows why high scores still need context.",
+      "reason": "Fannie Mae policy pages were verified through browser/search text but local curl was blocked by Cloudflare; cited pages support the rental-income implementation statements."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "Reuters said the S&P 500 ended almost unchanged Thursday, the Nasdaq was nearly flat, and the Dow fell about a third of a percent.",
+      "reason": "Reuters market source supports S&P 500 close context; parser split the index name."
+    },
+    {
+      "claim": "Selling Guide",
+      "kind": "name",
+      "example": "Fannie Mae says its September Selling Guide update reorganized and clarified rental-income requirements, and lenders may apply the September changes now but must do so no later than November 1.",
+      "reason": "Fannie Mae source pages support the September Selling Guide rental-income update; local curl to Fannie Mae was blocked by Cloudflare."
+    },
+    {
+      "claim": "Taiwan",
+      "kind": "name",
+      "example": "Reuters reported Thursday that the clearest result was still the two-month extension of the U.S.-China trade truce, while tariffs, rare earths, Taiwan language and technology restrictions were pushed into the next round.",
+      "reason": "Reuters summit takeaways source surfaced in web context supports Taiwan as one of the unsettled summit issues; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Taiwanese",
+      "kind": "name",
+      "example": "If a contract depends on Chinese inputs, Taiwanese production, or restricted U.S.",
+      "reason": "Inference from Taiwan and chip-supply-chain exposure in the Reuters summit context; the sentence discusses contract dependency rather than a new standalone fact."
+    },
+    {
+      "claim": "Treasuries",
+      "kind": "name",
+      "example": "For housing, the screen is still whether Treasuries and mortgage-backed securities improve enough to reach rate sheets.",
+      "reason": "Market inference based on mortgage-rate mechanics; the script does not assert a sourced Treasury quote for Treasuries beyond Reuters' reported yield pressure."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "Treasury yields rose, with the 30-year yield reaching its highest level since 2004, and Middle East uncertainty kept oil in focus.",
+      "reason": "Reuters/Fidelity market source supports Treasury yield pressure and the national story uses Treasury as the responsible U.S. department to watch for follow-up."
+    },
+    {
+      "claim": "Treasury Commerce and Beijing",
+      "kind": "name",
+      "example": "Watch written follow-up from Treasury, Commerce and Beijing, because press-conference tone will not tell a supply-chain manager which shipment clears, which license applies, or which January deadline is real.",
+      "reason": "Forward-looking watch item naming plausible official sources for follow-up, not a claim that the cited article named all three together."
+    },
+    {
+      "claim": "Trump-Xi",
+      "kind": "name",
+      "example": "Start nationally with what the Trump-Xi summit did not settle.",
+      "reason": "Reuters summit source supports the Trump-Xi meeting; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "Reuters reported Thursday that the clearest result was still the two-month extension of the U.S.-China trade truce, while tariffs, rare earths, Taiwan language and technology restrictions were pushed into the next round.",
+      "reason": "Reuters summit source supports the U.S.-China truce and unresolved issues; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Whether Fannie",
+      "kind": "name",
+      "example": "Whether Fannie publishes more FAQs before November 1, and whether aggregators or investors issue overlays that make the transition stricter than the base guide.",
+      "reason": "Parser artifact caused by a sentence beginning with Whether; Fannie Mae source pages support the implementation watch."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "It is the absence of one after the White House meeting?",
+      "reason": "Reuters summit context supports the White House meeting; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Yes",
+      "kind": "name",
+      "example": "So the useful result is less \"which model won\" and more \"what kind of privacy mistake is being tested.\" Yes.",
+      "reason": "Parser artifact from a sentence transition, not a factual claim."
+    },
+    {
+      "claim": "Zhipu GLM",
+      "kind": "name",
+      "example": "Claude Opus 5.5 with medium reasoning and Zhipu's GLM 5.3 Flash with high reasoning both scored 98.62, while GPT-6 Sol with medium reasoning scored 98.37.",
+      "reason": "ConfAIde source names Zhipu AI GLM 5.3 Flash; parser collapsed the provider and model."
+    },
+    {
+      "claim": "the China",
+      "kind": "name",
+      "example": "Today: the China summit leaves companies with a longer clock but not a settled rulebook, Columbus puts data-center utility costs on Monday's agenda, Fannie Mae gives lenders a rental-income deadline, and a new AI privacy test shows why high scores still need context.",
+      "reason": "Parser artifact from the phrase 'the China summit'; Reuters summit source supports the China summit context."
+    },
+    {
+      "claim": "the Nasdaq",
+      "kind": "name",
+      "example": "Reuters said the S&P 500 ended almost unchanged Thursday, the Nasdaq was nearly flat, and the Dow fell about a third of a percent.",
+      "reason": "Reuters/Fidelity market source supports Nasdaq close context; parser retained the article as part of the claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

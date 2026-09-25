@@ -1,55 +1,37 @@
-# Story Tracker - updated 2026-09-24
+# Story Tracker - updated 2026-09-25
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## ACA Marketplace Cleanup
-- Last covered / verified development: 2026-09-23; AP reported more than 760,000 people were removed from ACA marketplace coverage this year during a broker-fraud cleanup, with 850 brokers and agents suspended and about $2.2 billion in claimed savings.
-- Last takeaway: Fraud cleanup is operationally useful only if appeal and reinstatement data show eligible households are not losing coverage by mistake.
-- Source: https://apnews.com/
-- Revisit only for: CMS appeal/reinstatement data, state exchange complaints, insurer coverage-gap evidence, broker enforcement update, lawsuit, or published due-process fix. Expire September 28 without a development.
+## U.S.-China Trade And AI Follow-Up
+- Last covered / verified development: 2026-09-25; Reuters reported the Trump-Xi summit left the two-month trade-truce extension as the clearest result while tariffs, rare earths, Taiwan language and technology restrictions remained unresolved.
+- Last takeaway: The summit lengthened the planning clock but did not settle procurement, export-control, chip, rare-earth or Taiwan-risk operating rules.
+- Source: https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246
+- Revisit only for: Treasury, Commerce, White House, Beijing or Reuters/AP confirmation of enforceable terms, affected goods, chip-export language, rare-earth commitments, Taiwan arms-sales language, Iran-war linkage, or a changed January 10 truce deadline. Expire September 30 without a development.
 
-## Columbus E-Bike And Scooter Rules
-- Last covered / verified development: 2026-09-23; NBC4 reported Columbus leaders are advancing rules for e-bikes, scooters and similar devices, including enforcement around sidewalk and traffic behavior.
-- Last takeaway: The useful local test is whether Columbus can reduce sidewalk conflict without making short car-replacement trips impractical.
-- Source: https://www.nbc4i.com/news/local-news/columbus/
-- Revisit only for: final ordinance language, council vote, citation schedule, campus/downtown enforcement plan, delivery-worker exemption or backlash from mobility groups. Expire September 28 without a development.
+## Columbus Large-Load Utility Rates
+- Last covered / verified development: 2026-09-25; Columbus file 2560-2026 is on the September 28 council agenda and would require Columbus Water and Power to establish peak rates, fees or charges for large-load/high-volume users.
+- Last takeaway: The useful local test is whether Columbus prices peak demand and infrastructure capacity instead of shifting large-load costs to residential and small-commercial customers.
+- Source: https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=
+- Revisit only for: September 28 council result, a CWP rate proposal, Utility Advisory Board detail, demand-charge design, minimum-bill formula, industry pushback, or resident-rate analysis. Expire October 1 without a development.
 
-## Fannie Mae MBS Disclosure Enhancements
-- Last covered / verified development: 2026-09-23; Fannie Mae announced MBS disclosure enhancements dated September 22, affecting loan-level information investors use to price and monitor agency pools.
-- Last takeaway: A disclosure update becomes a lender operations issue when delivery data, QC sampling and aggregator handoffs must support investor-facing pool attributes.
-- Source: https://singlefamily.fanniemae.com/news-events
-- Revisit only for: implementation date detail, lender-delivery instruction, investor response, aggregator bulletin, data-quality warning, or Fannie clarification. Expire September 28 without a development.
+## Fannie Mae Rental-Income Implementation
+- Last covered / verified development: 2026-09-25; Fannie Mae says September rental-income changes may be applied immediately and must be applied no later than November 1, 2026.
+- Last takeaway: Rental-income files need training, worksheets, LOS aids, QC and investor-overlay checks before mandatory use.
+- Source: https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified
+- Revisit only for: Fannie FAQ or Ask Poli update, investor/aggregator overlay, lender bulletin, November 1 cutover issue, or a clarified policy change affecting qualifying income. Expire October 1 unless implementation guidance changes.
 
-## Deutsche Bank KYC AI Proof Of Concept
-- Last covered / verified development: 2026-09-23; Deutsche Bank and Google Cloud disclosed a KYC document-review and risk-summary proof of concept for compliance analysts.
-- Last takeaway: The KYC value case turns on source traceability and measured analyst corrections, not a generic claim that AI speeds paperwork.
-- Source: https://cloud.google.com/customers/deutsche-bank-ai-kyc
-- Revisit only for: production rollout, live volume, cycle-time baseline, analyst correction rate, false-negative or audit finding, regulator comment, or named control design. Expire September 28 without a development.
+## BNP Paribas / Google Cloud AI Partnership
+- Last covered / verified development: 2026-09-25; BNP Paribas and Google Cloud announced a five-year partnership to expand Gemini Enterprise and Gemini model access, including planned LLM@CIB integration and agentic-AI use cases in Corporate and Institutional Banking.
+- Last takeaway: The operating question is measured CIB task evidence, not partnership length or vendor branding.
+- Source: https://www.prnewswire.com/news-releases/bnp-paribas-and-google-cloud-announce-new-partnership-on-agentic-ai-and-cloud-innovation-302888664.html
+- Revisit only for: named CIB task volume, production status, human review rate, error rate, compliance review metric, regulator comment, or customer outcome disclosure. Expire September 30 without a development.
 
-## Alibaba Full-Stack AI Roadmap
-- Last covered / verified development: 2026-09-23; Alibaba Cloud laid out a full-stack AI roadmap covering Qwen models, agent tooling, cloud capacity and custom infrastructure.
-- Last takeaway: The frontier question is whether an integrated model-cloud-chip stack can deliver real enterprise workload economics, not whether a conference roadmap sounds large.
-- Source: https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1
-- Revisit only for: independent Qwen benchmark replication, chip availability detail, pricing/access change, enterprise customer metric, or export-control response. Expire September 28 without a development.
-
-## Trump-Xi Trade And AI Summit
-- Last covered / verified development: 2026-09-24; AP reported Trump and Xi were set to meet at the White House after the two countries extended a trade truce, previously set to expire November 10, by two months.
-- Last takeaway: The useful business signal is written commitments on chips, rare earths, Iran pressure, Taiwan language and the deadline, not cordial summit tone.
-- Source: https://gmg-kprc-prod.cdn.arcpublishing.com/business/2026/09/24/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/
-- Revisit only for: signed statement, chip-export change, rare-earth commitment, Taiwan arms-sales language, Iran-war commitment, tariff deadline change, or market-moving breakdown. Expire September 29 without a development.
-
-## Mortgage ARM Share At 7 Percent
-- Last covered / verified development: 2026-09-24; MBA reported applications fell 1.5% for the week ending September 18, the 30-year fixed conforming rate reached 7.12%, and the ARM share rose to 9.8%.
-- Last takeaway: The operational story is ARM counseling and suitability, not just rate shock.
-- Source: https://www.mba.org/news-and-research/newsroom/news/2026/09/23/mortgage-applications-decrease-in-latest-mba-weekly-survey
-- Revisit only for: next MBA ARM-share move, fixed-rate retreat below 7%, investor/lender ARM bulletin, builder buydown evidence, borrower complaint data, or secondary pricing change. Expire September 29 without a development.
-
-## OpenAI And Anthropic Model Cost Shift
-- Last covered / verified development: 2026-09-24; OpenAI released GPT-6 Sol and Luna in the API with published pricing on September 22, and Anthropic introduced Claude Opus 5.5 the same day with a claimed 40% lower running cost than Opus 5.
-- Last takeaway: The buyer question is total cost per completed task, not token price alone.
-- Source: https://developers.openai.com/api/docs/changelog
-- Revisit only for: independent cost-per-task benchmark, external evaluator publication, enterprise access change, pricing revision, safety card correction, or material user-reported regression. Expire September 29 without a development.
+## ConfAIde Privacy Benchmark
+- Last covered / verified development: 2026-09-25; Prosaic Intelligence published ConfAIde privacy-sharing error-rate scores for fourteen API model configurations, with the score feed noting no measurement dates, sample sizes or confidence intervals.
+- Last takeaway: ConfAIde is most useful as a privacy-failure test pattern for sensitive copilots, not as a hard model ranking separated by tenths of a point.
+- Source: https://consumeraisafety.com/benchmarks/confaide
+- Revisit only for: methodology update, confidence intervals, app-level replication, new model set, material score change, or bank-specific privacy testing. Expire September 30 without a development.
 
 ## Retired From Automatic Carryover
 
-White House press access unless appeal, stay, credential-policy rewrite, final injunction ruling, restored access confirmation, or another outlet-specific denial occurs; Columbus rainy-day budget unless council hearing detail, revised budget number, auditor/bond-rating reaction, named cuts or fees, or a formal reserve-replenishment plan appears; Freddie Mac UAD appraisal mandate unless lender or AMC cutover instructions, Fannie/Freddie clarification, UCDP readiness notice, appraiser software issue, or deadline modification appears; Fannie Mae Multifamily Document Updates unless lender closing instructions, correction, extension, borrower-counsel issue, post-closing cure guidance, or commitment delay evidence appears; Societe Generale AI savings target unless measured workflow result, Anthropic implementation scope, IT-operations baseline, regulator comment, or separated AI-savings disclosure appears; Danske Bank / Mastercard agentic payment unless issuer volume, fraud/dispute metrics, consumer opt-in flow, regulator comment, production rollout date, or another bank live-use disclosure appears; U.S.-China AI incident proposal unless a written mechanism, joint statement, defined incident scope, lab/cloud provider reporting duty, export-control change, or talks-ending confirmation appears; Grok 4.7 unless independent coding-agent evaluation, model-card correction, pricing change, regional-endpoint compliance update, or customer task-cost evidence appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
+ACA marketplace cleanup unless CMS appeal/reinstatement data, state exchange complaints, insurer coverage-gap evidence, broker enforcement update, lawsuit, or published due-process fix appears; Columbus e-bike and scooter rules unless final ordinance language, council vote, citation schedule, campus/downtown enforcement plan, delivery-worker exemption or mobility backlash appears; Fannie Mae MBS disclosure enhancements unless implementation date detail, lender-delivery instruction, investor response, aggregator bulletin, data-quality warning, or Fannie clarification appears; Deutsche Bank KYC AI proof of concept unless production rollout, live volume, cycle-time baseline, analyst correction rate, false-negative or audit finding, regulator comment, or named control design appears; Alibaba AI roadmap unless independent Qwen benchmark replication, chip availability detail, pricing/access change, enterprise customer metric, or export-control response appears; MBA ARM share unless the next MBA survey, a fixed-rate retreat below 7%, investor/lender ARM bulletin, builder buydown evidence, borrower complaint data, or secondary-pricing change appears; OpenAI/Anthropic model cost shift unless independent cost-per-task benchmark, external evaluator publication, enterprise access change, pricing revision, safety-card correction, or material user-reported regression appears; Franklin County snow readiness unless route priorities, staffing, salt inventory, first storm response, or advisory-level road performance appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.

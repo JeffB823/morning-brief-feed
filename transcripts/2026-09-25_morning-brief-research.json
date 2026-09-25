@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-25",
+  "cutoff": "2026-09-25T01:43:55-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-18_morning-brief-script.md",
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md",
+    "2026-09-22_morning-brief-script.md",
+    "2026-09-23_morning-brief-script.md",
+    "2026-09-24_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "trump-xi-summit-unresolved",
+      "beat": "national",
+      "event_date": "2026-09-24",
+      "source": "https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246",
+      "decision": "selected",
+      "rationale": "Fresh summit-after action with a different takeaway from yesterday: extension without settlement leaves compliance and supply-chain decisions unresolved."
+    },
+    {
+      "id": "columbus-large-load-rates",
+      "beat": "columbus",
+      "event_date": "2026-09-25",
+      "source": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=",
+      "decision": "selected",
+      "rationale": "Agenda item is now the practical local trigger for Monday; it ties data centers, industrial demand and household utility cost allocation."
+    },
+    {
+      "id": "fannie-rental-income-implementation",
+      "beat": "home_lending",
+      "event_date": "2026-09-24",
+      "source": "https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified",
+      "decision": "selected",
+      "rationale": "Specific loan workflow change with immediate optional use and a November 1 mandatory implementation date."
+    },
+    {
+      "id": "bnp-google-agentic-ai",
+      "beat": "bank_ai",
+      "event_date": "2026-09-24",
+      "source": "https://www.prnewswire.com/news-releases/bnp-paribas-and-google-cloud-announce-new-partnership-on-agentic-ai-and-cloud-innovation-302888664.html",
+      "decision": "selected",
+      "rationale": "Named bank, named cloud partner, named division and dated five-year AI partnership; changes the bank AI ledger."
+    },
+    {
+      "id": "feedzai-farol-fraud-agent",
+      "beat": "bank_ai",
+      "event_date": "2026-09-24",
+      "source": "https://www.prnewswire.com/in/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888316.html",
+      "decision": "rejected",
+      "rationale": "Fresh and relevant, but vendor-led and less institution-specific than BNP Paribas; may be revisited if SEB or another bank discloses measured fraud-investigation results."
+    },
+    {
+      "id": "confaide-privacy-benchmark",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-25",
+      "source": "https://consumeraisafety.com/benchmarks/confaide",
+      "decision": "selected",
+      "rationale": "Fresh benchmark/safety-evaluation item with concrete model scores and limitations useful to regulated enterprise buyers."
+    },
+    {
+      "id": "thursday-market-yields",
+      "beat": "markets",
+      "event_date": "2026-09-24",
+      "source": "https://www.fidelity.com/news/article/us-markets/202609241600RTRSNEWSCOMBINED_L6N45G17A_1",
+      "decision": "selected compact",
+      "rationale": "Fresh market context; useful mainly as rate/oil pressure, not a main story."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "event_date": "2026-09-25",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078",
+      "decision": "selected compact",
+      "rationale": "Official local weather for practical planning; not counted toward freshness minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "trump-xi-summit-unresolved",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246",
+        "https://www.fidelity.com/news/article/us-markets/202609241600RTRSNEWSCOMBINED_L6N45G17A_1"
+      ],
+      "new_fact": "Reuters reported the Trump-Xi summit left the two-month truce extension as the clearest outcome while tariffs, rare earths, Taiwan and technology restrictions remained unresolved.",
+      "new_takeaway": "Companies get a longer clock but not a settled operating rulebook for procurement, licenses, inventory and export-control decisions.",
+      "why_now": "The summit occurred September 24 and the morning-after practical question is what actually changed after the meeting.",
+      "previous_coverage": "September 24 previewed the summit and truce extension before outcomes were known; today's segment uses the lack of settlement as the new fact and shifts the takeaway to post-meeting operating ambiguity.",
+      "uncertainty": "Follow-up agency statements or Chinese official releases could add enforceable commitments after cutoff.",
+      "watch": "Treasury, Commerce or Beijing publication naming goods, chip categories, rare-earth handling, Taiwan language or the January 10 truce date.",
+      "carryover": true
+    },
+    {
+      "id": "columbus-large-load-rates",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=",
+        "https://columbus.legistar.com/Calendar.aspx"
+      ],
+      "new_fact": "Columbus file 2560-2026 is listed on the September 28 council agenda and would require Columbus Water and Power to establish peak rates, fees or charges for large-load or high-volume users.",
+      "new_takeaway": "The local issue is cost causation: whether data centers and other high-volume users pay for peak infrastructure instead of shifting costs to flatter residential and small-commercial demand.",
+      "why_now": "The agenda is the upcoming Monday action point after the ordinance's first reading; Friday listeners can watch the vote before the weekend passes.",
+      "previous_coverage": "September 18 covered the guardrail proposal; this is a narrower agenda-trigger update with more detail on demand charges, rate classes and the Home Road capacity issue.",
+      "uncertainty": "Council approval would direct CWP to produce a proposal; it would not itself set final rates.",
+      "watch": "September 28 council vote and the rate proposal CWP brings back with tiered charges, demand charges, minimum bills or contracted-capacity assumptions."
+    },
+    {
+      "id": "fannie-rental-income-implementation",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified",
+        "https://singlefamily.fanniemae.com/selling-policy-communications"
+      ],
+      "new_fact": "Fannie Mae says lenders may apply September rental-income changes immediately but must do so no later than November 1, 2026.",
+      "new_takeaway": "Rental-income qualification becomes an implementation and QC workflow issue: update training, worksheets, bookmarked guide sections and LOS aids before mandatory use.",
+      "why_now": "The September page and policy communications were updated after the September Selling Guide update, and the mandatory implementation window is active.",
+      "previous_coverage": "Recent lending segments covered ARM counseling, MBS disclosure and appraisal/document updates; no recent episode led with rental-income review implementation.",
+      "uncertainty": "The public page summarizes changes; exact file impacts require lenders to compare the Selling Guide text and any investor overlays.",
+      "watch": "Fannie Mae FAQs, Ask Poli updates, aggregator overlays or investor bulletins before November 1."
+    },
+    {
+      "id": "bnp-google-agentic-ai",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/bnp-paribas-and-google-cloud-announce-new-partnership-on-agentic-ai-and-cloud-innovation-302888664.html",
+        "https://www.prnewswire.com/in/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888316.html"
+      ],
+      "new_fact": "BNP Paribas and Google Cloud announced a five-year partnership to expand BNP Paribas access to Google Cloud infrastructure, Gemini Enterprise and Gemini models, with initial CIB use cases including LLM@CIB and agentic AI.",
+      "new_takeaway": "At a large bank, the decision changes platform approval and vendor concentration more than it proves productivity; measured CIB task outcomes are still missing.",
+      "why_now": "The partnership was announced September 24.",
+      "previous_coverage": "Recent bank AI segments covered Paywhere, Deutsche Bank KYC and Mastercard/Danske payments; this moves to CIB knowledge work and cloud/model platform approval.",
+      "uncertainty": "No baseline or measured result was disclosed for analyst time saved, errors, compliance review time, trade-support quality or customer outcomes.",
+      "watch": "Named CIB task volume, human review rate, error rate, production status and whether Gemini changes a bank decision or only drafts work faster.",
+      "ledger_row_changed": "Added BNP Paribas / Google Cloud, CIB generative and agentic AI platform expansion, announced status, company-claim evidence."
+    },
+    {
+      "id": "confaide-privacy-benchmark",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://consumeraisafety.com/benchmarks/confaide",
+        "https://developers.openai.com/api/docs/changelog",
+        "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text"
+      ],
+      "new_fact": "Prosaic Intelligence published ConfAIde data on privacy-sharing error rates for fourteen API model configurations, including Claude Opus 5.5, GLM 5.3 Flash, GPT-6 Sol and GPT-6 Astra.",
+      "new_takeaway": "The benchmark is more useful as a privacy-failure test pattern than as a hard model ranking because the score-only feed omits measurement dates, sample sizes and confidence intervals.",
+      "why_now": "The benchmark page reports data published September 25, 2026.",
+      "previous_coverage": "September 24 covered OpenAI and Anthropic pricing/access; this uses a fresh safety benchmark and a different takeaway about privacy-sensitive enterprise copilots.",
+      "uncertainty": "The results are single-turn API configuration tests and do not establish behavior inside consumer apps or enterprise systems with custom prompts, tools and permissions.",
+      "watch": "Methodology updates, confidence intervals, app-level replications or bank-specific privacy test suites.",
+      "frontier_bar": "Benchmark or evaluation that changed how models are compared, with safety/privacy evidence."
+    },
+    {
+      "id": "markets-yields-oil",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://www.fidelity.com/news/article/us-markets/202609241600RTRSNEWSCOMBINED_L6N45G17A_1"
+      ],
+      "new_fact": "Reuters reported the S&P 500 ended nearly unchanged Thursday, Nasdaq was nearly flat, Dow fell about one-third of a percent, and the 30-year Treasury yield reached its highest since 2004.",
+      "new_takeaway": "The practical pressure remains long yields and oil, which feed into mortgage rates, municipal borrowing, utility capacity and AI infrastructure finance.",
+      "why_now": "Thursday's market close is the latest available market context before Friday morning.",
+      "previous_coverage": "Recent scripts connected markets to rates and AI infrastructure; this is kept compact and not counted toward freshness.",
+      "uncertainty": "Friday trading and subsequent policy comments can change the market signal quickly.",
+      "watch": "Oil, long Treasury yields, MBS pricing and any U.S.-China follow-up that affects risk appetite."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078"
+      ],
+      "new_fact": "The Columbus forecast called for a clear morning, sunshine, a high near 71, a mid-40s overnight low and a sunny Saturday near 74.",
+      "new_takeaway": "Layers early and outdoor windows later are the useful planning moves.",
+      "why_now": "Weather is current for Friday morning planning.",
+      "previous_coverage": "September 24 covered a clearer, cool day; this is routine local planning.",
+      "uncertainty": "Local forecast pages update throughout the morning.",
+      "watch": "Any change to weekend sunshine or morning lows in later NWS updates."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246",
+      "reason": "Reuters summit takeaways page was readable in web search/browser context but local curl returned a three-character body; national claims were verified from the Reuters text surfaced there."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified",
+      "reason": "Fannie Mae page was verified through search/browser text but local curl returned a Cloudflare challenge; the same page is cited for the November 1 rental-income implementation date."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "reason": "Fannie Mae policy-communications page was verified through search/browser text but local curl can return a Cloudflare challenge; it corroborates the September Selling Guide rental-income update."
+    },
+    {
+      "claim": "https://forecast.weather.gov/MapClick.php?lat=40.078&lon=-83.078",
+      "reason": "NWS forecast pages update dynamically and may return variable content; forecast values were checked at cutoff."
+    },
+    {
+      "claim": "500",
+      "reason": "Parser extracted the 500 portion of S&P 500; Reuters market source supports S&P 500, Nasdaq and Dow close context."
+    },
+    {
+      "claim": "71",
+      "reason": "Columbus forecast high was checked against the NWS forecast page at cutoff; the page updates dynamically and may not retain the same value in local fetch."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Parser artifact from the phrase 'For AI in Banking, I added'; AI in Banking is a show chapter and BNP Paribas/Google Cloud are supported by the cited release."
+    },
+    {
+      "claim": "Did Fannie Mae",
+      "reason": "Parser artifact caused by a question beginning with Did; Fannie Mae is supported by the cited policy pages."
+    },
+    {
+      "claim": "FAQs",
+      "reason": "Generic implementation watch term; Fannie Mae source page references FAQs and Ask Poli support for income policy updates."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Fannie Mae policy pages were verified through browser/search text but local curl was blocked by Cloudflare; cited pages support the rental-income implementation statements."
+    },
+    {
+      "claim": "S&P",
+      "reason": "Reuters market source supports S&P 500 close context; parser split the index name."
+    },
+    {
+      "claim": "Selling Guide",
+      "reason": "Fannie Mae source pages support the September Selling Guide rental-income update; local curl to Fannie Mae was blocked by Cloudflare."
+    },
+    {
+      "claim": "Taiwan",
+      "reason": "Reuters summit takeaways source surfaced in web context supports Taiwan as one of the unsettled summit issues; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Taiwanese",
+      "reason": "Inference from Taiwan and chip-supply-chain exposure in the Reuters summit context; the sentence discusses contract dependency rather than a new standalone fact."
+    },
+    {
+      "claim": "Treasuries",
+      "reason": "Market inference based on mortgage-rate mechanics; the script does not assert a sourced Treasury quote for Treasuries beyond Reuters' reported yield pressure."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Reuters/Fidelity market source supports Treasury yield pressure and the national story uses Treasury as the responsible U.S. department to watch for follow-up."
+    },
+    {
+      "claim": "Treasury Commerce and Beijing",
+      "reason": "Forward-looking watch item naming plausible official sources for follow-up, not a claim that the cited article named all three together."
+    },
+    {
+      "claim": "Trump-Xi",
+      "reason": "Reuters summit source supports the Trump-Xi meeting; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "U.S.-China",
+      "reason": "Reuters summit source supports the U.S.-China truce and unresolved issues; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Whether Fannie",
+      "reason": "Parser artifact caused by a sentence beginning with Whether; Fannie Mae source pages support the implementation watch."
+    },
+    {
+      "claim": "White House",
+      "reason": "Reuters summit context supports the White House meeting; local curl to the Reuters mirror was unreadable."
+    },
+    {
+      "claim": "Yes",
+      "reason": "Parser artifact from a sentence transition, not a factual claim."
+    },
+    {
+      "claim": "Zhipu GLM",
+      "reason": "ConfAIde source names Zhipu AI GLM 5.3 Flash; parser collapsed the provider and model."
+    },
+    {
+      "claim": "the China",
+      "reason": "Parser artifact from the phrase 'the China summit'; Reuters summit source supports the China summit context."
+    },
+    {
+      "claim": "the Nasdaq",
+      "reason": "Reuters/Fidelity market source supports Nasdaq close context; parser retained the article as part of the claim."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "b4168c8ef625255994f29db24b641230c8a23a722ac9f3fda3f63c48d66e974c"
+  }
+}
