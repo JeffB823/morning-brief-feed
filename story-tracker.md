@@ -1,4 +1,4 @@
-# Story Tracker - updated 2026-09-25
+# Story Tracker - updated 2026-09-26
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
@@ -14,11 +14,17 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=
 - Revisit only for: September 28 council result, a CWP rate proposal, Utility Advisory Board detail, demand-charge design, minimum-bill formula, industry pushback, or resident-rate analysis. Expire October 1 without a development.
 
-## Fannie Mae Rental-Income Implementation
-- Last covered / verified development: 2026-09-25; Fannie Mae says September rental-income changes may be applied immediately and must be applied no later than November 1, 2026.
-- Last takeaway: Rental-income files need training, worksheets, LOS aids, QC and investor-overlay checks before mandatory use.
-- Source: https://singlefamily.fanniemae.com/originating-underwriting/income-assessment-simplified
-- Revisit only for: Fannie FAQ or Ask Poli update, investor/aggregator overlay, lender bulletin, November 1 cutover issue, or a clarified policy change affecting qualifying income. Expire October 1 unless implementation guidance changes.
+## SAVE Voter-Database Use
+- Last covered / verified development: 2026-09-26; the Supreme Court stayed a district-court order in Department of Homeland Security v. League of Women Voters, allowing modified SAVE use while litigation continues.
+- Last takeaway: The operational issue is individualized checks, voter notice and correction paths during the pre-election window, not a final merits ruling.
+- Source: https://www.law.cornell.edu/supremecourt/text/26A308
+- Revisit only for: state or county SAVE-based voter challenges, a new injunction, Supreme Court merits action, voter-notice guidance, election-office data on flagged records, or a documented correction failure. Expire October 1 without a development.
+
+## Fannie Mae DU September Release
+- Last covered / verified development: 2026-09-26; Fannie Mae implemented DU version 12.1 September changes for casefiles submitted or resubmitted after the evening of September 25.
+- Last takeaway: Lenders need Monday pipeline cleanup for new red flags, ineligible appraisal or rental-income findings, and integration-message changes.
+- Source: https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-release-sept-25-2026
+- Revisit only for: lender or vendor bulletin on production defects, Fannie clarification, material LOS integration issue, appraisal replacement trend, or widespread resubmission/ineligible finding impact. Expire October 1 without a development.
 
 ## BNP Paribas / Google Cloud AI Partnership
 - Last covered / verified development: 2026-09-25; BNP Paribas and Google Cloud announced a five-year partnership to expand Gemini Enterprise and Gemini model access, including planned LLM@CIB integration and agentic-AI use cases in Corporate and Institutional Banking.
@@ -26,11 +32,11 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://www.prnewswire.com/news-releases/bnp-paribas-and-google-cloud-announce-new-partnership-on-agentic-ai-and-cloud-innovation-302888664.html
 - Revisit only for: named CIB task volume, production status, human review rate, error rate, compliance review metric, regulator comment, or customer outcome disclosure. Expire September 30 without a development.
 
-## ConfAIde Privacy Benchmark
-- Last covered / verified development: 2026-09-25; Prosaic Intelligence published ConfAIde privacy-sharing error-rate scores for fourteen API model configurations, with the score feed noting no measurement dates, sample sizes or confidence intervals.
-- Last takeaway: ConfAIde is most useful as a privacy-failure test pattern for sensitive copilots, not as a hard model ranking separated by tenths of a point.
-- Source: https://consumeraisafety.com/benchmarks/confaide
-- Revisit only for: methodology update, confidence intervals, app-level replication, new model set, material score change, or bank-specific privacy testing. Expire September 30 without a development.
+## LoanPro AI Servicing Controls
+- Last covered / verified development: 2026-09-26; LoanPro announced phase-one MCP support for AI-assisted servicing actions under role-based controls and audit trails.
+- Last takeaway: The proof point is whether AI servicing can inherit employee permissions and attribution tightly enough to act on accounts, not only summarize them.
+- Source: https://www.citybiz.co/article/908725/loanpro-unifies-payments-real-time-card-disbursement-and-ai-loan-servicing-on-one-platform-to-lower-servicing-costs/
+- Revisit only for: named lender production volume, exception rate, correction rate, complaint movement, regulator comment, borrower outcome metric, or phase-two borrower-communications release. Expire October 1 without a development.
 
 ## Retired From Automatic Carryover
 

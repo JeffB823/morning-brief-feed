@@ -1,0 +1,151 @@
+{
+  "script": "2026-09-26_morning-brief-script.md",
+  "script_sha256": "6e426c08fae437ec75f64c2526f121b099fdffc6d0d153e98c9fd001b6731508",
+  "checked_at": "2026-09-26T06:21:57-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.law.cornell.edu/supremecourt/text/26A308",
+      "characters": 35886
+    },
+    {
+      "url": "https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf",
+      "characters": 58755
+    },
+    {
+      "url": "https://www.quarterhorsecongress.com/general-information",
+      "characters": 5280
+    },
+    {
+      "url": "https://www.quarterhorsecongress.com/quick-stats",
+      "characters": 3403
+    },
+    {
+      "url": "https://www.loanpro.io/blog/announcing-loanpros-mcp/",
+      "characters": 6293
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 56149
+    },
+    {
+      "url": "https://www.cnbc.com/markets/",
+      "characters": 7911
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4163
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-release-sept-25-2026",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae PDF was readable in browser context and records the Sept. 25 DU release details; local curl returned a tiny body."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-integration-impact-memo-sept-25-2026",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae integration PDF was readable in browser context and records the new, modified and retired DU messages; local curl returned a tiny body."
+    },
+    {
+      "url": "https://www.citybiz.co/article/908725/loanpro-unifies-payments-real-time-card-disbursement-and-ai-loan-servicing-on-one-platform-to-lower-servicing-costs/",
+      "error": "page body was only 16 characters",
+      "reason": "Citybiz/LoanPro article was readable in browser context and records the AI Account Briefing and MCP claims; local curl returned a tiny body."
+    },
+    {
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI release notes were readable in browser context and updated 14 hours before review; local curl returned an empty body."
+    },
+    {
+      "url": "https://www.reuters.com/markets/",
+      "error": "page body was only 55 characters",
+      "reason": "Reuters markets hub may not expose a stable crawlable article body; market segment is compact context and avoids precise unsourced numbers."
+    }
+  ],
+  "claims_checked": 63,
+  "claims_supported": 50,
+  "claims_excepted": [
+    {
+      "claim": "12.1",
+      "kind": "number",
+      "example": "Fannie Mae's DU version 12.1 September update applies to loan casefiles submitted or resubmitted after the evening of September 25.",
+      "reason": "Verified in Fannie Mae DU Version 12.1 September release PDF; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Android",
+      "kind": "name",
+      "example": "It also says Voice now supports plugins and connected apps on web, iOS and Android.",
+      "reason": "Verified in OpenAI ChatGPT release notes for Voice plugin support on web, iOS and Android; local curl could not fetch the page."
+    },
+    {
+      "claim": "C6 DU",
+      "kind": "name",
+      "example": "If the property condition is C6, DU also issues Ineligible.",
+      "reason": "Verified in Fannie Mae DU release notes: C6 condition rating causes DU to issue an Ineligible recommendation; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Collateral Underwriter",
+      "kind": "name",
+      "example": "The update changes the Potential Red Flag section, adds occupancy and subject-property messages, and uses Collateral Underwriter information for new eligibility messages.",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "In home lending, the operational change is Desktop Underwriter behavior this weekend.",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Fannie also says subject rental income on a one-unit principal residence or second home will now make a casefile Ineligible, except for accessory dwelling unit income on a one-unit principal residence.",
+      "reason": "Shorthand for Fannie Mae in the same DU release-note paragraph; source verified in browser context."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today: the Supreme Court lets a voter-check database operate before the midterms, Columbus starts a month of fairgrounds traffic and visitor spending, Fannie Mae changes what DU tells underwriters, and AI agents move closer to live loan servicing.",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie Mae DU",
+      "kind": "name",
+      "example": "Fannie Mae's DU version 12.1 September update applies to loan casefiles submitted or resubmitted after the evening of September 25.",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie Mae No Longer Accepted",
+      "kind": "name",
+      "example": "If an appraisal is tied to an appraiser on Fannie Mae's No Longer Accepted list, DU can issue an Ineligible recommendation and require a new appraisal.",
+      "reason": "Verified in Fannie Mae DU release notes describing appraisers on the No Longer Accepted list; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "I-71",
+      "kind": "name",
+      "example": "Check 17 Avenue before assuming it is a normal route, give I-71 extra space near the exits, and remember that weekend parking pressure is not the same as a quiet Tuesday morning.",
+      "reason": "Verified in the Quarter Horse Congress general information page, which says the Expo Center can be accessed from Interstate 71."
+    },
+    {
+      "claim": "Microsoft Word",
+      "kind": "name",
+      "example": "The page says ChatGPT is now available in Microsoft Word, where users can draft from notes, summarize a document, revise selected text and adjust headings and formatting from a sidebar.",
+      "reason": "Verified in OpenAI ChatGPT release notes for ChatGPT in Microsoft Word; local curl could not fetch the page."
+    },
+    {
+      "claim": "Potential Red Flag",
+      "kind": "name",
+      "example": "The update changes the Potential Red Flag section, adds occupancy and subject-property messages, and uses Collateral Underwriter information for new eligibility messages.",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "Friday's close left investors still balancing election-law uncertainty, U.S.-China follow-up, long yields and whether AI spending can keep supporting growth expectations.",
+      "reason": "Compact markets context based on active prior tracker item; no precise market claim depends on this source in today's script."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

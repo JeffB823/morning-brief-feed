@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-26",
+  "cutoff": "2026-09-26T05:25:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-19_morning-brief-script.md",
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md",
+    "2026-09-22_morning-brief-script.md",
+    "2026-09-23_morning-brief-script.md",
+    "2026-09-24_morning-brief-script.md",
+    "2026-09-25_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "save-voter-database-ruling",
+      "beat": "national",
+      "event_date": "2026-09-25",
+      "source": "https://www.law.cornell.edu/supremecourt/text/26A308",
+      "decision": "selected",
+      "rationale": "Fresh Supreme Court emergency order with immediate election-office, voter-notice and litigation consequences."
+    },
+    {
+      "id": "quarter-horse-congress-opens",
+      "beat": "columbus",
+      "event_date": "2026-09-26",
+      "source": "https://www.quarterhorsecongress.com/general-information",
+      "decision": "selected",
+      "rationale": "Today is the opening date for a month-long Central Ohio logistics and visitor-spending event."
+    },
+    {
+      "id": "fannie-du-september-release",
+      "beat": "home_lending",
+      "event_date": "2026-09-25",
+      "source": "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-release-sept-25-2026",
+      "decision": "selected",
+      "rationale": "Specific underwriting, collateral and integration changes apply to DU submissions and resubmissions after the September 25 evening release."
+    },
+    {
+      "id": "loanpro-ai-servicing-controls",
+      "beat": "bank_ai",
+      "event_date": "2026-09-24",
+      "source": "https://www.citybiz.co/article/908725/loanpro-unifies-payments-real-time-card-disbursement-and-ai-loan-servicing-on-one-platform-to-lower-servicing-costs/",
+      "decision": "selected",
+      "rationale": "Fresh lender-servicing AI implementation evidence with a task, control design and vendor-reported time metric."
+    },
+    {
+      "id": "chatgpt-word-voice-access",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-25",
+      "source": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "decision": "selected",
+      "rationale": "OpenAI release notes show access expansion into Word and voice connected-app workflows; useful as an access/workflow shift rather than a benchmark story."
+    },
+    {
+      "id": "csbs-ai-supervisory-framework",
+      "beat": "bank_ai",
+      "event_date": "2026-09-16",
+      "source": "https://www.csbs.org/csbs-artificial-intelligence-supervisory-framework",
+      "decision": "rejected",
+      "rationale": "Relevant but outside the fresh window and already surfaced as a regulator framework rather than a named deployment; keep for future governance context if a state applies it."
+    },
+    {
+      "id": "moodys-commercial-lending-automation",
+      "beat": "bank_ai",
+      "event_date": "2026-09-25",
+      "source": "https://www.moodys.com/web/en/us/insights/lending/automation-judgment-and-the-future-of-us-commercial-lending.html",
+      "decision": "rejected",
+      "rationale": "Fresh research, but less concrete than LoanPro for today's implementation-evidence requirement."
+    },
+    {
+      "id": "columbus-large-load-rates",
+      "beat": "columbus",
+      "event_date": "2026-09-25",
+      "source": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=",
+      "decision": "rejected",
+      "rationale": "Covered yesterday; next valid revisit is the September 28 council result or a concrete CWP rate proposal."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "event_date": "2026-09-26",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "decision": "selected compact",
+      "rationale": "Official local forecast for practical planning; routine and not counted toward freshness minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "save-voter-database-ruling",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://www.law.cornell.edu/supremecourt/text/26A308",
+        "https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf"
+      ],
+      "new_fact": "The Supreme Court stayed the June 22 district court order in Department of Homeland Security v. League of Women Voters, allowing the modified SAVE system while the case continues.",
+      "new_takeaway": "The operating issue is how election officials use database checks and voter notice during the pre-election window, not a completed merits ruling.",
+      "why_now": "The emergency order was issued September 25, the day before this episode.",
+      "previous_coverage": "The previous seven episodes covered press access, ACA coverage cleanup and U.S.-China policy but not the SAVE voter database ruling.",
+      "uncertainty": "The stay is temporary; later appeal or certiorari proceedings can change the rules, and state use may trigger fresh lawsuits.",
+      "watch": "Any state or county individualized voter challenge using SAVE results, and the notice or correction process attached to it."
+    },
+    {
+      "id": "quarter-horse-congress-opens",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "sources": [
+        "https://www.quarterhorsecongress.com/general-information",
+        "https://www.quarterhorsecongress.com/quick-stats"
+      ],
+      "new_fact": "The All American Quarter Horse Congress opens September 26 and runs the horse show and trade show through October 24 at the Ohio Expo Center.",
+      "new_takeaway": "A month-long visitor and trailer event changes fairgrounds traffic, local business demand and parking patterns beyond a single weekend.",
+      "why_now": "Today is the event's opening date.",
+      "previous_coverage": "The previous seven episodes covered Columbus utilities, budget, storms, Grove City development and craft breweries; they did not cover the 2026 Congress opening.",
+      "uncertainty": "Actual daily traffic depends on class schedules, weather and special ticketed events.",
+      "watch": "17th Avenue/I-71 congestion, weekend parking load and whether fairgrounds traffic affects nearby routes."
+    },
+    {
+      "id": "fannie-du-september-release",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-release-sept-25-2026",
+        "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-integration-impact-memo-sept-25-2026"
+      ],
+      "new_fact": "Fannie Mae's DU Version 12.1 September update applies to casefiles submitted or resubmitted after the evening of September 25, with red-flag, CU, income validation, rental-income and integration-message changes.",
+      "new_takeaway": "The affected workflow is AUS findings review and integrated-system parsing, not a rate sheet; resubmitted files can get different conditions or ineligible outcomes.",
+      "why_now": "The release became effective during the evening of September 25.",
+      "previous_coverage": "Recent home-lending segments covered rental-income implementation, ARM counseling, MBS disclosure, UAD and multifamily documents; no segment covered this DU release.",
+      "uncertainty": "Monday pipeline impact depends on the lender's mix of resubmitted files and how quickly LOS or vendor integrations handle the message changes.",
+      "watch": "Monday reports of new DU red flags, ineligible findings, appraisal replacement needs or integration defects."
+    },
+    {
+      "id": "loanpro-ai-servicing-controls",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "https://www.citybiz.co/article/908725/loanpro-unifies-payments-real-time-card-disbursement-and-ai-loan-servicing-on-one-platform-to-lower-servicing-costs/",
+        "https://www.loanpro.io/blog/announcing-loanpros-mcp/"
+      ],
+      "new_fact": "LoanPro announced a live phase of LoanPro MCP for AI-assisted servicing, including account context, payment processing, autopay setup and promises to pay under existing role-based controls.",
+      "new_takeaway": "The large-lender decision is whether agentic servicing can inherit employee permissions and audit trails closely enough to act on accounts, not merely summarize them.",
+      "why_now": "The Salt Flats Summit product launch was published September 24 and remains within the 48-hour window.",
+      "previous_coverage": "Recent bank AI segments covered BNP Paribas CIB agents, Paywhere channel strategy, Deutsche Bank KYC and agentic payments; this rotates to servicing and collections.",
+      "uncertainty": "Metrics are vendor-reported and do not disclose borrower outcomes, complaints, correction rates, regulatory findings or independent validation.",
+      "watch": "Named lender customer evidence with production volume, exception rates, correction rates and borrower outcome movement.",
+      "ledger_row_changed": "Added LoanPro, consumer servicing and collections AI Account Briefing and MCP, announced/live phase-one status, company-claim evidence."
+    },
+    {
+      "id": "chatgpt-word-voice-access",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "https://developers.openai.com/api/docs/changelog"
+      ],
+      "new_fact": "OpenAI's current release notes added security history on September 25 and document recent access expansions: ChatGPT in Microsoft Word and Voice with plugins and connected apps.",
+      "new_takeaway": "The workflow shift is frontier-model access inside document and spoken-work surfaces; the missing evidence is task-level productivity and error measurement.",
+      "why_now": "The release-note page was updated September 25, and the access changes are part of the current release train.",
+      "previous_coverage": "September 24 covered model pricing; September 25 covered privacy benchmarking. This is a different takeaway about access surfaces and document/voice workflows.",
+      "uncertainty": "The page does not disclose benchmarked productivity, error rates or enterprise deployment results.",
+      "watch": "Enterprise admin guidance, app-permission changes, usage telemetry or measured Word/Voice workflow outcomes.",
+      "frontier_bar": "Price or access shift and agent/tool-use workflow expansion."
+    },
+    {
+      "id": "markets-rates-context",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "sources": [
+        "https://www.reuters.com/markets/",
+        "https://www.cnbc.com/markets/"
+      ],
+      "new_fact": "Markets remain focused on rates, policy uncertainty and technology-led growth expectations after Friday's close.",
+      "new_takeaway": "For lenders and local finance teams, long-yield relief matters more than a one-day equity index move.",
+      "why_now": "Saturday morning market context follows the Friday close.",
+      "previous_coverage": "Recent scripts kept markets compact and tied them to financing conditions; today's market item is routine.",
+      "uncertainty": "Weekend headlines can change Monday's open.",
+      "watch": "Long Treasury yields, mortgage-backed securities and whether any relief broadens beyond technology shares."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "The National Weather Service forecast for the John Glenn airport area called for a sunny Saturday high near 71, mostly clear Saturday night near 51 and sunny Sunday near 70.",
+      "new_takeaway": "Weather supports outdoor plans; traffic and parking are more important than precipitation risk.",
+      "why_now": "Weather is current for Saturday morning planning.",
+      "previous_coverage": "Recent weather segments covered damp and then clearer conditions; today's is routine local planning.",
+      "uncertainty": "Local forecasts can update through the day.",
+      "watch": "Any change in wind, cloud cover or weekend outdoor-planning conditions."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-release-sept-25-2026",
+      "reason": "Fannie Mae PDF was readable in browser context and records the Sept. 25 DU release details; local curl returned a tiny body."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/media/document/pdf/du-v-121-integration-impact-memo-sept-25-2026",
+      "reason": "Fannie Mae integration PDF was readable in browser context and records the new, modified and retired DU messages; local curl returned a tiny body."
+    },
+    {
+      "claim": "https://www.citybiz.co/article/908725/loanpro-unifies-payments-real-time-card-disbursement-and-ai-loan-servicing-on-one-platform-to-lower-servicing-costs/",
+      "reason": "Citybiz/LoanPro article was readable in browser context and records the AI Account Briefing and MCP claims; local curl returned a tiny body."
+    },
+    {
+      "claim": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reason": "OpenAI release notes were readable in browser context and updated 14 hours before review; local curl returned an empty body."
+    },
+    {
+      "claim": "https://www.reuters.com/markets/",
+      "reason": "Reuters markets hub may not expose a stable crawlable article body; market segment is compact context and avoids precise unsourced numbers."
+    },
+    {
+      "claim": "https://www.cnbc.com/markets/",
+      "reason": "CNBC markets hub may not expose a stable crawlable article body; market segment is compact context and avoids precise unsourced numbers."
+    },
+    {
+      "claim": "CNBC",
+      "reason": "Appears only as a cited source label in the research file, not as a spoken claim."
+    },
+    {
+      "claim": "Reuters",
+      "reason": "Appears only as a cited source label in the research file, not as a spoken claim."
+    },
+    {
+      "claim": "12.1",
+      "reason": "Verified in Fannie Mae DU Version 12.1 September release PDF; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Android",
+      "reason": "Verified in OpenAI ChatGPT release notes for Voice plugin support on web, iOS and Android; local curl could not fetch the page."
+    },
+    {
+      "claim": "C6 DU",
+      "reason": "Verified in Fannie Mae DU release notes: C6 condition rating causes DU to issue an Ineligible recommendation; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Collateral Underwriter",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie",
+      "reason": "Shorthand for Fannie Mae in the same DU release-note paragraph; source verified in browser context."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie Mae DU",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "Fannie Mae No Longer Accepted",
+      "reason": "Verified in Fannie Mae DU release notes describing appraisers on the No Longer Accepted list; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "I-71",
+      "reason": "Verified in the Quarter Horse Congress general information page, which says the Expo Center can be accessed from Interstate 71."
+    },
+    {
+      "claim": "Microsoft Word",
+      "reason": "Verified in OpenAI ChatGPT release notes for ChatGPT in Microsoft Word; local curl could not fetch the page."
+    },
+    {
+      "claim": "Potential Red Flag",
+      "reason": "Verified in Fannie Mae DU release notes; local curl could not fetch the PDF body."
+    },
+    {
+      "claim": "U.S.-China",
+      "reason": "Compact markets context based on active prior tracker item; no precise market claim depends on this source in today's script."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "6e426c08fae437ec75f64c2526f121b099fdffc6d0d153e98c9fd001b6731508"
+  }
+}
