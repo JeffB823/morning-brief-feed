@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-27",
+  "cutoff": "2026-09-27T06:20:52-04:00 America/New_York",
+  "history_compared": [
+    "2026-09-20_morning-brief-script.md",
+    "2026-09-21_morning-brief-script.md",
+    "2026-09-22_morning-brief-script.md",
+    "2026-09-23_morning-brief-script.md",
+    "2026-09-24_morning-brief-script.md",
+    "2026-09-25_morning-brief-script.md",
+    "2026-09-26_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "boeing-faa-max-software",
+      "beat": "national",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "decision": "selected",
+      "reason": "Fresh operational aviation-safety and delivery-certification story; not covered in prior seven episodes."
+    },
+    {
+      "id": "hormuz-seven-day-plan",
+      "beat": "national",
+      "event_date": "2026-09-27",
+      "publication_date": "2026-09-27",
+      "decision": "markets context only",
+      "reason": "Fresh but overlaps the recent U.S.-China/Iran energy thread; used only as compact market driver."
+    },
+    {
+      "id": "northeast-noreaster",
+      "beat": "national",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-27",
+      "decision": "omitted",
+      "reason": "Genuine fresh weather emergency, but less useful for a Columbus-focused Sunday episode than local accountability and aviation operations."
+    },
+    {
+      "id": "columbus-crawley-police-investigation",
+      "beat": "columbus",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "decision": "selected",
+      "reason": "Fresh body-camera footage and active inspector-general review; not covered in recent episodes."
+    },
+    {
+      "id": "fannie-du-government-loans-sept26",
+      "beat": "home_lending",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "decision": "selected",
+      "reason": "Fresh effective technology-release item affecting government-loan DU workflows; distinct from yesterday's conventional DU 12.1 segment."
+    },
+    {
+      "id": "dbs-model-routing-economics",
+      "beat": "bank_ai",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "decision": "selected",
+      "reason": "Fresh bank-specific AI operating model item; changes ledger open research row for DBS."
+    },
+    {
+      "id": "openai-daybreak-ukraine",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "decision": "selected as dated_update",
+      "reason": "Quiet frontier weekend; explicitly dated specialist update within seven days and operationally relevant to cyber use."
+    },
+    {
+      "id": "columbus-nws-sunny-sunday",
+      "beat": "weather",
+      "event_date": "2026-09-27",
+      "publication_date": "2026-09-27",
+      "decision": "selected routine",
+      "reason": "Useful local planning context, not counted toward fresh story minimum."
+    }
+  ],
+  "stories": [
+    {
+      "id": "boeing-faa-max-software",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "sources": [
+        "https://www.cbsnews.com/news/boeing-737-max-software-glitch-aborted-landings-faa-investigation/"
+      ],
+      "new_fact": "CBS reported the FAA is investigating a 737 Max software issue that can affect vertical navigation in a rare go-around scenario, and that some airlines will not accept new aircraft with the relevant operating-system version.",
+      "new_takeaway": "The immediate operating issue is delivery and certification trust, not a fleetwide grounding.",
+      "why_now": "The article published September 26 and describes an FAA Corrective Action Review Board review.",
+      "previous_coverage": "Not covered in the previous seven available episode scripts.",
+      "uncertainty": "FAA may or may not identify a safety concern, and Boeing is working to accelerate guidance and a software fix.",
+      "watch": "FAA CARB result, airline delivery decisions, Max 10 certification timing, and software-update schedule."
+    },
+    {
+      "id": "columbus-crawley-police-investigation",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://www.wosu.org/politics-government/2026-09-25/officials-investigating-columbus-police-who-confronted-franklin-co-commissioner-at-july-concert?_amp=true"
+      ],
+      "new_fact": "WOSU published body-camera footage Friday and reported the Columbus inspector general is investigating officers who confronted Franklin County Commissioner Erica Crawley at a July veterans concert.",
+      "new_takeaway": "The civic issue is the handoff from private event security to police authority at a publicly supported event.",
+      "why_now": "The footage and reporting were published Friday evening, within 48 hours of the episode cutoff.",
+      "previous_coverage": "Not covered in the previous seven available episode scripts.",
+      "uncertainty": "The inspector general had not clarified how many officers are under investigation or the status of findings by cutoff.",
+      "watch": "Inspector general findings, police policy changes for private-security requests, and any department discipline or training update."
+    },
+    {
+      "id": "fannie-du-government-loans-sept26",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-26",
+      "publication_date": "2026-09-26",
+      "sources": [
+        "https://singlefamily.fanniemae.com/technology-integration/technology-integration-resources"
+      ],
+      "new_fact": "Fannie Mae's technology integration resources list a DU for Government Loans Release and DU for Government Loans Integration Impact Memo dated September 26, 2026.",
+      "new_takeaway": "Government-loan teams should treat the release as a production integration cutover rather than another rate or generic DU recap.",
+      "why_now": "The release and impact memo are dated September 26, the effective-date hook for today's episode.",
+      "previous_coverage": "Yesterday covered DU 12.1 for conventional casefiles; this is a narrower government-loan integration item with a different takeaway.",
+      "uncertainty": "The detailed release PDF was not fetchable locally; operational specifics beyond listed release and impact-memo dates were kept narrow.",
+      "watch": "Monday government-loan test cases, vendor mapping notes, live-file message defects, and Fannie clarifications."
+    },
+    {
+      "id": "dbs-model-routing-economics",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "sources": [
+        "https://aisengtech.com/ai-fintech-brief-2026-09-25/"
+      ],
+      "new_fact": "AISeng's September 25 brief says DBS is matching individual banking tasks to the most cost-efficient model that can safely complete them, using smaller internally hosted open-source models for routine workloads and caching where useful.",
+      "new_takeaway": "Bank AI scale is becoming a model-routing and unit-economics problem, not only a frontier-model access problem.",
+      "why_now": "The brief was posted September 25 and had not appeared in prior episodes.",
+      "previous_coverage": "Prior week covered LoanPro, BNP Paribas, Societe Generale, Ant, Danske/Mastercard and Deutsche Bank; DBS model-routing economics is new.",
+      "uncertainty": "No public task volume, defect rate, cost-per-case, latency or before-and-after outcome was disclosed in the accessible source.",
+      "watch": "DBS disclosure of a named workflow, model class, cost-per-task, error rate, or control design.",
+      "ledger_row_changed": "DBS / model selection and internal AI economics moved from open research to announced row; evidence rank trade-reporting summary; metric none disclosed."
+    },
+    {
+      "id": "openai-daybreak-ukraine",
+      "beat": "frontier_ai",
+      "classification": "dated_update",
+      "event_date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "sources": [
+        "https://openai.com/news/rss.xml"
+      ],
+      "new_fact": "OpenAI's RSS feed lists a September 23 announcement extending Daybreak access to the Government of Ukraine for civilian infrastructure cyber defense.",
+      "new_takeaway": "The frontier relevance is governed access to specialized cyber capability in a national-security context, not a new benchmark score.",
+      "why_now": "Quiet Sunday frontier tape; this dated specialist update is within seven days and operationally relevant.",
+      "previous_coverage": "Prior episodes covered ChatGPT Word/Voice access, ConfAIde, GPT-6/Claude pricing, Alibaba roadmap, Grok 4.7, and frontier governance threads; Daybreak Ukraine access was not covered.",
+      "uncertainty": "The feed description does not disclose vulnerability-finding rates, incident-response metrics, false positives or human-team baseline.",
+      "watch": "Public detail on authorized use cases, measured defensive outcomes, or partner/provider deployment boundaries.",
+      "frontier_bar": "price or access shift; safety and security finding/deployment context",
+      "date_exception": "Quiet Sunday frontier update: explicitly dated September 23, within seven days, and operationally relevant to cyber-defense access."
+    },
+    {
+      "id": "hormuz-oil-market-context",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-09-27",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
+      ],
+      "new_fact": "CBS reported Iran insisted Sunday on conditions for reopening Hormuz after President Trump rejected a proposal, while the same live file said Brent ended the week near 104 dollars after touching 108 Thursday.",
+      "new_takeaway": "Energy risk is the market channel connecting the geopolitical story to inflation, mortgage pricing and local borrowing costs.",
+      "why_now": "The CBS live file was updated September 27 before cutoff.",
+      "previous_coverage": "U.S.-China and Iran-related energy risk appeared recently; today uses the new oil/Hormuz update only as compact markets context.",
+      "uncertainty": "Negotiators and mediators had not conveyed final positions by cutoff.",
+      "watch": "Hormuz negotiation terms, oil-price reaction, and this week's inflation/jobs data."
+    },
+    {
+      "id": "columbus-nws-sunny-sunday",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-27",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "NWS forecast generated September 27 calls for sunny Columbus weather near 75 with north wind 6 to 12 mph, mostly clear tonight near 54, and mostly sunny Monday near 74.",
+      "new_takeaway": "Weather is favorable for local event traffic and outdoor plans; rain is not the planning constraint.",
+      "why_now": "Same-day NWS forecast for the Columbus grid.",
+      "previous_coverage": "Routine weather was covered daily; today's forecast is new but routine.",
+      "uncertainty": "Forecast values can update after cutoff.",
+      "watch": "NWS updates if winds or cloud cover change."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "8126a8b94138fdf97e3c70f8836b09c6a2ea90c60dad0e89808c04a0e10faa10"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://singlefamily.fanniemae.com/technology-integration/technology-integration-resources",
+      "reason": "Fannie Mae's site has intermittently served bot challenges locally; the release titles and September 26 dates were verified from the accessible search excerpt before drafting, and spoken details were limited to that page-level listing."
+    },
+    {
+      "claim": "Daybreak",
+      "reason": "OpenAI's article page served a bot challenge locally, but OpenAI's fetchable RSS feed includes the Daybreak Ukraine announcement title, date and description used in the script."
+    },
+    {
+      "claim": "Fannie Mae DU",
+      "reason": "The Fannie Mae technology integration resources page was verified from the accessible search excerpt, but local claim-check fetching returned a short blocked response; spoken details were constrained to the listed release title and date."
+    },
+    {
+      "claim": "Government Loans",
+      "reason": "The phrase appears in the Fannie Mae release title shown in the accessible search excerpt; the page itself was locally unfetchable during claim check."
+    },
+    {
+      "claim": "FHA VA and USDA-style",
+      "reason": "This is an editorial explanation of government-loan categories affected by government-loan underwriting workflows; the source only supplies the government-loan release listing."
+    },
+    {
+      "claim": "Fannie",
+      "reason": "Short-form reference to Fannie Mae within the locally blocked Fannie Mae government-loan technology release item."
+    }
+  ],
+  "length_exception": null
+}

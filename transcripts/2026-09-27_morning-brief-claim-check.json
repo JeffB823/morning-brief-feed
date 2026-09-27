@@ -1,0 +1,69 @@
+{
+  "script": "2026-09-27_morning-brief-script.md",
+  "script_sha256": "8126a8b94138fdf97e3c70f8836b09c6a2ea90c60dad0e89808c04a0e10faa10",
+  "checked_at": "2026-09-27T06:25:29-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.cbsnews.com/news/boeing-737-max-software-glitch-aborted-landings-faa-investigation/",
+      "characters": 7573
+    },
+    {
+      "url": "https://www.wosu.org/politics-government/2026-09-25/officials-investigating-columbus-police-who-confronted-franklin-co-commissioner-at-july-concert?_amp=true",
+      "characters": 7544
+    },
+    {
+      "url": "https://aisengtech.com/ai-fintech-brief-2026-09-25/",
+      "characters": 8251
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "characters": 172322
+    },
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+      "characters": 58022
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8242
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://singlefamily.fanniemae.com/technology-integration/technology-integration-resources",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae's site has intermittently served bot challenges locally; the release titles and September 26 dates were verified from the accessible search excerpt before drafting, and spoken details were limited to that page-level listing."
+    }
+  ],
+  "claims_checked": 48,
+  "claims_supported": 44,
+  "claims_excepted": [
+    {
+      "claim": "FHA VA and USDA-style",
+      "kind": "name",
+      "example": "FHA, VA and USDA-style government files that depend on DU findings, message mapping and quality-control checks.",
+      "reason": "This is an editorial explanation of government-loan categories affected by government-loan underwriting workflows; the source only supplies the government-loan release listing."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "A processor may only see a changed finding, but the lender needs to know whether the change came from agency policy, Fannie implementation, or a vendor field that has not been mapped correctly.",
+      "reason": "Short-form reference to Fannie Mae within the locally blocked Fannie Mae government-loan technology release item."
+    },
+    {
+      "claim": "Fannie Mae DU",
+      "kind": "name",
+      "example": "In home lending, the specific operational change is Fannie Mae's DU for Government Loans release dated September 26.",
+      "reason": "The Fannie Mae technology integration resources page was verified from the accessible search excerpt, but local claim-check fetching returned a short blocked response; spoken details were constrained to the listed release title and date."
+    },
+    {
+      "claim": "Government Loans",
+      "kind": "name",
+      "example": "In home lending, the specific operational change is Fannie Mae's DU for Government Loans release dated September 26.",
+      "reason": "The phrase appears in the Fannie Mae release title shown in the accessible search excerpt; the page itself was locally unfetchable during claim check."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
