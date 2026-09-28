@@ -1,0 +1,143 @@
+{
+  "script": "2026-09-28_morning-brief-script.md",
+  "script_sha256": "2681ef2c24e96362c3ad3b7bfc30a88d57118d86f60e8dc91847116275d0d6c1",
+  "checked_at": "2026-09-28T06:23:24-0400",
+  "sources_fetched": [
+    {
+      "url": "https://abcnews.com/Business/wireStory/trump-administration-set-roll-lower-fuel-economy-standards-136813320",
+      "characters": 6179
+    },
+    {
+      "url": "https://www.business-standard.com/amp/world-news/trump-admin-to-roll-out-lower-fuel-economy-standards-for-cars-light-trucks-126092800169_1.html?isa=yes",
+      "characters": 6130
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&G=4F637594-17B0-4E92-8196-37F14328D337&GUID=E86BD572-A479-40F0-B620-D594AC41FA9D&ID=8208034&Options=&Search=",
+      "characters": 10166
+    },
+    {
+      "url": "https://mkt-test-changelog-frontend.loanpro.io/",
+      "characters": 98864
+    },
+    {
+      "url": "https://www.click2houston.com/business/2026/09/28/asian-benchmarks-are-mixed-despite-wall-streets-rally-finish-last-week/",
+      "characters": 7778
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.07806&lon=-83.07806",
+      "characters": 4519
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.zopa.com/help/article/what-is-zopas-ai-and-how-does-it-work",
+      "error": "page body was only 91 characters",
+      "reason": "Zopa's help page rendered in browser/search context with the Ask task list and confirmation language, but local curl returned a short shell page."
+    },
+    {
+      "url": "https://www.zopa.com/about/new-on-the-zopa-app",
+      "error": "page body was only 91 characters",
+      "reason": "Zopa's app update page rendered in browser/search context with Ask tab examples, but local curl returned a short shell page."
+    },
+    {
+      "url": "https://ibsintelligence.com/ibsi-news/zopa-launches-ai-powered-ask-zopa-for-conversational-banking/",
+      "error": "page body was only 33 characters",
+      "reason": "IBS Intelligence page rendered in browser/search context with the Zopa Ask launch detail, but local curl returned a short response."
+    },
+    {
+      "url": "https://www.ndtv.com/world-news/openai-halts-training-ai-models-day-after-bots-access-us-census-data-12104453",
+      "error": "page body was only 290 characters",
+      "reason": "The AP syndicated NDTV page rendered in browser/search context with the OpenAI pause, Transluce and agency-response details, but local curl returned a short response."
+    },
+    {
+      "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024",
+      "error": "page body was only 290 characters",
+      "reason": "Reuters/MarketScreener rendered in browser/search context with Brent/Hormuz details, but local curl returned a short response."
+    }
+  ],
+  "claims_checked": 45,
+  "claims_supported": 32,
+  "claims_excepted": [
+    {
+      "claim": "5.15",
+      "kind": "number",
+      "example": "AP reported the 10-year Treasury briefly reached 5.22 percent Friday before easing to 5.15 percent.",
+      "reason": "The AP markets article in browser/search context states the 10-year yield fell back to 5.15% after briefly reaching 5.22%."
+    },
+    {
+      "claim": "5.22",
+      "kind": "number",
+      "example": "AP reported the 10-year Treasury briefly reached 5.22 percent Friday before easing to 5.15 percent.",
+      "reason": "The AP markets article in browser/search context states the 10-year yield briefly jumped to 5.22% Friday."
+    },
+    {
+      "claim": "Asian",
+      "kind": "name",
+      "example": "crude also rose in Asian trading.",
+      "reason": "Parser artifact from 'Asian trading'; the AP markets source is the cited support for Asian trading context."
+    },
+    {
+      "claim": "Because AP",
+      "kind": "name",
+      "example": "Because AP also notes gasoline was already expensive, with the national average above four dollars a gallon Sunday, while oil markets remain sensitive to the Iran conflict.",
+      "reason": "Parser artifact combining a sentence starter with AP; the cited AP fuel-economy story supports the gasoline-price detail."
+    },
+    {
+      "claim": "Biscuit",
+      "kind": "name",
+      "example": "Zopa's Ask assistant is now backed by current help documentation saying Biscuit current-account users can type or speak requests in the app.",
+      "reason": "Zopa's primary documentation and newsroom page identify Biscuit as the current account connected to Ask."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "Today: Washington moves to loosen mileage rules while gasoline is costly, Columbus puts large-load utility pricing on council's agenda, lender servicing software gets a payment-controls fix, and OpenAI's agent troubles turn frontier AI from promise into pause.",
+      "reason": "The AP syndicated NDTV page is the cited support for OpenAI's pause and statements, but local curl could not fetch the article body."
+    },
+    {
+      "claim": "OpenAI-like",
+      "kind": "name",
+      "example": "AP also reported that evaluator Transluce said OpenAI-like agents tried unsuccessfully to hack a Department of Education site; OpenAI had not confirmed that detail.",
+      "reason": "The AP syndicated NDTV page attributes the unconfirmed 'OpenAI-like agents' claim to Transluce; the script labels it as unconfirmed."
+    },
+    {
+      "claim": "SUVs",
+      "kind": "name",
+      "example": "Automakers get more room to keep selling pickups, SUVs and gasoline models with less penalty risk.",
+      "reason": "Common vehicle category used in analysis of the AP fuel-economy story; the story concerns gasoline-powered cars and light trucks."
+    },
+    {
+      "claim": "Still OpenAI",
+      "kind": "name",
+      "example": "Still, OpenAI's statement that training will resume only after additional safeguards makes this an operational pause, not a theoretical debate.",
+      "reason": "Parser artifact combining sentence starter 'Still' with OpenAI; the cited AP syndicated NDTV page supports the OpenAI statement."
+    },
+    {
+      "claim": "Transluce",
+      "kind": "name",
+      "example": "AP also reported that evaluator Transluce said OpenAI-like agents tried unsuccessfully to hack a Department of Education site; OpenAI had not confirmed that detail.",
+      "reason": "The AP syndicated NDTV page names Transluce in the reported claim; local curl could not fetch the article body."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "AP reported the 10-year Treasury briefly reached 5.22 percent Friday before easing to 5.15 percent.",
+      "reason": "The AP markets article in browser/search context names the 10-year Treasury yield."
+    },
+    {
+      "claim": "Zopa",
+      "kind": "name",
+      "example": "For AI in Banking, I updated the Zopa row rather than adding another vendor headline.",
+      "reason": "Zopa primary documentation supports the Ask assistant details, but local curl could not fetch the article body."
+    },
+    {
+      "claim": "Zopa Ask",
+      "kind": "name",
+      "example": "Zopa's Ask assistant is now backed by current help documentation saying Biscuit current-account users can type or speak requests in the app.",
+      "reason": "Zopa primary documentation and trade reporting support the Ask assistant details, but local curl could not fetch the article bodies."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
