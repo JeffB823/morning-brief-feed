@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-29",
+  "cutoff": "2026-09-29T01:43:00-04:00",
+  "timezone": "America/New_York",
+  "history_compared": [
+    "2026-09-22_morning-brief-script.md",
+    "2026-09-23_morning-brief-script.md",
+    "2026-09-24_morning-brief-script.md",
+    "2026-09-25_morning-brief-script.md",
+    "2026-09-26_morning-brief-script.md",
+    "2026-09-27_morning-brief-script.md",
+    "2026-09-28_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "canada-import-ban",
+      "beat": "national",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "decision": "selected",
+      "reason": "Fresh effective-date trade action with direct supply-chain implications and a different takeaway from recent fuel-rule coverage."
+    },
+    {
+      "id": "election-cyber-forces",
+      "beat": "national",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "decision": "not_selected",
+      "reason": "Fresh, but more election-process oriented than today's practical business mix; saved as a watch candidate if implementation details emerge."
+    },
+    {
+      "id": "columbus-safe-communities-grant",
+      "beat": "columbus",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "decision": "selected",
+      "reason": "Fresh council agenda item with a concrete local workflow, while large-load utility minutes were not posted by cutoff."
+    },
+    {
+      "id": "columbus-large-load-utility-rates",
+      "beat": "columbus",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "decision": "not_selected_full_segment",
+      "reason": "Covered on September 28 as a full segment; no final action or minutes were visible by cutoff, so only used as a short watch trigger."
+    },
+    {
+      "id": "mpf-servicing-summary",
+      "beat": "home_lending",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "decision": "selected_as_dated_update",
+      "reason": "Previously uncovered servicing workflow update within seven days; operationally relevant but not counted as one of the four fresh stories."
+    },
+    {
+      "id": "mba-commercial-delinquencies",
+      "beat": "home_lending",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "decision": "not_selected",
+      "reason": "Fresh data, but less aligned with the required lead on a specific lending workflow change."
+    },
+    {
+      "id": "bofa-ask-gps-intelligence-hub",
+      "beat": "bank_ai",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "decision": "selected",
+      "reason": "Fresh named banking deployment, primary source, clear employee workflow, and a ledger row change."
+    },
+    {
+      "id": "openai-astra-delay",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "decision": "selected",
+      "reason": "Fresh frontier release delay that clears the failure/reversal and safety bars with concrete workflow implications."
+    },
+    {
+      "id": "nvidia-agent-security-platform",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "decision": "not_selected",
+      "reason": "Fresh and relevant, but less direct for a regulated-bank bridge than the named OpenAI model delay."
+    }
+  ],
+  "stories": [
+    {
+      "id": "canada-import-ban",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "https://apnews.com/article/canada-us-trade-ban-tariffs-bdb4d9b946e98f84088c5c0f7f522588"
+      ],
+      "new_fact": "The United States import ban on nearly $1 billion of Canadian goods became effective at 12:01 a.m. Eastern on September 29.",
+      "new_takeaway": "A narrow trade sanction can still create procurement, pricing and customer-communication work for firms that viewed Canadian sourcing as low-risk.",
+      "why_now": "The ban's effective time was early September 29, making the operational impact current for today's episode.",
+      "previous_coverage": "No Canada import-ban segment in the previous seven episodes; September 28 covered federal fuel-economy standards and oil pressure, not this trade action.",
+      "uncertainty": "The next impact depends on whether Canada retaliates or negotiates carveouts; AP describes the economic effect as likely limited if the ban stays narrow.",
+      "watch": "Watch for Canadian countermeasures or negotiated exemptions that affect U.S. exporters or cross-border distributors."
+    },
+    {
+      "id": "columbus-safe-communities-grant",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "https://columbus.legistar.com/MeetingDetail.aspx?G=4F637594-17B0-4E92-8196-37F14328D337&GID=139&LEGID=6211"
+      ],
+      "new_fact": "The September 28 Columbus City Council agenda listed a $137,500 Ohio Department of Public Safety grant for the Safe Communities program.",
+      "new_takeaway": "Traffic-safety funding is useful only if outreach is tied to corridors, audiences and behaviors with measurable crash-risk relevance.",
+      "why_now": "The item was on the September 28 council agenda, within the 48-hour window.",
+      "previous_coverage": "Prior local coverage focused on reserves, e-bike rules, school closures, police investigation, and large-load utility rates; this grant was not covered.",
+      "uncertainty": "The public agenda page did not show final minutes by cutoff, so the script avoids claiming passage.",
+      "watch": "Watch posted council action and any program reporting that names target corridors, audiences or crash-prevention measures."
+    },
+    {
+      "id": "mpf-servicing-summary",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "date_exception": "Quiet specialist beat: this is a previously uncovered operational servicing update from the last seven days and is not counted toward the four fresh stories.",
+      "sources": [
+        "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-summary-2026-s10",
+        "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"
+      ],
+      "new_fact": "MPF's September 25 servicing summary listed Fannie Mae's mortgage-insurance termination update and Computershare's secure portal transition from ServicerConnect to TrustConnect.",
+      "new_takeaway": "Servicers need both policy implementation for borrower MI cancellation and file-transfer readiness for the master-servicer portal change.",
+      "why_now": "The MPF summary was published September 25 and had not been used in the previous seven episodes.",
+      "previous_coverage": "Recent home-lending segments covered Fannie MBS disclosure, DU government loans, LoanPro fixes and rates; not this MPF servicing combination.",
+      "uncertainty": "The Fannie lender letter predates the MPF summary, and the script labels that older policy evidence as background.",
+      "watch": "Watch for servicer bulletins, borrower-solicitation procedures, portal credential problems or complaint patterns tied to MI termination."
+    },
+    {
+      "id": "bofa-ask-gps-intelligence-hub",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bank-of-america-expands--ask-global-payments-solutions--with-new.html"
+      ],
+      "new_fact": "Bank of America announced Ask GPS Intelligence Hub for Global Payments Solutions employees, building on a 2025 internal GenAI tool used by nearly 3,000 employees.",
+      "new_takeaway": "The large-bank decision is how to move AI from knowledge access into relationship-manager preparation while preserving traceability and employee responsibility.",
+      "why_now": "The Bank of America announcement was dated September 28, within the 48-hour freshness window.",
+      "previous_coverage": "Recent bank-AI segments covered Zopa, DBS, LoanPro, BNP Paribas, Paywhere and Deutsche Bank; Bank of America was an open ledger research row and not covered.",
+      "uncertainty": "No metric was disclosed for prep time, treasury revenue, client retention, error rates or review defects.",
+      "watch": "Watch for disclosed performance metrics or client-facing controls for relationship insights.",
+      "ledger_row_changed": "Added Bank of America / Ask GPS Intelligence Hub; lanes 5 and 6; status production; evidence company claim; metric none disclosed."
+    },
+    {
+      "id": "openai-astra-delay",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "https://apnews.com/article/open-ai-artificial-intelligence-altman-trump-astra-5afb865b2cddc439efdcf31ebdc406a5",
+        "https://openai.com/index/safety-overview-gpt-6-astra/"
+      ],
+      "new_fact": "AP reported that OpenAI is delaying GPT-6.1 Astra over security concerns before a Washington meeting with AI executives.",
+      "new_takeaway": "Frontier buyers need release plans and contracts that account for safety pauses, not only model announcements and benchmark claims.",
+      "why_now": "The AP report was published September 29 and describes a named model-release delay.",
+      "previous_coverage": "September 28 covered OpenAI's reported training pause after agent incidents; today's different takeaway is buyer planning for a named model release delay.",
+      "uncertainty": "The AP story does not publish a benchmark, independent replication or the exact security criteria required for release.",
+      "watch": "Watch for OpenAI's release criteria or safeguard changes for GPT-6.1 Astra.",
+      "frontier_bar": "Notable failure, withdrawal or reversal; safety and security finding."
+    },
+    {
+      "id": "markets-oil-yields",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-oil-bonds-us-269abea6fd8ea7f314a8c34152788e0c"
+      ],
+      "new_fact": "AP reported Asian shares mostly fell, oil rose, and the 10-year Treasury was around 5.25% early Tuesday after touching 5.27% Monday.",
+      "new_takeaway": "Financing conditions remain the practical market story for lenders, builders and public borrowers.",
+      "why_now": "The market report was published September 29.",
+      "previous_coverage": "Markets have recently focused on oil and long yields; this is kept compact as a routine update.",
+      "uncertainty": "Oil diplomacy and Treasury volatility can change during the trading day.",
+      "watch": "Watch whether oil and the 10-year Treasury retreat together or keep pressure on rate-sensitive borrowers."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?FcstType=digital&lat=39.9859&lg=english&lon=-82.9928&menu=1"
+      ],
+      "new_fact": "The National Weather Service forecast for Columbus showed light wind, mostly sunny conditions, temperatures climbing into the mid-70s, and no precipitation signal.",
+      "new_takeaway": "Weather should not be the main disruption today; traffic is a more likely local variable.",
+      "why_now": "The forecast is for September 29 in Columbus.",
+      "previous_coverage": "Routine Columbus weather has been covered daily; this is kept brief.",
+      "uncertainty": "Point forecasts update through the morning.",
+      "watch": "Watch later NWS updates if fog or visibility changes around the morning commute."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/canada-us-trade-ban-tariffs-bdb4d9b946e98f84088c5c0f7f522588",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    },
+    {
+      "claim": "https://apnews.com/article/open-ai-artificial-intelligence-altman-trump-astra-5afb865b2cddc439efdcf31ebdc406a5",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    },
+    {
+      "claim": "https://apnews.com/article/stocks-markets-oil-bonds-us-269abea6fd8ea7f314a8c34152788e0c",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    },
+    {
+      "claim": "5.25",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "5.27",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "6.1",
+      "reason": "Verified against AP report naming GPT-6.1 Astra; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "880",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "967",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "99.63",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Asian",
+      "reason": "AP market report headline and body describe Asian shares; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Astra",
+      "reason": "Verified against AP report on GPT-6.1 Astra and OpenAI safety background; automated source text did not preserve the standalone short name."
+    },
+    {
+      "claim": "Canada",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Canadian",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "GPT-6.1 Astra",
+      "reason": "Verified against AP report naming GPT-6.1 Astra; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "OpenAI",
+      "reason": "Verified against AP report and OpenAI safety background; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "Verified against AP report on the OpenAI delay and Washington meeting; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Strait of Hormuz",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "U.S.-Canada",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "U.S.-Iran",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Wall Street",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "https://openai.com/index/safety-overview-gpt-6-astra/",
+      "reason": "Primary source included for background on GPT-6 Astra; if the page blocks automated fetch, the AP story independently verifies the September 29 GPT-6.1 Astra delay used on air."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "candidate_discovery_before_tracker": true,
+    "repeated_facts_and_takeaways_checked": true,
+    "older_implementation_evidence_labeled_background": true,
+    "script_sha256": "f2de5178980b806dc8bc16388507ad1b3fcaaf8370eba2b7cd160d0fcc0baf2b"
+  },
+  "length_exception": null
+}

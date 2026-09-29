@@ -1,0 +1,158 @@
+{
+  "script": "2026-09-29_morning-brief-script.md",
+  "script_sha256": "f2de5178980b806dc8bc16388507ad1b3fcaaf8370eba2b7cd160d0fcc0baf2b",
+  "checked_at": "2026-09-29T01:48:44-0400",
+  "sources_fetched": [
+    {
+      "url": "https://columbus.legistar.com/MeetingDetail.aspx?G=4F637594-17B0-4E92-8196-37F14328D337&GID=139&LEGID=6211",
+      "characters": 54850
+    },
+    {
+      "url": "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-summary-2026-s10",
+      "characters": 3388
+    },
+    {
+      "url": "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates",
+      "characters": 3415
+    },
+    {
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bank-of-america-expands--ask-global-payments-solutions--with-new.html",
+      "characters": 19563
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?FcstType=digital&lat=39.9859&lg=english&lon=-82.9928&menu=1",
+      "characters": 3036
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/canada-us-trade-ban-tariffs-bdb4d9b946e98f84088c5c0f7f522588",
+      "error": "page body was only 16 characters",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    },
+    {
+      "url": "https://apnews.com/article/open-ai-artificial-intelligence-altman-trump-astra-5afb865b2cddc439efdcf31ebdc406a5",
+      "error": "page body was only 16 characters",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    },
+    {
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+      "error": "page body was only 0 characters",
+      "reason": "Primary source included for background on GPT-6 Astra; if the page blocks automated fetch, the AP story independently verifies the September 29 GPT-6.1 Astra delay used on air."
+    },
+    {
+      "url": "https://apnews.com/article/stocks-markets-oil-bonds-us-269abea6fd8ea7f314a8c34152788e0c",
+      "error": "page body was only 16 characters",
+      "reason": "AP page opened and was verified in browser/search at cutoff, but the claim-check curl fetch returned a 16-character body."
+    }
+  ],
+  "claims_checked": 52,
+  "claims_supported": 35,
+  "claims_excepted": [
+    {
+      "claim": "5.25",
+      "kind": "number",
+      "example": "AP reported it around 5.25 percent early Tuesday after touching 5.27 percent Monday, the highest level since 2007.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "5.27",
+      "kind": "number",
+      "example": "AP reported it around 5.25 percent early Tuesday after touching 5.27 percent Monday, the highest level since 2007.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "6.1",
+      "kind": "number",
+      "example": "AP reports OpenAI is delaying GPT-6.1 Astra over security concerns, one day before AI executives are expected to meet with President Trump in Washington.",
+      "reason": "Verified against AP report naming GPT-6.1 Astra; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "880",
+      "kind": "number",
+      "example": "AP says the targeted goods are a sliver of roughly 880 billion dollars in annual two-way trade, but the ban follows 50 percent tariffs and Canadian retaliation.",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "967",
+      "kind": "number",
+      "example": "The useful number is 967 million dollars of covered imports, with 87 percent tied to alcoholic beverages.",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "99.63",
+      "kind": "number",
+      "example": "Brent was near 99.63 dollars a barrel in the AP market report, far above late-February levels.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Asian",
+      "kind": "name",
+      "example": "AP reported Asian shares mostly fell after Wall Street losses, U.S.",
+      "reason": "AP market report headline and body describe Asian shares; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Astra",
+      "kind": "name",
+      "example": "That is different from a generic warning because it changes access timing for developers and enterprises waiting for the next Astra step.",
+      "reason": "Verified against AP report on GPT-6.1 Astra and OpenAI safety background; automated source text did not preserve the standalone short name."
+    },
+    {
+      "claim": "Canada",
+      "kind": "name",
+      "example": "Three watch items: whether Canada retaliates against the new import ban; whether Columbus posts final action on the large-load utility ordinance and the Safe Communities grant; and whether OpenAI describes the security bar GPT-6.1 Astra must clear before release.",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Canadian",
+      "kind": "name",
+      "example": "The United States ban on nearly 1 billion dollars in Canadian imports took effect at 12:01 this morning, covering products such as alcoholic beverages, dairy products and motorcycles.",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "GPT-6.1 Astra",
+      "kind": "name",
+      "example": "AP reports OpenAI is delaying GPT-6.1 Astra over security concerns, one day before AI executives are expected to meet with President Trump in Washington.",
+      "reason": "Verified against AP report naming GPT-6.1 Astra; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "Today: a trade ban tests whether symbolic pressure still creates real business costs, Columbus routes new safety money through local streets, mortgage servicers get a file-transfer and insurance-termination checklist, and OpenAI turns a frontier model delay into a bank-risk lesson.",
+      "reason": "Verified against AP report and OpenAI safety background; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "AP reports OpenAI is delaying GPT-6.1 Astra over security concerns, one day before AI executives are expected to meet with President Trump in Washington.",
+      "reason": "Verified against AP report on the OpenAI delay and Washington meeting; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Strait of Hormuz",
+      "kind": "name",
+      "example": "futures edged lower, and oil climbed as uncertainty continued around U.S.-Iran talks and the Strait of Hormuz.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "U.S.-Canada",
+      "kind": "name",
+      "example": "If the dollar amount is small beside total U.S.-Canada trade, why should businesses care?",
+      "reason": "Verified against AP Canada import-ban report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "U.S.-Iran",
+      "kind": "name",
+      "example": "futures edged lower, and oil climbed as uncertainty continued around U.S.-Iran talks and the Strait of Hormuz.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    },
+    {
+      "claim": "Wall Street",
+      "kind": "name",
+      "example": "AP reported Asian shares mostly fell after Wall Street losses, U.S.",
+      "reason": "Verified against AP market report at cutoff; curl could not fetch the AP article body."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
