@@ -1,0 +1,135 @@
+{
+  "script": "2026-09-30_morning-brief-script.md",
+  "script_sha256": "576cd84e76b41fdbe24422897baa28b3a6604a1fc84625552ce7ea2999672c96",
+  "checked_at": "2026-09-30T06:29:55-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.conference-board.org/topics/tags.cfm?parent=consumer-confidence",
+      "characters": 29682
+    },
+    {
+      "url": "https://www.everycrsreport.com/reports/R49353.html",
+      "characters": 71265
+    },
+    {
+      "url": "https://uscodeweb1.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title42-section4026",
+      "characters": 14030
+    },
+    {
+      "url": "https://www.nar.realtor/flood-insurance/faq-national-flood-insurance-program-expires-september-30-2026",
+      "characters": 15579
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+      "characters": 22396
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8267
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/b9429c6d4f025d00e6283bfde4e0197d",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked through browser search output; direct curl returned a short page body."
+    },
+    {
+      "url": "https://www.columbus.gov/News-articles/Columbus-Makes-Period-Care-Part-of-Sports-Venue-Infrastructure-as-IgniteHER-Launches-New-Programs-for-Girls",
+      "error": "page body was only 329 characters",
+      "reason": "The city page was opened and read through search results, but direct curl returned an Akamai access-denied page."
+    },
+    {
+      "url": "https://bluewaterhealthyliving.com/news/national-news/ohio/ginther-says-columbus-is-first-to-offer-free-period-products-at-major-sports-venues/",
+      "error": "page body was only 117 characters",
+      "reason": "The Columbus Dispatch/USA Today Network republication was opened through search results, but direct curl returned a JavaScript security interstitial."
+    },
+    {
+      "url": "https://www.publicnow.com/view/987A20D6EE0E7E4E511664738AD965BB13265180",
+      "error": "page body was only 16 characters",
+      "reason": "The Lead Bank/PublicNow page was opened through search results, but direct curl returned a JavaScript/cookie challenge."
+    },
+    {
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "error": "page body was only 0 characters",
+      "reason": "The OpenAI release-note page was verified in browser search output, but direct curl did not expose the dynamic article text."
+    },
+    {
+      "url": "https://apnews.com/article/e61d3d7b947a390c7eee6c8758e3095d",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked through browser search output; direct curl returned a short page body."
+    },
+    {
+      "url": "https://apnews.com/article/69778ade7a033a10cb44b9078b6bb15d",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked through browser search output; direct curl returned a short page body."
+    }
+  ],
+  "claims_checked": 42,
+  "claims_supported": 32,
+  "claims_excepted": [
+    {
+      "claim": "165",
+      "kind": "number",
+      "example": "city to provide free period products across all of its major professional sports venues, with 165 free-vend dispensers installed by Aunt Flow.",
+      "reason": "Verified in the city and Columbus Dispatch/USA Today Network source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "5.25",
+      "kind": "number",
+      "example": "AP said it rose to 5.25 percent Tuesday and touched its highest level in 24 years.",
+      "reason": "AP market story was opened and checked through browser search output; direct curl returned a short page body."
+    },
+    {
+      "claim": "Aunt Flow",
+      "kind": "name",
+      "example": "city to provide free period products across all of its major professional sports venues, with 165 free-vend dispensers installed by Aunt Flow.",
+      "reason": "Verified in the city and Columbus Dispatch/USA Today Network source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's current ChatGPT release notes added a practical capability: users can select a chart, metric or record in the Health tab and ask for personalized explanations and summaries.",
+      "reason": "Verified in the OpenAI release-note search result; direct source fetch did not expose the dynamic article text."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today: consumer confidence gives the rate story a household pulse, Columbus turns sports access into venue infrastructure, flood-zone closings avoid a midnight insurance problem, and agentic payments move from demo language toward authority, limits and bank-grade audit trails.",
+      "reason": "The local story, weather source and city source are Columbus-specific; the city article was verified in browser search output but blocked direct curl."
+    },
+    {
+      "claim": "Huntington Park",
+      "kind": "name",
+      "example": "The city said Tuesday that Huntington Park has joined other major Columbus sports venues in providing free period products to guests.",
+      "reason": "Verified in the city and Columbus Dispatch/USA Today Network source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "Huntington Park Ohio Stadium ScottsMiracle-Gro Field Nationwide Arena Historic Crew Stadium and the Schottenstein Center",
+      "kind": "name",
+      "example": "The city and local coverage list Huntington Park, Ohio Stadium, ScottsMiracle-Gro Field, Nationwide Arena, Historic Crew Stadium and the Schottenstein Center.",
+      "reason": "Venue list was verified in the city and Columbus Dispatch/USA Today Network source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "NCAA",
+      "kind": "name",
+      "example": "Columbus is preparing for the 2027 NCAA women's Final Four, the 2027 NCAA women's volleyball championship and a 2028 National Women's Soccer League expansion team.",
+      "reason": "Upcoming Columbus women\u2019s sports events were verified in the city source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "National Women Soccer League",
+      "kind": "name",
+      "example": "Columbus is preparing for the 2027 NCAA women's Final Four, the 2027 NCAA women's volleyball championship and a 2028 National Women's Soccer League expansion team.",
+      "reason": "Columbus NWSL expansion timing was verified in the city source text opened through search results; direct source fetch was blocked."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's current ChatGPT release notes added a practical capability: users can select a chart, metric or record in the Health tab and ask for personalized explanations and summaries.",
+      "reason": "Verified in the OpenAI release-note search result; direct source fetch did not expose the dynamic article text."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

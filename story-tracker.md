@@ -1,43 +1,37 @@
-# Story Tracker - updated 2026-09-29
+# Story Tracker - updated 2026-09-30
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## Canada Import Ban
-- Last covered / verified development: 2026-09-29; AP reported the U.S. ban on nearly $1 billion in Canadian imports took effect at 12:01 a.m. Eastern, with about $967 million in covered imports and 87% tied to alcoholic beverages.
-- Last takeaway: A narrow trade action can still create procurement, pricing and customer-communication work for firms that viewed Canadian sourcing as low-risk.
-- Source: https://apnews.com/article/canada-us-trade-ban-tariffs-bdb4d9b946e98f84088c5c0f7f522588
-- Revisit only for: Canadian countermeasure, negotiated exemption, court challenge, U.S. exporter impact, distributor shortage, or administration expansion of the banned list. Expire October 4 without a development.
+## NFIP And Flood-Zone Closings
+- Last covered / verified development: 2026-09-30; CRS summary of P.L. 119-103 says the continuing resolution funds agencies through December 11, 2026 and Section 139 extends normal NFIP operations for the same CR period.
+- Last takeaway: The mortgage consequence is a shifted deadline for flood-zone closings, not a new credit rule; lenders should flag files closing near the next authorization date.
+- Source: https://www.everycrsreport.com/reports/R49353.html
+- Revisit only for: new congressional extension, lapse warning, FEMA/NFIP bulletin, investor or lender closing guidance, private-flood fallback guidance, or borrower impact near the December 11 deadline. Expire October 5 unless a lender-facing notice appears.
 
-## Columbus Large-Load Utility Rates
-- Last covered / verified development: 2026-09-29; Columbus Council's September 28 agenda still listed file 2560-2026 requiring Columbus Water and Power to establish peak rates or other charges for large-load/high-volume industrial and manufacturing users; final minutes were not posted by cutoff.
-- Last takeaway: The useful local test is whether Columbus prices peak demand and infrastructure capacity instead of shifting large-load costs to residential and small-commercial customers.
-- Source: https://columbus.legistar.com/MeetingDetail.aspx?G=4F637594-17B0-4E92-8196-37F14328D337&GID=139&LEGID=6211
-- Revisit only for: posted September 28 action, council minutes, CWP rate proposal, Utility Advisory Board detail, demand-charge design, minimum-bill formula, industry pushback, or resident-rate analysis. Expire October 4 without a development.
+## Lead Bank Agentic Payment Controls
+- Last covered / verified development: 2026-09-30; Lead Bank published an agentic-finance architecture note on September 29, and Fed Governor Waller separately framed agent-assisted versus agent-delegated commerce at Sibos.
+- Last takeaway: Bank AI payment risk moves from chatbot quality to provable authority, allowed rails, counterparty limits, revocation and dispute evidence.
+- Source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm
+- Revisit only for: named bank customer, live transaction volume, mistaken-payment rate, fraud movement, dispute metric, customer-support metric, or regulator guidance on delegated AI payments. Expire October 5 without a metric.
 
-## Columbus Safe Communities Grant
-- Last covered / verified development: 2026-09-29; Columbus Council's September 28 agenda listed a $137,500 Ohio Department of Public Safety grant for the Safe Communities program, with funds for traffic-safety awareness and education forums across Columbus and Franklin County.
-- Last takeaway: Traffic-safety money matters most when the city ties outreach to corridors, audiences and behaviors with measurable crash-risk relevance.
-- Source: https://columbus.legistar.com/MeetingDetail.aspx?G=4F637594-17B0-4E92-8196-37F14328D337&GID=139&LEGID=6211
-- Revisit only for: posted passage, program activity report, corridor-specific campaign, crash-data targeting, enforcement partnership, or measurable outcome. Expire October 4 without a development.
+## Consumer Confidence And Rate Pressure
+- Last covered / verified development: 2026-09-30; The Conference Board reported September consumer confidence fell to 81.9 and expectations fell to 63.6 ahead of PCE inflation and jobs data.
+- Last takeaway: The household-demand question is whether high prices and long rates translate into delayed purchases before hard spending data turns.
+- Source: https://www.conference-board.org/topics/tags.cfm?parent=consumer-confidence
+- Revisit only for: PCE surprise, jobs report deterioration, retail-sales confirmation, Fed reaction, or material credit/housing implication. Expire October 5 after jobs unless confirmed by new data.
 
-## MPF Servicing And MI Termination
-- Last covered / verified development: 2026-09-29; MPF's September 25 servicing summary listed Fannie Mae's mortgage-insurance termination update and Computershare's secure file-transfer transition from ServicerConnect to TrustConnect.
-- Last takeaway: Servicers need both borrower-facing MI cancellation implementation and file-transfer readiness so policy changes do not become complaint or exception queues.
-- Source: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates
-- Revisit only for: servicer bulletin on eligible borrower solicitation, TrustConnect access issue, borrower complaint pattern, investor clarification, or measurable portal-transition failure. Expire October 4 without a development.
+## Columbus Sports Venue Access
+- Last covered / verified development: 2026-09-30; Columbus announced Huntington Park joined major sports venues providing free period products, with the city tying the milestone to IgniteHER and upcoming women’s sports events.
+- Last takeaway: Venue operations are part of competing for women’s sports events and fan experience, but the broader test is adoption beyond headline venues.
+- Source: https://www.columbus.gov/News-articles/Columbus-Makes-Period-Care-Part-of-Sports-Venue-Infrastructure-as-IgniteHER-Launches-New-Programs-for-Girls
+- Revisit only for: expansion to recreation centers, schools or smaller event sites; event-hosting requirement; usage/restocking data; cost disclosure; or 2027 event operations plan. Expire October 5 without a follow-up.
 
-## Bank of America Ask GPS Intelligence Hub
-- Last covered / verified development: 2026-09-29; Bank of America announced Ask GPS Intelligence Hub for Global Payments Solutions employees, adding client, account and relationship-data capabilities to an internal tool the bank says already supports nearly 3,000 employees.
-- Last takeaway: The large-bank decision is how to move AI from knowledge access into relationship-manager preparation while preserving source traceability and employee responsibility.
-- Source: https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bank-of-america-expands--ask-global-payments-solutions--with-new.html
-- Revisit only for: prep-time metric, treasury revenue signal, client-retention disclosure, error or review-defect metric, compliance control detail, or customer-facing restriction. Expire October 4 without a development.
-
-## OpenAI GPT-6.1 Astra Delay
-- Last covered / verified development: 2026-09-29; AP reported OpenAI delayed GPT-6.1 Astra over security concerns before a Washington meeting with AI executives.
-- Last takeaway: Frontier buyers need release plans and contracts that account for safety pauses, not only model announcements and benchmark claims.
-- Source: https://apnews.com/article/open-ai-artificial-intelligence-altman-trump-astra-5afb865b2cddc439efdcf31ebdc406a5
-- Revisit only for: OpenAI release criteria, resumed release, published safeguard changes, independent evaluation, customer access change, or regulator/lawmaker condition tied to release timing. Expire October 4 without a development.
+## OpenAI Health Data Summaries
+- Last covered / verified development: 2026-09-30; OpenAI release notes added Health tab chart, metric and record explanations in ChatGPT.
+- Last takeaway: The frontier implication is sensitive structured-data assistance; availability is clear, but accuracy, safety and clinical-result evidence are not disclosed.
+- Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+- Revisit only for: safety note, medical-use restriction, independent evaluation, enterprise health-data control, clinical partner evidence, or privacy incident. Expire October 5 without new evidence.
 
 ## Retired From Automatic Carryover
 
-Federal fuel-economy rule unless final NHTSA text, court challenge, automaker compliance plan, EPA companion rule, documented vehicle-price impact, fuel-cost analysis, or congressional action appears; LoanPro servicing platform fixes unless customer bulletin, affected-account disclosure, borrower-facing impact, servicer exception volume, revised VPC rollout date, or additional payment-rule defect appears; Zopa Ask Banking Assistant unless payment completion metric, mistaken-payment reversal data, complaints, fraud movement, CSAT, service-deflection results, regulator comment, or material feature restriction appears; OpenAI training pause / agent incidents unless resumed-training notice, published safeguard changes, agency incident detail, Transluce evidence release, independent replication, or regulator/law-enforcement action appears; Boeing 737 Max software review unless FAA Corrective Action Review Board result, airworthiness directive, airline delivery refusal update, Max 10 certification delay, Max 7 delivery delay, or Boeing software-fix schedule appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
+Canada import ban unless Canadian countermeasure, negotiated exemption, court challenge, U.S. exporter impact, distributor shortage, or administration expansion appears; Columbus large-load utility rates unless posted council action, CWP rate design, demand-charge proposal, resident-rate analysis, or industry pushback appears; Columbus Safe Communities grant unless corridor-specific campaign, crash-data targeting, enforcement partnership, or measurable outcome appears; MPF servicing and MI termination unless borrower solicitation, TrustConnect access issue, investor clarification, or measurable portal-transition failure appears; Bank of America Ask GPS unless prep-time metric, treasury revenue signal, client-retention disclosure, error/review-defect metric, or compliance-control detail appears; GPT-6.1 Astra delay unless OpenAI release criteria, resumed release, published safeguard changes, independent evaluation, access change, or regulator condition appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
