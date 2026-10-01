@@ -27,6 +27,90 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Permitting Deal, School Flyers, Score Pricing, and Gemini 4 - October 1, 2026</title>
+    <description>The October 1 Morning Brief covers the Senate permitting deal, hate flyers near Central Ohio schools, Fannie and Freddie implementation changes for appraisal and credit-score workflows, Feedzai&#x27;s fraud-investigation agent, Google&#x27;s restricted Gemini 4 Argon rollout, high Treasury yields, and a warm Columbus forecast before Friday rain.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a permitting deal tries to turn power demand into faster approvals, Central Ohio schools respond to hate flyers near campuses, mortgage lenders get new appraisal and score-pricing implementation work, and Google’s newest frontier model arrives first for cyber defenders.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Thursday, October 1st, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with the Senate permitting deal announced Wednesday. AP reports senators from both parties reached an agreement on legislation meant to speed reviews for energy and infrastructure projects that can now face years of delay.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why does a permitting bill lead the brief instead of staying inside Washington process?</p>
+<p><span style="font-weight:bold">Host:</span> Because the operating problem is outside Washington. Data centers, grid upgrades, transmission lines, pipelines, housing and manufacturing sites all run into approval clocks. The bill is an attempt to make electricity demand and construction timelines part of one policy conversation.</p>
+<p><span style="font-weight:bold">Co-host:</span> Who has leverage from here?</p>
+<p><span style="font-weight:bold">Host:</span> The Senate deal is not a final law. The White House praised the bill, but environmental groups, states, project developers and House leaders still matter. The real test is whether Congress writes faster deadlines without simply moving litigation and local opposition to a different step.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the takeaway is not that projects suddenly get built faster today.</p>
+<p><span style="font-weight:bold">Host:</span> Right. The useful takeaway is that power availability is becoming a national growth constraint. A company planning a plant, a utility planning capacity, or a city negotiating a data-center project should watch whether the final text changes agency deadlines, court review, transmission siting or project categories.</p>
+<p><span style="font-weight:bold">Co-host:</span> And if it does pass, the local question becomes sharper: faster approval for what, with which costs assigned to customers?</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. Speed is valuable only if the project economics and community terms are visible enough for ratepayers, neighbors and employers to understand what they are buying.</p>
+<p><span style="font-weight:bold">Co-host:</span> That matters in Ohio because power demand is no longer abstract. If a factory, data center or transmission project moves faster, the surrounding community still has to understand water use, road impact, rate design and who absorbs upgrade costs.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Central Ohio, WOSU reports Ku Klux Klan flyers were found Tuesday morning near World Language Middle School and Indian Springs Elementary School in Clintonville, with Worthington police also confirming flyers placed in Worthington Monday night.</p>
+<p><span style="font-weight:bold">Co-host:</span> What makes this more than an ugly speech story?</p>
+<p><span style="font-weight:bold">Host:</span> The location. Flyers near schools force districts to respond as a safety, student-support and community-confidence issue. Worthington school leaders said administrators, counselors and security teams were aware and ready to support students and staff.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should residents do if they see more of them?</p>
+<p><span style="font-weight:bold">Host:</span> WOSU reported the NAACP Columbus branch asked people to photograph flyers and send images to the branch. For residents, the practical move is documentation, not confrontation: note the location, preserve evidence, tell the school or local police, and avoid giving the campaign the intimidation effect it wants.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does this connect to the recent Flock camera audit?</p>
+<p><span style="font-weight:bold">Host:</span> Only carefully. The flyer text reportedly referenced Flock, but that does not make it a policing technology story by itself. The direct civic story is how schools, neighborhoods and civil-rights groups handle targeted intimidation without letting anonymous propaganda set the community agenda.</p>
+<p><span style="font-weight:bold">Co-host:</span> The next useful update would be whether investigators connect distribution patterns across neighborhoods.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Watch for Worthington, Columbus schools, police or community groups to report a pattern, a suspect, cleanup costs, student-support steps or repeat distribution near schools.</p>
+<p><span style="font-weight:bold">Co-host:</span> There is also a school-day consequence. A district can condemn the flyers publicly, but families will judge the response by whether students see adults present, informed and calm at arrival, dismissal and after-school activities.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is implementation work on two workflows: appraisal reporting and credit-score pricing. Fannie Mae posted a September 30 lender letter offering a temporary exception for lenders unable to meet the November 2 UAD 3.6 mandate.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which loan file feels that first?</p>
+<p><span style="font-weight:bold">Host:</span> Conventional files that need appraisals in the new Uniform Appraisal Dataset 3.6 and Uniform Residential Appraisal Report environment. If a lender, appraisal vendor or technology connection is not ready by November 2, the exception process becomes a pipeline-control issue, not a theory.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the consequence for borrowers?</p>
+<p><span style="font-weight:bold">Host:</span> A file can be credit-ready and still slow down if appraisal data cannot move cleanly through the required format. Lenders need to know which channels are ready, which vendors need exceptions, and how locks and closing dates are handled when an appraisal delivery path is the constraint.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the credit-score change?</p>
+<p><span style="font-weight:bold">Host:</span> Freddie Mac said September 30 that fees across Classic FICO and VantageScore 4.0 are aligned to simplify pricing. Fannie Mae’s lender letter on VantageScore was also updated September 30. That affects loan delivery, pricing communication and disclosure training for lenders that adopt VantageScore 4.0.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does that mean every lender can flip a switch today?</p>
+<p><span style="font-weight:bold">Host:</span> No. Broader availability and pricing alignment are not the same as universal operational readiness. Loan officers, secondary teams and compliance staff still need investor instructions, system updates, disclosure language and quality-control checks before using a different score model at scale.</p>
+<p><span style="font-weight:bold">Co-host:</span> That distinction protects the borrower too. If a lender advertises a new score option before operations are ready, the borrower may hear possibility as approval. The better workflow is to explain eligibility, timing and investor acceptance before the file depends on it.</p>
+<p><span style="font-weight:bold">Host:</span> The useful lending takeaway is that October is an implementation month. Watch which lenders publish UAD exception plans, which investors update score-model overlays, and whether delivery edits create closing friction before November 2.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Feedzai’s Farol fraud-analysis agent to the deployment ledger as a dated specialist update. It is lane two: fraud, AML and financial crime. Feedzai announced the agent on September 24 for its RiskOps Studio.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why use a week-old item today?</p>
+<p><span style="font-weight:bold">Host:</span> Because the banking-specific source set is quiet this morning, and this was not covered in the last seven episodes. It is operationally relevant: the task is fraud investigation support, including conversational intelligence, rule-performance analysis and case summaries inside the system analysts already use.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank?</p>
+<p><span style="font-weight:bold">Host:</span> Vendor claim. Feedzai says its broader technology safeguards more than one billion consumers and nine trillion dollars in payment volume annually, but it did not disclose Farol customer adoption, investigation-time reduction, alert-quality movement, false-positive change or analyst correction rates.</p>
+<p><span style="font-weight:bold">Co-host:</span> Then what would this change at a large bank?</p>
+<p><span style="font-weight:bold">Host:</span> It changes financial-crime staffing and control design. If an agent summarizes cases and analyzes rule performance inside the fraud platform, managers can shift analyst time from information gathering toward decisions. But exam exposure rises if the case narrative is fluent and wrong.</p>
+<p><span style="font-weight:bold">Co-host:</span> The limitation is evidence quality.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. The control that matters is reviewer traceability: an analyst needs to see which transactions, rules and risk signals produced the summary before filing, escalating or closing a case. The next proof point is a bank customer publishing investigation time, quality or loss outcomes.</p>
+<p><span style="font-weight:bold">Co-host:</span> And a fraud shop will care about exception behavior more than the demo. A fast summary is helpful only if it handles messy merchant data, linked accounts, mule patterns and partial evidence without nudging analysts toward a premature close.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, Google unveiled Gemini 4 Argon on Wednesday, according to Axios and Google DeepMind’s announcement listing. The qualifying bar is access shift plus frontier capability claim: Google is rolling the model first to a small group of cybersecurity partners and trusted testers.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can listeners actually verify today?</p>
+<p><span style="font-weight:bold">Host:</span> They can verify the access status and Google’s positioning. Google says Argon is aimed at coding, enterprise knowledge work and cyber defense. Third-party hands-on results are limited because the model is not broadly available to ordinary developers this morning.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> The benchmark leadership is a lab claim unless outside evaluators publish task-level replication. The stronger practical fact is the release pattern: Google is giving the most capable system first to cyber defenders while it continues testing before wider developer, enterprise and consumer access.</p>
+<p><span style="font-weight:bold">Co-host:</span> Who is advantaged by that?</p>
+<p><span style="font-weight:bold">Host:</span> Security teams inside the access program get earlier exposure to defensive capability and failure modes. Everyone else gets a procurement question: is the best model the one on a leaderboard, or the one your organization is allowed to test, govern and call through approved systems?</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a real buying question. Restricted access can be responsible, but it also means most enterprises cannot verify costs, latency, tool reliability or data-handling behavior in their own workflow yet.</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is a closed cybersecurity pilot with non-customer data, gated by vendor-risk approval, logging and red-team review before the model touches production incidents.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets remain a financing story. AP reported Asian shares mostly rose early Thursday on technology optimism, while the 10-year Treasury yield rose to 5.29 percent and the 30-year climbed to 5.64 percent.</p>
+<p><span style="font-weight:bold">Co-host:</span> So AI enthusiasm is not lowering borrowing costs.</p>
+<p><span style="font-weight:bold">Host:</span> Not yet. That is the split. Technology shares can get support from model releases and chip demand while households, lenders, utilities and local governments still face long rates that make projects, mortgages and bonds harder to pencil.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should a lender or local finance team watch today?</p>
+<p><span style="font-weight:bold">Host:</span> Watch whether the permitting story and AI optimism pull capital spending forward, or whether high yields force projects to be repriced. Oil and Friday’s jobs report remain the near-term pressure points for inflation expectations and the Fed path.</p>
+<p><span style="font-weight:bold">Co-host:</span> The clean market question is whether optimism reaches financing terms. If the stock market likes future infrastructure but the bond market keeps charging more for long money, the project spreadsheet still gets the last vote.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets a warm, mostly usable Thursday before a much wetter Friday. The National Weather Service forecast for downtown Columbus calls for a high near 87, mostly sunny skies, and south wind from 5 to 12 miles per hour.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is today the better outdoor window?</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Tonight brings a slight shower chance after 5 a.m., and Friday is forecast to bring rain showers with a high near 71. The practical move is to use today for outdoor work, errands and fields, then keep Friday plans rain-flexible.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: whether the Senate permitting bill keeps bipartisan support once project categories and court review are written; whether lenders publish UAD 3.6 exception plans before November 2; and whether Google releases independent or partner evidence from Gemini 4 Argon’s cyber rollout.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those triggers are useful because they separate announcements from execution: a bill text, lender readiness, and outside evidence on a restricted model.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Thursday, October 1st. Have a good morning, and keep your attention on the point where a headline becomes an operating change.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-01_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-01_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-01_morning-brief.mp3" length="13203500" type="audio/mpeg"/>
+    <pubDate>Thu, 01 Oct 2026 01:52:19 -0400</pubDate>
+    <itunes:duration>00:13:43</itunes:duration>
+    <itunes:episode>20261001</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-01</guid>
+  </item>
+  <item>
     <title>Morning Brief — Confidence Drop, Venue Access, NFIP Relief, and Agent Payments - September 30, 2026</title>
     <description>The September 30 Morning Brief covers the September consumer-confidence slide, Columbus sports-venue period-care infrastructure, NFIP deadline relief for flood-zone closings, Lead Bank and Fed agentic-payment controls, OpenAI health-data summaries, high long yields, and a mild Columbus forecast.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -817,74 +901,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-21</guid>
   </item>
   <item>
-    <title>Morning Brief — Press Access, Columbus Storms, MI Outreach, and AI Slowdown Lawsuit - September 20, 2026</title>
-    <description>The September 20 Morning Brief covers White House badge denials for CNN, MS NOW and Politico; Central Ohio&#x27;s storm and roadway-flooding risk; Fannie Mae&#x27;s mortgage-insurance termination outreach update; Ant International&#x27;s agentic financial stack; an antitrust lawsuit over AI slowdown coordination; mixed Friday markets; and practical Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: the White House press fight moved from threat to badge denial, Columbus faces a rain-and-roadway flooding test, Fannie Mae gives servicers a new PMI outreach option, and AI safety coordination now has an antitrust lawsuit attached to it.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Sunday, September 20th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start with press access, because the new fact is operational. AP reports reporters from CNN, MS NOW and Politico were denied access to the White House on Saturday, one day after President Trump said he was barring those outlets over coverage he called fake news.</p>
-<p><span style="font-weight:bold">Co-host:</span> Yesterday the key question was whether the threat would be enforced. Is that now answered?</p>
-<p><span style="font-weight:bold">Host:</span> Partly. AP says CNN&#x27;s Betsy Klein and MS NOW&#x27;s Akayla Gardner reported their press badges had been deactivated, and Politico said Cheyenne Haslett was denied entry and had her badge confiscated. That turns a political threat into a gate-control action affecting daily coverage.</p>
-<p><span style="font-weight:bold">Co-host:</span> What does that change for the institutions around the White House?</p>
-<p><span style="font-weight:bold">Host:</span> It shifts the next move to the news organizations, the White House Correspondents&#x27; Association and, likely, the courts. AP says all three outlets hinted at legal action, while the association called for access to be restored. The administrative question is who sets credential standards, how they are documented, and whether they apply neutrally.</p>
-<p><span style="font-weight:bold">Co-host:</span> There is also a shared-pool issue here. If one outlet loses access, other reporters may still be inside, but the public loses some competing witnesses. That matters when the dispute is about coverage, not security screening.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the listener should watch mechanics, not only rhetoric.</p>
-<p><span style="font-weight:bold">Host:</span> Right. A lawsuit, a written credential rule, or restored badges would each mean something different. The useful point is that access to presidential events is not symbolic plumbing; it is how reporters observe what government officials do when the public cannot fit inside the room.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Central Ohio, the local story is weather becoming an operations problem. The latest Columbus forecast calls for a cloudy, humid Sunday with a thunderstorm in the area this afternoon, and any downpour can cause temporary flooding on roadways and in poor drainage spots.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why give that the local beat instead of saving it for weather at the end?</p>
-<p><span style="font-weight:bold">Host:</span> Because this is a planning story for Sunday events, drivers, school-night travel and Monday-morning setups. Central Ohio does not need a major river flood to have a messy day; fast rain on urban pavement can close low spots, slow freeway merges, and force organizers to choose between waiting, moving indoors or sending people into heavy rain.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should someone in Columbus do differently?</p>
-<p><span style="font-weight:bold">Host:</span> Check radar before longer errands or outdoor plans, and think about drainage, not only rain probability. If you use a low underpass, a creek-adjacent road or a parking lot that ponds quickly, the risk is concentrated in the downpour window. Monday also looks cooler with periods of rain, so drying time may be limited.</p>
-<p><span style="font-weight:bold">Co-host:</span> The useful local watch is whether afternoon storms train over the same corridor.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. If storms move through quickly, it is a nuisance. If repeated cells hit the same side of town, the decision changes for youth sports, evening shifts, delivery routes and the Monday commute.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is especially true for people who work Sunday evenings. A storm at 3 p.m. can still affect a 6 p.m. shift if parking lots flood, traffic lights go out, or parents have to change pickup plans.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is servicing outreach, not a new rate quote. Fannie Mae issued Lender Letter LL-2026-07 on September 16, permitting servicers to solicit borrowers who may be eligible to terminate conventional mortgage insurance based on the current value of the property.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which workflow does that affect?</p>
-<p><span style="font-weight:bold">Host:</span> Servicing portfolio review. Instead of waiting only for a borrower to ask about PMI removal, a Fannie Mae servicer can identify loans where current property value may support cancellation outreach. That changes borrower communication, valuation ordering, call scripting, compliance review and the retention conversation.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does it automatically remove anyone&#x27;s mortgage insurance?</p>
-<p><span style="font-weight:bold">Host:</span> No. The letter permits outreach; it does not erase the eligibility test. Borrowers still need the file to meet the termination requirements, and servicers still need a defensible value and process. The consequence is that a servicer can turn rising home equity into a proactive customer-contact moment rather than leaving the savings buried.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does that matter when rates near seven percent are still the loud mortgage story?</p>
-<p><span style="font-weight:bold">Host:</span> Because the borrower with no refinance incentive may still have a monthly-payment opportunity inside servicing. Freddie Mac&#x27;s latest weekly survey put the 30-year fixed average at 6.95 percent, so many owners are not refinancing. But a PMI-removal outreach can reduce payment friction without touching the note rate.</p>
-<p><span style="font-weight:bold">Co-host:</span> That also changes the lender&#x27;s tone. Instead of calling only to defend escrow changes, delinquency options, or refinance offers that do not work, the servicer can call with a possible savings path if the equity math checks out.</p>
-<p><span style="font-weight:bold">Co-host:</span> The watch is whether servicers build real lists or treat this as a passive policy note.</p>
-<p><span style="font-weight:bold">Host:</span> Correct. The next useful evidence is borrower notices, valuation rules, investor overlays, and whether Freddie Mac-aligned processes make lenders more comfortable contacting eligible households.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Ant International to the ledger. The lane is payments, foreign exchange and treasury operations. PYMNTS reported Friday that Ant announced an AI-native financial stack with nearly 100 products across payment, account, FX, treasury and growth operations.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed in the ledger row?</p>
-<p><span style="font-weight:bold">Host:</span> It is a new announced row, with company-claim evidence. The release says the stack uses Ant&#x27;s Antom 3-in-1 Transformer payment model and FalconTST time-series model, plus security architecture, Agentic Mobile Protocol and WhaleRTP for settlement interoperability.</p>
-<p><span style="font-weight:bold">Co-host:</span> Do they disclose real results, or just product architecture?</p>
-<p><span style="font-weight:bold">Host:</span> They disclose vendor-reported performance claims. PYMNTS says Ant reported chargeback-rate reduction of as much as 87 percent among large language model clients for subscription services, and FalconTST forecasting accuracy above 93 percent with corporate FX hedging and allocation cost cuts of 30 to 60 percent. The missing baseline is independent bank validation.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It changes the build-versus-partner decision for agent-enabled payments and treasury forecasting. A bank has to decide whether an agent gets an account, how know-your-agent checks work, and whether treasury forecasts can influence hedging before a human reviews the proposed action.</p>
-<p><span style="font-weight:bold">Co-host:</span> The interesting part is that payments and forecasting are not just chat tasks. They touch money movement, balance-sheet exposure, merchant disputes and customer instructions. A small model error can become an accounting or conduct problem very quickly.</p>
-<p><span style="font-weight:bold">Co-host:</span> What limitation matters most here?</p>
-<p><span style="font-weight:bold">Host:</span> Auditability at the moment of action. A forecast or payment instruction may look impressive, but a bank still needs to reconstruct model input, user authority, FX exposure, approval path and intervention point. The next upgrade would be a named bank disclosing production scope and independently reviewed error or loss metrics.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> At the frontier, the slowdown debate moved into court. AP reports a lawsuit filed Friday in the Northern District of California claims Anthropic, OpenAI, SpaceXAI and Google made an illegal agreement to slow their AI development.</p>
-<p><span style="font-weight:bold">Co-host:</span> What bar does that clear for frontier coverage?</p>
-<p><span style="font-weight:bold">Host:</span> Policy that could bind labs directly, plus safety-process governance. The lawsuit argues the companies coordinated after Dario Amodei&#x27;s September 12 essay urging industrywide deceleration for safety, and that Sam Altman, Elon Musk and Demis Hassabis publicly responded in agreement the same day.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is that a proven illegal deal?</p>
-<p><span style="font-weight:bold">Host:</span> No. It is an allegation by paid subscribers seeking a proposed nationwide class. AP says the plaintiffs do not object to companies slowing individually or asking government for rules; they object to collective restraint outside a federal framework. The companies had not immediately responded to AP&#x27;s request for comment Saturday.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> There is no capability benchmark here. The checkable development is the filing and the named legal theory. The claimed safety concern is that fast progress could outrun controls; the claimed consumer harm is reduced subscription value if labs coordinate slower development. The unresolved question is whether safety collaboration can exist without antitrust exposure.</p>
-<p><span style="font-weight:bold">Co-host:</span> That puts labs in a narrow lane. Move alone and they may be accused of sacrificing safety or market share. Move together and plaintiffs can say the leading firms are restraining competition. A public rulebook becomes more attractive when private coordination is legally risky.</p>
-<p><span style="font-weight:bold">Co-host:</span> And the bank bridge?</p>
-<p><span style="font-weight:bold">Host:</span> Earliest bank relevance is procurement timing: regulated firms should expect frontier-model access, release dates and safety commitments to remain unstable until labs, courts or regulators define what collaboration is allowed.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets ended Friday with a split message. QQQ finished higher, while SPY and DIA slipped, and TLT also fell. USO was lower, which helped the inflation story at the margin, but the long-bond weakness kept the financing-pressure story alive.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the tape still favors parts of tech while rate-sensitive borrowers and small companies wait for relief.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. The assumption is that AI-linked growth can keep supporting the Nasdaq, but mortgage and credit-sensitive parts of the economy need lower long yields, not just a few strong software headlines.</p>
-<p><span style="font-weight:bold">Host:</span> That is why Monday&#x27;s rate screen matters as much as the stock open: the financing signal has to improve before the housing and credit stories can really breathe.</p>
-<p><span style="font-weight:bold">Co-host:</span> For Monday, breadth matters more than one index print. If tech is the only pocket holding up while long bonds sag, borrowers, builders and small-cap companies are still dealing with a tight-cost-of-capital environment.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> For Columbus weather, today is cloudy and humid near 79, with an afternoon thunderstorm possible and downpours able to create temporary roadway flooding. Monday turns cooler near 65 with periods of rain. Tuesday stays cloudy, with a couple of showers and a high near 68.</p>
-<p><span style="font-weight:bold">Co-host:</span> That makes today a radar-check day and Monday a slower-commute day.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: whether the denied White House outlets file for emergency access; whether Fannie Mae servicers begin borrower outreach for PMI termination under LL-2026-07; and whether the AI slowdown lawsuit produces a court order or company response that clarifies what labs can coordinate.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Sunday, September 20th. Have a good morning, and keep the next decision tied to the thing that actually changed.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Sunday, September 20, 2026</title>
+    <description>Your Morning Brief for Sunday, September 20, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-20_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-20_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-20_morning-brief.mp3" length="12273095" type="audio/mpeg"/>
@@ -1084,18 +1103,6 @@
     <itunes:duration>00:13:45</itunes:duration>
     <itunes:episode>20260901</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-01</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, August 31, 2026</title>
-    <description>Your Morning Brief for Monday, August 31, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-08-31_morning-brief.mp3" length="15769389" type="audio/mpeg"/>
-    <pubDate>Mon, 31 Aug 2026 04:29:16 -0600</pubDate>
-    <itunes:duration>00:16:25</itunes:duration>
-    <itunes:episode>20260831</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-08-31</guid>
   </item>
 </channel>
 </rss>
