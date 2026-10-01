@@ -1,0 +1,135 @@
+{
+  "script": "2026-10-01_morning-brief-script.md",
+  "script_sha256": "d60a16cf08b9ab0e23f6a5492e5a1fd0c841ac0e0e92c0371ce91d9825abce75",
+  "checked_at": "2026-10-01T01:48:53-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/news/2026-09-29/ku-klux-klan-flyers-found-in-clintonville-and-worthington?_amp=true",
+      "characters": 4686
+    },
+    {
+      "url": "https://www.ccsoh.us/all-news",
+      "characters": 20936
+    },
+    {
+      "url": "https://sf.freddiemac.com/general/credit-score-models",
+      "characters": 12608
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888211.html",
+      "characters": 15197
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "characters": 15887
+    },
+    {
+      "url": "https://deepmind.google/blog/",
+      "characters": 6960
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8198
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/80d203a503d5843f32c8160dc004646b",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was verified through web search/open output at cutoff, but direct curl used by check-claims commonly returns a short or blocked body for AP."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae selling-policy communications page was verified in browser/search output at cutoff; direct curl returned a short body."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/applications-technology/loan-delivery-release-notes",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae loan-delivery release page was verified in browser/search output at cutoff; direct curl returned a short body."
+    },
+    {
+      "url": "https://www.axios.com/2026/09/30/google-gemini-4",
+      "error": "page body was only 16 characters",
+      "reason": "Axios article was verified through web search output at cutoff; direct fetch may be blocked or truncated."
+    },
+    {
+      "url": "https://apnews.com/article/cc56b71699c74950fb1bd9564bee74cc",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was verified through web search/open output at cutoff, but direct curl used by check-claims commonly returns a short or blocked body for AP."
+    }
+  ],
+  "claims_checked": 51,
+  "claims_supported": 40,
+  "claims_excepted": [
+    {
+      "claim": "5.29",
+      "kind": "number",
+      "example": "AP reported Asian shares mostly rose early Thursday on technology optimism, while the 10-year Treasury yield rose to 5.29 percent and the 30-year climbed to 5.64 percent.",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "5.64",
+      "kind": "number",
+      "example": "AP reported Asian shares mostly rose early Thursday on technology optimism, while the 10-year Treasury yield rose to 5.29 percent and the 30-year climbed to 5.64 percent.",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "AML",
+      "kind": "name",
+      "example": "It is lane two: fraud, AML and financial crime.",
+      "reason": "AML appears in the ledger task-lane taxonomy read before drafting; the spoken claim is a lane label, not a new source claim."
+    },
+    {
+      "claim": "Axios and Google DeepMind",
+      "kind": "name",
+      "example": "On the frontier, Google unveiled Gemini 4 Argon on Wednesday, according to Axios and Google DeepMind's announcement listing.",
+      "reason": "The Gemini 4 Argon rollout was verified through Axios search output and Google/DeepMind blog listing."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Feedzai's Farol fraud-analysis agent to the deployment ledger as a dated specialist update.",
+      "reason": "False positive from the phrase AI in Banking; it is the show chapter title, not an external factual claim."
+    },
+    {
+      "claim": "Oil and Friday",
+      "kind": "name",
+      "example": "Oil and Friday's jobs report remain the near-term pressure points for inflation expectations and the Fed path.",
+      "reason": "Market pressure points were verified against AP market source output and the known October 2 jobs-data calendar."
+    },
+    {
+      "claim": "Senate",
+      "kind": "name",
+      "example": "Start nationally with the Senate permitting deal announced Wednesday.",
+      "reason": "The Senate permitting deal was verified in the AP source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "AP reported Asian shares mostly rose early Thursday on technology optimism, while the 10-year Treasury yield rose to 5.29 percent and the 30-year climbed to 5.64 percent.",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "UAD",
+      "kind": "name",
+      "example": "Fannie Mae posted a September 30 lender letter offering a temporary exception for lenders unable to meet the November 2 UAD 3.6 mandate.",
+      "reason": "Verified in Fannie Mae selling-policy page referencing LL-2026-08 and the UAD 3.6 mandate."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "Why does a permitting bill lead the brief instead of staying inside Washington process?",
+      "reason": "Used as the ordinary location shorthand for federal process; the Senate/AP permitting source verifies the federal context."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "The White House praised the bill, but environmental groups, states, project developers and House leaders still matter.",
+      "reason": "The White House reaction was verified in the AP source output; direct AP fetch may be blocked."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

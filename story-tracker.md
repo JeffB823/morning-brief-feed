@@ -1,37 +1,43 @@
-# Story Tracker - updated 2026-09-30
+# Story Tracker - updated 2026-10-01
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## NFIP And Flood-Zone Closings
-- Last covered / verified development: 2026-09-30; CRS summary of P.L. 119-103 says the continuing resolution funds agencies through December 11, 2026 and Section 139 extends normal NFIP operations for the same CR period.
-- Last takeaway: The mortgage consequence is a shifted deadline for flood-zone closings, not a new credit rule; lenders should flag files closing near the next authorization date.
-- Source: https://www.everycrsreport.com/reports/R49353.html
-- Revisit only for: new congressional extension, lapse warning, FEMA/NFIP bulletin, investor or lender closing guidance, private-flood fallback guidance, or borrower impact near the December 11 deadline. Expire October 5 unless a lender-facing notice appears.
+## Senate Permitting Deal
+- Last covered / verified development: 2026-10-01; AP reported senators from both parties reached a permitting deal on September 30 to speed reviews for energy and infrastructure projects.
+- Last takeaway: Power and infrastructure approval timelines are becoming a national growth constraint, but final bill text matters more than deal language.
+- Source: https://apnews.com/article/80d203a503d5843f32c8160dc004646b
+- Revisit only for: posted bill text changing agency deadlines, court review, transmission siting, eligible project categories, House leadership response, or a named Ohio/Central Ohio project impact. Expire October 6 without text or vote movement.
 
-## Lead Bank Agentic Payment Controls
-- Last covered / verified development: 2026-09-30; Lead Bank published an agentic-finance architecture note on September 29, and Fed Governor Waller separately framed agent-assisted versus agent-delegated commerce at Sibos.
-- Last takeaway: Bank AI payment risk moves from chatbot quality to provable authority, allowed rails, counterparty limits, revocation and dispute evidence.
-- Source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm
-- Revisit only for: named bank customer, live transaction volume, mistaken-payment rate, fraud movement, dispute metric, customer-support metric, or regulator guidance on delegated AI payments. Expire October 5 without a metric.
+## Central Ohio Hate Flyers Near Schools
+- Last covered / verified development: 2026-10-01; WOSU reported KKK flyers found near Clintonville schools and Worthington police confirmed flyers placed in Worthington.
+- Last takeaway: The operational local story is documentation, school-day student support, and community response to targeted intimidation, not amplifying anonymous propaganda.
+- Source: https://www.wosu.org/news/2026-09-29/ku-klux-klan-flyers-found-in-clintonville-and-worthington?_amp=true
+- Revisit only for: suspect identification, confirmed coordinated distribution pattern, repeat flyers near schools, school-support plan, cleanup/enforcement cost, or police/community action. Expire October 6 without a new public update.
+
+## UAD 3.6 And Score-Model Implementation
+- Last covered / verified development: 2026-10-01; Fannie Mae posted LL-2026-08 on September 30 for temporary UAD 3.6 exceptions, and Freddie Mac posted Classic FICO/VantageScore 4.0 pricing alignment the same day.
+- Last takeaway: October becomes an implementation month for appraisal data readiness, loan delivery, pricing communication, investor instructions and score-model quality control.
+- Source: https://singlefamily.fanniemae.com/selling-policy-communications
+- Revisit only for: lender exception instructions, investor overlays, aggregator guidance, delivery-edit issues, vendor readiness notice, borrower disclosure guidance, or problems approaching the November 2 UAD 3.6 mandate. Expire October 6 unless implementation guidance appears.
+
+## Feedzai Farol Fraud Agent
+- Last covered / verified development: 2026-10-01; Feedzai announced Farol on September 24, and the ledger added it as a dated specialist update.
+- Last takeaway: Fraud-case summarization changes analyst workflow only if banks can trace source transactions, rules and risk signals behind the agent output.
+- Source: https://www.prnewswire.com/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888211.html
+- Revisit only for: named bank customer, investigation-time metric, false-positive movement, alert-quality result, fraud-loss outcome, analyst correction rate, or regulator/audit evidence. Expire October 6 without a customer or metric.
+
+## Gemini 4 Argon Restricted Rollout
+- Last covered / verified development: 2026-10-01; Google unveiled Gemini 4 Argon on September 30, with initial access restricted to cyber defenders and trusted testers.
+- Last takeaway: Restricted access is part of the capability story; a model is enterprise-useful only when teams can test, govern and call it through approved systems.
+- Source: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+- Revisit only for: independent or partner cyber evidence, public API/model ID, enterprise access timing, pricing, safety report, red-team result, or regulator/CAISI access note. Expire October 6 without access or evidence movement.
 
 ## Consumer Confidence And Rate Pressure
-- Last covered / verified development: 2026-09-30; The Conference Board reported September consumer confidence fell to 81.9 and expectations fell to 63.6 ahead of PCE inflation and jobs data.
+- Last covered / verified development: 2026-09-30; The Conference Board reported September consumer confidence fell to 81.9 and expectations fell to 63.6 ahead of inflation and jobs data.
 - Last takeaway: The household-demand question is whether high prices and long rates translate into delayed purchases before hard spending data turns.
 - Source: https://www.conference-board.org/topics/tags.cfm?parent=consumer-confidence
-- Revisit only for: PCE surprise, jobs report deterioration, retail-sales confirmation, Fed reaction, or material credit/housing implication. Expire October 5 after jobs unless confirmed by new data.
-
-## Columbus Sports Venue Access
-- Last covered / verified development: 2026-09-30; Columbus announced Huntington Park joined major sports venues providing free period products, with the city tying the milestone to IgniteHER and upcoming women’s sports events.
-- Last takeaway: Venue operations are part of competing for women’s sports events and fan experience, but the broader test is adoption beyond headline venues.
-- Source: https://www.columbus.gov/News-articles/Columbus-Makes-Period-Care-Part-of-Sports-Venue-Infrastructure-as-IgniteHER-Launches-New-Programs-for-Girls
-- Revisit only for: expansion to recreation centers, schools or smaller event sites; event-hosting requirement; usage/restocking data; cost disclosure; or 2027 event operations plan. Expire October 5 without a follow-up.
-
-## OpenAI Health Data Summaries
-- Last covered / verified development: 2026-09-30; OpenAI release notes added Health tab chart, metric and record explanations in ChatGPT.
-- Last takeaway: The frontier implication is sensitive structured-data assistance; availability is clear, but accuracy, safety and clinical-result evidence are not disclosed.
-- Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-- Revisit only for: safety note, medical-use restriction, independent evaluation, enterprise health-data control, clinical partner evidence, or privacy incident. Expire October 5 without new evidence.
+- Revisit only for: jobs report deterioration, Fed reaction, retail-sales confirmation, PCE revision, or material credit/housing implication. Expire October 6 after jobs unless confirmed by new data.
 
 ## Retired From Automatic Carryover
 
-Canada import ban unless Canadian countermeasure, negotiated exemption, court challenge, U.S. exporter impact, distributor shortage, or administration expansion appears; Columbus large-load utility rates unless posted council action, CWP rate design, demand-charge proposal, resident-rate analysis, or industry pushback appears; Columbus Safe Communities grant unless corridor-specific campaign, crash-data targeting, enforcement partnership, or measurable outcome appears; MPF servicing and MI termination unless borrower solicitation, TrustConnect access issue, investor clarification, or measurable portal-transition failure appears; Bank of America Ask GPS unless prep-time metric, treasury revenue signal, client-retention disclosure, error/review-defect metric, or compliance-control detail appears; GPT-6.1 Astra delay unless OpenAI release criteria, resumed release, published safeguard changes, independent evaluation, access change, or regulator condition appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
+NFIP relief unless new congressional extension, lapse warning, FEMA/NFIP bulletin, investor/lender closing guidance, private-flood fallback guidance, or borrower impact near December 11 appears; Lead Bank agentic-payment controls unless customer/transaction/dispute/fraud metrics appear; Columbus venue period-care expansion unless new facility, cost, usage or event-hosting requirement appears; OpenAI Health tab summaries unless safety, privacy, clinical or independent-evaluation evidence appears; Canada import ban unless retaliatory/exemption action appears; Columbus large-load utility rates unless posted final action or rate design appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.

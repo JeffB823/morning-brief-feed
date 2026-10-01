@@ -1,0 +1,391 @@
+{
+  "date": "2026-10-01",
+  "cutoff": "2026-10-01T01:44:14-04:00",
+  "timezone": "America/New_York",
+  "history_compared": [
+    "2026-09-24_morning-brief-script.md",
+    "2026-09-25_morning-brief-script.md",
+    "2026-09-26_morning-brief-script.md",
+    "2026-09-27_morning-brief-script.md",
+    "2026-09-28_morning-brief-script.md",
+    "2026-09-29_morning-brief-script.md",
+    "2026-09-30_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "senate-permitting-deal",
+      "beat": "national",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "decision": "selected",
+      "reason": "Fresh national policy development with practical consequences for energy, infrastructure, housing, data centers and local ratepayers."
+    },
+    {
+      "id": "central-ohio-hate-flyers",
+      "beat": "columbus",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "decision": "selected",
+      "reason": "Fresh Central Ohio school/community safety story with specific neighborhoods, school-administration response and resident action."
+    },
+    {
+      "id": "fannie-uad-exception-and-score-pricing",
+      "beat": "home_lending",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "decision": "selected",
+      "reason": "Fresh primary-source operational change affecting appraisal delivery, loan delivery, pricing and credit-score implementation."
+    },
+    {
+      "id": "feedzai-farol-fraud-agent",
+      "beat": "bank_ai",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "decision": "selected_as_dated_update",
+      "reason": "Previously uncovered banking-AI implementation item within seven days; used for ledger change but not counted toward the four fresh developments."
+    },
+    {
+      "id": "gemini-4-argon-restricted-rollout",
+      "beat": "frontier_ai",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "decision": "selected",
+      "reason": "Fresh frontier access/capability story with a concrete restriction to cyber defenders and clear measured-versus-claimed distinction."
+    },
+    {
+      "id": "markets-yields-ai-split",
+      "beat": "markets",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "decision": "selected_routine",
+      "reason": "Compact context: AP reported Asian shares mostly rose while long Treasury yields stayed painful."
+    },
+    {
+      "id": "columbus-police-cruiser-crash",
+      "beat": "columbus",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "decision": "not_selected",
+      "reason": "Fresh local public-safety item, but less broadly useful than the school/community response to hate flyers."
+    },
+    {
+      "id": "bofa-technology-innovation-summit",
+      "beat": "bank_ai",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "decision": "not_selected",
+      "reason": "Fresh but mostly an event preview, not a named banking-AI deployment or measured implementation result."
+    },
+    {
+      "id": "labor-secretary-confirmation",
+      "beat": "national",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-10-01",
+      "decision": "not_selected",
+      "reason": "Fresh but weaker operational payoff than permitting for the listener mix."
+    }
+  ],
+  "stories": [
+    {
+      "id": "senate-permitting-deal",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://apnews.com/article/80d203a503d5843f32c8160dc004646b"
+      ],
+      "new_fact": "AP reported senators from both parties reached a deal on permitting legislation to speed reviews for energy and infrastructure projects.",
+      "new_takeaway": "Power and infrastructure approval timelines are becoming a national growth constraint; final bill text matters more than deal language.",
+      "why_now": "The bipartisan deal was announced and reported September 30, inside the 24-hour priority window.",
+      "previous_coverage": "Recent national segments covered consumer confidence, trade actions, fuel rules, Iran/oil, and summit follow-up; no full permitting segment in the previous seven scripts.",
+      "uncertainty": "The deal still must survive Congress; faster reviews could shift rather than resolve litigation, environmental objections, state authority and local cost disputes.",
+      "watch": "Whether bill text changes agency deadlines, court review, transmission siting or eligible project categories."
+    },
+    {
+      "id": "central-ohio-hate-flyers",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-09-29",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "https://www.wosu.org/news/2026-09-29/ku-klux-klan-flyers-found-in-clintonville-and-worthington?_amp=true",
+        "https://www.ccsoh.us/all-news"
+      ],
+      "new_fact": "WOSU reported KKK flyers were found near World Language Middle School and Indian Springs Elementary School in Clintonville, and Worthington police confirmed flyers placed in Worthington Monday night.",
+      "new_takeaway": "The practical local story is school-day support, documentation and community response to targeted intimidation, not amplifying anonymous propaganda.",
+      "why_now": "The flyers were found September 29 and the school/community responses began the same day.",
+      "previous_coverage": "Recent local segments covered venue access, traffic-safety grants, police investigations, water/rate design, and snow preparation; no repeated fact or conclusion.",
+      "uncertainty": "Distribution scope, any suspect identification, and repeat activity remain unknown at cutoff.",
+      "watch": "Reports from Worthington, Columbus schools, police or community groups on distribution patterns, cleanup costs, suspect identification or student-support steps."
+    },
+    {
+      "id": "fannie-uad-exception-and-score-pricing",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://singlefamily.fanniemae.com/selling-policy-communications",
+        "https://sf.freddiemac.com/general/credit-score-models",
+        "https://singlefamily.fanniemae.com/applications-technology/loan-delivery-release-notes"
+      ],
+      "new_fact": "Fannie Mae posted LL-2026-08 for temporary UAD 3.6 exceptions on September 30; Freddie Mac posted September 30 pricing alignment across Classic FICO and VantageScore 4.0.",
+      "new_takeaway": "October becomes an implementation month for appraisal data readiness, loan delivery, pricing communication, investor instructions and score-model quality control.",
+      "why_now": "Both primary-source mortgage implementation updates were dated September 30.",
+      "previous_coverage": "Previous lending segments covered NFIP deadline relief, MPF servicing, Fannie rental income, ARM counseling, MBS disclosure and LoanPro servicing; no UAD 3.6 exception or VantageScore pricing-alignment lead.",
+      "uncertainty": "Availability and pricing alignment do not prove each lender, vendor, aggregator or investor is ready to accept the workflows at scale.",
+      "watch": "Which lenders publish UAD 3.6 exception plans before November 2, and which investors update VantageScore overlays.",
+      "date_exception": null
+    },
+    {
+      "id": "feedzai-farol-fraud-agent",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "date_exception": "Quiet banking-AI beat: this previously uncovered fraud-operations update is within seven days and operationally relevant, but it does not count toward the four fresh stories.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888211.html"
+      ],
+      "new_fact": "Feedzai launched Farol, an AI agent in RiskOps Studio for conversational intelligence, automated rule performance analytics and contextual case summaries.",
+      "new_takeaway": "The bank decision is whether fraud analysts can trust AI case summaries and rule analysis enough to shift staffing and control design.",
+      "why_now": "The item was published September 24, not used in the previous seven episodes, and fills the required banking-AI ledger update on a quiet morning.",
+      "previous_coverage": "Recent bank-AI sections covered Lead Bank payments, BofA treasury intelligence, LoanPro servicing, DBS routing, BNP/Gemini and Paywhere; no Feedzai fraud-analysis segment.",
+      "uncertainty": "No bank customer, Farol adoption, investigation-time reduction, alert-quality movement, false-positive change, loss outcome or analyst correction rate was disclosed.",
+      "watch": "A bank customer publishing investigation time, quality, false-positive, loss or analyst-review outcomes.",
+      "ledger_row_changed": "Added Feedzai / Farol fraud-analysis agent; lane 2; status announced; evidence vendor claim; metric none disclosed for Farol outcomes."
+    },
+    {
+      "id": "gemini-4-argon-restricted-rollout",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "https://www.axios.com/2026/09/30/google-gemini-4",
+        "https://deepmind.google/blog/"
+      ],
+      "new_fact": "Google unveiled Gemini 4 Argon and restricted initial access to a small group of cybersecurity partners and trusted testers.",
+      "new_takeaway": "Frontier capability is useful only if an enterprise can actually test, govern and call the model; access restrictions are now part of the capability story.",
+      "why_now": "The announcement and reporting were dated September 30.",
+      "previous_coverage": "Recent frontier sections covered OpenAI Health tab summaries, Astra delay, OpenAI training pause, Daybreak Ukraine, Word/Voice access and model pricing; this is a new Google model/access story.",
+      "uncertainty": "Benchmark leadership is lab-reported at cutoff, and broad independent hands-on replication is limited by restricted access.",
+      "watch": "Independent or partner evidence from Gemini 4 Argon cyber pilots, plus any API, enterprise or consumer access timetable.",
+      "frontier_bar": "Price/access shift and frontier capability claim with restricted cyber-defense rollout."
+    },
+    {
+      "id": "markets-yields-ai-split",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "https://apnews.com/article/cc56b71699c74950fb1bd9564bee74cc"
+      ],
+      "new_fact": "AP reported Asian shares mostly rose early Thursday on technology optimism, while the 10-year Treasury yield rose to 5.29% and the 30-year to 5.64%.",
+      "new_takeaway": "AI-linked optimism and expensive long money can coexist; financing terms remain the practical constraint for lenders, utilities and local governments.",
+      "why_now": "AP published the market report October 1.",
+      "previous_coverage": "Markets have recently focused on long yields and oil; this stayed compact as routine context.",
+      "uncertainty": "Yields and oil can move quickly around jobs data and Iran-war headlines.",
+      "watch": "Whether long yields retreat after the jobs report or keep repricing mortgages, bonds and project finance."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "The National Weather Service forecast generated at 2026-10-01T05:34Z called for a Columbus high near 87 Thursday and rain showers Friday with a high near 71.",
+      "new_takeaway": "Thursday is the better outdoor window before a wetter Friday.",
+      "why_now": "Daily weather forecast checked at the October 1 cutoff.",
+      "previous_coverage": "Routine Columbus weather appears daily and was kept brief.",
+      "uncertainty": "Rain timing and totals can update through Friday morning.",
+      "watch": "Friday rain timing and commute impact."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "d60a16cf08b9ab0e23f6a5492e5a1fd0c841ac0e0e92c0371ce91d9825abce75"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/80d203a503d5843f32c8160dc004646b",
+      "reason": "AP page was verified through web search/open output at cutoff, but direct curl used by check-claims commonly returns a short or blocked body for AP."
+    },
+    {
+      "claim": "https://apnews.com/article/cc56b71699c74950fb1bd9564bee74cc",
+      "reason": "AP page was verified through web search/open output at cutoff, but direct curl used by check-claims commonly returns a short or blocked body for AP."
+    },
+    {
+      "claim": "https://www.axios.com/2026/09/30/google-gemini-4",
+      "reason": "Axios article was verified through web search output at cutoff; direct fetch may be blocked or truncated."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "reason": "Fannie Mae selling-policy communications page was verified in browser/search output at cutoff; direct curl returned a short body."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/applications-technology/loan-delivery-release-notes",
+      "reason": "Fannie Mae loan-delivery release page was verified in browser/search output at cutoff; direct curl returned a short body."
+    },
+    {
+      "claim": "https://www.prnewswire.com/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888211.html",
+      "reason": "PRNewswire/Feedzai announcement was verified in browser/search output at cutoff; direct curl reset the connection."
+    },
+    {
+      "claim": "AP",
+      "reason": "AP article details were verified through web search/open output; direct fetch may be blocked."
+    },
+    {
+      "claim": "Asian",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "Oil and Friday",
+      "reason": "Market pressure points were verified against AP market source output and the known October 2 jobs-data calendar."
+    },
+    {
+      "claim": "Senate",
+      "reason": "The Senate permitting deal was verified in the AP source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "White House",
+      "reason": "The White House reaction was verified in the AP source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "Congress",
+      "reason": "The congressional status of the permitting deal was verified in the AP source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "Washington",
+      "reason": "Used as the ordinary location shorthand for federal process; the Senate/AP permitting source verifies the federal context."
+    },
+    {
+      "claim": "WOSU",
+      "reason": "WOSU source text was opened and checked through search/open output."
+    },
+    {
+      "claim": "Ku Klux Klan",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "World Language Middle School",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "Indian Springs Elementary School",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "Clintonville",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "Worthington",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "NAACP Columbus",
+      "reason": "Verified in the WOSU source text opened through search output."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Verified in Fannie Mae selling-policy and loan-delivery pages."
+    },
+    {
+      "claim": "Freddie Mac",
+      "reason": "Verified in Freddie Mac credit-score initiative page."
+    },
+    {
+      "claim": "UAD",
+      "reason": "Verified in Fannie Mae selling-policy page referencing LL-2026-08 and the UAD 3.6 mandate."
+    },
+    {
+      "claim": "Uniform Residential Appraisal Report",
+      "reason": "Verified in Fannie Mae selling-policy communications describing UAD 3.6 appraisal assignments and URAR requirements."
+    },
+    {
+      "claim": "Classic FICO",
+      "reason": "Verified in the Freddie Mac credit-score initiative page and Fannie Mae selling-policy page."
+    },
+    {
+      "claim": "VantageScore",
+      "reason": "Verified in the Freddie Mac credit-score initiative page and Fannie Mae selling-policy page."
+    },
+    {
+      "claim": "Feedzai",
+      "reason": "Verified in the PRNewswire/Feedzai announcement."
+    },
+    {
+      "claim": "Feedzai Farol",
+      "reason": "Verified in the PRNewswire/Feedzai announcement."
+    },
+    {
+      "claim": "AML",
+      "reason": "AML appears in the ledger task-lane taxonomy read before drafting; the spoken claim is a lane label, not a new source claim."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the phrase AI in Banking; it is the show chapter title, not an external factual claim."
+    },
+    {
+      "claim": "Farol",
+      "reason": "Verified in the PRNewswire/Feedzai announcement."
+    },
+    {
+      "claim": "RiskOps Studio",
+      "reason": "Verified in the PRNewswire/Feedzai announcement."
+    },
+    {
+      "claim": "Google",
+      "reason": "Verified through the Google/DeepMind blog listing and Axios search output."
+    },
+    {
+      "claim": "Gemini",
+      "reason": "Verified through the Google/DeepMind blog listing and Axios search output."
+    },
+    {
+      "claim": "Argon",
+      "reason": "Verified through the Google/DeepMind blog listing and Axios search output."
+    },
+    {
+      "claim": "Axios",
+      "reason": "Axios result was verified through web search output."
+    },
+    {
+      "claim": "Axios and Google DeepMind",
+      "reason": "The Gemini 4 Argon rollout was verified through Axios search output and Google/DeepMind blog listing."
+    },
+    {
+      "claim": "Google DeepMind",
+      "reason": "Verified in the DeepMind blog listing and Google announcement source."
+    },
+    {
+      "claim": "5.29",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    },
+    {
+      "claim": "5.64",
+      "reason": "Verified in AP market source output; direct AP fetch may be blocked."
+    }
+  ],
+  "length_exception": null,
+  "carryover_exception": null
+}
