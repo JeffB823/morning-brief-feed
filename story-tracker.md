@@ -1,6 +1,24 @@
-# Story Tracker - updated 2026-10-01
+# Story Tracker - updated 2026-10-02
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
+
+## September Jobs Report And Claims
+- Last covered / verified development: 2026-10-02; Labor Department initial claims posted October 1 ahead of the September Employment Situation scheduled for 8:30 a.m. Eastern on October 2.
+- Last takeaway: The useful question is whether payrolls confirm labor cooling strongly enough to move Treasury yields without signaling a sharper household-income problem.
+- Source: https://www.dol.gov/ui/data.pdf
+- Revisit only for: actual September payrolls, unemployment rate, wage growth, material Treasury-yield move after release, Fed reaction, or mortgage-rate implication. Expire October 7 after the market digests the report.
+
+## COTA Missed-Trip Reliability
+- Last covered / verified development: 2026-10-02; WOSU reported COTA missed nearly six percent of scheduled trips since the start of 2026 while working through operator, maintenance and service-management constraints.
+- Last takeaway: The rider issue is reliability by route, time and cause, not merely whether a scheduled route exists.
+- Source: https://www.wosu.org/
+- Revisit only for: route-level missed-trip data, COTA board action, staffing or maintenance fix, rider-alert change, employer impact, or a measured improvement trend. Expire October 7 without route-level or board movement.
+
+## Gemini 4 Argon Evaluation Evidence
+- Last covered / verified development: 2026-10-02; Artificial Analysis listed a Gemini 4 Argon model card after Google's restricted rollout, adding a third-party comparison hook beyond the access announcement.
+- Last takeaway: Outside measurement helps buyers ask for access and design internal tests, but it does not replace workflow-specific validation.
+- Source: https://artificialanalysis.ai/models/gemini-4-argon
+- Revisit only for: independent task-level evaluation, partner cyber evidence, pricing, public API/model ID, enterprise access timing, safety report, or regulator/CAISI access note. Expire October 7 without new access or evidence movement.
 
 ## Senate Permitting Deal
 - Last covered / verified development: 2026-10-01; AP reported senators from both parties reached a permitting deal on September 30 to speed reviews for energy and infrastructure projects.

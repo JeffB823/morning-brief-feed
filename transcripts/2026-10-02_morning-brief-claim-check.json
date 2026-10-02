@@ -1,0 +1,116 @@
+{
+  "script": "2026-10-02_morning-brief-script.md",
+  "script_sha256": "13cf0c9a78bfcedabf510d976f003628c103a406a6cf59007790a2f2637057d3",
+  "checked_at": "2026-10-02T06:24:21-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/",
+      "characters": 10935
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 11032
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "characters": 3590
+    },
+    {
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "characters": 16063
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "characters": 15619
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3857
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.dol.gov/ui/data.pdf",
+      "error": "page body was only 216 characters",
+      "reason": "The unemployment insurance PDF was verified through browser/search output at cutoff, but direct curl extracted only a short PDF wrapper."
+    },
+    {
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "The BLS release schedule was verified through browser/search output at cutoff; direct curl returned an access-denied page."
+    }
+  ],
+  "claims_checked": 31,
+  "claims_supported": 20,
+  "claims_excepted": [
+    {
+      "claim": "2018000",
+      "kind": "number",
+      "example": "The Labor Department's October 1 release put seasonally adjusted initial unemployment claims at 247000 for the week ending September 26, and continued claims at 2018000 for the week before that.",
+      "reason": "Continued-claims number verified in the October 1 Labor Department unemployment insurance release; direct PDF curl was not parseable by the checker."
+    },
+    {
+      "claim": "247000",
+      "kind": "number",
+      "example": "The Labor Department's October 1 release put seasonally adjusted initial unemployment claims at 247000 for the week ending September 26, and continued claims at 2018000 for the week before that.",
+      "reason": "Initial-claims number verified in the October 1 Labor Department unemployment insurance release; direct PDF curl was not parseable by the checker."
+    },
+    {
+      "claim": "6.31",
+      "kind": "number",
+      "example": "Freddie reported Thursday that the average 30-year fixed rate rose to 6.44 percent, up from 6.31 percent a week earlier.",
+      "reason": "Freddie Mac prior-week PMMS value was verified through the PMMS browser result at cutoff; the dynamic page body did not expose the value to the checker."
+    },
+    {
+      "claim": "6.44",
+      "kind": "number",
+      "example": "Freddie reported Thursday that the average 30-year fixed rate rose to 6.44 percent, up from 6.31 percent a week earlier.",
+      "reason": "Freddie Mac PMMS value was verified through the PMMS browser result at cutoff; the dynamic page body did not expose the value to the checker."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "Before the report, the useful screen is simple: Treasury yields, mortgage-backed securities, oil, and whether equity leadership keeps depending on AI-linked names while financing costs stay high.",
+      "reason": "Descriptive market phrase derived from recent market coverage and not a named organization."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Barclays and Anthropic to the deployment ledger.",
+      "reason": "False positive from the phrase AI in Banking; it is the show chapter title, not an external factual claim."
+    },
+    {
+      "claim": "Bureau of Labor Statistics",
+      "kind": "name",
+      "example": "The next timestamp is concrete: the Bureau of Labor Statistics has the September Employment Situation scheduled for 8:30 this morning Eastern.",
+      "reason": "Verified in the BLS release-schedule source; direct curl returned an access-denied page."
+    },
+    {
+      "claim": "COTA",
+      "kind": "name",
+      "example": "WOSU reported this week that COTA missed nearly six percent of scheduled bus trips since the start of 2026, and the agency is working through operator shortages, maintenance issues, and service-management fixes.",
+      "reason": "Verified in the WOSU local article result reviewed at cutoff."
+    },
+    {
+      "claim": "Eastern",
+      "kind": "name",
+      "example": "The next timestamp is concrete: the Bureau of Labor Statistics has the September Employment Situation scheduled for 8:30 this morning Eastern.",
+      "reason": "Time-zone label for the scheduled BLS release; verified against the BLS schedule source and local episode timezone."
+    },
+    {
+      "claim": "Employment Situation",
+      "kind": "name",
+      "example": "The next timestamp is concrete: the Bureau of Labor Statistics has the September Employment Situation scheduled for 8:30 this morning Eastern.",
+      "reason": "Verified in the BLS release-schedule source; direct curl returned an access-denied page."
+    },
+    {
+      "claim": "Labor Department October",
+      "kind": "name",
+      "example": "The Labor Department's October 1 release put seasonally adjusted initial unemployment claims at 247000 for the week ending September 26, and continued claims at 2018000 for the week before that.",
+      "reason": "False positive spanning possessive source name and month; Labor Department release date and data were verified through the UI release."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
