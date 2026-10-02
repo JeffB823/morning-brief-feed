@@ -27,6 +27,90 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Claims, Missed Buses, Mortgage Rates, and Barclays AI - October 2, 2026</title>
+    <description>The October 2 Morning Brief covers labor-market signals before the September jobs report, COTA missed-trip reliability, Freddie Mac&#x27;s mortgage-rate jump, Barclays&#x27; Claude rollout, an independent Gemini 4 Argon benchmark card, compact markets, and a rainy Columbus Friday.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: labor data sets up a high-stakes jobs report, Columbus transit reliability moves from rider complaint to operating metric, mortgage desks face a fresh rate-lock problem, and Barclays gives banking AI a real deployment to judge beyond vendor demos.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Friday, October 2nd, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with the labor-market setup before this morning&#x27;s September jobs report. The Labor Department&#x27;s October 1 release put seasonally adjusted initial unemployment claims at 247,000 for the week ending September 26, and continued claims at 2,018,000 for the week before that.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why lead with claims when the bigger payroll report arrives later this morning?</p>
+<p><span style="font-weight:bold">Host:</span> Because claims are the freshest hard signal before payrolls. They do not tell us how many jobs employers added in September, but they do show whether layoffs and benefit rolls are already accelerating before the broader employment report lands.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the practical risk for households and lenders?</p>
+<p><span style="font-weight:bold">Host:</span> If payrolls weaken while claims stay elevated, the Fed gets more evidence that restrictive rates are biting. That can help bonds, but it also means more borrowers may face income uncertainty, tighter budgets, and harder conversations about big-ticket purchases.</p>
+<p><span style="font-weight:bold">Co-host:</span> And if the jobs report is solid?</p>
+<p><span style="font-weight:bold">Host:</span> Then markets may keep pricing sticky long rates. The operating point is not recession guessing. It is whether employers are still hiring fast enough to support consumers while rates remain high enough to strain mortgages, auto loans, credit cards, and public borrowing.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a tricky mix for managers too. A company can see customers getting more careful without yet seeing layoffs in its own payroll plan, so hiring decisions may lag the consumer signal.</p>
+<p><span style="font-weight:bold">Host:</span> The next timestamp is concrete: the Bureau of Labor Statistics has the September Employment Situation scheduled for 8:30 this morning Eastern.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the local story is transit reliability. WOSU reported this week that COTA missed nearly six percent of scheduled bus trips since the start of 2026, and the agency is working through operator shortages, maintenance issues, and service-management fixes.</p>
+<p><span style="font-weight:bold">Co-host:</span> Six percent sounds small until it is your transfer.</p>
+<p><span style="font-weight:bold">Host:</span> Right. For a rider, a missed trip is not an abstract percentage. It can mean a late shift, a missed class, a longer childcare handoff, or paying for a ride that was not in the household budget.</p>
+<p><span style="font-weight:bold">Co-host:</span> What does that change for the agency?</p>
+<p><span style="font-weight:bold">Host:</span> It changes the conversation from whether a route exists to whether the route can be trusted. Dispatch, hiring, maintenance windows, backup buses, and rider alerts become the operating story. A schedule only helps if the bus actually appears.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does this connect to the bigger transit buildout?</p>
+<p><span style="font-weight:bold">Host:</span> It should. Expansion plans need rider confidence before they add complexity. If Columbus wants people to use more frequent corridors, the agency has to show that reliability is improving on the current system and that missed-trip data is visible enough for riders and employers to plan around it.</p>
+<p><span style="font-weight:bold">Co-host:</span> The useful watch is whether COTA reports the missed-trip trend by route, time of day, and cause.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. That would turn a systemwide frustration into a management dashboard people can test against their actual commute.</p>
+<p><span style="font-weight:bold">Co-host:</span> It also matters for employers on fixed shifts. If missed trips cluster around early mornings, late evenings, or transfer-heavy routes, the cost lands on workers who have the least schedule flexibility.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is not a new rule. It is rate-lock and qualification management after Freddie Mac&#x27;s weekly survey moved higher. Freddie reported Thursday that the average 30-year fixed rate rose to 6.44 percent, up from 6.31 percent a week earlier.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which workflow feels that first?</p>
+<p><span style="font-weight:bold">Host:</span> Active purchase and refinance files with narrow debt-to-income room. Loan officers have to decide whether to float, lock, reprice, change points, or revisit product choice before the borrower hears a payment that no longer matches the earlier conversation.</p>
+<p><span style="font-weight:bold">Co-host:</span> So this is a borrower communication problem as much as a market problem.</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. A borrower who qualified at last week&#x27;s payment may still qualify, but the cushion is thinner. Processors and loan officers need updated payment estimates, clear lock-expiration dates, and a fast review of files where taxes, insurance, or association dues already pushed the ratio close to the limit.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does the rate move justify an ARM conversation?</p>
+<p><span style="font-weight:bold">Host:</span> It can, but only with care. Freddie&#x27;s survey is a national average, not one lender&#x27;s rate sheet, and adjustable-rate options bring reset risk, margin, caps, and disclosure work. The responsible operating move is scenario comparison, not a reflexive product switch.</p>
+<p><span style="font-weight:bold">Host:</span> The consequence for lenders is pipeline triage. Files closest to approval should get lock and condition attention first. Leads at the top of the funnel need payment ranges instead of a single quote that turns stale before the borrower sends documents.</p>
+<p><span style="font-weight:bold">Co-host:</span> The watch item is whether next week&#x27;s survey confirms a trend or just captures one rough bond-market week.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. One print changes communication. A second move changes pricing strategy.</p>
+<p><span style="font-weight:bold">Co-host:</span> And that is where the workflow gets very practical. A lock desk may think in basis points, but a household hears monthly payment, closing cash, and whether the preapproval still feels safe.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Barclays and Anthropic to the deployment ledger. The lane is internal productivity and customer-facing banking operations. Anthropic announced Thursday that Barclays will make Claude available to colleagues across its business.</p>
+<p><span style="font-weight:bold">Co-host:</span> What changed in the row: a pilot, production, or just a press release?</p>
+<p><span style="font-weight:bold">Host:</span> It is an announced enterprise rollout, with a named bank and named model provider. The evidence rank is company claim. Anthropic says the work includes colleagues using Claude for tasks such as research, summarization, customer-service support, and software-development help, but it does not disclose a controlled productivity or quality baseline.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank if it works?</p>
+<p><span style="font-weight:bold">Host:</span> It changes deployment governance from isolated experiments to scaled employee access. Once many teams can use the same assistant, the hard questions become which workflows are approved, which data can enter prompts, how outputs are reviewed, and where the bank logs use for audit and conduct risk.</p>
+<p><span style="font-weight:bold">Co-host:</span> The absence of a metric matters, then.</p>
+<p><span style="font-weight:bold">Host:</span> It does. A rollout count is not an outcome. The proof would be cycle time, defect rate, call quality, engineering throughput, or review workload against a prior process. Without that, buyers should treat the announcement as scale evidence, not performance evidence.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should bank leaders take from it today?</p>
+<p><span style="font-weight:bold">Host:</span> Barclays makes the competitive question sharper: if a peer is broadening AI access, your control design has to be ready before business lines improvise their own tools. The limitation is that public sources still do not show whether the assistant improves decisions or mainly drafts first passes faster.</p>
+<p><span style="font-weight:bold">Co-host:</span> The customer-service piece is worth watching closely. Summarizing a policy for an employee is one risk; helping with a customer interaction adds tone, fairness, escalation, and recordkeeping questions that supervisors have to test before volume rises.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, the fresh development is an independent benchmark card for Gemini 4 Argon. Artificial Analysis lists Gemini 4 Argon on its model comparison page after Google&#x27;s restricted rollout, giving buyers an outside place to track intelligence, speed, price, and context claims as access opens.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is different from yesterday&#x27;s release story.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Yesterday&#x27;s useful fact was restricted access for cyber partners and trusted testers. Today&#x27;s useful fact is that outside measurement infrastructure is starting to catch up, even while most enterprises still cannot run their own full hands-on evaluation.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> Artificial Analysis is a third-party comparison source, while Google remains the source for the model&#x27;s intended cyber, coding, and enterprise-work claims. The limitation is that a public scorecard cannot reproduce every bank workflow, private data policy, latency condition, or tool-use failure.</p>
+<p><span style="font-weight:bold">Co-host:</span> Who is advantaged by the benchmark?</p>
+<p><span style="font-weight:bold">Host:</span> Procurement and model-risk teams get a neutral starting point. They can compare whether a restricted model appears strong enough to request access, then insist on internal tests for the actual workflow. The disadvantaged group is any buyer relying only on launch language.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the lesson is not to outsource judgment to the leaderboard. It is to use the leaderboard to ask better questions: what task was tested, what changed since the last model, and what failure would matter inside our own process?</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use remains a closed cyber or developer pilot with synthetic or non-customer data, gated by vendor-risk approval and internal evaluation before production incidents or customer records are involved.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets are waiting for the same 8:30 jobs number. Before the report, the useful screen is simple: Treasury yields, mortgage-backed securities, oil, and whether equity leadership keeps depending on AI-linked names while financing costs stay high.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would matter more than the opening stock move?</p>
+<p><span style="font-weight:bold">Host:</span> The 10-year Treasury reaction. If payrolls cool enough to lower yields without signaling a harder labor break, lenders and public borrowers get some relief. If yields climb again, yesterday&#x27;s mortgage-rate problem carries into next week&#x27;s locks.</p>
+<p><span style="font-weight:bold">Co-host:</span> And oil?</p>
+<p><span style="font-weight:bold">Host:</span> Oil remains an inflation input and a household-budget input. It does not need to dominate the day, but it can complicate the Fed signal if jobs soften while energy prices keep pressure on headline inflation.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is why markets can react in layers. Stocks may cheer a softer labor print, but mortgage desks care whether the bond market believes inflation is cooling enough to hold the move.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets a wet Friday. The National Weather Service forecast for downtown Columbus calls for showers, mainly before late afternoon, with a high near 70 and light wind becoming west around 6 miles per hour.</p>
+<p><span style="font-weight:bold">Co-host:</span> So today is more about timing than severity?</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Build in slower errands, slick school drop-offs, and damp job sites, but this is not framed as a major storm setup. Tonight turns mostly cloudy around the mid-50s, and Saturday looks mostly sunny near the upper 60s.</p>
+<p><span style="font-weight:bold">Co-host:</span> For Friday events, the better plan is flexible footwear, earlier setup, and a quick check before outdoor practices or deliveries. The weekend looks more forgiving, so some errands can simply slide a day.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: the 8:30 September jobs report and the Treasury reaction; whether COTA publishes route-level missed-trip causes; and whether Barclays or Anthropic discloses any measured Claude outcome beyond rollout scope.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the useful triggers: labor evidence, local reliability data, and proof that bank AI is improving a workflow instead of just reaching more employees.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Friday, October 2nd. Have a good morning, and keep the next decision tied to the fresh signal, not the loudest headline.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-02_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-02_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-02_morning-brief.mp3" length="12504548" type="audio/mpeg"/>
+    <pubDate>Fri, 02 Oct 2026 06:29:30 -0400</pubDate>
+    <itunes:duration>00:12:59</itunes:duration>
+    <itunes:episode>20261002</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-02</guid>
+  </item>
+  <item>
     <title>Morning Brief — Permitting Deal, School Flyers, Score Pricing, and Gemini 4 - October 1, 2026</title>
     <description>The October 1 Morning Brief covers the Senate permitting deal, hate flyers near Central Ohio schools, Fannie and Freddie implementation changes for appraisal and credit-score workflows, Feedzai&#x27;s fraud-investigation agent, Google&#x27;s restricted Gemini 4 Argon rollout, high Treasury yields, and a warm Columbus forecast before Friday rain.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -825,73 +909,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-22</guid>
   </item>
   <item>
-    <title>Morning Brief — ICE Shooting, Grove City Consent, UAD Appraisals, and AI Incident Alerts - September 21, 2026</title>
-    <description>The September 21 Morning Brief covers an ICE-agent shooting in Austin and transparency pressure; Grove City&#x27;s Issue 28 development-consent debate; Freddie Mac&#x27;s approaching UAD 3.6 appraisal mandate; Societe Generale&#x27;s AI savings target and Anthropic partnership; a proposed U.S.-China AI incident notification mechanism; mixed premarket ETF signals; and cool, wet Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: an ICE shooting tests federal-local accountability, Grove City puts development consent back in front of residents, lenders face a fast-approaching appraisal data mandate, and U.S.-China AI talks may create an incident hotline before model risks become diplomatic crises.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Monday, September 21st, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start in Austin, where AP reports a U.S. Immigration and Customs Enforcement officer shot and wounded 28-year-old Wilber Rafael Garces Perez during a Sunday traffic stop. Local officials said he was in serious but stable condition after being shot once in the torso.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is the public getting a clear account of what happened?</p>
-<p><span style="font-weight:bold">Host:</span> Not yet. ICE says Perez had a final order of removal, while his attorney disputes that and says the family received little information after he was moved into federal custody. Austin Mayor Kirk Watson called for an independent investigation with city police involved.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the operating issue is bigger than one traffic stop.</p>
-<p><span style="font-weight:bold">Host:</span> Right. AP says the shooting drew protesters near the scene and comes as ICE recorded more than 50,000 monthly arrests in both July and August, the highest in agency history. When enforcement scales that quickly, local officials, hospitals, lawyers and families need a reliable path to facts after force is used.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should listeners watch next?</p>
-<p><span style="font-weight:bold">Host:</span> Body-camera or vehicle footage, a named outside investigative agency, and whether Austin police get access to witnesses and evidence. The legal question is the shooting itself. The governance question is whether federal immigration enforcement can operate in a city without leaving local officials blind after a serious injury.</p>
-<p><span style="font-weight:bold">Co-host:</span> That also matters for employers, schools and clinics. When federal action spills into ordinary city systems, local institutions need to know who can answer families, preserve records and explain whether the next contact point is a hospital, a jail, an immigration office or a court.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Central Ohio, Grove City has a City Council meeting tonight, and the larger local story is Issue 28, the Community Consent Amendment headed to the November 3 ballot.</p>
-<p><span style="font-weight:bold">Co-host:</span> This is the data-center fight again, right?</p>
-<p><span style="font-weight:bold">Host:</span> It started there, but the city&#x27;s own explainer says the amendment is broader. It would require voter approval for developments that occupy 50 or more contiguous acres, use more than 20 megawatts at peak capacity, or use more than 500,000 gallons of water per day. Expansions over 10 percent could also trigger a vote.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does tonight&#x27;s meeting matter if the vote is in November?</p>
-<p><span style="font-weight:bold">Host:</span> Because the campaign is moving from concept to voter education. Grove City says qualifying projects already go through staff review, Planning Commission and City Council, while Issue 28 would add a ballot-level step. The city estimates that could add 9 to 18 months to a qualifying project timeline.</p>
-<p><span style="font-weight:bold">Co-host:</span> Residents may hear that as less control versus more delay, depending on what they fear most.</p>
-<p><span style="font-weight:bold">Host:</span> That is the local decision. People worried about traffic, water, power demand and neighborhood character see a direct vote as leverage. City officials warn the same thresholds could catch schools, churches, hospitals, parks, employers and large existing properties, not only data centers. The practical watch is whether council and residents can separate data-center limits from a citywide development process change.</p>
-<p><span style="font-weight:bold">Co-host:</span> The threshold details are doing real work here. A project can be controversial because it uses power, because it takes land, or because it changes traffic. A single amendment may bundle those concerns together even when residents would make different choices for a hospital expansion than for a server farm.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is the appraisal file, not the interest-rate quote. Freddie Mac&#x27;s UAD page says the November 2 UAD 3.6 mandate is quickly approaching, and all appraisal reports submitted to UCDP must use UAD 3.6 as of that date.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which loan workflow changes?</p>
-<p><span style="font-weight:bold">Host:</span> Any GSE-bound loan that needs a new appraisal. Freddie&#x27;s FAQ says the mandate is based on the initial UCDP submission date. If a UAD 2.6 report is submitted on or after November 2, UCDP returns a fatal message and the submission is not successful.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds like a back-office detail until a closing date is involved.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. The consequence is vendor and pipeline readiness. Lenders, appraisal management companies and review teams need ordering systems, rules engines, quality-control checks, underwriter screens and staff training ready before files hit the portal. A failed submission is not a prettier disclosure problem; it can interrupt collateral review and investor delivery.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there any transition room?</p>
-<p><span style="font-weight:bold">Host:</span> Yes, but it is narrow. Fannie Mae&#x27;s timeline says broad production began January 26, so lenders have been able to submit UAD 3.6 already. The risk is treating the mandate as a form swap instead of a data and report redesign. The near-term watch is whether lenders publish appraiser instructions and cutover rules for assignments ordered before November but submitted after the deadline.</p>
-<p><span style="font-weight:bold">Co-host:</span> That means the affected file is not only a brand-new November application. A September or October purchase can still get caught if the appraisal revision, reconsideration of value, or final portal submission lands after the mandate date.</p>
-<p><span style="font-weight:bold">Host:</span> Correct. That is why operations teams should test exception handling now. The borrower may only see &quot;we are waiting on the appraisal,&quot; but the lender has to know whether the delay is appraiser capacity, missing structured fields, software validation, or investor delivery risk.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Societe Generale to the deployment ledger. The row is software engineering and internal productivity, and the evidence rank is reputable reporting plus the bank&#x27;s Capital Markets Day materials, not an audited workflow result.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed about the row?</p>
-<p><span style="font-weight:bold">Host:</span> SocGen set a 2029 strategy today that includes a partnership with Anthropic and an AI-driven savings target of roughly 500 to 600 million euros. FT reported CEO Slawomir Krupa saying the fastest AI impact is likely in IT operations, while client-facing integration moves more slowly because banking is heavily supervised.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is that a production deployment or an announced target?</p>
-<p><span style="font-weight:bold">Host:</span> Announced target. That distinction matters. SocGen put AI into its cost plan, but did not disclose a measured defect rate, code-review result, release-cycle baseline, or customer-service outcome. The large-bank decision this changes is budget governance: when AI savings are embedded in a 2029 cost target, audit, finance and technology leaders need to prove which work actually changed.</p>
-<p><span style="font-weight:bold">Host:</span> The useful contrast is with splashier chatbot announcements. This one is less glamorous, but it points at where banks may get earlier scale: IT operations, procurement and internal process automation, not fully autonomous customer advice.</p>
-<p><span style="font-weight:bold">Co-host:</span> What limitation matters most?</p>
-<p><span style="font-weight:bold">Host:</span> Attribution. If costs fall, the bank has to separate model-enabled savings from vendor renegotiation, attrition, platform modernization and ordinary restructuring. Otherwise AI becomes a label on a cost plan rather than evidence that a specific workflow improved.</p>
-<p><span style="font-weight:bold">Co-host:</span> The bank-risk version is also sharper than &quot;will AI replace staff.&quot; If the tool writes code, routes incidents or prepares internal analysis, the control question is whether reviewers can find the model&#x27;s contribution when something breaks.</p>
-<p><span style="font-weight:bold">Host:</span> And that is where SocGen&#x27;s slower client-facing posture is useful. A bank can chase internal savings sooner while still holding customer advice, regulated communications and production system changes to a higher proof standard.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, AP reports Treasury Secretary Scott Bessent said Sunday the United States proposed a new notification mechanism with China for AI incidents that could affect national security.</p>
-<p><span style="font-weight:bold">Co-host:</span> What bar does that clear for frontier coverage?</p>
-<p><span style="font-weight:bold">Host:</span> Policy that could bind labs and governments directly. The proposal came during weekend talks in New York with Chinese Vice Premier He Lifeng, before President Trump and President Xi meet at the White House this week.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is new, and what is only claimed?</p>
-<p><span style="font-weight:bold">Host:</span> The checkable development is the U.S. proposal and Bessent&#x27;s explanation that the two largest AI powers need more transparency around common threats. The claim is that an incident-alert channel can reduce opaque crisis risk. Chinese state media described the dialogue as candid and constructive, but there is no signed mechanism yet.</p>
-<p><span style="font-weight:bold">Co-host:</span> How is this different from the antitrust lawsuit over lab slowdown coordination?</p>
-<p><span style="font-weight:bold">Host:</span> The lawsuit asks whether private labs can coordinate restraint without a government framework. This proposal is a possible government-to-government framework for incidents. It does not measure model capability, and it does not settle export controls. It says both sides now see AI failures as national-security events that may need notification before blame hardens.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest use is indirect: vendor-risk teams should ask whether frontier providers have incident-reporting duties that could delay access, trigger emergency disclosure, or change cross-border data and model availability.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the listener should not hear this as a new model feature. It is a reliability and access story. If frontier AI becomes part of national-security notification, enterprise buyers inherit new questions about outages, misuse reports and which government learns what first.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets open the week with a split signal. Early ETF quotes showed QQQ higher, while SPY, TLT and USO were lower. AP&#x27;s market report said Asian stocks rose after Bessent called the U.S.-China talks successful, and oil fell more than 2 percent as Hormuz traffic resumed.</p>
-<p><span style="font-weight:bold">Co-host:</span> What matters for mortgages and business planning?</p>
-<p><span style="font-weight:bold">Host:</span> The long-rate signal. A stronger Nasdaq can coexist with pressure on borrowers if long bonds keep weakening. AP also notes the 10-year Treasury near 5 percent after last week&#x27;s Fed hike. For lenders, builders and small companies, easier headlines do not matter much unless financing costs actually ease.</p>
-<p><span style="font-weight:bold">Co-host:</span> The market test is whether relief broadens beyond AI-linked growth stocks. If the Nasdaq keeps leading while bonds sag, the economy gets a familiar split: investors reward a few growth stories, while household payments and refinancing math stay tight.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a cool, wet Monday. The forecast calls for periods of rain, a high near 64 and a low near 58. Tuesday stays cloudy with a shower in spots near 65, and Wednesday looks cloudy and cool with a couple of showers.</p>
-<p><span style="font-weight:bold">Co-host:</span> So this is a slow-commute and indoor-backup start to the week.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. Give extra time for the morning and evening drives, assume fields and job sites stay soft, and keep rain gear handy through midweek rather than treating today as a one-off.</p>
-<p><span style="font-weight:bold">Co-host:</span> It is also a visibility day. Low clouds, spray and darker commutes can make routine merges and school drop-offs messier than the rainfall total suggests.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: whether Austin gets independent evidence access after the ICE shooting; whether Grove City narrows Issue 28 from broad development consent to data-center-specific concerns; and whether the U.S.-China AI incident proposal becomes a written mechanism before this week&#x27;s Trump-Xi meeting ends.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Monday, September 21st. Have a good morning, and keep the next decision tied to the newest operating fact.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Monday, September 21, 2026</title>
+    <description>Your Morning Brief for Monday, September 21, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-21_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-21_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-21_morning-brief.mp3" length="12804201" type="audio/mpeg"/>
@@ -1091,18 +1111,6 @@
     <itunes:duration>00:13:48</itunes:duration>
     <itunes:episode>20260902</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-02</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Tuesday, September 01, 2026</title>
-    <description>Your Morning Brief for Tuesday, September 01, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-01_morning-brief.mp3" length="13210029" type="audio/mpeg"/>
-    <pubDate>Tue, 01 Sep 2026 15:20:39 -0600</pubDate>
-    <itunes:duration>00:13:45</itunes:duration>
-    <itunes:episode>20260901</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-01</guid>
   </item>
 </channel>
 </rss>
