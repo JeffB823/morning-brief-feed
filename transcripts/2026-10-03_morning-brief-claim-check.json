@@ -1,0 +1,249 @@
+{
+  "script": "2026-10-03_morning-brief-script.md",
+  "script_sha256": "6407beb52348b4d47d13a0cebfb71b8edd24829662b12bc096c846f9a5998224",
+  "checked_at": "2026-10-03T01:48:26-0400",
+  "sources_fetched": [
+    {
+      "url": "https://sf.freddiemac.com/articles/news/loan-closing-advisor-september-29-updates",
+      "characters": 11115
+    },
+    {
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "characters": 7160
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.01629500000007&lon=-83.00698999999997",
+      "characters": 3698
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "BLS Employment Situation page was verified in browser/search output at cutoff, but curl returned an access-denied response to the checker."
+    },
+    {
+      "url": "https://apnews.com/article/44b99f9ccbff863888af99402ddf535e",
+      "error": "page body was only 16 characters",
+      "reason": "AP jobs story was verified in browser/search output at cutoff, but AP returned only a short dynamic body to curl."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/01/what-were-watching-in-columbus-this-october",
+      "error": "page body was only 16 characters",
+      "reason": "Axios Columbus October watch item was verified in browser/search output at cutoff, but Axios returned only a short dynamic body to curl."
+    },
+    {
+      "url": "https://www.house.ohio.gov/legislation/136/hb20",
+      "error": "curl exit 60: curl: (60) SSL: no alternative certificate subject name matches target host name 'www.house.ohio.gov'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the",
+      "reason": "Ohio House HB20 page was verified in browser/search output; curl failed on the site's certificate name mismatch."
+    },
+    {
+      "url": "https://house.ohio.gov/members/thomas-hall/news/ohio-governor-signs-bill-to-empower-and-protect-first-responders-148240",
+      "error": "curl exit 60: curl: (60) SSL: no alternative certificate subject name matches target host name 'house.ohio.gov'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the ser",
+      "reason": "Ohio House member release was verified in browser/search output; curl failed on the site's certificate name mismatch."
+    },
+    {
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI Help release notes were verified in browser/search output at cutoff, but the dynamic Help Center returned no body to curl."
+    },
+    {
+      "url": "https://apnews.com/article/48e9066481cba91a5d7c6688aa74a5cd",
+      "error": "page body was only 16 characters",
+      "reason": "AP market story was verified in browser/search output at cutoff, but AP returned only a short dynamic body to curl."
+    }
+  ],
+  "claims_checked": 61,
+  "claims_supported": 30,
+  "claims_excepted": [
+    {
+      "claim": "0.1",
+      "kind": "number",
+      "example": "Average hourly earnings rose five cents, or 0.1 percent, to 37 dollars and 81 cents.",
+      "reason": "Verified in BLS Employment Situation browser/search output: average hourly earnings rose 0.1 percent."
+    },
+    {
+      "claim": "133000",
+      "kind": "number",
+      "example": "BLS revised July down from a gain of 21000 to a loss of 10000, and August down from 162000 to 133000.",
+      "reason": "Verified in BLS Employment Situation browser/search output: August revised to 133,000."
+    },
+    {
+      "claim": "15",
+      "kind": "number",
+      "example": "This is the 15-foot rule people are talking about, right?",
+      "reason": "Verified in Ohio House HB20/Hall release browser output describing the 15-foot first-responder buffer after warning."
+    },
+    {
+      "claim": "162000",
+      "kind": "number",
+      "example": "BLS revised July down from a gain of 21000 to a loss of 10000, and August down from 162000 to 133000.",
+      "reason": "Verified in BLS Employment Situation browser/search output: August previously reported at 162,000."
+    },
+    {
+      "claim": "17000",
+      "kind": "number",
+      "example": "Health care still added 17000 jobs, but that was slower than its 33000 monthly average over the prior year.",
+      "reason": "Verified in BLS Employment Situation browser/search output: health care employment rose 17,000."
+    },
+    {
+      "claim": "2.5",
+      "kind": "number",
+      "example": "The page says users can select Ultrafast in the model picker for GPT-6 Astra, and it lists ChatGPT Images 2.5 with sharper details, more precise editing and faster image generation.",
+      "reason": "Verified as ChatGPT Images 2.5 in OpenAI release-note search output for the October 1 entry."
+    },
+    {
+      "claim": "21000",
+      "kind": "number",
+      "example": "BLS revised July down from a gain of 21000 to a loss of 10000, and August down from 162000 to 133000.",
+      "reason": "Verified in BLS Employment Situation browser/search output: July previously reported at +21,000."
+    },
+    {
+      "claim": "29000",
+      "kind": "number",
+      "example": "The Bureau of Labor Statistics reported Friday that nonfarm payroll employment changed little, rising by 29000, and the unemployment rate changed little at 4.2 percent.",
+      "reason": "Verified in BLS Employment Situation browser/search output: September nonfarm payrolls rose 29,000."
+    },
+    {
+      "claim": "3.6",
+      "kind": "number",
+      "example": "UAD 3.6 is about appraisal data readiness.",
+      "reason": "Background implementation context from Fannie/Freddie UAD coverage already recorded in the tracker and prior source map; not the fresh claim in today's lending segment."
+    },
+    {
+      "claim": "33000",
+      "kind": "number",
+      "example": "Health care still added 17000 jobs, but that was slower than its 33000 monthly average over the prior year.",
+      "reason": "Verified in BLS Employment Situation browser/search output: health care's prior 12-month average gain was 33,000."
+    },
+    {
+      "claim": "37",
+      "kind": "number",
+      "example": "Average hourly earnings rose five cents, or 0.1 percent, to 37 dollars and 81 cents.",
+      "reason": "Verified in BLS Employment Situation browser/search output: average hourly earnings reached $37.81."
+    },
+    {
+      "claim": "4.2",
+      "kind": "number",
+      "example": "The Bureau of Labor Statistics reported Friday that nonfarm payroll employment changed little, rising by 29000, and the unemployment rate changed little at 4.2 percent.",
+      "reason": "Verified in BLS Employment Situation browser/search output: unemployment rate was 4.2 percent."
+    },
+    {
+      "claim": "60000",
+      "kind": "number",
+      "example": "Together, July and August were 60000 jobs lower than previously reported.",
+      "reason": "Verified in BLS Employment Situation browser/search output: July and August revisions were 60,000 lower combined."
+    },
+    {
+      "claim": "81",
+      "kind": "number",
+      "example": "Average hourly earnings rose five cents, or 0.1 percent, to 37 dollars and 81 cents.",
+      "reason": "Verified in BLS Employment Situation browser/search output as the cents portion of $37.81."
+    },
+    {
+      "claim": "AI-control",
+      "kind": "name",
+      "example": "It changes the AI-control conversation from whether one team may experiment to how supervisors test high-volume routing and code assistance.",
+      "reason": "Show analysis phrase derived from the sourced Barclays/Anthropic operational details, not a source-specific proper noun."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus flagged it as one of the October developments to watch.",
+      "reason": "Local October watch item was verified in web search output; direct site fetches may summarize or redirect newsletter content."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I updated the Barclays ledger row rather than treating the Claude announcement as a generic rollout.",
+      "reason": "False positive from the chapter phrase AI in Banking; it is a show section title."
+    },
+    {
+      "claim": "Bureau of Labor Statistics",
+      "kind": "name",
+      "example": "The Bureau of Labor Statistics reported Friday that nonfarm payroll employment changed little, rising by 29000, and the unemployment rate changed little at 4.2 percent.",
+      "reason": "Verified in the BLS Employment Situation source; curl access was blocked."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's October 1 ChatGPT release notes create a smaller but practical access story.",
+      "reason": "Verified in OpenAI ChatGPT release-note search output for the October 1 entry."
+    },
+    {
+      "claim": "ChatGPT Images",
+      "kind": "name",
+      "example": "The page says users can select Ultrafast in the model picker for GPT-6 Astra, and it lists ChatGPT Images 2.5 with sharper details, more precise editing and faster image generation.",
+      "reason": "Verified in OpenAI ChatGPT release-note search output for the October 1 entry."
+    },
+    {
+      "claim": "Fed",
+      "kind": "name",
+      "example": "And for the Fed?",
+      "reason": "Federal Reserve policy implication is market/economic analysis from the BLS report and AP market reaction, not a separate named-source claim."
+    },
+    {
+      "claim": "GPT-6 Astra",
+      "kind": "name",
+      "example": "The page says users can select Ultrafast in the model picker for GPT-6 Astra, and it lists ChatGPT Images 2.5 with sharper details, more precise editing and faster image generation.",
+      "reason": "Verified in OpenAI ChatGPT release-note search output for the October 1 entry."
+    },
+    {
+      "claim": "House Bill",
+      "kind": "name",
+      "example": "House Bill 20 becomes effective October 6 and changes obstruction rules around first responders.",
+      "reason": "Verified in the Ohio House HB20 page reviewed at cutoff."
+    },
+    {
+      "claim": "Ohio House",
+      "kind": "name",
+      "example": "The Ohio House summary says a person commits the offense if, after receiving a warning, they remain within 15 feet of a first responder performing official duties and either interfere with the responder's work or threaten physical harm.",
+      "reason": "Verified in Ohio House HB20 and member-release pages reviewed at cutoff."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "The availability is a primary-source product fact from OpenAI.",
+      "reason": "OpenAI release-note page is dynamic but was verified through browser/search output at cutoff."
+    },
+    {
+      "claim": "OpenAI October",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's October 1 ChatGPT release notes create a smaller but practical access story.",
+      "reason": "False positive spanning source name and date; verified in OpenAI Help release notes for October 1."
+    },
+    {
+      "claim": "Together July and August",
+      "kind": "name",
+      "example": "Together, July and August were 60000 jobs lower than previously reported.",
+      "reason": "False positive from sentence opening; numeric revision fact is verified in BLS Employment Situation output."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "stocks rose near their record Friday after the jobs data cooled worries about an overheated economy, while Treasury yields initially tumbled and then retraced some losses as oil recovered.",
+      "reason": "Verified in AP market coverage: Treasury yields initially tumbled then retraced losses."
+    },
+    {
+      "claim": "U.S",
+      "kind": "name",
+      "example": "AP reported U.S.",
+      "reason": "Verified in AP market coverage for U.S. stocks; generic country abbreviation."
+    },
+    {
+      "claim": "Ultrafast",
+      "kind": "name",
+      "example": "The page says users can select Ultrafast in the model picker for GPT-6 Astra, and it lists ChatGPT Images 2.5 with sharper details, more precise editing and faster image generation.",
+      "reason": "Verified in OpenAI ChatGPT release-note search output for the October 1 entry."
+    },
+    {
+      "claim": "VantageScore and FICO",
+      "kind": "name",
+      "example": "VantageScore and FICO work affects credit-model adoption.",
+      "reason": "Background implementation context from prior GSE score-model coverage and tracker; included only to distinguish today's Freddie authentication cutoff from earlier credit-model work."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

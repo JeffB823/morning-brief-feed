@@ -1,12 +1,36 @@
-# Story Tracker - updated 2026-10-02
+# Story Tracker - updated 2026-10-03
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## September Jobs Report And Claims
-- Last covered / verified development: 2026-10-02; Labor Department initial claims posted October 1 ahead of the September Employment Situation scheduled for 8:30 a.m. Eastern on October 2.
-- Last takeaway: The useful question is whether payrolls confirm labor cooling strongly enough to move Treasury yields without signaling a sharper household-income problem.
-- Source: https://www.dol.gov/ui/data.pdf
-- Revisit only for: actual September payrolls, unemployment rate, wage growth, material Treasury-yield move after release, Fed reaction, or mortgage-rate implication. Expire October 7 after the market digests the report.
+## September Jobs Report Revisions And Fed Path
+- Last covered / verified development: 2026-10-03; BLS reported September payrolls up 29,000, unemployment at 4.2%, July revised to -10,000, August revised to +133,000, and July/August combined 60,000 lower than previously reported.
+- Last takeaway: The labor signal is low-hire more than mass-layoff, so the key question is whether slower hiring calms long rates without signaling a sharper demand break.
+- Source: https://www.bls.gov/news.release/archives/empsit_10022026.htm
+- Revisit only for: Fed speaker reaction, material Treasury-yield follow-through, mortgage-rate implication, or October Employment Situation on November 6. Expire October 8 unless policy or yield movement develops.
+
+## Ohio First-Responder Buffer Rule
+- Last covered / verified development: 2026-10-03; Axios Columbus highlighted the October 6 effective date for Ohio's new 15-foot first-responder buffer rule under House Bill 20.
+- Last takeaway: The operational issue for Columbus is warning practice, distance judgment, and the line between recording/protest activity and interference at active scenes.
+- Source: https://www.house.ohio.gov/legislation/136/hb20
+- Revisit only for: first Columbus or Ohio enforcement example, police department guidance, civil-liberties challenge, protest/event incident, or court filing. Expire October 9 without enforcement or guidance.
+
+## Freddie Loan Closing Advisor OAuth Cutoff
+- Last covered / verified development: 2026-10-03; Freddie Mac's Loan Closing Advisor basic-authentication transition reached its required OAuth 2.0 production date on October 3.
+- Last takeaway: A missed authentication setup can turn an otherwise ready closing/delivery workflow into a production technology failure.
+- Source: https://sf.freddiemac.com/articles/news/loan-closing-advisor-september-29-updates
+- Revisit only for: lender/vendor outage, Freddie notice, UCD/LCA submission issue, closing delay evidence, or post-cutoff workaround. Expire October 8 without live-file issues.
+
+## Barclays Claude Operating Metrics
+- Last covered / verified development: 2026-10-03; Anthropic disclosed Barclays has 16,000+ UK colleagues using the Claude-powered knowledge assistant, 1M+ searches since 2025, about 120,000 daily Global Markets client emails touched by Claude, and a 50% Claude Code developer-adoption target by end-2026.
+- Last takeaway: Production usage and throughput prove scale, not outcome quality; the missing evidence is defect, escalation, customer and engineering-quality movement against prior processes.
+- Source: https://www.anthropic.com/news/barclays-scales-claude
+- Revisit only for: measured defect rate, handling-time improvement, customer outcome, engineering metric, control issue, regulator comment, or Barclays earnings commentary. Expire October 8 without outcome evidence.
+
+## OpenAI Oct. 1 Release Notes
+- Last covered / verified development: 2026-10-03; OpenAI release notes listed Ultrafast access for GPT-6 Astra and ChatGPT Images 2.5 with improved detail, editing precision and speed.
+- Last takeaway: This is a workflow-access update, not independent proof of image quality or enterprise productivity.
+- Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+- Revisit only for: benchmark details, API pricing/access, enterprise controls, safety finding, measured workflow outcome, or customer case study. Expire October 8 without evidence movement.
 
 ## COTA Missed-Trip Reliability
 - Last covered / verified development: 2026-10-02; WOSU reported COTA missed nearly six percent of scheduled trips since the start of 2026 while working through operator, maintenance and service-management constraints.
