@@ -1,0 +1,45 @@
+{
+  "script": "2026-10-04_morning-brief-script.md",
+  "script_sha256": "8609d1c3d258b809fd7f46c6952f798949f35de87b87243c9d06055e01eeed24",
+  "checked_at": "2026-10-04T06:15:58-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/2026-10-03/trump-coming-to-vandalia-today-to-continue-series-of-rallies-for-republican-candidates?_amp=true",
+      "characters": 4155
+    },
+    {
+      "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/fhfas-pulte-expected-to-announce-move-to-bi-merge-credit-checks-at-mba-event/592106",
+      "characters": 6091
+    },
+    {
+      "url": "https://www.fhfa.gov/policy/credit-scores",
+      "characters": 19608
+    },
+    {
+      "url": "https://www.kyndryl.com/us/en/about-us/news/2026/10/innovation-lab-launches-in-luxembourg",
+      "characters": 26763
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
+      "characters": 13617
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/83,68/forecast",
+      "characters": 7709
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [],
+  "claims_checked": 54,
+  "claims_supported": 53,
+  "claims_excepted": [
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "For Columbus, that data-center question lands right on top of an active city issue.",
+      "reason": "Columbus is the show's local geography and appears in the dated NWS gridpoint/source context rather than as a claim about a sourced event."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

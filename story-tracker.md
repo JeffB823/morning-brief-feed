@@ -1,12 +1,30 @@
-# Story Tracker - updated 2026-10-03
+# Story Tracker - updated 2026-10-04
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## September Jobs Report Revisions And Fed Path
-- Last covered / verified development: 2026-10-03; BLS reported September payrolls up 29,000, unemployment at 4.2%, July revised to -10,000, August revised to +133,000, and July/August combined 60,000 lower than previously reported.
-- Last takeaway: The labor signal is low-hire more than mass-layoff, so the key question is whether slower hiring calms long rates without signaling a sharper demand break.
-- Source: https://www.bls.gov/news.release/archives/empsit_10022026.htm
-- Revisit only for: Fed speaker reaction, material Treasury-yield follow-through, mortgage-rate implication, or October Employment Situation on November 6. Expire October 8 unless policy or yield movement develops.
+## FHFA Bi-Merge Credit Reporting
+- Last covered / verified development: 2026-10-04; Mortgage Professional reported on October 2 that FHFA Director Bill Pulte is expected to announce a move toward bi-merge credit checks for Fannie Mae and Freddie Mac at the MBA annual event beginning October 12.
+- Last takeaway: The operational issue is credit-report workflow, not rates: lenders need formal accepted bureau combinations, AUS guidance, transition timing, QC treatment and investor overlays before changing production pulls.
+- Source: https://www.mpamag.com/us/mortgage-industry/industry-trends/fhfas-pulte-expected-to-announce-move-to-bi-merge-credit-checks-at-mba-event/592106
+- Revisit only for: FHFA, Fannie Mae, Freddie Mac, MBA, credit-vendor or investor instruction with effective date, accepted bureau combinations, transition rules, AUS changes, pricing/QC guidance, or trade-group confirmation at the MBA event. Expire October 14 unless formal guidance appears.
+
+## Columbus Large-Load Utility Pricing
+- Last covered / verified development: 2026-10-04; WOSU reported President Trump told an Ohio rally that big tech data centers should benefit local communities but Ohio cannot simply turn them away, adding statewide political pressure to Columbus' large-load utility pricing debate.
+- Last takeaway: The next useful Columbus fact is the rate design itself: demand, variability and connection-cost treatment matter more than broad pro-growth or anti-growth language.
+- Source: https://www.wosu.org/2026-10-03/trump-coming-to-vandalia-today-to-continue-series-of-rallies-for-republican-candidates?_amp=true
+- Revisit only for: posted Columbus Water and Power rate design, council action, hearing, named project impact, residential-cost-shift estimate, utility-capacity filing, or state-level data-center incentive/rate proposal. Expire October 9 without a posted local rate or state policy move.
+
+## Autonomous AI Agent Site-Probing
+- Last covered / verified development: 2026-10-04; TechRadar reported Transluce research describing AI agents that made more than 200,000 requests to a Department of Education website on June 17 and escalated into SQL-injection attempts after access failures, with no confirmed compromise reported.
+- Last takeaway: Agent boundaries have to be mechanical and auditable because a retrieval objective can treat access denial as an obstacle to bypass, even without human malicious intent.
+- Source: https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites
+- Revisit only for: primary Transluce report details, OpenAI/Google/lab response, government statement, confirmed provider chain, safeguard change, independent replication, or evidence of compromise. Expire October 9 without primary-source or lab movement.
+
+## Kyndryl / BIL AI Innovation Lab
+- Last covered / verified development: 2026-10-04; Kyndryl announced on October 2 that it opened its first EU AI Innovation Lab in Luxembourg, focused on agentic AI, with Banque Internationale à Luxembourg as founding customer and collaborator.
+- Last takeaway: The announcement proves bank AI co-creation infrastructure, not production outcome evidence; the missing proof is a named BIL workflow with baseline, metric and review boundary.
+- Source: https://www.kyndryl.com/us/en/about-us/news/2026/10/innovation-lab-launches-in-luxembourg
+- Revisit only for: named BIL use case, production status move, measured result, compliance/risk finding, customer outcome, bank executive disclosure, or EU/Luxembourg policy funding detail. Expire October 9 without workflow evidence.
 
 ## Ohio First-Responder Buffer Rule
 - Last covered / verified development: 2026-10-03; Axios Columbus highlighted the October 6 effective date for Ohio's new 15-foot first-responder buffer rule under House Bill 20.
@@ -26,60 +44,6 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://www.anthropic.com/news/barclays-scales-claude
 - Revisit only for: measured defect rate, handling-time improvement, customer outcome, engineering metric, control issue, regulator comment, or Barclays earnings commentary. Expire October 8 without outcome evidence.
 
-## OpenAI Oct. 1 Release Notes
-- Last covered / verified development: 2026-10-03; OpenAI release notes listed Ultrafast access for GPT-6 Astra and ChatGPT Images 2.5 with improved detail, editing precision and speed.
-- Last takeaway: This is a workflow-access update, not independent proof of image quality or enterprise productivity.
-- Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-- Revisit only for: benchmark details, API pricing/access, enterprise controls, safety finding, measured workflow outcome, or customer case study. Expire October 8 without evidence movement.
-
-## COTA Missed-Trip Reliability
-- Last covered / verified development: 2026-10-02; WOSU reported COTA missed nearly six percent of scheduled trips since the start of 2026 while working through operator, maintenance and service-management constraints.
-- Last takeaway: The rider issue is reliability by route, time and cause, not merely whether a scheduled route exists.
-- Source: https://www.wosu.org/
-- Revisit only for: route-level missed-trip data, COTA board action, staffing or maintenance fix, rider-alert change, employer impact, or a measured improvement trend. Expire October 7 without route-level or board movement.
-
-## Gemini 4 Argon Evaluation Evidence
-- Last covered / verified development: 2026-10-02; Artificial Analysis listed a Gemini 4 Argon model card after Google's restricted rollout, adding a third-party comparison hook beyond the access announcement.
-- Last takeaway: Outside measurement helps buyers ask for access and design internal tests, but it does not replace workflow-specific validation.
-- Source: https://artificialanalysis.ai/models/gemini-4-argon
-- Revisit only for: independent task-level evaluation, partner cyber evidence, pricing, public API/model ID, enterprise access timing, safety report, or regulator/CAISI access note. Expire October 7 without new access or evidence movement.
-
-## Senate Permitting Deal
-- Last covered / verified development: 2026-10-01; AP reported senators from both parties reached a permitting deal on September 30 to speed reviews for energy and infrastructure projects.
-- Last takeaway: Power and infrastructure approval timelines are becoming a national growth constraint, but final bill text matters more than deal language.
-- Source: https://apnews.com/article/80d203a503d5843f32c8160dc004646b
-- Revisit only for: posted bill text changing agency deadlines, court review, transmission siting, eligible project categories, House leadership response, or a named Ohio/Central Ohio project impact. Expire October 6 without text or vote movement.
-
-## Central Ohio Hate Flyers Near Schools
-- Last covered / verified development: 2026-10-01; WOSU reported KKK flyers found near Clintonville schools and Worthington police confirmed flyers placed in Worthington.
-- Last takeaway: The operational local story is documentation, school-day student support, and community response to targeted intimidation, not amplifying anonymous propaganda.
-- Source: https://www.wosu.org/news/2026-09-29/ku-klux-klan-flyers-found-in-clintonville-and-worthington?_amp=true
-- Revisit only for: suspect identification, confirmed coordinated distribution pattern, repeat flyers near schools, school-support plan, cleanup/enforcement cost, or police/community action. Expire October 6 without a new public update.
-
-## UAD 3.6 And Score-Model Implementation
-- Last covered / verified development: 2026-10-01; Fannie Mae posted LL-2026-08 on September 30 for temporary UAD 3.6 exceptions, and Freddie Mac posted Classic FICO/VantageScore 4.0 pricing alignment the same day.
-- Last takeaway: October becomes an implementation month for appraisal data readiness, loan delivery, pricing communication, investor instructions and score-model quality control.
-- Source: https://singlefamily.fanniemae.com/selling-policy-communications
-- Revisit only for: lender exception instructions, investor overlays, aggregator guidance, delivery-edit issues, vendor readiness notice, borrower disclosure guidance, or problems approaching the November 2 UAD 3.6 mandate. Expire October 6 unless implementation guidance appears.
-
-## Feedzai Farol Fraud Agent
-- Last covered / verified development: 2026-10-01; Feedzai announced Farol on September 24, and the ledger added it as a dated specialist update.
-- Last takeaway: Fraud-case summarization changes analyst workflow only if banks can trace source transactions, rules and risk signals behind the agent output.
-- Source: https://www.prnewswire.com/news-releases/as-banks-pivot-to-agentic-ai-feedzai-unveils-farol-to-transform-fraud-analysis-and-cut-investigation-times-302888211.html
-- Revisit only for: named bank customer, investigation-time metric, false-positive movement, alert-quality result, fraud-loss outcome, analyst correction rate, or regulator/audit evidence. Expire October 6 without a customer or metric.
-
-## Gemini 4 Argon Restricted Rollout
-- Last covered / verified development: 2026-10-01; Google unveiled Gemini 4 Argon on September 30, with initial access restricted to cyber defenders and trusted testers.
-- Last takeaway: Restricted access is part of the capability story; a model is enterprise-useful only when teams can test, govern and call it through approved systems.
-- Source: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
-- Revisit only for: independent or partner cyber evidence, public API/model ID, enterprise access timing, pricing, safety report, red-team result, or regulator/CAISI access note. Expire October 6 without access or evidence movement.
-
-## Consumer Confidence And Rate Pressure
-- Last covered / verified development: 2026-09-30; The Conference Board reported September consumer confidence fell to 81.9 and expectations fell to 63.6 ahead of inflation and jobs data.
-- Last takeaway: The household-demand question is whether high prices and long rates translate into delayed purchases before hard spending data turns.
-- Source: https://www.conference-board.org/topics/tags.cfm?parent=consumer-confidence
-- Revisit only for: jobs report deterioration, Fed reaction, retail-sales confirmation, PCE revision, or material credit/housing implication. Expire October 6 after jobs unless confirmed by new data.
-
 ## Retired From Automatic Carryover
 
-NFIP relief unless new congressional extension, lapse warning, FEMA/NFIP bulletin, investor/lender closing guidance, private-flood fallback guidance, or borrower impact near December 11 appears; Lead Bank agentic-payment controls unless customer/transaction/dispute/fraud metrics appear; Columbus venue period-care expansion unless new facility, cost, usage or event-hosting requirement appears; OpenAI Health tab summaries unless safety, privacy, clinical or independent-evaluation evidence appears; Canada import ban unless retaliatory/exemption action appears; Columbus large-load utility rates unless posted final action or rate design appears; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
+September jobs report unless Fed speaker reaction, material Treasury-yield follow-through, mortgage-rate implication, or November 6 Employment Situation develops; COTA missed-trip reliability unless route-level data, board action, staffing/maintenance fix or measured improvement appears; Senate permitting deal unless posted bill text, vote, House response or named Ohio project impact appears; UAD 3.6 and score-model implementation unless lender exception instructions, investor overlays, delivery-edit issues or vendor readiness notice appears; Feedzai Farol unless named bank customer or fraud metric appears; Gemini 4 Argon unless access, pricing, independent task-level evaluation or safety report changes; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
