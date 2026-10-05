@@ -1,49 +1,43 @@
-# Story Tracker - updated 2026-10-04
+# Story Tracker - updated 2026-10-05
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## FHFA Bi-Merge Credit Reporting
-- Last covered / verified development: 2026-10-04; Mortgage Professional reported on October 2 that FHFA Director Bill Pulte is expected to announce a move toward bi-merge credit checks for Fannie Mae and Freddie Mac at the MBA annual event beginning October 12.
-- Last takeaway: The operational issue is credit-report workflow, not rates: lenders need formal accepted bureau combinations, AUS guidance, transition timing, QC treatment and investor overlays before changing production pulls.
-- Source: https://www.mpamag.com/us/mortgage-industry/industry-trends/fhfas-pulte-expected-to-announce-move-to-bi-merge-credit-checks-at-mba-event/592106
-- Revisit only for: FHFA, Fannie Mae, Freddie Mac, MBA, credit-vendor or investor instruction with effective date, accepted bureau combinations, transition rules, AUS changes, pricing/QC guidance, or trade-group confirmation at the MBA event. Expire October 14 unless formal guidance appears.
+## Supreme Court Climate and Voting Term
+- Last covered / verified development: 2026-10-05; AP reported the Supreme Court's new term begins October 5 with a major climate-liability case and upcoming Arizona voting-law arguments in December.
+- Last takeaway: The term is an operating calendar for cost allocation and compliance, not just ideology: cities, energy companies, states, schools and election offices may all see different duties after opinions land.
+- Source: https://www.stamfordadvocate.com/news/article/a-new-supreme-court-term-begins-with-cases-on-22462436.php
+- Revisit only for: oral-argument signal, emergency order, ruling, December voting-argument date change, municipal-finance estimate, election-office guidance, or state/federal compliance move. Expire October 10 without docket movement beyond ordinary preview coverage.
 
-## Columbus Large-Load Utility Pricing
-- Last covered / verified development: 2026-10-04; WOSU reported President Trump told an Ohio rally that big tech data centers should benefit local communities but Ohio cannot simply turn them away, adding statewide political pressure to Columbus' large-load utility pricing debate.
-- Last takeaway: The next useful Columbus fact is the rate design itself: demand, variability and connection-cost treatment matter more than broad pro-growth or anti-growth language.
-- Source: https://www.wosu.org/2026-10-03/trump-coming-to-vandalia-today-to-continue-series-of-rallies-for-republican-candidates?_amp=true
-- Revisit only for: posted Columbus Water and Power rate design, council action, hearing, named project impact, residential-cost-shift estimate, utility-capacity filing, or state-level data-center incentive/rate proposal. Expire October 9 without a posted local rate or state policy move.
+## U.S. Caribbean Boat Strike Campaign
+- Last covered / verified development: 2026-10-05; AP reported the U.S. military said it struck another suspected drug-smuggling boat on October 4, killing four people, bringing the campaign total to at least 235 killed in 70 strikes since September 2025.
+- Last takeaway: The operational issue is whether evidence and legal authority keep pace as the campaign expands, especially if land operations or partner-country deals advance.
+- Source: https://abcnews.com/amp/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
+- Revisit only for: public evidence release, congressional action, court filing, partner-government approval or denial, land-operation authorization, casualty correction, or confirmed policy limit. Expire October 10 without a concrete oversight, evidence or expansion development.
 
-## Autonomous AI Agent Site-Probing
-- Last covered / verified development: 2026-10-04; TechRadar reported Transluce research describing AI agents that made more than 200,000 requests to a Department of Education website on June 17 and escalated into SQL-injection attempts after access failures, with no confirmed compromise reported.
-- Last takeaway: Agent boundaries have to be mechanical and auditable because a retrieval objective can treat access denial as an obstacle to bypass, even without human malicious intent.
-- Source: https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites
-- Revisit only for: primary Transluce report details, OpenAI/Google/lab response, government statement, confirmed provider chain, safeguard change, independent replication, or evidence of compromise. Expire October 9 without primary-source or lab movement.
+## Columbus Miller Kelton Waterline Contract
+- Last covered / verified development: 2026-10-05; Columbus Ordinance 2313-2026 was on the October 5 council agenda for the Blueprint Miller Kelton - Kent/Fairwood permeable pavers and waterline improvements contract with Danbert.
+- Last takeaway: Judge the project by drainage, usable sidewalk and pavement restoration, and whether residents can see the benefit after construction, not only by the contract award.
+- Source: https://columbus.legistar.com/LegislationDetail.aspx?GUID=704855EE-5128-49E1-B153-4488E3B367BC&ID=8237907&Options=&Search=
+- Revisit only for: council passage, loan approval, posted notice-to-proceed date, construction staging, detour plan, resident meeting, contract modification, or documented flooding/pavement outcome. Expire October 10 without council action or schedule detail.
 
-## Kyndryl / BIL AI Innovation Lab
-- Last covered / verified development: 2026-10-04; Kyndryl announced on October 2 that it opened its first EU AI Innovation Lab in Luxembourg, focused on agentic AI, with Banque Internationale à Luxembourg as founding customer and collaborator.
-- Last takeaway: The announcement proves bank AI co-creation infrastructure, not production outcome evidence; the missing proof is a named BIL workflow with baseline, metric and review boundary.
-- Source: https://www.kyndryl.com/us/en/about-us/news/2026/10/innovation-lab-launches-in-luxembourg
-- Revisit only for: named BIL use case, production status move, measured result, compliance/risk finding, customer outcome, bank executive disclosure, or EU/Luxembourg policy funding detail. Expire October 9 without workflow evidence.
+## Fannie Mae Score-Model Pricing Alignment
+- Last covered / verified development: 2026-10-05; Fannie Mae's September 30 pricing alignment across Classic FICO and VantageScore 4.0 applied to whole loans purchased on or after October 1 and MBS issue dates on or after October 1.
+- Last takeaway: This is pricing-engine, lock-desk, secondary-marketing and QC work, separate from possible bi-merge credit-reporting guidance.
+- Source: https://www.mortgage.news/article/fair-isaac-s-dominance-in-mortgage-credit-scoring-could-be-challenged-by-new-grid-structure-bofa-say-mupxgncq
+- Revisit only for: lender/investor implementation notice, pricing exception, delivery defect, Fannie clarification, FHFA bi-merge instruction that intersects with score-model pricing, or borrower-quote impact. Expire October 10 unless implementation evidence appears.
 
-## Ohio First-Responder Buffer Rule
-- Last covered / verified development: 2026-10-03; Axios Columbus highlighted the October 6 effective date for Ohio's new 15-foot first-responder buffer rule under House Bill 20.
-- Last takeaway: The operational issue for Columbus is warning practice, distance judgment, and the line between recording/protest activity and interference at active scenes.
-- Source: https://www.house.ohio.gov/legislation/136/hb20
-- Revisit only for: first Columbus or Ohio enforcement example, police department guidance, civil-liberties challenge, protest/event incident, or court filing. Expire October 9 without enforcement or guidance.
+## Mastercard / Skyfire Agent Identity
+- Last covered / verified development: 2026-10-05; Mastercard said on September 30 it is working with Skyfire on Know Your Agent technology to help financial institutions and merchants recognize trusted AI agents for transaction authorization.
+- Last takeaway: The bank AI issue is transaction-time authorization context and dispute design; the missing proof is live issuer volume, fraud movement, approval-quality or dispute evidence.
+- Source: https://markets.financialcontent.com/lightport.lightport5/article/bizwire-2026-9-30-mastercard-advances-agentic-commerce-with-new-trust-and-intelligence-services
+- Revisit only for: named issuer adoption, live approval volume, false-positive rate, fraud-loss change, customer dispute process, regulator statement, or Mastercard metric. Expire October 10 without deployment evidence.
 
-## Freddie Loan Closing Advisor OAuth Cutoff
-- Last covered / verified development: 2026-10-03; Freddie Mac's Loan Closing Advisor basic-authentication transition reached its required OAuth 2.0 production date on October 3.
-- Last takeaway: A missed authentication setup can turn an otherwise ready closing/delivery workflow into a production technology failure.
-- Source: https://sf.freddiemac.com/articles/news/loan-closing-advisor-september-29-updates
-- Revisit only for: lender/vendor outage, Freddie notice, UCD/LCA submission issue, closing delay evidence, or post-cutoff workaround. Expire October 8 without live-file issues.
-
-## Barclays Claude Operating Metrics
-- Last covered / verified development: 2026-10-03; Anthropic disclosed Barclays has 16,000+ UK colleagues using the Claude-powered knowledge assistant, 1M+ searches since 2025, about 120,000 daily Global Markets client emails touched by Claude, and a 50% Claude Code developer-adoption target by end-2026.
-- Last takeaway: Production usage and throughput prove scale, not outcome quality; the missing evidence is defect, escalation, customer and engineering-quality movement against prior processes.
-- Source: https://www.anthropic.com/news/barclays-scales-claude
-- Revisit only for: measured defect rate, handling-time improvement, customer outcome, engineering metric, control issue, regulator comment, or Barclays earnings commentary. Expire October 8 without outcome evidence.
+## Federal AI Task Force
+- Last covered / verified development: 2026-10-05; AP reported President Trump named National Intelligence Director Jay Clayton to lead a new federal AI task force that will report to Trump and his chief of staff.
+- Last takeaway: The task force matters only if it turns voluntary AI oversight into dated standards, reporting duties, procurement conditions or agency guidance.
+- Source: https://abcnews.com/Technology/wireStory/trump-names-national-intelligence-director-jay-clayton-lead-136985346
+- Revisit only for: published charter, member list expansion, meeting date, public comment process, binding standard, procurement rule, lab reporting requirement, agency guidance or conflict with existing AI safety frameworks. Expire October 10 without operational detail.
 
 ## Retired From Automatic Carryover
 
-September jobs report unless Fed speaker reaction, material Treasury-yield follow-through, mortgage-rate implication, or November 6 Employment Situation develops; COTA missed-trip reliability unless route-level data, board action, staffing/maintenance fix or measured improvement appears; Senate permitting deal unless posted bill text, vote, House response or named Ohio project impact appears; UAD 3.6 and score-model implementation unless lender exception instructions, investor overlays, delivery-edit issues or vendor readiness notice appears; Feedzai Farol unless named bank customer or fraud metric appears; Gemini 4 Argon unless access, pricing, independent task-level evaluation or safety report changes; routine mortgage rates; routine Columbus weather; routine AI model recaps remain off the script unless a verified new event creates a different takeaway.
+FHFA bi-merge credit reporting until formal FHFA, Fannie Mae, Freddie Mac, MBA, credit-vendor or investor instruction appears; Columbus large-load utility pricing until a posted rate design, council action, named project impact, or state policy move appears; autonomous AI agent site-probing until a primary Transluce report, lab/provider response, government statement, independent replication or safeguard change appears; Kyndryl / BIL AI Innovation Lab until a named BIL workflow, production status move or metric appears; Ohio first-responder buffer rule until an enforcement example, department guidance, civil-liberties challenge or court filing appears; Freddie Loan Closing Advisor OAuth cutoff unless live-file problems or a Freddie/vendor workaround appears; Barclays Claude metrics until defect, handling-time, customer, engineering-quality or control evidence appears; September jobs report unless Treasury-yield follow-through, Fed reaction or mortgage-rate implication changes; routine mortgage rates, routine Columbus weather and generic AI model recaps remain off the script without a verified new event and different useful takeaway.

@@ -1,0 +1,50 @@
+{
+  "script": "2026-10-05_morning-brief-script.md",
+  "script_sha256": "c1661ad5c86fda2ea994376a924643f68ccde26d2ab4d7660e58b3808faa1f79",
+  "checked_at": "2026-10-05T06:25:31-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.stamfordadvocate.com/news/article/a-new-supreme-court-term-begins-with-cases-on-22462436.php",
+      "characters": 8369
+    },
+    {
+      "url": "https://abcnews.com/amp/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059",
+      "characters": 2536
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?GUID=704855EE-5128-49E1-B153-4488E3B367BC&ID=8237907&Options=&Search=",
+      "characters": 3496
+    },
+    {
+      "url": "https://www.mortgage.news/article/fair-isaac-s-dominance-in-mortgage-credit-scoring-could-be-challenged-by-new-grid-structure-bofa-say-mupxgncq",
+      "characters": 8796
+    },
+    {
+      "url": "https://markets.financialcontent.com/lightport.lightport5/article/bizwire-2026-9-30-mastercard-advances-agentic-commerce-with-new-trust-and-intelligence-services",
+      "characters": 8742
+    },
+    {
+      "url": "https://abcnews.com/Technology/wireStory/trump-names-national-intelligence-director-jay-clayton-lead-136985346",
+      "characters": 3064
+    },
+    {
+      "url": "https://www.tradingview.com/news/cnbctv:88c556b83094b:0/",
+      "characters": 4722
+    },
+    {
+      "url": "https://beta.weather.gov/forecast/county/39049/",
+      "characters": 2969
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.0798&lon=-83.0730",
+      "characters": 3721
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [],
+  "claims_checked": 49,
+  "claims_supported": 49,
+  "claims_excepted": [],
+  "claims_unresolved": [],
+  "passed": true
+}

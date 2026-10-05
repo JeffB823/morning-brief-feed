@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-05",
+  "cutoff": "2026-10-05T06:35:00-04:00",
+  "history_compared": [
+    "2026-09-28_morning-brief-script.md",
+    "2026-09-29_morning-brief-script.md",
+    "2026-09-30_morning-brief-script.md",
+    "2026-10-01_morning-brief-script.md",
+    "2026-10-02_morning-brief-script.md",
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "supreme-court-new-term",
+      "beat": "national",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://www.stamfordadvocate.com/news/article/a-new-supreme-court-term-begins-with-cases-on-22462436.php"],
+      "decision": "selected",
+      "reason": "Fresh national institutional story with direct cost and compliance implications."
+    },
+    {
+      "id": "caribbean-boat-strike",
+      "beat": "national",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-05",
+      "sources": ["https://abcnews.com/amp/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059"],
+      "decision": "selected",
+      "reason": "Fresh security and executive-authority development with clear uncertainty."
+    },
+    {
+      "id": "columbus-miller-kelton-waterline",
+      "beat": "columbus",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://columbus.legistar.com/LegislationDetail.aspx?GUID=704855EE-5128-49E1-B153-4488E3B367BC&ID=8237907&Options=&Search="],
+      "decision": "selected",
+      "reason": "Fresh Columbus council agenda item with operational infrastructure consequence."
+    },
+    {
+      "id": "fannie-score-pricing-alignment",
+      "beat": "home_lending",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://www.mortgage.news/article/fair-isaac-s-dominance-in-mortgage-credit-scoring-could-be-challenged-by-new-grid-structure-bofa-say-mupxgncq"
+      ],
+      "decision": "selected",
+      "reason": "Previously uncovered dated specialist update with a current delivery/pricing effect."
+    },
+    {
+      "id": "mastercard-know-your-agent",
+      "beat": "bank_ai",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": ["https://markets.financialcontent.com/lightport.lightport5/article/bizwire-2026-9-30-mastercard-advances-agentic-commerce-with-new-trust-and-intelligence-services"],
+      "decision": "selected",
+      "reason": "Dated specialist update; changes the ledger with agent-payment authorization context."
+    },
+    {
+      "id": "federal-ai-task-force",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-04",
+      "sources": ["https://abcnews.com/Technology/wireStory/trump-names-national-intelligence-director-jay-clayton-lead-136985346"],
+      "decision": "selected",
+      "reason": "Fresh frontier policy channel that may bind labs later; selected with limits stated."
+    },
+    {
+      "id": "markets-treasury-auctions",
+      "beat": "markets",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://www.tradingview.com/news/cnbctv:88c556b83094b:0/"],
+      "decision": "selected",
+      "reason": "Compact market context; not counted toward freshness minimum as a routine market beat."
+    },
+    {
+      "id": "columbus-weather-no-alerts",
+      "beat": "weather",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://beta.weather.gov/forecast/county/39049/",
+        "https://forecast.weather.gov/MapClick.php?lat=40.0798&lon=-83.0730"
+      ],
+      "decision": "selected",
+      "reason": "Compact practical weather; routine and not counted toward freshness minimum."
+    },
+    {
+      "id": "nebraska-beef-import-politics",
+      "beat": "national",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://apnews.com/article/trump-nebraska-senate-pete-ricketts-106c5ad829c53b71bdf18a501fc6e07f"],
+      "decision": "not_selected",
+      "reason": "Fresh but less useful for the show's Columbus and operational priorities than the court and strike items."
+    },
+    {
+      "id": "gpt-rosalind-pricing-effective",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-09-11",
+      "sources": ["https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"],
+      "decision": "not_selected",
+      "reason": "Effective date is fresh, but today's AI task-force item was more generally relevant and less like a model-access recap."
+    }
+  ],
+  "stories": [
+    {
+      "id": "supreme-court-new-term",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://www.stamfordadvocate.com/news/article/a-new-supreme-court-term-begins-with-cases-on-22462436.php"],
+      "new_fact": "The Supreme Court's new term begins October 5 with climate, immigration, voting, gun-rights and religious-rights cases on the agenda.",
+      "new_takeaway": "The court term is best understood as a cost-allocation and compliance calendar for cities, energy firms, states, schools and election offices.",
+      "why_now": "The term begins today and the first climate case starts the operational watch.",
+      "previous_coverage": "No full segment in the previous seven episodes; no repeated conclusion.",
+      "uncertainty": "Case outcomes, opinion timing and final scope are unknown.",
+      "watch": "Watch for early signals on whether climate-liability suits can proceed and for December arguments on Arizona voting rules."
+    },
+    {
+      "id": "caribbean-boat-strike",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-05",
+      "sources": ["https://abcnews.com/amp/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059"],
+      "new_fact": "The U.S. military said it struck another suspected drug-smuggling boat Sunday, killing four people, bringing AP's reported campaign total to at least 235 killed in 70 strikes.",
+      "new_takeaway": "The operational question is whether evidence and legal authority keep pace as the campaign expands.",
+      "why_now": "The strike occurred Sunday and AP published details overnight.",
+      "previous_coverage": "No full segment in the prior seven episodes.",
+      "uncertainty": "The military did not provide public evidence that the vessel carried drugs; legal challenges or congressional oversight may change the path.",
+      "watch": "Watch for congressional, court or partner-government demands for evidence or limits before land operations expand."
+    },
+    {
+      "id": "columbus-miller-kelton-waterline",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://columbus.legistar.com/LegislationDetail.aspx?GUID=704855EE-5128-49E1-B153-4488E3B367BC&ID=8237907&Options=&Search="],
+      "new_fact": "Columbus City Council has Ordinance 2313-2026 on the October 5 agenda for a Danbert construction contract of up to $12,600,862.73 plus $2,000 in prevailing-wage services.",
+      "new_takeaway": "The project combines stormwater adaptation, permeable pavement, waterline relocation and street restoration, so residents should judge both drainage and construction recovery.",
+      "why_now": "The item is on tonight's council agenda and minutes are not final.",
+      "previous_coverage": "No prior seven-episode coverage of this project.",
+      "uncertainty": "Council action, Ohio Water Development Authority loan approval, notice-to-proceed date and final construction staging remain pending.",
+      "watch": "Watch council action and the notice-to-proceed date that starts the 630-day completion window."
+    },
+    {
+      "id": "fannie-score-pricing-alignment",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://www.mortgage.news/article/fair-isaac-s-dominance-in-mortgage-credit-scoring-could-be-challenged-by-new-grid-structure-bofa-say-mupxgncq"
+      ],
+      "new_fact": "Fannie Mae aligned credit-score LLPAs across Classic FICO and VantageScore 4.0, applying to whole loans purchased on or after October 1 and MBS deliveries with issue dates on or after October 1.",
+      "new_takeaway": "The operational issue is pricing-engine, lock-desk, secondary-marketing and QC consistency, not a generic rate recap and not the same as bi-merge credit reporting.",
+      "why_now": "The effective date is current for this week's locks and delivery work.",
+      "previous_coverage": "Recent episodes covered possible bi-merge and score-model implementation, but not this effective Fannie pricing alignment as the lead.",
+      "uncertainty": "Lenders still need investor acceptance, system readiness and pricing-table validation.",
+      "watch": "Watch for lender or investor exceptions, incorrect LLPA treatment, and borrower quote changes tied to score-model choice.",
+      "date_exception": "Specialist beat used one explicitly dated operational update from the last seven days because Monday mortgage policy news was otherwise quiet and the effective date changes current pricing work."
+    },
+    {
+      "id": "mastercard-know-your-agent",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": ["https://markets.financialcontent.com/lightport.lightport5/article/bizwire-2026-9-30-mastercard-advances-agentic-commerce-with-new-trust-and-intelligence-services"],
+      "new_fact": "Mastercard said it is working with Skyfire on Know Your Agent technology to help financial institutions and merchants recognize trusted AI agents across the ecosystem.",
+      "new_takeaway": "Agent payments shift the bank AI question toward authorization context, dispute design and customer intent at transaction time.",
+      "why_now": "The update is a previously uncovered specialist development from the last week and changes the bank AI ledger.",
+      "previous_coverage": "Recent episodes covered Zopa, Bank of America, Barclays and Kyndryl/BIL; no prior full segment on Mastercard KYA risk tools.",
+      "uncertainty": "No live approval volume, fraud-rate movement, false-positive rate or dispute baseline was disclosed.",
+      "watch": "Watch for issuer live-volume, fraud-loss, approval-rate or dispute-process evidence.",
+      "ledger_row_changed": "Mastercard / Skyfire, consumer payments and compliance control; new announced row added for Know Your Agent authorization context.",
+      "date_exception": "Specialist beat used one explicitly dated update from the last seven days because no higher-evidence bank AI production metric emerged within 48 hours."
+    },
+    {
+      "id": "federal-ai-task-force",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-04",
+      "sources": ["https://abcnews.com/Technology/wireStory/trump-names-national-intelligence-director-jay-clayton-lead-136985346"],
+      "new_fact": "President Trump named National Intelligence Director Jay Clayton to lead a new federal AI task force reporting to Trump and his chief of staff.",
+      "new_takeaway": "The task force matters only if it turns voluntary AI oversight into dates, standards, reporting duties or procurement consequences.",
+      "why_now": "The appointment was announced Sunday and AP published the new federal structure.",
+      "previous_coverage": "Recent episodes covered agent probing and OpenAI safety pauses; this is a distinct federal policy channel.",
+      "uncertainty": "No binding rules, technical measurements or evaluation standards were announced.",
+      "watch": "Watch for published standards, reporting duties, procurement conditions or agency guidance that binds frontier labs or buyers.",
+      "frontier_bar": "Policy that may bind labs directly; no capability or benchmark claim."
+    },
+    {
+      "id": "markets-treasury-auctions",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": ["https://www.tradingview.com/news/cnbctv:88c556b83094b:0/"],
+      "new_fact": "Asian equities rose after weak U.S. jobs data while investors looked ahead to 10-year and 30-year Treasury auctions and oil remained elevated.",
+      "new_takeaway": "Borrowing-cost relief requires Treasury demand and calmer oil, not just a better equity tape.",
+      "why_now": "Monday market setup frames mortgage and municipal finance decisions for the week.",
+      "previous_coverage": "Recent episodes covered jobs-report relief and yield pressure; this was kept compact to avoid repetition.",
+      "uncertainty": "Auction demand, oil moves and Fed minutes could change the rate signal.",
+      "watch": "Watch this week's Treasury auctions and Wednesday Fed minutes."
+    },
+    {
+      "id": "columbus-weather-no-alerts",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://beta.weather.gov/forecast/county/39049/",
+        "https://forecast.weather.gov/MapClick.php?lat=40.0798&lon=-83.0730"
+      ],
+      "new_fact": "NWS showed no Franklin County alerts over the next five days and forecast a dry Monday near 70 with a cool night.",
+      "new_takeaway": "Weather should not disrupt commute, school, jobsite or errand plans today.",
+      "why_now": "Daily local planning beat.",
+      "previous_coverage": "Routine weather appears daily; no repeated phrasing was reused.",
+      "uncertainty": "Later-week cold-front timing and shower coverage can change.",
+      "watch": "Watch Friday's possible cold front and showers."
+    }
+  ],
+  "claim_check_exceptions": [],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Selected at least four fresh developments within 48 hours: Supreme Court term, Caribbean boat strike, Columbus Miller Kelton agenda item, and federal AI task force. Home lending and bank AI are labeled dated specialist updates and not counted toward the four-story freshness minimum. Compared facts and takeaways with the seven prior scripts; omitted unchanged tracker stories unless needed as watch context.",
+    "script_sha256": "c1661ad5c86fda2ea994376a924643f68ccde26d2ab4d7660e58b3808faa1f79"
+  }
+}
