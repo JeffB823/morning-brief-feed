@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 29.1
+    },
+    {
+      "title": "National",
+      "start": 29.1,
+      "end": 201.525
+    },
+    {
+      "title": "Columbus",
+      "start": 201.525,
+      "end": 331.35
+    },
+    {
+      "title": "Home Lending",
+      "start": 331.35,
+      "end": 459.375
+    },
+    {
+      "title": "AI in Banking",
+      "start": 459.375,
+      "end": 578.45
+    },
+    {
+      "title": "Frontier AI",
+      "start": 578.45,
+      "end": 695.2
+    },
+    {
+      "title": "Markets",
+      "start": 695.2,
+      "end": 763.8
+    },
+    {
+      "title": "Weather",
+      "start": 763.8,
+      "end": 841.875
+    }
+  ]
+}
