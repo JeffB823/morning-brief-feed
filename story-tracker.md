@@ -1,43 +1,37 @@
-# Story Tracker - updated 2026-10-05
+# Story Tracker - updated 2026-10-06
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-## Supreme Court Climate and Voting Term
-- Last covered / verified development: 2026-10-05; AP reported the Supreme Court's new term begins October 5 with a major climate-liability case and upcoming Arizona voting-law arguments in December.
-- Last takeaway: The term is an operating calendar for cost allocation and compliance, not just ideology: cities, energy companies, states, schools and election offices may all see different duties after opinions land.
-- Source: https://www.stamfordadvocate.com/news/article/a-new-supreme-court-term-begins-with-cases-on-22462436.php
-- Revisit only for: oral-argument signal, emergency order, ruling, December voting-argument date change, municipal-finance estimate, election-office guidance, or state/federal compliance move. Expire October 10 without docket movement beyond ordinary preview coverage.
+## Supreme Court Climate Liability Case
+- Last covered / verified development: 2026-10-06; AP reporting carried by WCAX said the Supreme Court heard October 5 argument over whether local governments can sue oil and gas companies in state court for climate-related costs.
+- Last takeaway: Climate risk is becoming a venue, liability and public-budget question for cities, energy firms, insurers and bond buyers, not only a weather or emissions-policy question.
+- Source: https://www.wcax.com/2026/10/05/supreme-court-weighs-local-governments-climate-change-lawsuits-against-oil-gas-companies/
+- Revisit only for: ruling, procedural order, argument-transcript signal, settlement movement, similar-city case action, insurer/bond-market response, or state/federal legislation tied to climate liability. Expire October 11 without a concrete development.
 
-## U.S. Caribbean Boat Strike Campaign
-- Last covered / verified development: 2026-10-05; AP reported the U.S. military said it struck another suspected drug-smuggling boat on October 4, killing four people, bringing the campaign total to at least 235 killed in 70 strikes since September 2025.
-- Last takeaway: The operational issue is whether evidence and legal authority keep pace as the campaign expands, especially if land operations or partner-country deals advance.
-- Source: https://abcnews.com/amp/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
-- Revisit only for: public evidence release, congressional action, court filing, partner-government approval or denial, land-operation authorization, casualty correction, or confirmed policy limit. Expire October 10 without a concrete oversight, evidence or expansion development.
+## Franklin County Early Voting
+- Last covered / verified development: 2026-10-06; Franklin County opened in-person absentee voting for the November 3 general election at 1700 Morse Road, with week-one hours of 8 a.m. to 5 p.m. Tuesday through Friday.
+- Last takeaway: The local election is now an operations test for access, staffing, identification, mail ballots and line management.
+- Source: https://www.vote.franklincountyohio.gov/voters/absentee-and-early-voting
+- Revisit only for: reported line delays, hours changes, mail-ballot delays, drop-box confusion, identification problems, turnout data, court order or Board of Elections operational update. Expire October 11 without an administration issue or data point.
 
-## Columbus Miller Kelton Waterline Contract
-- Last covered / verified development: 2026-10-05; Columbus Ordinance 2313-2026 was on the October 5 council agenda for the Blueprint Miller Kelton - Kent/Fairwood permeable pavers and waterline improvements contract with Danbert.
-- Last takeaway: Judge the project by drainage, usable sidewalk and pavement restoration, and whether residents can see the benefit after construction, not only by the contract award.
-- Source: https://columbus.legistar.com/LegislationDetail.aspx?GUID=704855EE-5128-49E1-B153-4488E3B367BC&ID=8237907&Options=&Search=
-- Revisit only for: council passage, loan approval, posted notice-to-proceed date, construction staging, detour plan, resident meeting, contract modification, or documented flooding/pavement outcome. Expire October 10 without council action or schedule detail.
+## Freddie Mac October Technology Releases
+- Last covered / verified development: 2026-10-06; Freddie Mac release notes listed October 4 Income Calculator support for written VOE and interested-party income, and October 5 Loan Selling Advisor changes including Best Efforts ARM cash contracts, intraday guarantor disclosure and data-compare/import updates.
+- Last takeaway: The lending consequence is delivery execution, discrepancy handling and income-documentation support, not a rate recap.
+- Source: https://sf.freddiemac.com/tools-learning/technology-tools/releases
+- Revisit only for: seller defect reports, Freddie clarification, vendor integration issue, help-desk notice, ARM cash-contract adoption, income-calculator defect, or loan-delivery exception tied to the release. Expire October 11 without live-file evidence.
 
-## Fannie Mae Score-Model Pricing Alignment
-- Last covered / verified development: 2026-10-05; Fannie Mae's September 30 pricing alignment across Classic FICO and VantageScore 4.0 applied to whole loans purchased on or after October 1 and MBS issue dates on or after October 1.
-- Last takeaway: This is pricing-engine, lock-desk, secondary-marketing and QC work, separate from possible bi-merge credit-reporting guidance.
-- Source: https://www.mortgage.news/article/fair-isaac-s-dominance-in-mortgage-credit-scoring-could-be-challenged-by-new-grid-structure-bofa-say-mupxgncq
-- Revisit only for: lender/investor implementation notice, pricing exception, delivery defect, Fannie clarification, FHFA bi-merge instruction that intersects with score-model pricing, or borrower-quote impact. Expire October 10 unless implementation evidence appears.
+## Upstart AI Lending Risk Print
+- Last covered / verified development: 2026-10-06; Upstart reported September 2026 originations of $1.3783 billion, Q3 originations of $4.1178 billion and an October 5 UMI of 1.49.
+- Last takeaway: AI-lending production scale must be judged separately from credit quality, because elevated macro risk can coexist with larger origination volume.
+- Source: https://www.aol.com/articles/upstart-publishes-september-2026-originations-114500000.html
+- Revisit only for: cohort losses, approval-rate lift, pricing-accuracy evidence, fair-lending review, partner-bank performance, underwriting-model change or Q3 earnings detail. Expire October 11 unless new credit-quality evidence appears.
 
-## Mastercard / Skyfire Agent Identity
-- Last covered / verified development: 2026-10-05; Mastercard said on September 30 it is working with Skyfire on Know Your Agent technology to help financial institutions and merchants recognize trusted AI agents for transaction authorization.
-- Last takeaway: The bank AI issue is transaction-time authorization context and dispute design; the missing proof is live issuer volume, fraud movement, approval-quality or dispute evidence.
-- Source: https://markets.financialcontent.com/lightport.lightport5/article/bizwire-2026-9-30-mastercard-advances-agentic-commerce-with-new-trust-and-intelligence-services
-- Revisit only for: named issuer adoption, live approval volume, false-positive rate, fraud-loss change, customer dispute process, regulator statement, or Mastercard metric. Expire October 10 without deployment evidence.
-
-## Federal AI Task Force
-- Last covered / verified development: 2026-10-05; AP reported President Trump named National Intelligence Director Jay Clayton to lead a new federal AI task force that will report to Trump and his chief of staff.
-- Last takeaway: The task force matters only if it turns voluntary AI oversight into dated standards, reporting duties, procurement conditions or agency guidance.
-- Source: https://abcnews.com/Technology/wireStory/trump-names-national-intelligence-director-jay-clayton-lead-136985346
-- Revisit only for: published charter, member list expansion, meeting date, public comment process, binding standard, procurement rule, lab reporting requirement, agency guidance or conflict with existing AI safety frameworks. Expire October 10 without operational detail.
+## GPT-Rosalind Priced Access
+- Last covered / verified development: 2026-10-06; OpenAI pricing documentation says billing for gpt-rosalind-research began October 5, with access limited to approved internal research through the trusted-access program.
+- Last takeaway: Specialized frontier models are moving from lab announcement to priced workflow economics, but access and evidence rank still decide whether a regulated enterprise can rely on them.
+- Source: https://developers.openai.com/api/docs/pricing?latest-pricing=standard
+- Revisit only for: independent life-sciences workflow evaluation, access expansion, pricing change, customer deployment metric, safety update or new domain-model pricing precedent. Expire October 11 without new evidence.
 
 ## Retired From Automatic Carryover
 
-FHFA bi-merge credit reporting until formal FHFA, Fannie Mae, Freddie Mac, MBA, credit-vendor or investor instruction appears; Columbus large-load utility pricing until a posted rate design, council action, named project impact, or state policy move appears; autonomous AI agent site-probing until a primary Transluce report, lab/provider response, government statement, independent replication or safeguard change appears; Kyndryl / BIL AI Innovation Lab until a named BIL workflow, production status move or metric appears; Ohio first-responder buffer rule until an enforcement example, department guidance, civil-liberties challenge or court filing appears; Freddie Loan Closing Advisor OAuth cutoff unless live-file problems or a Freddie/vendor workaround appears; Barclays Claude metrics until defect, handling-time, customer, engineering-quality or control evidence appears; September jobs report unless Treasury-yield follow-through, Fed reaction or mortgage-rate implication changes; routine mortgage rates, routine Columbus weather and generic AI model recaps remain off the script without a verified new event and different useful takeaway.
+U.S. Caribbean boat strike campaign until evidence release, congressional action, court filing, partner-government approval or land-operation authorization appears; Columbus Miller Kelton waterline contract until final posted council action, notice-to-proceed or construction staging appears; Fannie Mae score-model pricing alignment until implementation evidence or clarification appears; Mastercard / Skyfire agent identity until issuer adoption or live transaction evidence appears; federal AI task force until charter, member list, standards or procurement consequence appears; FHFA bi-merge credit reporting until formal implementation instructions appear; Columbus large-load utility pricing until a posted rate design or named project impact appears; autonomous AI agent site-probing until primary report, lab response or safeguard evidence appears; routine mortgage rates, routine Columbus weather and generic AI model recaps remain off the script without a verified new event and different useful takeaway.

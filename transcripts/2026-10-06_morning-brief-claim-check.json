@@ -1,0 +1,54 @@
+{
+  "script": "2026-10-06_morning-brief-script.md",
+  "script_sha256": "e1b7389ad95dd40f5a97808eb7c83375fca1f110afe2d7c24773ee2ba5434b9b",
+  "checked_at": "2026-10-06T01:53:08-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wcax.com/2026/10/05/supreme-court-weighs-local-governments-climate-change-lawsuits-against-oil-gas-companies/",
+      "characters": 8832
+    },
+    {
+      "url": "https://www.vote.franklincountyohio.gov/voters/absentee-and-early-voting",
+      "characters": 4925
+    },
+    {
+      "url": "https://www.ohiosos.gov/elections/voting-schedule-text-only",
+      "characters": 1015
+    },
+    {
+      "url": "https://sf.freddiemac.com/tools-learning/technology-tools/releases",
+      "characters": 8769
+    },
+    {
+      "url": "https://sf.freddiemac.com/docs/pdf/sept-oct-2026-loan-selling-advisor-release-notes.pdf",
+      "characters": 84209
+    },
+    {
+      "url": "https://sf.freddiemac.com/docs/pdf/fmic-october-2026-release-notes.pdf",
+      "characters": 60445
+    },
+    {
+      "url": "https://www.aol.com/articles/upstart-publishes-september-2026-originations-114500000.html",
+      "characters": 9837
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/pricing?latest-pricing=standard",
+      "characters": 20272
+    },
+    {
+      "url": "https://www.news4jax.com/business/2026/10/05/asian-shares-are-higher-as-easing-worries-over-inflation-reduce-odds-for-another-fed-rate-hike/",
+      "characters": 10359
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8055
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [],
+  "claims_checked": 46,
+  "claims_supported": 46,
+  "claims_excepted": [],
+  "claims_unresolved": [],
+  "passed": true
+}

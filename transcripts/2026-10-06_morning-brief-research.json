@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-06",
+  "cutoff": "2026-10-06T06:05:00-04:00",
+  "history_compared": [
+    "2026-09-29_morning-brief-script.md",
+    "2026-09-30_morning-brief-script.md",
+    "2026-10-01_morning-brief-script.md",
+    "2026-10-02_morning-brief-script.md",
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "supreme-court-boulder-climate-argument",
+      "beat": "national",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.wcax.com/2026/10/05/supreme-court-weighs-local-governments-climate-change-lawsuits-against-oil-gas-companies/"
+      ],
+      "decision": "selected",
+      "reason": "Fresh oral argument gives a new operational signal after yesterday's term-preview coverage."
+    },
+    {
+      "id": "ohio-franklin-county-early-voting",
+      "beat": "columbus",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.vote.franklincountyohio.gov/voters/absentee-and-early-voting",
+        "https://www.ohiosos.gov/elections/voting-schedule-text-only"
+      ],
+      "decision": "selected",
+      "reason": "Fresh service-window opening for Columbus and Franklin County voters."
+    },
+    {
+      "id": "freddie-loan-selling-advisor-october-release",
+      "beat": "home_lending",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://sf.freddiemac.com/tools-learning/technology-tools/releases",
+        "https://sf.freddiemac.com/docs/pdf/sept-oct-2026-loan-selling-advisor-release-notes.pdf",
+        "https://sf.freddiemac.com/docs/pdf/fmic-october-2026-release-notes.pdf"
+      ],
+      "decision": "selected",
+      "reason": "Effective-date development changes delivery, ARM execution, data-compare and income-documentation workflows."
+    },
+    {
+      "id": "upstart-september-originations-umi",
+      "beat": "bank_ai",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.aol.com/articles/upstart-publishes-september-2026-originations-114500000.html"
+      ],
+      "decision": "selected",
+      "reason": "Fresh production-volume and risk-context disclosure for an AI lending marketplace; adds a new ledger row."
+    },
+    {
+      "id": "gpt-rosalind-pricing-effective",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://developers.openai.com/api/docs/pricing?latest-pricing=standard"
+      ],
+      "decision": "selected",
+      "reason": "Effective pricing/access date is a fresh operational change for a specialized frontier model."
+    },
+    {
+      "id": "monday-market-close-tech-yields-oil",
+      "beat": "markets",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.news4jax.com/business/2026/10/05/asian-shares-are-higher-as-easing-worries-over-inflation-reduce-odds-for-another-fed-rate-hike/"
+      ],
+      "decision": "selected",
+      "reason": "Fresh closing numbers show record tech strength alongside elevated yields and oil."
+    },
+    {
+      "id": "columbus-weather-october-six",
+      "beat": "weather",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "decision": "selected",
+      "reason": "Routine but useful daily planning information for Columbus."
+    },
+    {
+      "id": "roy-moore-defamation-cert-denial",
+      "beat": "national",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://apnews.com/article/be0215ec6b5e9603569f9993e219f6f4"
+      ],
+      "decision": "not selected",
+      "reason": "Fresh but less operationally useful for this audience than the climate-liability argument."
+    }
+  ],
+  "stories": [
+    {
+      "id": "supreme-court-boulder-climate-argument",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.wcax.com/2026/10/05/supreme-court-weighs-local-governments-climate-change-lawsuits-against-oil-gas-companies/"
+      ],
+      "new_fact": "The Supreme Court heard argument on whether local governments can pursue state-court climate-cost suits against oil and gas companies.",
+      "new_takeaway": "Climate risk is becoming a venue, liability and public-budget question for cities, energy firms, insurers and bond buyers.",
+      "why_now": "The oral argument occurred on October 5, creating a new signal beyond the prior docket preview.",
+      "previous_coverage": "October 5 previewed the term and the climate case before argument; today's segment uses the argument as the new fact and shifts the takeaway to municipal finance and venue risk.",
+      "uncertainty": "The Court has not ruled, and argument signals can be misleading.",
+      "watch": "Watch for a ruling, procedural order, settlement movement or signal that similar city and county climate suits can or cannot proceed."
+    },
+    {
+      "id": "ohio-franklin-county-early-voting",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.vote.franklincountyohio.gov/voters/absentee-and-early-voting",
+        "https://www.ohiosos.gov/elections/voting-schedule-text-only"
+      ],
+      "new_fact": "In-person absentee voting begins October 6 at the Franklin County Board of Elections at 1700 Morse Road, with week-one hours from 8 a.m. to 5 p.m.",
+      "new_takeaway": "The local election moves from registration deadline to live operations: lines, staffing, identification and mail-ballot handling.",
+      "why_now": "Early voting and absentee voting by mail begin today, October 6.",
+      "previous_coverage": "No recent episode covered the early-vote opening; prior Columbus segments focused on utilities, waterlines, transportation and local public-safety items.",
+      "uncertainty": "Hours are listed as subject to change, and actual line or mail performance is not known before voting opens.",
+      "watch": "Watch for reported line problems, ballot-mail delays, drop-box confusion, identification issues or changed hours."
+    },
+    {
+      "id": "freddie-loan-selling-advisor-october-release",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "https://sf.freddiemac.com/tools-learning/technology-tools/releases",
+        "https://sf.freddiemac.com/docs/pdf/sept-oct-2026-loan-selling-advisor-release-notes.pdf",
+        "https://sf.freddiemac.com/docs/pdf/fmic-october-2026-release-notes.pdf"
+      ],
+      "new_fact": "Freddie Mac's October 5 Loan Selling Advisor release expands Best Efforts ARM Cash Contracts, intraday guarantor disclosure, wire-instruction improvements, data compare and import updates; the October 4 Income Calculator release adds written VOE and interested-party income support.",
+      "new_takeaway": "This is a secondary-market and income-documentation workflow change that can affect lock-desk execution, delivery discrepancy handling and rep-and-warranty support.",
+      "why_now": "The relevant Freddie technology changes took effect October 4 and October 5.",
+      "previous_coverage": "Recent home-lending segments covered Fannie pricing, FHFA bi-merge, Freddie Loan Closing Advisor OAuth, NFIP and rate movement; this uses a different Freddie delivery/income workflow.",
+      "uncertainty": "The release notes do not disclose lender defect rates, adoption or borrower cost impact.",
+      "watch": "Watch for seller notices, help-desk issues, ARM cash-contract adoption, income-calculator defects or delivery-data compare exceptions."
+    },
+    {
+      "id": "upstart-september-originations-umi",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.aol.com/articles/upstart-publishes-september-2026-originations-114500000.html"
+      ],
+      "new_fact": "Upstart reported $1,378.3 million of September 2026 originations, $4,117.8 million for Q3, and an October 5 UMI of 1.49.",
+      "new_takeaway": "Production AI-lending scale needs to be interpreted separately from credit quality, because elevated macro risk can coexist with higher origination volume.",
+      "why_now": "Upstart published the September origination and latest UMI data on October 5.",
+      "previous_coverage": "No prior seven-day episode covered Upstart; recent bank AI segments covered Mastercard, Kyndryl/BIL, Barclays, Feedzai, Lead Bank and Bank of America.",
+      "uncertainty": "The release does not disclose approval-quality, loss-rate, fairness, partner-bank or manual-review comparisons tied to the AI model.",
+      "watch": "Watch for cohort losses, approval-rate lift, pricing accuracy, partner-bank performance or fair-lending review evidence.",
+      "ledger_row_changed": "Added Upstart / consumer credit underwriting and marketplace pricing; new production row with company-claim evidence, disclosed origination dollars and UMI but no model-quality baseline."
+    },
+    {
+      "id": "gpt-rosalind-pricing-effective",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://developers.openai.com/api/docs/pricing?latest-pricing=standard"
+      ],
+      "new_fact": "OpenAI's pricing page says billing for gpt-rosalind-research begins October 5, 2026, with listed standard token prices and trusted-access limits.",
+      "new_takeaway": "Specialized frontier models are moving from lab announcement to priced workflow economics, but access limits and evidence rank still matter.",
+      "why_now": "The pricing effective date is October 5.",
+      "previous_coverage": "October 5 research listed GPT-Rosalind pricing as a candidate but the episode selected the federal AI task force instead; no full recent segment used this pricing angle.",
+      "uncertainty": "OpenAI's capability claims remain lab-and-partner reported; independent customer workflow replication remains limited.",
+      "watch": "Watch for independent life-sciences workflow evaluations, access expansion, price changes or customer evidence on cycle-time and experiment-quality effects.",
+      "frontier_bar": "Price/access shift for a specialized frontier model, with workflow implications."
+    },
+    {
+      "id": "monday-market-close-tech-yields-oil",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-05",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "https://www.news4jax.com/business/2026/10/05/asian-shares-are-higher-as-easing-worries-over-inflation-reduce-odds-for-another-fed-rate-hike/"
+      ],
+      "new_fact": "AP reported the Dow rose 0.2 percent, the Nasdaq climbed 1.1 percent to a record, Brent settled a little over $100, and the 10-year Treasury yield rose to 5.31 percent.",
+      "new_takeaway": "Tech-led equity strength does not remove the borrowing-cost pressure facing mortgage desks, municipal borrowers and companies.",
+      "why_now": "The market close was October 5.",
+      "previous_coverage": "Recent market segments watched yields and oil; this is a compact fresh close with a record Nasdaq and higher 10-year yield.",
+      "uncertainty": "One session does not establish a trend; the next bond and oil moves matter more than the equity headline.",
+      "watch": "Watch whether the 10-year yield holds near 5.31 percent or moves lower enough to change mortgage and municipal-finance conditions."
+    },
+    {
+      "id": "columbus-weather-october-six",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "NWS forecast for central Columbus calls for sunny weather, high near 67, southeast wind around 3 mph and no precipitation signal.",
+      "new_takeaway": "Weather should not disrupt commute, school, jobsite or errand plans; the useful adjustment is a morning layer.",
+      "why_now": "This is the current daily forecast for October 6.",
+      "previous_coverage": "Weather is covered daily only as compact planning information.",
+      "uncertainty": "Point forecasts update during the day.",
+      "watch": "Watch for any NWS forecast update that changes the dry-road and outdoor-planning assumption."
+    }
+  ],
+  "claim_check_exceptions": [],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Selected at least four fresh developments within 48 hours: Supreme Court climate argument, Franklin County early voting, Freddie Mac effective technology changes, Upstart originations/UMI, GPT-Rosalind pricing, and Monday market close. Compared facts and takeaways against the previous seven scripts; only the climate case is a continuation and uses the oral argument as a new fact with a different municipal-finance takeaway. Home lending leads with a specific operational workflow change rather than rates. AI in Banking adds a new ledger row. Frontier AI is a price/access shift, with older capability evidence labeled background.",
+    "script_sha256": "e1b7389ad95dd40f5a97808eb7c83375fca1f110afe2d7c24773ee2ba5434b9b"
+  }
+}
