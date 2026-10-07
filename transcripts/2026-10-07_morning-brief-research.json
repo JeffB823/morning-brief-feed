@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-07",
+  "cutoff": "2026-10-07T06:10:00-04:00",
+  "history_compared": [
+    "2026-09-30_morning-brief-script.md",
+    "2026-10-01_morning-brief-script.md",
+    "2026-10-02_morning-brief-script.md",
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md",
+    "2026-10-06_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "abc-fcc-license-review-hearing",
+      "beat": "national",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.clickorlando.com/business/2026/10/06/abc-and-trumps-fcc-battle-in-federal-court-over-issues-of-free-speech-and-jurisdiction/"
+      ],
+      "decision": "selected",
+      "reason": "Fresh court hearing with new briefing deadlines and concrete implications for regulated media license risk."
+    },
+    {
+      "id": "ohio-gas-tax-holiday-effective",
+      "beat": "columbus",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-02",
+      "sources": [
+        "https://www.wosu.org/2026-10-02/ohios-fuel-tax-holiday-includes-gas-and-diesel-but-no-breaks-for-ev-or-hybrid-owners"
+      ],
+      "decision": "selected",
+      "reason": "Previously uncovered, explicitly dated local/state update with immediate household and road-funding consequences."
+    },
+    {
+      "id": "fannie-uad-36-temporary-exception",
+      "beat": "home_lending",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://bankingjournal.aba.com/2026/09/fannie-mae-freddie-mac-announce-aba-backed-uad-3-6-policy-exceptions/",
+        "https://www.mortgage.news/article/fannie-mae-expands-mortgage-insurance-cancellation-outreach-for-homeowners-muleplzn"
+      ],
+      "decision": "selected",
+      "reason": "Previously uncovered operational update with current November 2 implementation consequence; used as specialist dated update, not fresh-count story."
+    },
+    {
+      "id": "incognia-ai-agent-detection-financial-institutions",
+      "beat": "bank_ai",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/incognia-launches-ai-agent-detection-for-financial-institutions-302900044.html"
+      ],
+      "decision": "selected",
+      "reason": "Fresh banking AI vendor announcement with a specific task boundary: detecting AI-initiated actions and risk."
+    },
+    {
+      "id": "anthropic-cyber-verification-program-expansion",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.anthropic.com/news/cyber-verification-program"
+      ],
+      "decision": "selected",
+      "reason": "Fresh access/safety change for frontier cyber capabilities with concrete tiering and regulated-firm implications."
+    },
+    {
+      "id": "markets-record-stocks-oil-yields",
+      "beat": "markets",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://www.wral.com/news/ap/44b75-asian-stocks-mostly-fall-back-despite-latest-earnings-driven-rally-on-wall-street/"
+      ],
+      "decision": "selected",
+      "reason": "Fresh market setup with record U.S. stocks, Asian pullback, oil, and 10-year yield context."
+    },
+    {
+      "id": "columbus-weather-october-seven",
+      "beat": "weather",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "decision": "selected",
+      "reason": "Routine daily planning information."
+    },
+    {
+      "id": "midterm-campaign-money-republicans",
+      "beat": "national",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://apnews.com/article/midterms-campaign-money-republicans-democrats-a47f6b38c2490efae42eafdb63676fa9"
+      ],
+      "decision": "not selected",
+      "reason": "Fresh but less operationally useful than the ABC-FCC licensing case and harder for the local claim checker to fetch directly from AP."
+    }
+  ],
+  "stories": [
+    {
+      "id": "abc-fcc-license-review-hearing",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.clickorlando.com/business/2026/10/06/abc-and-trumps-fcc-battle-in-federal-court-over-issues-of-free-speech-and-jurisdiction/"
+      ],
+      "new_fact": "A federal judge heard ABC's request to block the FCC's early license review of eight ABC-owned stations and set additional briefing deadlines of October 9 and October 14.",
+      "new_takeaway": "The licensing dispute gives regulated companies a concrete test of where ordinary public-interest review ends and content-based pressure begins.",
+      "why_now": "The court hearing occurred October 6, and the next deadlines were set during that hearing.",
+      "previous_coverage": "No prior seven-day episode covered ABC's license-review lawsuit; recent national stories covered climate litigation, permitting, confidence, shutdown/flood insurance and election operations.",
+      "uncertainty": "The judge has not ruled, and the government disputes jurisdiction and irreparable harm.",
+      "watch": "Watch the October 9 government filing, the October 14 ABC filing and any preliminary-injunction ruling before midterms."
+    },
+    {
+      "id": "ohio-gas-tax-holiday-effective",
+      "beat": "columbus",
+      "classification": "dated_update",
+      "date_exception": "Quiet local morning; this previously uncovered state/local cost update is explicitly dated within seven days and operationally relevant for Central Ohio commuters and road funding.",
+      "event_date": "2026-10-04",
+      "publication_date": "2026-10-02",
+      "sources": [
+        "https://www.wosu.org/2026-10-02/ohios-fuel-tax-holiday-includes-gas-and-diesel-but-no-breaks-for-ev-or-hybrid-owners"
+      ],
+      "new_fact": "Ohio's 90-day suspension of the 38.5-cent gasoline tax goes into effect Sunday, with estimated savings of $5.77 on a 15-gallon fill-up and no comparable relief for EV or hybrid registration fees.",
+      "new_takeaway": "The local consequence is a short household fuel-cost bridge paired with a transportation-funding tradeoff using general revenue to backfill road money.",
+      "why_now": "The effective date is this week and the pump-price pass-through is now observable for Columbus-area drivers.",
+      "previous_coverage": "No prior seven-day Columbus segment covered the gas-tax holiday; prior local stories focused on early voting, waterline work, school flyers, venue access and zoning/utilities.",
+      "uncertainty": "The actual pump-price pass-through may vary by station, and the longer-term transportation-budget effect remains uncertain.",
+      "watch": "Watch whether stations pass through the full tax suspension and whether ODOT or local road-project debates change after the backfill."
+    },
+    {
+      "id": "fannie-uad-36-temporary-exception",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "date_exception": "Specialist lending beat used one uncovered seven-day operational update because it directly affects November 2 appraisal delivery planning.",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "https://bankingjournal.aba.com/2026/09/fannie-mae-freddie-mac-announce-aba-backed-uad-3-6-policy-exceptions/",
+        "https://www.mortgage.news/article/fannie-mae-expands-mortgage-insurance-cancellation-outreach-for-homeowners-muleplzn"
+      ],
+      "new_fact": "Fannie Mae created a temporary exception for lenders unable to meet the November 2 UAD 3.6 mandate, with a reduced-functionality period beginning March 1 that removes some automated collateral-review functionality and some property-value representation-and-warranty relief for legacy UAD 2.6 reports.",
+      "new_takeaway": "The operational issue is appraisal-delivery readiness and seller rep-and-warranty exposure, not rate movement.",
+      "why_now": "Lenders are inside the implementation window before the November 2 mandate and need exception plans before files reach the reduced-functionality period.",
+      "previous_coverage": "Recent lending segments covered Freddie delivery/income tools, Fannie score-model pricing, NFIP relief, FHFA bi-merge possibility and routine rate stress; this is a different appraisal-data workflow.",
+      "uncertainty": "The letter does not disclose how many lenders need exceptions or whether vendors will create closing friction.",
+      "watch": "Watch for lender exception plans, appraisal vendor readiness notices, UCDP fatal-edit preparation and March 1 reduced-functionality exposure."
+    },
+    {
+      "id": "incognia-ai-agent-detection-financial-institutions",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/incognia-launches-ai-agent-detection-for-financial-institutions-302900044.html"
+      ],
+      "new_fact": "Incognia introduced AI Agent Detection for financial institutions, plus Web Behavioral Biometrics and an MCP Server for fraud-investigation workflows.",
+      "new_takeaway": "Agent identity alone is insufficient; banks need action-level authorization and risk evidence before approving AI-initiated payments or account changes.",
+      "why_now": "The product announcement was dated October 6.",
+      "previous_coverage": "Recent bank AI segments covered Upstart, Mastercard/Skyfire, Lead Bank, Feedzai, Barclays and Kyndryl/BIL; this changes the ledger with a fraud/authorization detection row.",
+      "uncertainty": "Evidence rank is vendor claim; no bank customer, live volume, false-positive rate, fraud movement, dispute metric or analyst-time baseline was disclosed.",
+      "watch": "Watch for a named bank deployment, detection-accuracy data, false-positive movement, fraud-loss outcome or customer-friction metric.",
+      "ledger_row_changed": "Added Incognia / AI Agent Detection for financial institutions; announced status, lane 2 and lane 8, vendor-claim evidence, no disclosed bank customer or performance metric."
+    },
+    {
+      "id": "anthropic-cyber-verification-program-expansion",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://www.anthropic.com/news/cyber-verification-program"
+      ],
+      "new_fact": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals, with advanced cyber capabilities and reduced blocking classifiers.",
+      "new_takeaway": "Frontier cyber capability is moving toward verified access tiers, making authorization scope and use logging central to enterprise adoption.",
+      "why_now": "Anthropic announced the expanded program on October 6.",
+      "previous_coverage": "Recent frontier segments covered GPT-Rosalind pricing, federal AI task force, autonomous probing, ChatGPT access features and Gemini 4 Argon; this is a new safety/access item rather than another model-release recap.",
+      "uncertainty": "The access structure is public, but capability outcomes, misuse rates and buyer-specific control evidence are not independently measured in the announcement.",
+      "watch": "Watch for participant examples, security outcome metrics, access-tier changes or incidents that test whether reduced blocking remains bounded.",
+      "frontier_bar": "Price/access shift plus safety/security control for dual-use cyber capabilities."
+    },
+    {
+      "id": "markets-record-stocks-oil-yields",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://www.wral.com/news/ap/44b75-asian-stocks-mostly-fall-back-despite-latest-earnings-driven-rally-on-wall-street/"
+      ],
+      "new_fact": "AP reported U.S. stocks hit all-time highs Tuesday, with the S&P 500 up 0.6% to 7,818.93, the Dow up 0.5%, the Nasdaq up 0.4%, the 10-year Treasury yield easing to 5.28% and Brent crude near $101.49 early Wednesday.",
+      "new_takeaway": "Record equity indexes can coexist with expensive borrowing and energy pressure for lenders, local governments and households.",
+      "why_now": "The AP market story was published early October 7 after the Tuesday U.S. close and Wednesday Asia trading.",
+      "previous_coverage": "Recent markets segments repeatedly tracked high yields and oil; this is kept compact and tied to a fresh record-stock/yield/oil setup.",
+      "uncertainty": "One session does not establish a trend, and earnings expectations can reverse if companies miss.",
+      "watch": "Watch whether the 10-year yield and oil stabilize enough to change mortgage, municipal and construction-finance conditions."
+    },
+    {
+      "id": "columbus-weather-october-seven",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "The NWS point forecast for central Columbus shows sunny skies, a high near 79, southwest wind from 3 to 12 mph, gusts as high as 22 mph and a daytime precipitation chance around 1%.",
+      "new_takeaway": "Weather should be favorable for errands and outdoor work, with a warm afternoon and some gusts to account for.",
+      "why_now": "This is the current October 7 forecast.",
+      "previous_coverage": "Weather is covered daily only as compact planning information.",
+      "uncertainty": "NWS point forecasts update during the day.",
+      "watch": "Watch for any NWS update that changes the low-rain, gusty-warm-day assumption."
+    }
+  ],
+  "claim_check_exceptions": [],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Fresh-count stories within 48 hours: ABC-FCC hearing, Incognia AI Agent Detection, Anthropic Cyber Verification Program expansion, and October 7 market setup. Local gas-tax and Fannie UAD were explicitly handled as dated specialist updates, not fresh-count stories. Compared against prior seven scripts for both facts and takeaways; avoided carrying forward climate, early voting, Freddie, Upstart or GPT-Rosalind without new facts. Home lending leads with a specific appraisal-delivery workflow and rep-and-warranty consequence. Bank AI adds one new ledger row. Frontier AI clears the access/safety-control bar. Closing has exactly three watch items.",
+    "script_sha256": "2ac12c383844cc97ff86b9f829f9c9a61a1fabf3d13dd4ce4dd08475f2b0b78d"
+  }
+}
