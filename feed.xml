@@ -27,6 +27,94 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — ABC License Fight, Ohio Gas Relief, UAD Exceptions, and Cyber Access - October 7, 2026</title>
+    <description>The October 7 Morning Brief covers ABC&#x27;s federal court fight over FCC license review, Ohio&#x27;s gasoline-tax holiday, Fannie Mae&#x27;s UAD 3.6 exception path, Incognia&#x27;s AI Agent Detection for financial institutions, Anthropic&#x27;s expanded Cyber Verification Program, record U.S. stocks, and a warm sunny Columbus forecast.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a broadcast-license fight gets its next court deadlines, Ohio&#x27;s gas-tax holiday starts changing household math, appraisal-format exceptions become a real mortgage pipeline issue, and two AI stories show why identity, authority and access tiers are becoming operational controls.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Wednesday, October 7th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with ABC&#x27;s fight with the Federal Communications Commission in federal court. AP reporting carried by ClickOrlando says ABC asked U.S. District Judge Loren AliKhan on Tuesday to block an unusual early review of broadcast licenses for eight ABC-owned stations.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why does that lead a business-and-operations brief?</p>
+<p><span style="font-weight:bold">Host:</span> Because this is not only a media-politics argument. If a regulator can pull a license review forward after disputed coverage, broadcasters have to treat editorial decisions, renewal risk, legal venue and election timing as one operating problem.</p>
+<p><span style="font-weight:bold">Co-host:</span> Did the judge rule?</p>
+<p><span style="font-weight:bold">Host:</span> No. The judge did not immediately rule on ABC&#x27;s request for a preliminary injunction. She asked for additional written arguments by October 9 from the government and October 14 from ABC, so a decision is not expected until at least mid-October.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the practical uncertainty?</p>
+<p><span style="font-weight:bold">Host:</span> Jurisdiction and speech protection. The government says the court is the wrong venue and that ABC has not shown irreparable harm. ABC says the early review is unconstitutional retaliation and is already affecting editorial judgment before the midterms.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the watch is less about one late-night joke and more about whether a licensing process can become pressure on newsrooms.</p>
+<p><span style="font-weight:bold">Host:</span> Right. The useful takeaway is institutional: companies that depend on federal licenses should watch whether courts draw a line between ordinary public-interest review and content-based pressure.</p>
+<p><span style="font-weight:bold">Co-host:</span> And that line matters beyond television. Any regulated company listens differently when the agency that renews the license is also reacting to the company&#x27;s speech, judgment or customer-facing decisions.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Ohio, the local pocketbook story is the gasoline-tax holiday now moving from Statehouse vote to pump math. WOSU reported the 90-day suspension of Ohio&#x27;s 38.5-cent gasoline tax goes into effect Sunday.</p>
+<p><span style="font-weight:bold">Co-host:</span> What does that mean for an Ohio driver?</p>
+<p><span style="font-weight:bold">Host:</span> On a 15-gallon fill-up, the expected saving is about $5.77 if the tax cut passes through. That matters for commuters, delivery drivers and families that are already adjusting to high fuel and grocery costs.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does everyone who uses the roads get relief?</p>
+<p><span style="font-weight:bold">Host:</span> No. WOSU reported the holiday covers gasoline and diesel, but not registration-fee relief for electric vehicles, plug-in hybrids or hybrids. EV owners still pay an extra 200 dollars, plug-in hybrid owners 150 dollars, and hybrid owners 100 dollars.</p>
+<p><span style="font-weight:bold">Co-host:</span> That makes it a transportation-funding tradeoff, not just a cheaper-gas headline.</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. Lawmakers are using 726 million dollars from the general revenue fund to cover lost gas-tax revenue that normally supports road construction and repair. The local watch is whether stations pass the cut through and whether road-project funding becomes a follow-up fight.</p>
+<p><span style="font-weight:bold">Co-host:</span> For Columbus households, the useful move is simple: do not build a budget around permanent relief. Treat it as a 90-day bridge and watch whether the pump price actually moves by the tax amount.</p>
+<p><span style="font-weight:bold">Host:</span> The local angle is also timing. The relief arrives as commutes, school travel, delivery routes and campaign travel are all active, but the road money replacement comes from the broader state budget, not from a new transportation revenue source.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the test is pass-through now and project discipline later. A driver can notice the first one this week; taxpayers may not see the second one until paving schedules, ODOT planning or local road debates change.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the lead is Fannie Mae&#x27;s temporary policy exception for lenders that cannot meet the UAD 3.6 appraisal mandate by November 2. The affected workflow is appraisal submission for conventional loans delivered to Fannie Mae.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which loan file feels that first?</p>
+<p><span style="font-weight:bold">Host:</span> A file where the lender, appraisal vendor or technology connection is not ready for the new Uniform Appraisal Dataset 3.6 environment. Fannie says approved exception lenders may keep submitting UAD 2.6 and UAD 3.6 appraisal reports from November 2 through February 28.</p>
+<p><span style="font-weight:bold">Co-host:</span> That sounds like a relief valve. Where is the catch?</p>
+<p><span style="font-weight:bold">Host:</span> The catch arrives March 1. During the reduced-functionality period through May 19, legacy UAD 2.6 reports submitted under the exception lose some automated collateral-review functionality, and loans delivered with those reports lose eligibility for certain property-value representation-and-warranty relief.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the consequence is not just data format. It can change rep-and-warranty exposure.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. A lender can keep a file moving, but the exception may shift collateral risk back onto the seller if legacy appraisal data remains in the file too long. By May 20, new appraisal submissions must use UAD 3.6, with only resubmissions of earlier UAD 2.6 reports accepted until support ends June 28.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should lenders do now?</p>
+<p><span style="font-weight:bold">Host:</span> Map which appraisal vendors, branches and channels are ready by November 2; request exceptions only where needed; and flag files that could drift into the March reduced-functionality window. The borrower consequence is closing certainty, because an appraisal-format delay can disrupt a file even when income, credit and title are done.</p>
+<p><span style="font-weight:bold">Co-host:</span> There is also a servicing angle from Fannie this month, right?</p>
+<p><span style="font-weight:bold">Host:</span> Yes, as background. Fannie also now permits servicers to proactively solicit borrowers who may qualify for mortgage-insurance termination based on current property value. That is not today&#x27;s lead, but it reinforces the same operational theme: servicing and collateral data are becoming borrower-facing workflows.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a useful contrast. The appraisal exception is a seller-risk and delivery issue; the mortgage-insurance update is a borrower-outreach issue. Both depend on property value data being current, trusted and clearly explained.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> In the bank AI ledger, I added Incognia as an announced financial-crime and agent-risk row. On Tuesday, Incognia introduced AI Agent Detection for financial institutions.</p>
+<p><span style="font-weight:bold">Co-host:</span> What task is it supposed to perform?</p>
+<p><span style="font-weight:bold">Host:</span> It is meant to identify agentic activity and assess the risk behind AI-initiated actions, including purchases, payments and account changes. Incognia also announced Web Behavioral Biometrics and an MCP Server for fraud-investigation tools.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the evidence rank?</p>
+<p><span style="font-weight:bold">Host:</span> Vendor claim. There is no disclosed bank customer, live transaction volume, false-positive rate, fraud-loss movement, dispute reduction or analyst-time baseline. The useful detail is the task boundary: knowing an agent is legitimate does not prove the person authorized this specific action.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
+<p><span style="font-weight:bold">Host:</span> It changes authorization and fraud triage. A bank may need to separate a human session, a delegated AI agent, and a suspicious automated action before approving a payment, changing an account setting or escalating a case.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is narrower than a generic AI governance lecture.</p>
+<p><span style="font-weight:bold">Host:</span> It is. The control that matters is action-level authorization evidence: who delegated the agent, what the agent is allowed to do, and whether the behavior fits the customer and device context. The next proof point is a named bank result showing detection accuracy, customer friction and fraud outcomes.</p>
+<p><span style="font-weight:bold">Co-host:</span> The customer-friction part matters. If the bank challenges every AI-assisted action, it breaks the experience. If it trusts every agent identity, it may approve actions the customer never meant to delegate.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, Anthropic expanded its Cyber Verification Program on Tuesday. The company says qualifying security professionals can apply for three access tiers with advanced cyber capabilities and reduced blocking classifiers.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which frontier bar does that clear?</p>
+<p><span style="font-weight:bold">Host:</span> Access shift and safety control. This is not a new benchmark. It changes who can use more powerful cyber capabilities, under what verification tier, and with which remaining restrictions.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can defenders do that general users cannot?</p>
+<p><span style="font-weight:bold">Host:</span> Anthropic says Defense Access covers work like security operations, incident response, malware reverse engineering and vulnerability validation. Red Team Access adds authorized penetration testing. The highest tier, Specialized Access, is for critical software and other high-trust security work.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> The measured public fact is access design: tiers, eligibility categories and stated response timing. The capability claim is Anthropic&#x27;s, including access to models such as Claude Opus 5.5, Claude Sonnet 5.5 and Claude Mythos 5.1. The limitation is that broader access can help defenders while also proving how dual-use these models have become.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does the reduced blocking language create risk for buyers?</p>
+<p><span style="font-weight:bold">Host:</span> It creates a procurement question. A security team may need reduced blocking to inspect malware or validate a vulnerability, but the buyer still has to prove the work is authorized, logged and limited to systems the team is allowed to test.</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is security-team testing or incident-response support, gated by vendor approval, authorization scope and evidence that the model cannot cross into unapproved systems.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is the bridge from frontier capability to bank reality: not &quot;can the model help security,&quot; but whether the bank can show who used it, on which system, under which permission.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets are giving a clean split signal. AP reporting carried by WRAL says the S&amp;P 500 rose 0.6 percent Tuesday to a record 7,818.93, while the Dow added 0.5 percent and the Nasdaq added 0.4 percent to its own record close.</p>
+<p><span style="font-weight:bold">Co-host:</span> What powered that if households still feel strained?</p>
+<p><span style="font-weight:bold">Host:</span> Earnings expectations. AP says investors are betting companies can keep producing strong profits, especially in technology and AI-related sectors. Nvidia is still up about 28.3 percent this year, roughly double the broad market&#x27;s gain.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the bond market?</p>
+<p><span style="font-weight:bold">Host:</span> The 10-year Treasury yield eased to 5.28 percent from 5.31 percent late Monday, but that is still expensive money. Brent crude was back around 101 dollars early Wednesday. For lenders and local governments, the market story is not just record stocks; it is whether yields and energy stop pressuring borrowers.</p>
+<p><span style="font-weight:bold">Co-host:</span> So a record S&amp;P 500 can make retirement accounts look better while a 5.28 percent 10-year still makes a mortgage quote, a city bond issue or a construction loan feel tight.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets a warmer, usable Wednesday. The National Weather Service forecast for the central Columbus grid shows sunny skies, a high near 79, southwest wind from 3 to 12 miles per hour, and some daytime gusts.</p>
+<p><span style="font-weight:bold">Co-host:</span> Any rain or commute issue?</p>
+<p><span style="font-weight:bold">Host:</span> The precipitation chance is only about 1 percent in the daytime forecast. Use a light layer early, expect a mild afternoon, and watch the gusts if you have outdoor work, leaves, signs or lightweight jobsite materials.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a good day for errands and outside work, with the small caution that a warm afternoon can make people forget it still starts like October.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: first, the October 9 and October 14 court filings in the ABC license fight; second, whether lenders publish UAD exception plans before the November 2 appraisal mandate; third, whether Incognia or a bank customer discloses live agent-detection accuracy and fraud outcomes.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the useful triggers: court timing, appraisal-pipeline readiness and whether agent-risk tooling moves from vendor announcement to measured bank evidence.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Wednesday, October 7th. Have a good morning, and keep the next decision tied to the newest operating fact.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-07_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-07_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-07_morning-brief.mp3" length="13716510" type="audio/mpeg"/>
+    <pubDate>Wed, 07 Oct 2026 01:54:43 -0400</pubDate>
+    <itunes:duration>00:14:15</itunes:duration>
+    <itunes:episode>20261007</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-07</guid>
+  </item>
+  <item>
     <title>Morning Brief — Climate Liability, Ohio Early Voting, Freddie Delivery, and Rosalind Pricing - October 6, 2026</title>
     <description>The October 6 Morning Brief covers the Supreme Court climate-liability argument, Ohio early voting opening at Franklin County, Freddie Mac delivery and income-calculator changes, Upstart&#x27;s latest AI-lending risk print, GPT-Rosalind pricing taking effect, a tech-led market close, and sunny Columbus weather.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -846,79 +934,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-27</guid>
   </item>
   <item>
-    <title>Morning Brief — SAVE Ruling, Congress Traffic, DU Changes, and AI Servicing Agents - September 26, 2026</title>
-    <description>The September 26 Morning Brief covers the Supreme Court&#x27;s temporary SAVE database ruling, the All American Quarter Horse Congress opening in Columbus, Fannie Mae&#x27;s weekend Desktop Underwriter changes, LoanPro&#x27;s AI servicing-agent controls, ChatGPT access inside Word and Voice, compact market context, and clear Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: the Supreme Court lets a voter-check database operate before the midterms, Columbus starts a month of fairgrounds traffic and visitor spending, Fannie Mae changes what DU tells underwriters, and AI agents move closer to live loan servicing.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Saturday, September 26th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with the Supreme Court&#x27;s Friday emergency order in Department of Homeland Security versus League of Women Voters. The Court stayed a lower-court order and let the government use the modified SAVE system while the case continues.</p>
-<p><span style="font-weight:bold">Co-host:</span> What does that actually let states do before the election?</p>
-<p><span style="font-weight:bold">Host:</span> It lets federal, state and local officials use the Department of Homeland Security database for voter-eligibility checks for now. Cornell&#x27;s published order notes SAVE has long been used to verify whether people are citizens, but the dispute is over the Trump administration&#x27;s expanded version and the data-sharing behind it.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does this mean states can immediately conduct a mass voter purge?</p>
-<p><span style="font-weight:bold">Host:</span> Not cleanly. The order itself points to the National Voter Registration Act&#x27;s 90-day limit on systematic list maintenance before a federal election. The practical effect is more likely individualized checks, challenges and election-office workload, unless a state tests the boundary and gets sued.</p>
-<p><span style="font-weight:bold">Host:</span> The reason it matters is operational. Election officials, voting-rights groups and county clerks now have a live database pathway to monitor just weeks before voting. The government&#x27;s argument is election integrity. The dissenting concern is privacy and the risk that eligible voters get flagged too late to fix the record.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the useful watch is not the slogan around noncitizen voting. It is whether a state uses SAVE results to challenge a real voter record, and whether the voter gets notice and a fast correction path.</p>
-<p><span style="font-weight:bold">Co-host:</span> There is also a county-capacity issue. A database match is not self-executing; someone has to interpret it, contact the voter, preserve the record and explain what happens if the person shows up during early voting.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, today&#x27;s local operating story is the All American Quarter Horse Congress opening at the Ohio Expo Center. The organizer lists the 2026 horse show and trade show from September 26 through October 24.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why treat that as civic news rather than just a weekend event?</p>
-<p><span style="font-weight:bold">Host:</span> Scale. The Congress calls itself the world&#x27;s largest horse show, with more than 28,000 entries annually, more than 500,000 visitors and an estimated 426 million dollars in annual economic impact for Central Ohio.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is a lot of hotel rooms, trailers and restaurant checks.</p>
-<p><span style="font-weight:bold">Host:</span> And traffic. The Congress page says the Expo Center is accessed from Interstate 71, with 17th Avenue serving as the entrance during the event and both 17th and 11th Avenue used as exits. Parking rules started September 24, and daily parking is 25 dollars, with lower Monday and Tuesday pricing and free Wednesday parking.</p>
-<p><span style="font-weight:bold">Host:</span> The consequence for Columbus is a month-long logistics pattern around the fairgrounds, not a one-day crowd. Hotels, restaurants, tack vendors, fuel stops, police details and nearby commuters all feel it differently.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should residents actually do with that information?</p>
-<p><span style="font-weight:bold">Host:</span> If you are near the fairgrounds, treat big Congress days like a recurring event district. Check 17th Avenue before assuming it is a normal route, give I-71 extra space near the exits, and remember that weekend parking pressure is not the same as a quiet Tuesday morning.</p>
-<p><span style="font-weight:bold">Co-host:</span> And for businesses, this is the rare event where a niche sport behaves like a regional convention. Staffing, deliveries and hotel pricing can all be affected even if you never set foot in an arena.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is Desktop Underwriter behavior this weekend. Fannie Mae&#x27;s DU version 12.1 September update applies to loan casefiles submitted or resubmitted after the evening of September 25.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which file does that change first?</p>
-<p><span style="font-weight:bold">Host:</span> Any conventional file where DU findings drive underwriting conditions, fraud review, collateral review or income validation. The update changes the Potential Red Flag section, adds occupancy and subject-property messages, and uses Collateral Underwriter information for new eligibility messages.</p>
-<p><span style="font-weight:bold">Co-host:</span> Give me the practical underwriter version.</p>
-<p><span style="font-weight:bold">Host:</span> If an appraisal is tied to an appraiser on Fannie Mae&#x27;s No Longer Accepted list, DU can issue an Ineligible recommendation and require a new appraisal. If the property condition is C6, DU also issues Ineligible. And if CU flags heightened overvaluation risk, the lender gets a message to review whether value is supported.</p>
-<p><span style="font-weight:bold">Host:</span> Income validation also changes. For fixed base income, DU moves from requiring 12 months of current employment to at least three months of current employment plus 12 months of total employment history. Variable base income still needs 12 months of current employment.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds like eligibility, integrations and training all at once.</p>
-<p><span style="font-weight:bold">Host:</span> It is. Fannie also says subject rental income on a one-unit principal residence or second home will now make a casefile Ineligible, except for accessory dwelling unit income on a one-unit principal residence. Integrations parsing DU messages may need updates because the impact memo lists new, modified and retired messages.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the borrower may hear only that a condition changed, but the lender has to know whether DU changed the file, the data field, the appraisal path or the income validation clock.</p>
-<p><span style="font-weight:bold">Host:</span> Correct. The watch is Monday pipeline cleanup: how many resubmitted files throw new red flags, ineligible findings or integration defects after the weekend release.</p>
-<p><span style="font-weight:bold">Co-host:</span> The risk is highest for teams that treat automated underwriting like a static black box. When the findings report changes, processors, underwriters, appraisers and technology vendors all need the same map of what the message means.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added LoanPro to the deployment ledger. The lane is consumer servicing and collections, and the evidence rank is company claim carried in a published launch article.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed in the row?</p>
-<p><span style="font-weight:bold">Host:</span> LoanPro announced LoanPro MCP, part of its Intelligence Suite, with phase one live now. It lets lenders connect AI agents and models to LoanPro for pulling account context and history, processing payments, setting up autopay and recording promises to pay.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is more concrete than a generic AI assistant. What is the old workflow?</p>
-<p><span style="font-weight:bold">Host:</span> A human servicing agent hunts through account history, payment status, communications, compliance flags and next-step procedures before acting. LoanPro says its AI Account Briefing summarizes health indicators, recent activity and suggested next steps, while MCP lets the agent operate through existing controls.</p>
-<p><span style="font-weight:bold">Host:</span> The disclosed metric is vendor-reported: LoanPro says agents spent an average of 20 percent of each servicing call looking for information, and its testing reduced that to 10 to 15 percent, and to 5 percent in some cases. There is no independent result for error rate, borrower outcome, complaint movement or regulatory finding.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank or lender?</p>
-<p><span style="font-weight:bold">Host:</span> It changes control design for servicing automation. If an AI agent can set up autopay or record a promise to pay, the institution has to prove the agent had the same authority as the employee using it and that the audit trail records the responsible person.</p>
-<p><span style="font-weight:bold">Co-host:</span> The key limit is attribution, then.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. LoanPro says every request runs through role-based access controls and compliance guardrails, and each action is recorded under that person&#x27;s name. The next proof point is customer evidence showing volume, exception rate, corrections and whether borrower calls actually improve outside the vendor test.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is where servicing differs from a harmless internal summary. A promise to pay, autopay setup or payment action can become a complaint, collection dispute or exam question if the borrower later says the account history is wrong.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, the freshest item is not a bigger benchmark score. It is access. OpenAI&#x27;s September 25 ChatGPT release notes introduced security history, and the same current release page shows a rapid expansion of where frontier models and agents can operate.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which part clears the frontier bar?</p>
-<p><span style="font-weight:bold">Host:</span> Price and access shift, plus agent workflow reach. The page says ChatGPT is now available in Microsoft Word, where users can draft from notes, summarize a document, revise selected text and adjust headings and formatting from a sidebar. It also says Voice now supports plugins and connected apps on web, iOS and Android.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> The availability is a product fact from OpenAI&#x27;s release notes. There is no published productivity benchmark in the note. The workflow change is that document editing and spoken work can happen inside tools and connected apps instead of a separate chat window.</p>
-<p><span style="font-weight:bold">Host:</span> The limit is permission and context control. OpenAI says existing app connections, permissions and usage limits apply, but an enterprise still has to decide which documents, plugins and accounts are safe inside that workflow.</p>
-<p><span style="font-weight:bold">Co-host:</span> Who is advantaged if this works?</p>
-<p><span style="font-weight:bold">Host:</span> Teams with messy document work: policies, memos, client letters, meeting notes and internal drafts. The condition is review. If the model changes a heading or summarizes a document incorrectly, the user needs a fast way to see what changed before it becomes the final record.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the advantage is proximity to the work, and the risk is the same proximity. A sidebar inside Word can save context-switching, but it also makes it easier to accept a polished sentence before checking whether it still matches the source document.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is controlled drafting and summarization in low-risk Word documents, gated by data-loss-prevention rules, add-in approval and a review trail before customer or exam-sensitive material is allowed.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets are a compact setup this morning because the bigger work is in rates and event risk. Friday&#x27;s close left investors still balancing election-law uncertainty, U.S.-China follow-up, long yields and whether AI spending can keep supporting growth expectations.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the practical screen for lenders and local finance teams?</p>
-<p><span style="font-weight:bold">Host:</span> The same one as late week: long Treasury yields and mortgage-backed securities matter more than a single equity index. If bonds do not improve, borrowers, builders, utilities and cities still face the higher financing-cost story even when technology shares hold up.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the market question for Monday is whether relief broadens beyond the AI trade.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. A calmer bond market helps housing and public finance. A narrow tech bid with sticky yields keeps the split intact.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a useful Saturday. The National Weather Service forecast for the John Glenn airport area showed a few clouds before dawn, then sunny conditions with a high near 71 and north wind around 5 to 9 miles per hour.</p>
-<p><span style="font-weight:bold">Co-host:</span> Good fairgrounds weather, then?</p>
-<p><span style="font-weight:bold">Host:</span> Yes, with a layer early. Tonight is mostly clear near 51. Sunday is sunny near 70, with north wind up to about 13 miles per hour. For outdoor plans, traffic and parking are bigger concerns than weather.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: whether states use SAVE for individualized voter challenges before the midterms; whether Monday&#x27;s DU resubmissions surface new ineligible findings or integration problems; and whether LoanPro customers disclose real servicing-agent volume, correction rates or borrower outcomes.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are the triggers: voter-notice mechanics, mortgage pipeline defects and whether AI servicing leaves the demo stage.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Saturday, September 26th. Have a good morning, and keep the next decision tied to the system that actually changed.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Saturday, September 26, 2026</title>
+    <description>Your Morning Brief for Saturday, September 26, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-26_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-26_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-26_morning-brief.mp3" length="13212718" type="audio/mpeg"/>
