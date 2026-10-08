@@ -1,6 +1,8 @@
-# Story Tracker - updated 2026-10-07
+# Story Tracker - updated 2026-10-08
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
+
+2026-10-08 note: Today’s FCC robocall, Columbus crisis-response board, Fannie SEL-2026-09, Plaid model, and GPT-6 Intelligent UI stories were not added as active tracker rows because their likely next developments are either beyond five days or require a customer/regulator proof point with no dated near-term trigger. Revisit from the research file if a concrete filing, appointment, lender implementation notice, customer metric, or safety update appears.
 
 ## ABC / FCC License Review Case
 - Last covered / verified development: 2026-10-07; AP reporting carried by ClickOrlando said U.S. District Judge Loren AliKhan heard ABC's request to block the FCC's early review of eight ABC-owned station licenses and set additional briefing deadlines of October 9 for the government and October 14 for ABC.

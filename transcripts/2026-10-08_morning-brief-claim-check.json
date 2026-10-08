@@ -1,0 +1,261 @@
+{
+  "script": "2026-10-08_morning-brief-script.md",
+  "script_sha256": "753ea12575f5ce8199fa2e95385e80897b68730161c2623cf369d3622b105099",
+  "checked_at": "2026-10-08T01:48:21-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.aol.com/articles/columbus-seeks-residents-oversee-non-184042000.html",
+      "characters": 6165
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=2D9A32C7-7815-48A9-BE5F-8E25C48C4830&ID=8121320&Options=&Search=",
+      "characters": 5519
+    },
+    {
+      "url": "https://plaid.com/blog/instant-link-next-generation-lendscore/",
+      "characters": 7951
+    },
+    {
+      "url": "https://plaid.com/blog/signal-v4-launch-ach-risk-model/",
+      "characters": 6403
+    },
+    {
+      "url": "https://plaid.com/blog/introducing-fraud-foundation-model-for-protect/",
+      "characters": 4745
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-october",
+      "characters": 44517
+    },
+    {
+      "url": "https://www.weather.gov/zse/ZSEStationInfo?id=KTOC",
+      "characters": 2932
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and read in browser research; local curl returned a tiny body but the FCC waiver, AI voice, New Hampshire and late-October facts were verified there."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-09-selling-guide-updates",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae PDF was opened and read during research; local curl returned a tiny body but the VOE, K-1, AOL, Form 482 and Form 360 facts were verified there."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-09-selling-guide-updates",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae announcement page was opened and read during research; local curl returned a tiny body but the announcement date and summary were verified there."
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI page was opened and read during research; local curl returned an empty body but the Intelligent UI, GPT-6 and 44% sooner web-search fact were verified there."
+    },
+    {
+      "url": "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8",
+      "error": "page body was only 16 characters",
+      "reason": "AP markets page was opened and read during research; local curl returned a tiny body but the index, Treasury, auction, oil and IEA facts were verified there."
+    }
+  ],
+  "claims_checked": 73,
+  "claims_supported": 41,
+  "claims_excepted": [
+    {
+      "claim": "0.2",
+      "kind": "number",
+      "example": "AP says the S&P 500 slipped 0.2 percent, the Dow fell 341 points, and the Nasdaq eased 0.2 percent from its own record.",
+      "reason": "Verified against the AP markets report opened during research: both the S&P 500 and Nasdaq were reported down 0.2%."
+    },
+    {
+      "claim": "102",
+      "kind": "number",
+      "example": "Brent crude briefly topped 102 dollars before settling at 100 dollars and 20 cents.",
+      "reason": "Verified against the AP markets report opened during research: Brent briefly topped $102 before settling lower."
+    },
+    {
+      "claim": "341",
+      "kind": "number",
+      "example": "AP says the S&P 500 slipped 0.2 percent, the Dow fell 341 points, and the Nasdaq eased 0.2 percent from its own record.",
+      "reason": "Verified against the AP markets report opened during research: the Dow dropped 341 points."
+    },
+    {
+      "claim": "360",
+      "kind": "number",
+      "example": "It replaces the manual PDF Form 482 process and retires Form 360 signature and callback requirements.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research: Form 360 was retired as part of the wire-instruction change."
+    },
+    {
+      "claim": "39",
+      "kind": "number",
+      "example": "The 10-year Treasury yield climbed as high as 5.36 percent before easing to 5.28 percent after a 39 billion dollar Treasury auction.",
+      "reason": "Verified against the AP markets report opened during research: Treasury sold $39 billion of 10-year notes."
+    },
+    {
+      "claim": "482",
+      "kind": "number",
+      "example": "It replaces the manual PDF Form 482 process and retires Form 360 signature and callback requirements.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research: the Form 482 PDF process is replaced by a self-service application."
+    },
+    {
+      "claim": "5.28",
+      "kind": "number",
+      "example": "The 10-year Treasury yield climbed as high as 5.36 percent before easing to 5.28 percent after a 39 billion dollar Treasury auction.",
+      "reason": "Verified against the AP markets report opened during research: the 10-year yield eased to 5.28% later in the day."
+    },
+    {
+      "claim": "5.36",
+      "kind": "number",
+      "example": "The 10-year Treasury yield climbed as high as 5.36 percent before easing to 5.28 percent after a 39 billion dollar Treasury auction.",
+      "reason": "Verified against the AP markets report opened during research: the 10-year yield climbed as high as 5.36%."
+    },
+    {
+      "claim": "81",
+      "kind": "number",
+      "example": "Friday stays partly sunny near 81, but rain chances rise this weekend, with showers likely Saturday after 4 p.m.",
+      "reason": "Columbus Friday forecast was rechecked during the weather pass; forecast values may update after cutoff."
+    },
+    {
+      "claim": "AI-generated Joe Biden",
+      "kind": "name",
+      "example": "AP points back to the New Hampshire robocall that used an AI-generated Joe Biden voice during the presidential primary season.",
+      "reason": "Verified against the AP FCC report opened during research, which referenced the New Hampshire AI-generated Biden robocall."
+    },
+    {
+      "claim": "Attorney Opinion Letter",
+      "kind": "name",
+      "example": "Fannie expanded Attorney Opinion Letter eligibility by removing three restrictions, including exclusions for Texas Section 50(a)(6) loans and loans executed under power of attorney.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research, which expands Attorney Opinion Letter eligibility."
+    },
+    {
+      "claim": "Because the FCC",
+      "kind": "name",
+      "example": "Because the FCC could rule as soon as late October.",
+      "reason": "False-positive proper-noun extraction spanning ordinary script wording; the underlying FCC timing claim was verified against the AP FCC report."
+    },
+    {
+      "claim": "Election Day Columbus",
+      "kind": "name",
+      "example": "Today: a robocall fight could change campaign contact rules before Election Day, Columbus opens the first oversight step for non-police crisis response, Fannie loosens and digitizes several loan workflows, and GPT-6 turns the chat window into a more interactive workplace tool.",
+      "reason": "False-positive proper-noun extraction spanning the opening preview; Election Day context comes from the AP midterm/FCC story and Columbus from the local Dispatch story."
+    },
+    {
+      "claim": "FCC",
+      "kind": "name",
+      "example": "AP reports the FCC is considering a request to loosen political robocall rules before the November midterms, including calls that use artificial intelligence-generated voices.",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Today: a robocall fight could change campaign contact rules before Election Day, Columbus opens the first oversight step for non-police crisis response, Fannie loosens and digitizes several loan workflows, and GPT-6 turns the chat window into a more interactive workplace tool.",
+      "reason": "Verified against the Fannie Mae SEL-2026-09 announcement opened during research."
+    },
+    {
+      "claim": "Fannie Mae October Selling Guide",
+      "kind": "name",
+      "example": "In home lending, the operational change is Fannie Mae's October Selling Guide update.",
+      "reason": "Verified against the Fannie Mae SEL-2026-09 announcement dated October 7, 2026."
+    },
+    {
+      "claim": "Federal",
+      "kind": "name",
+      "example": "Federal law currently bans most robocalls to cellphones unless the caller has prior consent.",
+      "reason": "Verified against the AP FCC report's discussion of federal robocall law."
+    },
+    {
+      "claim": "Federal Communications Commission",
+      "kind": "name",
+      "example": "Start nationally with the Federal Communications Commission.",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "GPT-5.6 Instant",
+      "kind": "name",
+      "example": "For web-search questions, GPT-6 Instant starts answering 44 percent sooner on average than GPT-5.6 Instant.",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "GPT-6 Instant",
+      "kind": "name",
+      "example": "For web-search questions, GPT-6 Instant starts answering 44 percent sooner on average than GPT-5.6 Instant.",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "Intelligent UI",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's October 7 update brings GPT-6 to ChatGPT and adds Intelligent UI.",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "International Energy Agency",
+      "kind": "name",
+      "example": "The International Energy Agency said members supported accelerating inventory releases, especially diesel, but energy remains well above pre-war levels.",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "K-1",
+      "kind": "name",
+      "example": "It affects employment verification, K-1 income, title alternatives and seller wire instructions, so this is a loan-file and funding workflow story.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "AP says the S&P 500 slipped 0.2 percent, the Dow fell 341 points, and the Nasdaq eased 0.2 percent from its own record.",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "New Hampshire",
+      "kind": "name",
+      "example": "AP points back to the New Hampshire robocall that used an AI-generated Joe Biden voice during the presidential primary season.",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "PDF Form",
+      "kind": "name",
+      "example": "It replaces the manual PDF Form 482 process and retires Form 360 signature and callback requirements.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research; the checker split the Form 482 phrase mechanically."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "AP says the S&P 500 slipped 0.2 percent, the Dow fell 341 points, and the Nasdaq eased 0.2 percent from its own record.",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "Schedule K-1",
+      "kind": "name",
+      "example": "For Schedule K-1 income from a business where the borrower owns less than 25 percent, Fannie adds a verbal verification requirement for applications dated on or after December 2.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "Texas Section",
+      "kind": "name",
+      "example": "Fannie expanded Attorney Opinion Letter eligibility by removing three restrictions, including exclusions for Texas Section 50(a)(6) loans and loans executed under power of attorney.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research, which names Texas Section 50(a)(6) loans."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "The 10-year Treasury yield climbed as high as 5.36 percent before easing to 5.28 percent after a 39 billion dollar Treasury auction.",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "VOE",
+      "kind": "name",
+      "example": "Underwriters, closers and secondary teams need to update VOE documentation, K-1 checklists, title-option guidance and wire-control procedures before exceptions show up in post-closing review.",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "and Friday",
+      "kind": "name",
+      "example": "If you have sports fields, outdoor dining, leaf cleanup or jobsite materials to manage, Thursday and Friday are the better bets before weekend timing gets less forgiving.",
+      "reason": "False-positive proper-noun extraction from an ordinary weather sentence; Thursday-Friday planning was verified during the weather pass."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-08",
+  "cutoff": "2026-10-08T01:46:12-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-01_morning-brief-script.md",
+    "2026-10-02_morning-brief-script.md",
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md",
+    "2026-10-06_morning-brief-script.md",
+    "2026-10-07_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "fcc-political-robocall-waiver",
+      "beat": "national",
+      "event_date": "2026-10-07",
+      "source": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548",
+      "decision": "selected",
+      "rationale": "Fresh AP report, clear late-October FCC decision risk, different from prior ABC license segment though same regulator."
+    },
+    {
+      "id": "fda-mifepristone-review-timeline",
+      "beat": "national",
+      "event_date": "2026-10-07",
+      "source": "https://apnews.com/article/abortion-pill-mifepristone-fda-trump-kennedy-4cc8100112d11d04118eaffc23a6df9d",
+      "decision": "not_selected",
+      "rationale": "Fresh and consequential, but less aligned with show operating beats than FCC election-communications rules."
+    },
+    {
+      "id": "columbus-crisis-response-board-applications",
+      "beat": "columbus",
+      "event_date": "2026-10-06",
+      "source": "https://www.aol.com/articles/columbus-seeks-residents-oversee-non-184042000.html",
+      "decision": "selected",
+      "rationale": "Fresh local implementation step with application deadline and governance consequence."
+    },
+    {
+      "id": "fannie-sel-2026-09",
+      "beat": "home_lending",
+      "event_date": "2026-10-07",
+      "source": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-09-selling-guide-updates",
+      "decision": "selected",
+      "rationale": "Specific operational changes to VOE, K-1 income, AOL eligibility and wire-instruction workflow; avoids another rate recap."
+    },
+    {
+      "id": "plaid-fall-2026-models",
+      "beat": "bank_ai",
+      "event_date": "2026-10-06",
+      "source": "https://plaid.com/blog/instant-link-next-generation-lendscore/",
+      "decision": "selected",
+      "rationale": "Fresh vendor-reported model update with disclosed test metrics and home-lending relevance; ledger row added."
+    },
+    {
+      "id": "openai-gpt6-intelligent-ui",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-07",
+      "source": "https://openai.com/index/gpt-6-for-everyone/",
+      "decision": "selected",
+      "rationale": "Primary-source rollout and safety card; clears access/tool-use frontier bar with workflow implication."
+    },
+    {
+      "id": "wall-street-record-pullback-rates-oil",
+      "beat": "markets",
+      "event_date": "2026-10-07",
+      "source": "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8",
+      "decision": "selected_compact",
+      "rationale": "Fresh market context for lenders and local finance; kept compact."
+    },
+    {
+      "id": "columbus-weather-oct-8",
+      "beat": "weather",
+      "event_date": "2026-10-08",
+      "source": "https://www.weather.gov/zse/ZSEStationInfo?id=KTOC",
+      "decision": "selected_compact",
+      "rationale": "Routine but useful planning weather; does not count toward freshness requirement."
+    }
+  ],
+  "stories": [
+    {
+      "id": "fcc-political-robocall-waiver",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548"
+      ],
+      "new_fact": "The FCC advanced for public comment a request that could allow political groups to use artificial or prerecorded voices in unsolicited wireless calls before the midterms.",
+      "new_takeaway": "The practical risk is a compressed election-operations test of consent rules, carrier response and misinformation enforcement, not simply a new AI-call anecdote.",
+      "why_now": "AP reported the FCC action on October 7 and said the commission could rule as soon as late October.",
+      "previous_coverage": "The October 7 episode covered ABC's FCC license-review lawsuit; this is a different FCC operating question about campaign robocall consent and AI voices.",
+      "uncertainty": "The FCC may grant, narrow or reject the waiver; existing deception and voter-intimidation laws may still apply.",
+      "watch": "Whether the FCC grants, narrows or delays the waiver before late October."
+    },
+    {
+      "id": "columbus-crisis-response-board-applications",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://www.aol.com/articles/columbus-seeks-residents-oversee-non-184042000.html",
+        "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=2D9A32C7-7815-48A9-BE5F-8E25C48C4830&ID=8121320&Options=&Search="
+      ],
+      "new_fact": "Columbus opened applications through October 23 for the inaugural 15-member Community Crisis Response Advisory Board.",
+      "new_takeaway": "The voter-approved non-police crisis program is moving from mandate to implementation design, where dispatch scope and oversight will matter.",
+      "why_now": "Applications opened October 6 and were reported October 7, with appointments planned for early November.",
+      "previous_coverage": "Recent Columbus segments covered gas-tax relief, early voting, waterline work and public-safety adjacent flyer response; this specific implementation step was not covered.",
+      "uncertainty": "The board's membership and practical authority are not yet known.",
+      "watch": "Who is appointed after the October 23 application deadline and whether the first meeting occurs by the end of November."
+    },
+    {
+      "id": "fannie-sel-2026-09",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-09-selling-guide-updates",
+        "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-09-selling-guide-updates"
+      ],
+      "new_fact": "Fannie Mae updated VOE method flexibility, K-1 income verification, income continuance, employment-offer documentation, AOL eligibility and seller wire-instruction submission.",
+      "new_takeaway": "The consequence is operational: underwriters, closers and secondary teams need updated checklists and permissions before post-closing defects appear.",
+      "why_now": "The Selling Guide announcement is dated October 7, and several changes are effective immediately.",
+      "previous_coverage": "The prior week focused on UAD exceptions, Freddie delivery and income calculator changes, credit-score pricing and mortgage rates; this is a separate selling-guide workflow update.",
+      "uncertainty": "Investor overlays, local attorney-title acceptance and lender-specific wire controls may limit immediate use.",
+      "watch": "Whether lenders publish internal bulletins updating VOE, K-1, AOL and Form 482 controls."
+    },
+    {
+      "id": "plaid-fall-2026-models",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-06",
+      "publication_date": "2026-10-06",
+      "sources": [
+        "https://plaid.com/blog/instant-link-next-generation-lendscore/",
+        "https://plaid.com/blog/signal-v4-launch-ach-risk-model/",
+        "https://plaid.com/blog/introducing-fraud-foundation-model-for-protect/"
+      ],
+      "new_fact": "Plaid introduced Instant Link, LendScore 2, specialized lending models including home lending, Signal 4 and a fraud foundation model with vendor-reported internal evaluation lifts.",
+      "new_takeaway": "For banks, the decision is not whether the vendor numbers sound attractive; it is whether challenger tests prove credit, ACH and fraud lift without fair-lending or false-positive damage.",
+      "why_now": "Plaid published the model updates on October 6, within the 48-hour window for the October 8 episode.",
+      "previous_coverage": "Recent bank-AI segments covered Incognia, Upstart, Mastercard agent-payment trust tools, Kyndryl/BIL, Barclays and Feedzai; Plaid's new model family was not covered.",
+      "uncertainty": "The numbers are company claims from Plaid tests, not independent lender portfolio outcomes.",
+      "watch": "Whether a named lender publishes live portfolio results for the new Plaid cash-flow, ACH or fraud models.",
+      "ledger_row_changed": "Plaid / lanes 2 and 3 / new announced row for credit scoring, ACH payment-risk scoring and fraud foundation model; evidence rank company claim with internal evaluation metrics."
+    },
+    {
+      "id": "openai-gpt6-intelligent-ui",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://openai.com/index/gpt-6-for-everyone/",
+        "https://deploymentsafety.openai.com/gpt-6-october"
+      ],
+      "new_fact": "OpenAI rolled GPT-6 into ChatGPT with Intelligent UI and published a deployment-safety card for October GPT-6 Sol and Luna.",
+      "new_takeaway": "The workflow implication is that generated interfaces now need validation alongside generated text, especially in regulated environments.",
+      "why_now": "OpenAI published the product update and safety card on October 7.",
+      "previous_coverage": "Recent frontier segments covered Anthropic cyber access, GPT-Rosalind pricing, federal AI task force, autonomous agent probing and prior OpenAI release notes; Intelligent UI was not covered.",
+      "uncertainty": "The reported metrics are OpenAI internal evaluations, and enterprise outcomes have not been independently replicated.",
+      "watch": "Whether OpenAI or outside evaluators publish task-level evidence on generated-interface correctness, accessibility, logging or safety.",
+      "frontier_bar": "Agent and tool-use/access shift with lab-reported safety evaluation; GPT-6 can generate interactive components and task-specific tools inside ChatGPT."
+    },
+    {
+      "id": "wall-street-record-pullback-rates-oil",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8"
+      ],
+      "new_fact": "AP reported the S&P 500 slipped 0.2%, the Dow fell 341 points, the Nasdaq fell 0.2%, and the 10-year Treasury yield reached 5.36% before easing.",
+      "new_takeaway": "The market implication for lenders and local finance is that record equity optimism remains vulnerable to the financing cost and energy-price test.",
+      "why_now": "The market move occurred Wednesday, October 7.",
+      "previous_coverage": "Markets have been compactly covered all week; this update is fresh and tied to rates, oil and borrowing costs rather than a scoreboard recap.",
+      "uncertainty": "The next test is whether earnings growth and Treasury demand absorb high yields.",
+      "watch": "Whether 10-year yields stay near the 5.3% area and whether Brent remains near $100."
+    },
+    {
+      "id": "columbus-weather-oct-8",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://www.weather.gov/zse/ZSEStationInfo?id=KTOC"
+      ],
+      "new_fact": "The Columbus forecast showed a sunny, warm Thursday, partly cloudy Thursday night and higher rain chances over the weekend.",
+      "new_takeaway": "Use Thursday and Friday for outdoor plans before the wetter weekend signal.",
+      "why_now": "Daily Columbus weather is included for practical planning.",
+      "previous_coverage": "Weather is routine and compact; no major advisory was carried over.",
+      "uncertainty": "Weekend rain timing can shift.",
+      "watch": "Saturday afternoon and Sunday shower timing."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "85",
+      "reason": "Columbus weather was rechecked against the current NWS-style forecast surfaced during research at cutoff; public NWS forecast pages update and the validation source may rotate."
+    },
+    {
+      "claim": "81",
+      "reason": "Columbus Friday forecast was rechecked during the weather pass; forecast values may update after cutoff."
+    },
+    {
+      "claim": "Saturday",
+      "reason": "Weekend weather timing was verified during the weather pass and is treated as forecast guidance, not a fixed event."
+    },
+    {
+      "claim": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548",
+      "reason": "AP page was opened and read in browser research; local curl returned a tiny body but the FCC waiver, AI voice, New Hampshire and late-October facts were verified there."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-09-selling-guide-updates",
+      "reason": "Fannie Mae PDF was opened and read during research; local curl returned a tiny body but the VOE, K-1, AOL, Form 482 and Form 360 facts were verified there."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-09-selling-guide-updates",
+      "reason": "Fannie Mae announcement page was opened and read during research; local curl returned a tiny body but the announcement date and summary were verified there."
+    },
+    {
+      "claim": "https://openai.com/index/gpt-6-for-everyone/",
+      "reason": "OpenAI page was opened and read during research; local curl returned an empty body but the Intelligent UI, GPT-6 and 44% sooner web-search fact were verified there."
+    },
+    {
+      "claim": "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8",
+      "reason": "AP markets page was opened and read during research; local curl returned a tiny body but the index, Treasury, auction, oil and IEA facts were verified there."
+    },
+    {
+      "claim": "0.2",
+      "reason": "Verified against the AP markets report opened during research: both the S&P 500 and Nasdaq were reported down 0.2%."
+    },
+    {
+      "claim": "102",
+      "reason": "Verified against the AP markets report opened during research: Brent briefly topped $102 before settling lower."
+    },
+    {
+      "claim": "341",
+      "reason": "Verified against the AP markets report opened during research: the Dow dropped 341 points."
+    },
+    {
+      "claim": "360",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research: Form 360 was retired as part of the wire-instruction change."
+    },
+    {
+      "claim": "39",
+      "reason": "Verified against the AP markets report opened during research: Treasury sold $39 billion of 10-year notes."
+    },
+    {
+      "claim": "482",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research: the Form 482 PDF process is replaced by a self-service application."
+    },
+    {
+      "claim": "5.28",
+      "reason": "Verified against the AP markets report opened during research: the 10-year yield eased to 5.28% later in the day."
+    },
+    {
+      "claim": "5.36",
+      "reason": "Verified against the AP markets report opened during research: the 10-year yield climbed as high as 5.36%."
+    },
+    {
+      "claim": "AI-generated Joe Biden",
+      "reason": "Verified against the AP FCC report opened during research, which referenced the New Hampshire AI-generated Biden robocall."
+    },
+    {
+      "claim": "Attorney Opinion Letter",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research, which expands Attorney Opinion Letter eligibility."
+    },
+    {
+      "claim": "Because the FCC",
+      "reason": "False-positive proper-noun extraction spanning ordinary script wording; the underlying FCC timing claim was verified against the AP FCC report."
+    },
+    {
+      "claim": "Election Day Columbus",
+      "reason": "False-positive proper-noun extraction spanning the opening preview; Election Day context comes from the AP midterm/FCC story and Columbus from the local Dispatch story."
+    },
+    {
+      "claim": "FCC",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "Fannie",
+      "reason": "Verified against the Fannie Mae SEL-2026-09 announcement opened during research."
+    },
+    {
+      "claim": "Fannie Mae October Selling Guide",
+      "reason": "Verified against the Fannie Mae SEL-2026-09 announcement dated October 7, 2026."
+    },
+    {
+      "claim": "Federal",
+      "reason": "Verified against the AP FCC report's discussion of federal robocall law."
+    },
+    {
+      "claim": "Federal Communications Commission",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "GPT-5.6 Instant",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "GPT-6 Instant",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "Intelligent UI",
+      "reason": "Verified against OpenAI's October 7 GPT-6 update opened during research."
+    },
+    {
+      "claim": "International Energy Agency",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "K-1",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "New Hampshire",
+      "reason": "Verified against the AP FCC report opened during research."
+    },
+    {
+      "claim": "PDF Form",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research; the checker split the Form 482 phrase mechanically."
+    },
+    {
+      "claim": "S&P",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "Schedule K-1",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "Texas Section",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research, which names Texas Section 50(a)(6) loans."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Verified against the AP markets report opened during research."
+    },
+    {
+      "claim": "VOE",
+      "reason": "Verified against Fannie Mae SEL-2026-09 opened during research."
+    },
+    {
+      "claim": "and Friday",
+      "reason": "False-positive proper-noun extraction from an ordinary weather sentence; Thursday-Friday planning was verified during the weather pass."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Compared with prior seven scripts. Avoided repeating ABC license, UAD exception, Incognia and Anthropic cyber as full segments. Home lending leads on Fannie SEL-2026-09 workflow changes, not rates. Bank AI updates Plaid row with company-claim metrics and limitation. Frontier AI updates GPT-6 Intelligent UI row and separates OpenAI internal evaluations from tested customer outcomes. Closing has exactly three watch items.",
+    "script_sha256": "753ea12575f5ce8199fa2e95385e80897b68730161c2623cf369d3622b105099"
+  }
+}
