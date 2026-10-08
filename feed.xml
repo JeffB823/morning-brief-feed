@@ -27,6 +27,94 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Robocalls, Crisis Response, Fannie Workflows, and GPT-6 UI - October 8, 2026</title>
+    <description>The October 8 Morning Brief covers the FCC&#x27;s political robocall waiver request, Columbus crisis-response board applications, Fannie Mae&#x27;s October Selling Guide workflow changes, Plaid&#x27;s new lending and fraud models, OpenAI&#x27;s GPT-6 ChatGPT rollout and safety card, a rate-and-oil market split, and warm Columbus weather.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: a robocall fight could change campaign contact rules before Election Day, Columbus opens the first oversight step for non-police crisis response, Fannie loosens and digitizes several loan workflows, and GPT-6 turns the chat window into a more interactive workplace tool.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Thursday, October 8th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with the Federal Communications Commission. AP reports the FCC is considering a request to loosen political robocall rules before the November midterms, including calls that use artificial intelligence-generated voices.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is actually being requested?</p>
+<p><span style="font-weight:bold">Host:</span> Federal law currently bans most robocalls to cellphones unless the caller has prior consent. The petition asks for a waiver that would let political groups use artificial or prerecorded voices in unsolicited wireless calls.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why does that matter operationally, beyond campaign irritation?</p>
+<p><span style="font-weight:bold">Host:</span> Because the FCC could rule as soon as late October. That puts election administrators, carriers, campaigns and voter-protection groups on a compressed calendar to handle more automated calls during the final stretch, while existing deception and intimidation laws still have to do the enforcement work.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is the AI part the main risk?</p>
+<p><span style="font-weight:bold">Host:</span> It is one risk, not the only one. AP points back to the New Hampshire robocall that used an AI-generated Joe Biden voice during the presidential primary season. The practical concern is scale: if a waiver weakens the consent barrier, misleading calls can travel faster than corrections.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the useful takeaway is about the rule gate, not one campaign message.</p>
+<p><span style="font-weight:bold">Host:</span> Right. Watch whether the FCC grants the waiver, narrows it, or lets the clock run. For organizations that communicate with voters, the line between outreach, nuisance and deceptive automation may get tested before November, not after.</p>
+<p><span style="font-weight:bold">Co-host:</span> And for voters, the safest habit is boring but useful: treat urgent recorded calls as unverified until the same instruction appears from an election office, campaign site or trusted local source.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the city opened applications for the first Community Crisis Response Advisory Board. The Dispatch reports applications run through October 23 for a 15-member board tied to the voter-approved non-police crisis response program.</p>
+<p><span style="font-weight:bold">Co-host:</span> What changes because applications are open?</p>
+<p><span style="font-weight:bold">Host:</span> The program moves from ballot promise to implementation structure. Issue 5 committed Columbus to send clinicians, rather than police, to some mental-health crises, but the advisory board is where scope, funding, evaluation and coordination start getting public oversight.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the timetable?</p>
+<p><span style="font-weight:bold">Host:</span> City Hall opened applications on October 6. Council and Mayor Andrew Ginther plan to appoint the board in early November, with a first meeting targeted by the end of November. The full non-police response deadline stretches to February 2028, with around-the-clock availability due in 2030.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a long runway. Why cover it now?</p>
+<p><span style="font-weight:bold">Host:</span> Because the first board will influence the operating definition of which calls are appropriate for clinicians, how dispatch triages them, and how existing alternative-response teams fit the new system. Those choices matter before vehicles and staffing plans are visible.</p>
+<p><span style="font-weight:bold">Co-host:</span> For residents, the near-term move is concrete: apply, nominate someone with crisis-response or lived experience, or watch who gets appointed.</p>
+<p><span style="font-weight:bold">Host:</span> Exactly. The next useful update is whether the appointments reflect neighborhoods, families, clinicians, dispatch realities and public-safety labor, rather than becoming a symbolic board with too little operational authority.</p>
+<p><span style="font-weight:bold">Co-host:</span> That mix matters because a clinician-led response can fail in two different ways: too narrow, so dispatch keeps sending police by default, or too broad, so teams get sent into calls they cannot safely handle.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is Fannie Mae&#x27;s October Selling Guide update. It affects employment verification, K-1 income, title alternatives and seller wire instructions, so this is a loan-file and funding workflow story.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which part hits the active loan file first?</p>
+<p><span style="font-weight:bold">Host:</span> Verbal verification of employment. Fannie removed the specific methods lenders must use, while keeping the timing requirements. Lenders can now use a method that is reasonable, verifiable and appropriate for the borrower’s employment or income type, effective immediately.</p>
+<p><span style="font-weight:bold">Co-host:</span> That sounds like flexibility. Where is the catch?</p>
+<p><span style="font-weight:bold">Host:</span> The catch is documentation discipline. If a lender uses a different verification method, the file still has to show why that method was reasonable and verifiable. For Schedule K-1 income from a business where the borrower owns less than 25 percent, Fannie adds a verbal verification requirement for applications dated on or after December 2.</p>
+<p><span style="font-weight:bold">Co-host:</span> So processors get flexibility on one side and a new calendar flag on the other.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. The second operational change is title and closing. Fannie expanded Attorney Opinion Letter eligibility by removing three restrictions, including exclusions for Texas Section 50(a)(6) loans and loans executed under power of attorney. That can widen title-cost options where investors and local practice accept the risk.</p>
+<p><span style="font-weight:bold">Co-host:</span> And the wire instruction change?</p>
+<p><span style="font-weight:bold">Host:</span> Fannie introduced a self-service application for sellers to create, update and deactivate wire transfer instructions for whole-loan purchase proceeds. It replaces the manual PDF Form 482 process and retires Form 360 signature and callback requirements.</p>
+<p><span style="font-weight:bold">Co-host:</span> The consequence is less paper, but also less tolerance for sloppy permissions.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. The lending takeaway is that October is not just appraisal readiness. Underwriters, closers and secondary teams need to update VOE documentation, K-1 checklists, title-option guidance and wire-control procedures before exceptions show up in post-closing review.</p>
+<p><span style="font-weight:bold">Co-host:</span> Borrowers may never hear Form 482 or Attorney Opinion Letter, but they feel the result as closing cost, funding speed and whether a last-minute employment or wiring question freezes the file.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> In the bank AI ledger, I added Plaid as an announced credit, payment-risk and fraud-model row. Plaid’s fall release and October 6 product post introduced Instant Link, LendScore 2, specialized lending models, Signal 4 and a fraud foundation model.</p>
+<p><span style="font-weight:bold">Co-host:</span> What task does that change for a lender or bank?</p>
+<p><span style="font-weight:bold">Host:</span> It changes cash-flow underwriting and payment-risk decisions. Plaid says consumers can permission future cash-flow access through its consumer reporting agency path, and lenders can receive those insights in under two seconds on a later application.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> Evidence rank is company claim with internal evaluation. Plaid says LendScore 2 has 42 percent greater predictive power than traditional credit data alone, Ls2 Home Lending can approve 6.3 percent more borrowers at the same risk level, Signal 4 caught 126 percent more risky ACH dollars, and the fraud model showed up to 40 percent relative improvement over prior models.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is more numerical than a normal vendor release. Does it prove bank outcome?</p>
+<p><span style="font-weight:bold">Host:</span> Not by itself. The disclosed baselines are Plaid’s tests, not an independent bank validation. What it would change at a large bank is model-risk review: credit, fraud and payments teams would have to test lift by segment before letting cash-flow scores approve more borrowers or reject more payments.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the control that matters here?</p>
+<p><span style="font-weight:bold">Host:</span> Challenger testing. A bank needs to compare Plaid’s score against its existing scorecard, delinquency, ACH return, false-positive and fair-lending outcomes. The next proof point is a named lender publishing live portfolio results, not just a network-level vendor benchmark.</p>
+<p><span style="font-weight:bold">Co-host:</span> The home-lending angle is especially sensitive. More approvals at the same risk sounds attractive, but a mortgage file carries long timelines, protected-class scrutiny and investor rules that are stricter than a quick payment-risk decision.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, OpenAI’s October 7 update brings GPT-6 to ChatGPT and adds Intelligent UI. The qualifying bar is tool-use and access: ChatGPT can now answer with interactive components, graphics, forms, charts and small task-specific tools.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can it do that ordinary chat could not?</p>
+<p><span style="font-weight:bold">Host:</span> OpenAI says GPT-6 can compose text, visuals and interactive elements together, and can create experiences such as calculators, diagrams or step-by-step tools inside the conversation. It also starts answering while it continues thinking, instead of waiting for a full reasoning pass.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured?</p>
+<p><span style="font-weight:bold">Host:</span> OpenAI reports internal evaluations. For web-search questions, GPT-6 Instant starts answering 44 percent sooner on average than GPT-5.6 Instant. In safety, the deployment card says the October GPT-6 Sol and Luna versions are treated as High capability in biological, chemical and cybersecurity domains, but below Critical.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the limitation?</p>
+<p><span style="font-weight:bold">Host:</span> The interface is powerful because it can shape workflow, but that also means enterprise buyers must test whether the generated tool is correct, accessible, logged and appropriate for the task. A nice interface can hide a weak assumption if nobody checks the underlying answer.</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is an internal analysis or training assistant with non-customer data, gated by records retention and model-risk review before generated interfaces influence a customer decision.</p>
+<p><span style="font-weight:bold">Co-host:</span> The important shift is that the model is no longer only writing advice. It may generate the calculator, chart or mini-application that guides the advice, so validation has to cover the interface as well as the text.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets pulled back from records Wednesday as long rates stayed uncomfortable. AP says the S&amp;P 500 slipped 0.2 percent, the Dow fell 341 points, and the Nasdaq eased 0.2 percent from its own record.</p>
+<p><span style="font-weight:bold">Co-host:</span> Was that just profit-taking?</p>
+<p><span style="font-weight:bold">Host:</span> Rates did much of the work. The 10-year Treasury yield climbed as high as 5.36 percent before easing to 5.28 percent after a 39 billion dollar Treasury auction. Expensive long money still presses on mortgages, municipal borrowing and project finance.</p>
+<p><span style="font-weight:bold">Co-host:</span> And oil?</p>
+<p><span style="font-weight:bold">Host:</span> Brent crude briefly topped 102 dollars before settling at 100 dollars and 20 cents. The International Energy Agency said members supported accelerating inventory releases, especially diesel, but energy remains well above pre-war levels.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the market signal is that optimism has to pass a financing test.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. Record equity levels are fragile when debt, energy and earnings expectations all have to cooperate. For lenders and local governments, the 10-year yield still matters more than yesterday’s index close.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is why a mortgage desk, a city treasurer and a construction lender can all look at the same market day and care less about the headline stock move than the rate at which new money clears.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets another warm, usable Thursday. The National Weather Service forecast calls for sunshine, a high near 85, light and variable wind, and a partly cloudy Thursday night around 60.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is there any planning issue today?</p>
+<p><span style="font-weight:bold">Host:</span> Today is the outdoor window. Friday stays partly sunny near 81, but rain chances rise this weekend, with showers likely Saturday after 4 p.m. and a much wetter Sunday signal. Use today for errands, outdoor work and anything that dislikes a wet weekend.</p>
+<p><span style="font-weight:bold">Co-host:</span> If you have sports fields, outdoor dining, leaf cleanup or jobsite materials to manage, Thursday and Friday are the better bets before weekend timing gets less forgiving.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: first, whether the FCC grants, narrows or delays the political robocall waiver; second, who Columbus appoints to the crisis-response advisory board after October 23; third, whether lenders publish live results for Plaid’s new cash-flow, ACH and fraud models.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the right triggers: a rule decision, local implementation authority and whether vendor AI claims survive real portfolio testing.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Thursday, October 8th. Have a good morning, and keep today’s decisions tied to the newest verified operating fact.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-08_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-08_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-08_morning-brief.mp3" length="13766809" type="audio/mpeg"/>
+    <pubDate>Thu, 08 Oct 2026 01:51:49 -0400</pubDate>
+    <itunes:duration>00:14:18</itunes:duration>
+    <itunes:episode>20261008</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-08</guid>
+  </item>
+  <item>
     <title>Morning Brief — ABC License Fight, Ohio Gas Relief, UAD Exceptions, and Cyber Access - October 7, 2026</title>
     <description>The October 7 Morning Brief covers ABC&#x27;s federal court fight over FCC license review, Ohio&#x27;s gasoline-tax holiday, Fannie Mae&#x27;s UAD 3.6 exception path, Incognia&#x27;s AI Agent Detection for financial institutions, Anthropic&#x27;s expanded Cyber Verification Program, record U.S. stocks, and a warm sunny Columbus forecast.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -854,77 +942,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-28</guid>
   </item>
   <item>
-    <title>Morning Brief — Boeing Software Review, Columbus Police Probe, Government DU, and Bank AI Cost Control - September 27, 2026</title>
-    <description>The September 27 Morning Brief covers the FAA review of a Boeing 737 Max software issue, a Columbus police investigation involving Franklin County Commissioner Erica Crawley, Fannie Mae&#x27;s DU for Government Loans release, DBS model-routing discipline for bank AI, OpenAI Daybreak access for Ukraine, oil-linked market pressure, and clear Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: an FAA software review could slow Boeing deliveries, Columbus gets body-camera evidence in a police-accountability case, lenders get a government-loan DU implementation change, and bank AI shifts from bigger models to cheaper task routing.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Sunday, September 27th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with Boeing. The fresh issue is not another broad argument about the Max. CBS News reported Saturday night that the FAA is investigating a software glitch in some 737 Max jets involving the flight-management computer during an aborted landing.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is this about planes already flying, or about deliveries that have not happened yet?</p>
-<p><span style="font-weight:bold">Host:</span> Mostly deliveries and certification risk for now. Alaska, American, Southwest and United told CBS their in-service Max fleets do not use the software version at issue. But Southwest and United have told Boeing they will not accept new aircraft with that operating system.</p>
-<p><span style="font-weight:bold">Co-host:</span> What does the glitch actually change for a crew?</p>
-<p><span style="font-weight:bold">Host:</span> In a rare missed-approach scenario, with autopilot engaged and the flight plan changed, vertical navigation could disengage and fall back to a less sophisticated pitch-control mode. Boeing says pilots are trained to land without VNAV, but the concern is workload at low altitude when crews are already busy.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the public-policy part is the FAA review board, not immediate grounding.</p>
-<p><span style="font-weight:bold">Host:</span> Right. The FAA says it will convene a Corrective Action Review Board and act if it identifies a safety concern. The business consequence is timing: the issue could complicate 737 Max 10 certification and Max 7 deliveries just as Boeing needs smoother handoffs to repair cash flow and airline trust.</p>
-<p><span style="font-weight:bold">Co-host:</span> The useful watch is whether airlines keep refusing that software version, because that tells us whether operators trust Boeing&#x27;s temporary guidance while the permanent fix is still being accelerated.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also shows how software confidence has become part of aircraft inventory planning. An airline can believe pilots can handle the procedure and still decide that accepting a new jet with a known software issue creates too much operational and reputational risk.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, WOSU published body-camera footage Friday in a case now under review by the city&#x27;s inspector general. The footage shows Columbus police confronting Franklin County Commissioner Erica Crawley at a July veterans concert at Historic Crew Stadium.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why is a July concert fresh today?</p>
-<p><span style="font-weight:bold">Host:</span> Because the footage and investigation details became public on Friday evening. WOSU says officers accused Crawley of trespassing in a VIP lounge, followed her into a bathroom, and threatened jail or handcuffs. The promoter said she had access to the lounge and had the right wristband.</p>
-<p><span style="font-weight:bold">Co-host:</span> Was she charged?</p>
-<p><span style="font-weight:bold">Host:</span> No. WOSU reported she was not arrested or charged and was allowed to stay, though she chose to leave for the suite she had been provided. Crawley, who is Black and a Navy veteran, said she believed she and her guests were singled out while others were not questioned the same way.</p>
-<p><span style="font-weight:bold">Co-host:</span> What makes this more than a personal dispute?</p>
-<p><span style="font-weight:bold">Host:</span> Public funding and public power. Crawley said Franklin County provided 250,000 dollars in connection with the veterans event, and the footage involves sworn police officers at a sponsored civic event. The operational question is how private event security claims turn into police orders, and what officers must verify before threatening custody.</p>
-<p><span style="font-weight:bold">Co-host:</span> The verification step matters because an event credential is not the same thing as probable cause. If police are acting on a venue worker&#x27;s assertion, the department still owns the moment when that assertion becomes a command backed by arrest power.</p>
-<p><span style="font-weight:bold">Co-host:</span> What happens next locally?</p>
-<p><span style="font-weight:bold">Host:</span> The inspector general review has to answer scope: how many officers are under investigation, whether body-camera policy was followed, and whether the department changes guidance for events where private security asks police to remove a credentialed attendee.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the specific operational change is Fannie Mae&#x27;s DU for Government Loans release dated September 26. It sits alongside a same-day integration impact memo for technology providers, so the affected workflow is government-loan submissions running through automated underwriting integrations.</p>
-<p><span style="font-weight:bold">Co-host:</span> How is that different from yesterday&#x27;s conventional DU story?</p>
-<p><span style="font-weight:bold">Host:</span> Yesterday was the broad conventional DU weekend release, with appraisal, occupancy, red-flag and income-validation messages. Today&#x27;s item is narrower: government-loan execution and the vendor pipes that carry findings into a loan-origination system. It is a technology and workflow change, not a new rate quote.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which loans should teams pay attention to first?</p>
-<p><span style="font-weight:bold">Host:</span> FHA, VA and USDA-style government files that depend on DU findings, message mapping and quality-control checks. A processor may only see a changed finding, but the lender needs to know whether the change came from agency policy, Fannie implementation, or a vendor field that has not been mapped correctly.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the consequence for borrowers?</p>
-<p><span style="font-weight:bold">Host:</span> Fewer surprises if the lender treats the release as a production cutover. Government borrowers often run on tighter cash, down-payment assistance, seller concessions or repair conditions. A misread automated finding can become a closing delay, a needless resubmission, or a late scramble for a document the file already had.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the action item is not &quot;rates moved.&quot;</p>
-<p><span style="font-weight:bold">Host:</span> Correct. The near-term watch is Monday production monitoring: lenders and technology service providers should compare government-loan test cases, integration impact notes and live findings so a message change does not masquerade as borrower ineligibility.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is the difference between an operations desk and a sales desk. A loan officer may only need to know whether the borrower can proceed, but the operations team has to know whether the answer changed because the borrower changed, the agency rule changed, or the software translation changed.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For the banking AI segment, I moved DBS out of the open-research bucket and into the deployment ledger as an announced operating-economics item. The lane is software engineering and internal productivity, and the evidence rank is trade-reporting summary, not an audited result.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed about the row?</p>
-<p><span style="font-weight:bold">Host:</span> AISeng&#x27;s September 25 fintech brief, summarizing The Edge Singapore, says DBS is matching individual banking tasks to the most cost-efficient model that can complete them safely. Routine work can use smaller internally hosted open-source models, while repeated work can use caching to cut processing cost.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds less dramatic than an agent paying a bill. Why cover it?</p>
-<p><span style="font-weight:bold">Host:</span> Because cost control is what moves AI from demo to budget line. A large bank cannot run every routine task on the priciest frontier model and call that scale. The decision changes architecture: which tasks need frontier reasoning, which can use a smaller model, and where governance connects them.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there a disclosed metric?</p>
-<p><span style="font-weight:bold">Host:</span> None in the available reporting. That is the limitation. We have a named bank and a concrete operating method, but no task volume, defect rate, latency, cost-per-case or business outcome. The useful evidence would be a before-and-after on a real workflow, not a quote about efficiency.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It changes model-selection governance. Procurement, risk and engineering teams need a repeatable way to approve the cheapest model that is good enough for a task, while keeping higher-risk work on stronger models with stricter review.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also changes vendor negotiation. If a bank can prove that routine summarization, classification or code-support work runs safely on smaller internal models, it has more leverage when a vendor prices every workflow as though it needs the flagship model.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, this is a dated specialist update rather than a breaking model launch. OpenAI&#x27;s feed shows a September 23 announcement extending Daybreak access to the Government of Ukraine for civilian infrastructure cyber defense.</p>
-<p><span style="font-weight:bold">Co-host:</span> What frontier bar does that clear if it is not a new benchmark?</p>
-<p><span style="font-weight:bold">Host:</span> Access shift and security capability deployment. Daybreak is OpenAI&#x27;s frontier cyber program. The new fact is a named government getting access for civilian defense, which moves cyber-capable AI from lab and partner availability toward a national security operating context.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> The access expansion is a primary-source product and policy fact. The feed description does not disclose a measured vulnerability-finding rate, incident-response improvement, false-positive rate, or comparison with human teams. So the capability claim should stay modest: this is access to a specialized cyber program, not proof of a scored defensive outcome.</p>
-<p><span style="font-weight:bold">Co-host:</span> Who is advantaged if it works?</p>
-<p><span style="font-weight:bold">Host:</span> Defenders responsible for civilian infrastructure, especially when human security teams are stretched. The constraint is authorization. A tool that helps find, validate or prioritize vulnerabilities still needs clear permission boundaries and human accountability before touching live systems.</p>
-<p><span style="font-weight:bold">Co-host:</span> That boundary is what keeps this from being a generic &quot;AI for cyber&quot; story. A defender needs speed, but the closer a model gets to exploit validation or remediation, the more important it becomes to prove who authorized the test and what system was in scope.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is sanctioned cyber testing through an approved provider or internal security team, gated by legal authorization, change control and evidence that model output was reviewed before remediation.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets open Monday with oil and policy risk doing more work than a Sunday stock quote. CBS reported Brent crude ended the week around 104 dollars a barrel after briefly reaching 108, as the Hormuz dispute and wider Middle East fighting kept energy supply tight.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should lenders and local finance teams take from that?</p>
-<p><span style="font-weight:bold">Host:</span> Higher oil pressure keeps inflation anxiety alive, and inflation anxiety keeps long-rate relief harder. The next market signal is whether energy calms before this week&#x27;s inflation and jobs data. If not, mortgage pricing, municipal borrowing and consumer confidence all stay under pressure.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is why oil belongs in a compact market segment even when the show is not doing commodity play-by-play. Fuel costs travel into delivery, airline capacity, consumer budgets and rate expectations, so the number matters because it changes other decisions.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a clean fall Sunday. The National Weather Service forecast for the downtown grid calls for sun, a high near 75 and north wind around 6 to 12 miles per hour. Tonight is mostly clear near 54, and Monday is mostly sunny near 74.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the local planning move is easy: outdoor plans are fine, but early layers still make sense.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. For fairgrounds traffic, errands and school-night prep, weather is cooperative. The bigger variable today is event traffic, not rain.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: whether the FAA review board changes 737 Max delivery or certification timing; whether Columbus&#x27; inspector general names findings or policy changes in the Crawley investigation; and whether Monday government-loan DU files show integration defects or unexpected findings.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are the triggers: aircraft software confidence, local police-event rules and mortgage technology behavior in production.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Sunday, September 27th. Have a good morning, and make the next move from the evidence that is newest and specific enough to act on.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Sunday, September 27, 2026</title>
+    <description>Your Morning Brief for Sunday, September 27, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-27_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-27_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-27_morning-brief.mp3" length="12906715" type="audio/mpeg"/>
@@ -1160,18 +1180,6 @@
     <itunes:duration>00:14:17</itunes:duration>
     <itunes:episode>20260908</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-08</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, September 07, 2026</title>
-    <description>Your Morning Brief for Monday, September 07, 2026. National news, Columbus local, home lending, and AI.</description>
-
-
-
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-07_morning-brief.mp3" length="10710957" type="audio/mpeg"/>
-    <pubDate>Mon, 07 Sep 2026 14:22:03 -0600</pubDate>
-    <itunes:duration>00:11:09</itunes:duration>
-    <itunes:episode>20260907</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-07</guid>
   </item>
 </channel>
 </rss>
