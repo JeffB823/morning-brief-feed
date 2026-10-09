@@ -1,8 +1,14 @@
-# Story Tracker - updated 2026-10-08
+# Story Tracker - updated 2026-10-09
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-2026-10-08 note: Today’s FCC robocall, Columbus crisis-response board, Fannie SEL-2026-09, Plaid model, and GPT-6 Intelligent UI stories were not added as active tracker rows because their likely next developments are either beyond five days or require a customer/regulator proof point with no dated near-term trigger. Revisit from the research file if a concrete filing, appointment, lender implementation notice, customer metric, or safety update appears.
+2026-10-09 note: Today’s Columbus housing, mortgage-rate, BNP Paribas/BNY AI, Anthropic Cyber Mission, markets and weather items were not added as active tracker rows because their likely next developments are beyond five days or require customer/regulator proof with no dated near-term trigger. Revisit from the research file if September local housing data, lender fallout, independent AI workflow evidence, or partner outcome metrics appear.
+
+## Microsoft / Tech Green-Card Labor Suspension
+- Last covered / verified development: 2026-10-09; AP reported the Trump administration announced on October 8 that it was suspending Microsoft and other firms from a labor program used when foreign workers apply for green cards, while also escalating scrutiny of H-1B, J-1 and Optional Practical Training pathways.
+- Last takeaway: The operating consequence is retention, sponsorship and project-staffing uncertainty for employers and workers already inside the U.S., not only a temporary-visa headline.
+- Source: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+- Revisit only for: lawsuit, injunction request, Labor Department clarification, settlement, named-company sponsorship change, proposed-fee finalization, or university/program enforcement action. Expire October 14 without a concrete legal or agency development.
 
 ## ABC / FCC License Review Case
 - Last covered / verified development: 2026-10-07; AP reporting carried by ClickOrlando said U.S. District Judge Loren AliKhan heard ABC's request to block the FCC's early review of eight ABC-owned station licenses and set additional briefing deadlines of October 9 for the government and October 14 for ABC.

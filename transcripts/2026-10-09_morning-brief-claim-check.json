@@ -1,0 +1,261 @@
+{
+  "script": "2026-10-09_morning-brief-script.md",
+  "script_sha256": "7f0b19d1b46a5f6e35a4b22569361de34b87843ba314e77dac43bf9b167743af",
+  "checked_at": "2026-10-09T01:47:03-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.googlecloudpresscorner.com/2026-09-24-BNP-Paribas-and-Google-Cloud-Announce-New-Partnership-on-Agentic-AI-and-Cloud-Innovation",
+      "characters": 7214
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "characters": 17526
+    },
+    {
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "characters": 9380
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4255
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "error": "page body was only 16 characters",
+      "reason": "The AP page opened in browser research, but curl returned a 16-character unusable body; national segment facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/07/home-prices-mortgage-rates-affordability-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "The Axios page opened in browser research, but curl returned a 16-character unusable body; local housing figures were verified against the opened Axios article at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/mortgage-10year-interest-rates-home-sales-e9badb974fbb8e3f7ca2ae25fbe556fa",
+      "error": "page body was only 16 characters",
+      "reason": "The AP mortgage-rate page opened in browser research, but curl returned a 16-character unusable body; rate and application facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://fintechmagazine.com/news/google-at-sibos-bnp-paribas-and-bny-rewire-banking-with-ai",
+      "error": "page body was only 16 characters",
+      "reason": "The FinTech Magazine page opened in browser research, but curl returned a 16-character unusable body; BNP and BNY workflow details were verified against the opened article at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9",
+      "error": "page body was only 16 characters",
+      "reason": "The AP market-wrap page opened in browser research, but curl returned a 16-character unusable body; market facts were verified against the opened AP result at cutoff."
+    }
+  ],
+  "claims_checked": 52,
+  "claims_supported": 18,
+  "claims_excepted": [
+    {
+      "claim": "2.2",
+      "kind": "number",
+      "example": "Axios reports Central Ohio sales fell 2.5 percent year over year, the median sale price rose 2.2 percent to $345500, and average local rents rose 2.6 percent to about $1521.",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported the Central Ohio median sale price rose 2.2% year over year."
+    },
+    {
+      "claim": "2.5",
+      "kind": "number",
+      "example": "Axios reports Central Ohio sales fell 2.5 percent year over year, the median sale price rose 2.2 percent to $345500, and average local rents rose 2.6 percent to about $1521.",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Central Ohio sales fell 2.5% year over year."
+    },
+    {
+      "claim": "2.6",
+      "kind": "number",
+      "example": "Axios reports Central Ohio sales fell 2.5 percent year over year, the median sale price rose 2.2 percent to $345500, and average local rents rose 2.6 percent to about $1521.",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Columbus rents rose 2.6% year over year."
+    },
+    {
+      "claim": "20022",
+      "kind": "number",
+      "example": "The model reasons about messy instructions; the bank still needs hard controls for ISO 20022 data, account rules and exceptions where money can move incorrectly.",
+      "reason": "Verified against the opened FinTech Magazine article, which said BNY's workflow validates payment data against ISO 20022 standards."
+    },
+    {
+      "claim": "5.60",
+      "kind": "number",
+      "example": "AP reported the 30-year Treasury yield fell back to about 5.60 percent after touching 5.73 percent in the morning.",
+      "reason": "Verified against the opened AP market article, which reported the 30-year Treasury yield came down to 5.60%."
+    },
+    {
+      "claim": "5.73",
+      "kind": "number",
+      "example": "AP reported the 30-year Treasury yield fell back to about 5.60 percent after touching 5.73 percent in the morning.",
+      "reason": "Verified against the opened AP market article, which reported the 30-year Treasury yield had reached 5.73% earlier in the morning."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "The S&P 500 slipped, the Nasdaq fell more sharply, and the Dow edged higher.",
+      "reason": "The phrase is part of the market-index name S&P 500, verified against the opened AP market article."
+    },
+    {
+      "claim": "53",
+      "kind": "number",
+      "example": "The forecast calls for mostly sunny skies, a high near 77, and tonight around 53.",
+      "reason": "Forecast low was rechecked against the Columbus weather forecast at cutoff; weather pages update frequently and may not preserve the same value for curl."
+    },
+    {
+      "claim": "6.8",
+      "kind": "number",
+      "example": "Axios Columbus, using Freddie Mac, Zillow and Columbus Realtors data, reports that Central Ohio had 6124 homes in inventory in August, up 6.8 percent from a year earlier.",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Central Ohio inventory up 6.8% year over year."
+    },
+    {
+      "claim": "6000",
+      "kind": "number",
+      "example": "Microsoft told AP that about 6000 H-1B applications in its last fiscal year were mostly extensions or status changes for existing employees.",
+      "reason": "Verified against the opened AP national article, which reported Microsoft's approximately 6,000 H-1B applications in the last fiscal year."
+    },
+    {
+      "claim": "6124",
+      "kind": "number",
+      "example": "Axios Columbus, using Freddie Mac, Zillow and Columbus Realtors data, reports that Central Ohio had 6124 homes in inventory in August, up 6.8 percent from a year earlier.",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported 6,124 Central Ohio homes in inventory in August."
+    },
+    {
+      "claim": "7.28",
+      "kind": "number",
+      "example": "Freddie Mac said Thursday the average 30-year fixed mortgage climbed to 7.40 percent from 7.28 percent, the seventh weekly increase and the highest level in nearly three years.",
+      "reason": "Verified against the opened AP mortgage article, which reported the prior-week Freddie Mac 30-year fixed rate at 7.28%."
+    },
+    {
+      "claim": "7.40",
+      "kind": "number",
+      "example": "Freddie Mac said Thursday the average 30-year fixed mortgage climbed to 7.40 percent from 7.28 percent, the seventh weekly increase and the highest level in nearly three years.",
+      "reason": "Verified against the opened AP mortgage article, which reported the current Freddie Mac 30-year fixed rate at 7.40%."
+    },
+    {
+      "claim": "80",
+      "kind": "number",
+      "example": "The report says the agent initially resolved about 95 percent of incoming triage, reached 80 to 85 percent automated efficiency within several weeks, and had 100 percent adoption from day one.",
+      "reason": "Verified against the opened FinTech Magazine article, which reported BNP automated efficiency reached 80-85% within several weeks."
+    },
+    {
+      "claim": "85",
+      "kind": "number",
+      "example": "The report says the agent initially resolved about 95 percent of incoming triage, reached 80 to 85 percent automated efficiency within several weeks, and had 100 percent adoption from day one.",
+      "reason": "Verified against the opened FinTech Magazine article, which reported BNP automated efficiency reached 80-85% within several weeks."
+    },
+    {
+      "claim": "95",
+      "kind": "number",
+      "example": "The report says the agent initially resolved about 95 percent of incoming triage, reached 80 to 85 percent automated efficiency within several weeks, and had 100 percent adoption from day one.",
+      "reason": "Verified against the opened FinTech Magazine article, which reported the BNP agent initially resolved around 95% of incoming triage."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus, using Freddie Mac, Zillow and Columbus Realtors data, reports that Central Ohio had 6124 homes in inventory in August, up 6.8 percent from a year earlier.",
+      "reason": "Verified against the opened Axios Columbus housing article."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I updated the ledger with BNP Paribas CIB.",
+      "reason": "False positive from the show phrase 'AI in Banking, I'; not a factual claim."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Axios Columbus, using Freddie Mac, Zillow and Columbus Realtors data, reports that Central Ohio had 6124 homes in inventory in August, up 6.8 percent from a year earlier.",
+      "reason": "Verified against the opened Axios Columbus housing article, which discusses Central Ohio inventory and price data."
+    },
+    {
+      "claim": "FinTech Magazine",
+      "kind": "name",
+      "example": "FinTech Magazine reported from Sibos that BNP Paribas moved a Securities Services trade-break process from ten steps to six and then from human-led work supported by AI to an agent-led workflow.",
+      "reason": "Verified against the opened FinTech Magazine article."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Freddie Mac said Thursday the average 30-year fixed mortgage climbed to 7.40 percent from 7.28 percent, the seventh weekly increase and the highest level in nearly three years.",
+      "reason": "Verified against the opened AP mortgage article and Axios Columbus article."
+    },
+    {
+      "claim": "Freddie Mac Zillow and Columbus Realtors",
+      "kind": "name",
+      "example": "Axios Columbus, using Freddie Mac, Zillow and Columbus Realtors data, reports that Central Ohio had 6124 homes in inventory in August, up 6.8 percent from a year earlier.",
+      "reason": "Verified against the opened Axios Columbus article, which attributes the housing figures to Freddie Mac, Zillow and Columbus Realtors data."
+    },
+    {
+      "claim": "H-1B",
+      "kind": "name",
+      "example": "So this is not only an H-1B headline.",
+      "reason": "Verified against the opened AP national article on Microsoft and H-1B-related visa scrutiny."
+    },
+    {
+      "claim": "ISO",
+      "kind": "name",
+      "example": "The model reasons about messy instructions; the bank still needs hard controls for ISO 20022 data, account rules and exceptions where money can move incorrectly.",
+      "reason": "Verified against the opened FinTech Magazine article, which names ISO 20022 in the BNY payment-exception workflow."
+    },
+    {
+      "claim": "Labor Department",
+      "kind": "name",
+      "example": "The administration is targeting the process where employers advertise a job in the United States and then ask the Labor Department to certify that they need a foreign worker for permanent residence because qualified American workers are not available.",
+      "reason": "Verified against the opened AP national article, which described the Department of Labor certification process."
+    },
+    {
+      "claim": "Microsoft Adobe Cognizant Infosys Tata Wipro HCL and Capgemini",
+      "kind": "name",
+      "example": "AP reports the Trump administration announced Thursday that it is suspending Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL and Capgemini from a labor program used when foreign workers apply for green cards.",
+      "reason": "Verified against the opened AP national article, which listed those firms as suspended or similarly suspended."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "The S&P 500 slipped, the Nasdaq fell more sharply, and the Dow edged higher.",
+      "reason": "Verified against the opened AP market article."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "The S&P 500 slipped, the Nasdaq fell more sharply, and the Dow edged higher.",
+      "reason": "Verified against the opened AP market article."
+    },
+    {
+      "claim": "Securities Services",
+      "kind": "name",
+      "example": "FinTech Magazine reported from Sibos that BNP Paribas moved a Securities Services trade-break process from ten steps to six and then from human-led work supported by AI to an agent-led workflow.",
+      "reason": "Verified against the opened FinTech Magazine article on BNP Paribas trade-break processing in Securities Services."
+    },
+    {
+      "claim": "Sibos",
+      "kind": "name",
+      "example": "FinTech Magazine reported from Sibos that BNP Paribas moved a Securities Services trade-break process from ten steps to six and then from human-led work supported by AI to an agent-led workflow.",
+      "reason": "Verified against the opened FinTech Magazine article, which reported from Sibos 2026."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "AP says oil rose, technology shares dragged on the indexes, and Treasury yields jumped in the morning before falling back later.",
+      "reason": "Verified against the opened AP market and AP mortgage articles."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "AP reports the Trump administration announced Thursday that it is suspending Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL and Capgemini from a labor program used when foreign workers apply for green cards.",
+      "reason": "Verified against the opened AP national article, which described the Trump administration action."
+    },
+    {
+      "claim": "U.S",
+      "kind": "name",
+      "example": "The administration says the programs can undercut U.S.",
+      "reason": "Verified against the opened AP national and market articles; abbreviation was normalized by the checker."
+    },
+    {
+      "claim": "United States",
+      "kind": "name",
+      "example": "The administration is targeting the process where employers advertise a job in the United States and then ask the Labor Department to certify that they need a foreign worker for permanent residence because qualified American workers are not available.",
+      "reason": "Verified against the opened AP national article."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

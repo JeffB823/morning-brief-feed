@@ -1,0 +1,377 @@
+{
+  "date": "2026-10-09",
+  "cutoff": "2026-10-09T01:44:24-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-02_morning-brief-script.md",
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md",
+    "2026-10-06_morning-brief-script.md",
+    "2026-10-07_morning-brief-script.md",
+    "2026-10-08_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "microsoft-green-card-suspension",
+      "beat": "national",
+      "event_date": "2026-10-08",
+      "source": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "decision": "selected",
+      "rationale": "Fresh AP national story with concrete employer, university, hiring, retention and visa-process consequences."
+    },
+    {
+      "id": "white-house-media-ban-hearing",
+      "beat": "national",
+      "event_date": "2026-10-08",
+      "source": "https://apnews.com/article/6459d3612a0a845a0cf1a093acafbe6f",
+      "decision": "not_selected",
+      "rationale": "Fresh and important, but recent episodes have already carried several federal-media power stories; Microsoft action was more operationally useful today."
+    },
+    {
+      "id": "columbus-housing-affordability-august",
+      "beat": "columbus",
+      "event_date": "2026-10-07",
+      "source": "https://www.axios.com/local/columbus/2026/10/07/home-prices-mortgage-rates-affordability-ohio",
+      "decision": "selected",
+      "rationale": "Fresh local housing update combining inventory, sales, price, rent and mortgage context; not covered in the prior seven scripts."
+    },
+    {
+      "id": "freddie-mortgage-rate-high",
+      "beat": "home_lending",
+      "event_date": "2026-10-08",
+      "source": "https://apnews.com/article/mortgage-10year-interest-rates-home-sales-e9badb974fbb8e3f7ca2ae25fbe556fa",
+      "decision": "selected",
+      "rationale": "Material rate move with operational consequence for preapproval, lock, payment and refinance workflows; justified rate-led lending segment."
+    },
+    {
+      "id": "bnb-paribas-trade-break-ai",
+      "beat": "bank_ai",
+      "event_date": "2026-10-08",
+      "source": "https://fintechmagazine.com/news/google-at-sibos-bnp-paribas-and-bny-rewire-banking-with-ai",
+      "decision": "selected",
+      "rationale": "Fresh Sibos reporting adds workflow metrics to a previously announced BNP/Google partnership and changes the ledger evidence."
+    },
+    {
+      "id": "anthropic-cyber-mission-cidp",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-08",
+      "source": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "decision": "selected",
+      "rationale": "Primary-source frontier safety and access development with named critical-infrastructure partners and clear limitations."
+    },
+    {
+      "id": "anthropic-usage-policy-2026",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-08",
+      "source": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "decision": "not_selected",
+      "rationale": "Fresh policy update, but it mostly clarifies existing high-risk use requirements; the Cyber Mission had a stronger operational hook."
+    },
+    {
+      "id": "wall-street-oil-yields-tech",
+      "beat": "markets",
+      "event_date": "2026-10-08",
+      "source": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9",
+      "decision": "selected_compact",
+      "rationale": "Fresh market context for rates, oil, technology leadership and long-duration financing costs."
+    },
+    {
+      "id": "columbus-weather-oct-9",
+      "beat": "weather",
+      "event_date": "2026-10-09",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "decision": "selected_compact",
+      "rationale": "Routine but useful Central Ohio planning weather; not counted toward freshness requirement."
+    }
+  ],
+  "stories": [
+    {
+      "id": "microsoft-green-card-suspension",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
+      ],
+      "new_fact": "The Trump administration announced it was suspending Microsoft and several other firms from a labor program used for foreign workers applying for green cards.",
+      "new_takeaway": "The operating consequence is retention, sponsorship and project staffing uncertainty, not simply another temporary-visa dispute.",
+      "why_now": "AP reported the suspension announcement on October 8, 2026.",
+      "previous_coverage": "The prior seven episodes did not cover this visa or green-card labor-certification action.",
+      "uncertainty": "The affected firms' legal response, agency process and proposed fee rules remain unresolved.",
+      "watch": "Whether Microsoft or the other suspended firms challenge the action or change sponsorship practices before related fee rules become final."
+    },
+    {
+      "id": "columbus-housing-affordability-august",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/07/home-prices-mortgage-rates-affordability-ohio"
+      ],
+      "new_fact": "Central Ohio inventory rose year over year in August while sales fell, the median sale price rose and rents also increased.",
+      "new_takeaway": "More listings create negotiating room but do not solve the monthly-payment problem when prices, rent and rates all remain elevated.",
+      "why_now": "Axios published the Central Ohio housing update on October 7, inside the 48-hour window for this episode.",
+      "previous_coverage": "Recent Columbus segments covered transit, early voting, crisis response and weather; this local housing affordability update was not previously covered.",
+      "uncertainty": "September data will show whether inventory gains are becoming real affordability relief or just a slower high-cost market.",
+      "watch": "Whether local September housing data shows inventory still rising without price relief."
+    },
+    {
+      "id": "freddie-mortgage-rate-high",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://apnews.com/article/mortgage-10year-interest-rates-home-sales-e9badb974fbb8e3f7ca2ae25fbe556fa"
+      ],
+      "new_fact": "Freddie Mac said the average 30-year fixed mortgage rose to 7.40 percent, the seventh weekly increase and the highest level in nearly three years.",
+      "new_takeaway": "The operational issue is preapproval, lock, payment and fall-through triage for active files, not a generic rate recap.",
+      "why_now": "Freddie Mac's weekly survey and AP's story were published October 8.",
+      "previous_coverage": "The previous week covered Fannie guide changes, UAD exceptions, Freddie OAuth delivery, income calculator updates and several rate contexts; this is a material new rate shock with specific pipeline consequences.",
+      "uncertainty": "Bond volatility and oil-driven inflation fears could either extend the rise or stabilize if Treasury yields retreat.",
+      "watch": "Whether next week's Freddie Mac survey and lender rate sheets confirm another repricing wave.",
+      "carryover": false
+    },
+    {
+      "id": "bnb-paribas-trade-break-ai",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://fintechmagazine.com/news/google-at-sibos-bnp-paribas-and-bny-rewire-banking-with-ai",
+        "https://www.googlecloudpresscorner.com/2026-09-24-BNP-Paribas-and-Google-Cloud-Announce-New-Partnership-on-Agentic-AI-and-Cloud-Innovation"
+      ],
+      "new_fact": "Sibos reporting described BNP Paribas CIB using an agent-led Securities Services trade-break workflow with triage, efficiency and adoption metrics.",
+      "new_takeaway": "The useful buyer question changes from model choice to whether a redesigned back-office workflow can prove defect, exception and audit outcomes.",
+      "why_now": "The Sibos report was published October 8 and added metrics not available in the September partnership announcement.",
+      "previous_coverage": "Recent bank-AI coverage included Plaid, Incognia, Barclays, Upstart, Feedzai and Mastercard; BNP's production workflow metrics were not covered.",
+      "uncertainty": "The evidence is trade reporting from executive remarks, not an independent audit or regulator-reviewed result.",
+      "watch": "Whether BNP Paribas or Google Cloud publishes defect-rate, client-impact, exception-cost or audit evidence for the trade-break agent.",
+      "ledger_row_changed": "BNP Paribas CIB / lanes 4 and 8 / added production row for agent-led trade-break processing; changed from broad announced partnership background to a specific workflow with reported metrics."
+    },
+    {
+      "id": "anthropic-cyber-mission-cidp",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "https://www.anthropic.com/news/2026-usage-policy-update"
+      ],
+      "new_fact": "Anthropic launched its Cyber Mission, including the Critical Infrastructure Defense Program for operational technology and government systems, and named founding partners.",
+      "new_takeaway": "The frontier implication is that cyber capability is being packaged for trusted defenders, but critical-infrastructure use needs outcome proof and strict action boundaries.",
+      "why_now": "Anthropic published the Cyber Mission announcement on October 8.",
+      "previous_coverage": "October 7 covered Anthropic's Cyber Verification Program; this is a separate program aimed at critical-infrastructure defense and open-source scanning.",
+      "uncertainty": "No vulnerability-closure rate, incident-reduction rate, false-positive rate or independent operational outcome has been disclosed.",
+      "watch": "Whether Anthropic or a founding partner publishes vulnerability closure, patch acceptance, false-positive or incident-response results.",
+      "frontier_bar": "Safety and security finding plus access shift for frontier cyber capabilities applied to critical-infrastructure defense."
+    },
+    {
+      "id": "wall-street-oil-yields-tech",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9"
+      ],
+      "new_fact": "AP reported an unsettled Thursday in U.S. markets, with oil higher, technology shares weaker, and Treasury yields reversing from morning highs.",
+      "new_takeaway": "For lenders and local finance, the rate path matters more than index scorekeeping because long-duration borrowing costs remain elevated.",
+      "why_now": "AP published the market wrap overnight into October 9 after the October 8 U.S. trading session.",
+      "previous_coverage": "Markets have been covered compactly all week; this update is included only as current context for rates and financing conditions.",
+      "uncertainty": "It is unclear whether technology weakness stays narrow or spreads into broader credit-sensitive shares.",
+      "watch": "Whether technology weakness broadens while long yields remain elevated."
+    },
+    {
+      "id": "columbus-weather-oct-9",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "The Columbus forecast called for a mostly sunny Friday near 77 degrees, a Friday night low near 53, and another warm Saturday.",
+      "new_takeaway": "Outdoor work and evening plans are favored; the only practical issue is layering for cool starts and warm afternoons.",
+      "why_now": "The forecast applies to October 9 in Columbus.",
+      "previous_coverage": "Routine weather is updated daily and kept compact.",
+      "uncertainty": "Forecasts can shift; no advisory-level weather was identified at cutoff.",
+      "watch": "Whether the weekend cloud and temperature pattern changes."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "7f0b19d1b46a5f6e35a4b22569361de34b87843ba314e77dac43bf9b167743af",
+    "notes": "Compared facts and takeaways against the previous seven scripts. Repeated FCC/media items were omitted. Home lending leads with active-file repricing and fall-through workflow consequences. AI in Banking updates the ledger with BNP Paribas CIB trade-break metrics and labels evidence limits. Frontier AI separates Anthropic program design from measured outcomes. Closing has exactly three watch items."
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "reason": "The AP page opened in browser research, but curl returned a 16-character unusable body; national segment facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/10/07/home-prices-mortgage-rates-affordability-ohio",
+      "reason": "The Axios page opened in browser research, but curl returned a 16-character unusable body; local housing figures were verified against the opened Axios article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/mortgage-10year-interest-rates-home-sales-e9badb974fbb8e3f7ca2ae25fbe556fa",
+      "reason": "The AP mortgage-rate page opened in browser research, but curl returned a 16-character unusable body; rate and application facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://fintechmagazine.com/news/google-at-sibos-bnp-paribas-and-bny-rewire-banking-with-ai",
+      "reason": "The FinTech Magazine page opened in browser research, but curl returned a 16-character unusable body; BNP and BNY workflow details were verified against the opened article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9",
+      "reason": "The AP market-wrap page opened in browser research, but curl returned a 16-character unusable body; market facts were verified against the opened AP result at cutoff."
+    },
+    {
+      "claim": "2.2",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported the Central Ohio median sale price rose 2.2% year over year."
+    },
+    {
+      "claim": "2.5",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Central Ohio sales fell 2.5% year over year."
+    },
+    {
+      "claim": "2.6",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Columbus rents rose 2.6% year over year."
+    },
+    {
+      "claim": "20022",
+      "reason": "Verified against the opened FinTech Magazine article, which said BNY's workflow validates payment data against ISO 20022 standards."
+    },
+    {
+      "claim": "5.60",
+      "reason": "Verified against the opened AP market article, which reported the 30-year Treasury yield came down to 5.60%."
+    },
+    {
+      "claim": "5.73",
+      "reason": "Verified against the opened AP market article, which reported the 30-year Treasury yield had reached 5.73% earlier in the morning."
+    },
+    {
+      "claim": "500",
+      "reason": "The phrase is part of the market-index name S&P 500, verified against the opened AP market article."
+    },
+    {
+      "claim": "53",
+      "reason": "Forecast low was rechecked against the Columbus weather forecast at cutoff; weather pages update frequently and may not preserve the same value for curl."
+    },
+    {
+      "claim": "6.8",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported Central Ohio inventory up 6.8% year over year."
+    },
+    {
+      "claim": "6000",
+      "reason": "Verified against the opened AP national article, which reported Microsoft's approximately 6,000 H-1B applications in the last fiscal year."
+    },
+    {
+      "claim": "6124",
+      "reason": "Verified against the opened Axios Columbus housing article, which reported 6,124 Central Ohio homes in inventory in August."
+    },
+    {
+      "claim": "7.28",
+      "reason": "Verified against the opened AP mortgage article, which reported the prior-week Freddie Mac 30-year fixed rate at 7.28%."
+    },
+    {
+      "claim": "7.40",
+      "reason": "Verified against the opened AP mortgage article, which reported the current Freddie Mac 30-year fixed rate at 7.40%."
+    },
+    {
+      "claim": "80",
+      "reason": "Verified against the opened FinTech Magazine article, which reported BNP automated efficiency reached 80-85% within several weeks."
+    },
+    {
+      "claim": "85",
+      "reason": "Verified against the opened FinTech Magazine article, which reported BNP automated efficiency reached 80-85% within several weeks."
+    },
+    {
+      "claim": "95",
+      "reason": "Verified against the opened FinTech Magazine article, which reported the BNP agent initially resolved around 95% of incoming triage."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Verified against the opened Axios Columbus housing article."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the show phrase 'AI in Banking, I'; not a factual claim."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Verified against the opened Axios Columbus housing article, which discusses Central Ohio inventory and price data."
+    },
+    {
+      "claim": "FinTech Magazine",
+      "reason": "Verified against the opened FinTech Magazine article."
+    },
+    {
+      "claim": "Freddie Mac",
+      "reason": "Verified against the opened AP mortgage article and Axios Columbus article."
+    },
+    {
+      "claim": "Freddie Mac Zillow and Columbus Realtors",
+      "reason": "Verified against the opened Axios Columbus article, which attributes the housing figures to Freddie Mac, Zillow and Columbus Realtors data."
+    },
+    {
+      "claim": "H-1B",
+      "reason": "Verified against the opened AP national article on Microsoft and H-1B-related visa scrutiny."
+    },
+    {
+      "claim": "ISO",
+      "reason": "Verified against the opened FinTech Magazine article, which names ISO 20022 in the BNY payment-exception workflow."
+    },
+    {
+      "claim": "Labor Department",
+      "reason": "Verified against the opened AP national article, which described the Department of Labor certification process."
+    },
+    {
+      "claim": "Microsoft Adobe Cognizant Infosys Tata Wipro HCL and Capgemini",
+      "reason": "Verified against the opened AP national article, which listed those firms as suspended or similarly suspended."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "Verified against the opened AP market article."
+    },
+    {
+      "claim": "S&P",
+      "reason": "Verified against the opened AP market article."
+    },
+    {
+      "claim": "Securities Services",
+      "reason": "Verified against the opened FinTech Magazine article on BNP Paribas trade-break processing in Securities Services."
+    },
+    {
+      "claim": "Sibos",
+      "reason": "Verified against the opened FinTech Magazine article, which reported from Sibos 2026."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Verified against the opened AP market and AP mortgage articles."
+    },
+    {
+      "claim": "Trump",
+      "reason": "Verified against the opened AP national article, which described the Trump administration action."
+    },
+    {
+      "claim": "U.S",
+      "reason": "Verified against the opened AP national and market articles; abbreviation was normalized by the checker."
+    },
+    {
+      "claim": "United States",
+      "reason": "Verified against the opened AP national article."
+    }
+  ]
+}
