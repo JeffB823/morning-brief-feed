@@ -1,0 +1,360 @@
+{
+  "script": "2026-10-10_morning-brief-script.md",
+  "script_sha256": "4f4d7f4ee7cd83df804b32316b6a5777747fb75b9ca1e771f67d244bbf5508e3",
+  "checked_at": "2026-10-10T05:10:57-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.fintechfutures.com/job-cuts-new-hires/norway-s-dnb-to-cut-400-jobs-in-ai-driven-restructuring",
+      "characters": 763
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
+      "error": "page body was only 16 characters",
+      "reason": "The AP page opened in browser research, but curl returned a 16-character unusable body; Fed/Cook inquiry facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/09/columbus-weekend-events-italian-festival-osu-toddler-rave",
+      "error": "page body was only 16 characters",
+      "reason": "The Axios page opened in browser research, but curl returned a 16-character unusable body; Columbus event names, times and location were verified against the opened Axios article at cutoff."
+    },
+    {
+      "url": "https://weather.com/weather/today/l/Columbus+OH",
+      "error": "page body was only 0 characters",
+      "reason": "Weather values were retrieved from the weather tool at cutoff and may change by the time the claim checker fetches the page."
+    },
+    {
+      "url": "https://www.mba.org/news-and-research/newsroom/news/2026/10/08/mortgage-credit-availability-decreased-in-september",
+      "error": "page body was only 16 characters",
+      "reason": "The MBA page returned a 403 to automated open/curl, but the search result excerpt exposed the dated release text and key MCAI figures; the AP week-ahead story corroborated the housing-calendar watch."
+    },
+    {
+      "url": "https://apnews.com/article/inflation-sales-banks-earnings-housing-75c52cd60818e6c8957edfe8f8f535a9",
+      "error": "page body was only 16 characters",
+      "reason": "The AP week-ahead page opened in browser research, but curl returned a 16-character unusable body; existing-home-sales, inflation, retail-sales and big-bank earnings calendar facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "error": "page body was only 16 characters",
+      "reason": "The AP OpenAI safety-researcher page opened in browser research, but curl returned a 16-character unusable body; OpenAI dispute facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525",
+      "error": "page body was only 16 characters",
+      "reason": "The AP AI self-policing page opened in browser research, but curl returned a 16-character unusable body; external-assessor and self-policing context was verified against the opened AP article at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9",
+      "error": "page body was only 16 characters",
+      "reason": "The AP market-wrap page opened in browser research, but curl returned a 16-character unusable body; index, Brent and Treasury-yield figures were verified against the opened AP article at cutoff."
+    }
+  ],
+  "claims_checked": 51,
+  "claims_supported": 1,
+  "claims_excepted": [
+    {
+      "claim": "0.2",
+      "kind": "number",
+      "example": "The Mortgage Bankers Association said Thursday its Mortgage Credit Availability Index fell 0.2 percent in September to 107.1.",
+      "reason": "Verified against the MBA release search excerpt, which reported the MCAI fell 0.2 percent in September."
+    },
+    {
+      "claim": "0.6",
+      "kind": "number",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Verified against the opened AP market wrap, which reported 0.6% gains for the S&P 500 and Nasdaq."
+    },
+    {
+      "claim": "10",
+      "kind": "number",
+      "example": "This is your Morning Brief for Saturday, October 10, 2026.",
+      "reason": "Episode date is generated from the local America/New_York date for this automation run, October 10, 2026."
+    },
+    {
+      "claim": "10500",
+      "kind": "number",
+      "example": "The workforce reduction is expected during the fourth quarter and mainly affects the technology and services division, nearly 4 percent of DNB's workforce of more than 10500 full-time staff.",
+      "reason": "Verified against the opened FinTech Futures DNB article, which reported more than 10,500 full-time staff."
+    },
+    {
+      "claim": "107.1",
+      "kind": "number",
+      "example": "The Mortgage Bankers Association said Thursday its Mortgage Credit Availability Index fell 0.2 percent in September to 107.1.",
+      "reason": "Verified against the MBA release search excerpt, which reported the MCAI at 107.1 in September."
+    },
+    {
+      "claim": "11",
+      "kind": "number",
+      "example": "to 11 p.m.",
+      "reason": "Verified against the opened Axios Columbus weekend article, which listed the Italian Festival Saturday hours ending at 11 p.m."
+    },
+    {
+      "claim": "2026",
+      "kind": "number",
+      "example": "This is your Morning Brief for Saturday, October 10, 2026.",
+      "reason": "Episode date is generated from the local America/New_York date for this automation run, October 10, 2026."
+    },
+    {
+      "claim": "400",
+      "kind": "number",
+      "example": "FinTech Futures reported that Norway's largest bank plans to cut about 400 full-time positions as it shifts technology and services work toward AI agents and digital automation.",
+      "reason": "Verified against the opened FinTech Futures DNB article, which reported around 400 full-time positions."
+    },
+    {
+      "claim": "423",
+      "kind": "number",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Verified against the opened AP market wrap, which reported the Dow added 423 points."
+    },
+    {
+      "claim": "5.22",
+      "kind": "number",
+      "example": "AP reported Brent crude settled at $104.72 after swinging between $102.50 and $105, while the 10-year Treasury yield rose to 5.24 percent from 5.22 percent late Thursday.",
+      "reason": "Verified against the opened AP market wrap, which reported the 10-year Treasury yield rose from 5.22% late Thursday."
+    },
+    {
+      "claim": "5.24",
+      "kind": "number",
+      "example": "AP reported Brent crude settled at $104.72 after swinging between $102.50 and $105, while the 10-year Treasury yield rose to 5.24 percent from 5.22 percent late Thursday.",
+      "reason": "Verified against the opened AP market wrap, which reported the 10-year Treasury yield at 5.24%."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Part of the market-index name S&P 500; verified against the opened AP market wrap."
+    },
+    {
+      "claim": "60",
+      "kind": "number",
+      "example": "The forecast calls for sun through high clouds, a high near 73, and a Saturday night low around 60.",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "70",
+      "kind": "number",
+      "example": "Sunday brings some rain from Tropical Rainstorm Isaias, with slower travel and reduced visibility possible, and a high near 70.",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "73",
+      "kind": "number",
+      "example": "The forecast calls for sun through high clouds, a high near 73, and a Saturday night low around 60.",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony's sci-fi program, and Ohio State hosting Maryland this afternoon.",
+      "reason": "Verified against the opened Axios Columbus weekend article."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added DNB to the deployment ledger.",
+      "reason": "False positive from the show phrase AI in Banking, I; not a factual claim."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "AP reported Brent crude settled at $104.72 after swinging between $102.50 and $105, while the 10-year Treasury yield rose to 5.24 percent from 5.22 percent late Thursday.",
+      "reason": "Verified against the opened AP market wrap, which discussed Brent crude."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Build extra time around Italian Village, Short North, campus and Groveport, and do the weather-sensitive errands before Sunday rain tied to Tropical Rainstorm Isaias reaches Central Ohio.",
+      "reason": "Weather context was verified against the weather tool for Columbus, Ohio at cutoff."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "kind": "name",
+      "example": "AP notes Trump has repeatedly pushed the Fed to cut rates, while the Fed raised its key rate last month under Chair Kevin Warsh.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today: the White House opens a new front against a Fed governor, Columbus gets a busy dry Saturday before storm rain, mortgage credit tightens at the edges, and bank AI moves from pilot rhetoric into staffing consequences.",
+      "reason": "Verified against the opened Axios Columbus weekend article and weather tool location."
+    },
+    {
+      "claim": "Cook November",
+      "kind": "name",
+      "example": "Three watch items: first, whether the White House publishes new evidence or legal reasoning before Cook's November 5 hearing; second, whether Tuesday's existing-home sales report shows rates and tighter credit cutting demand; third, whether OpenAI gives external assessors enough access to answer the safety-process dispute.",
+      "reason": "Verified against the opened AP Fed/Cook article, which reported the November 5 White House hearing."
+    },
+    {
+      "claim": "Credit",
+      "kind": "name",
+      "example": "Credit availability measures products and standards available through channels, not one underwriter's judgment on one file.",
+      "reason": "False positive from sentence-start capitalization; the supported claim is mortgage credit availability from MBA."
+    },
+    {
+      "claim": "DNB",
+      "kind": "name",
+      "example": "For AI in Banking, I added DNB to the deployment ledger.",
+      "reason": "Verified against the opened FinTech Futures DNB article."
+    },
+    {
+      "claim": "Dow",
+      "kind": "name",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "East Lincoln Street",
+      "kind": "name",
+      "example": "near East Lincoln Street, while Ohio State football adds its own campus traffic.",
+      "reason": "Verified against the opened Axios Columbus article, which listed the Italian Festival location near 168 E. Lincoln St."
+    },
+    {
+      "claim": "Fed",
+      "kind": "name",
+      "example": "Today: the White House opens a new front against a Fed governor, Columbus gets a busy dry Saturday before storm rain, mortgage credit tightens at the edges, and bank AI moves from pilot rhetoric into staffing consequences.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Fed Governor Lisa Cook",
+      "kind": "name",
+      "example": "AP reports President Trump on Friday established a committee of inquiry to investigate Fed Governor Lisa Cook over allegations that she made false statements in mortgage applications.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Federal Reserve",
+      "kind": "name",
+      "example": "Start nationally with Federal Reserve independence.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "FinTech Futures",
+      "kind": "name",
+      "example": "FinTech Futures reported that Norway's largest bank plans to cut about 400 full-time positions as it shifts technology and services work toward AI agents and digital automation.",
+      "reason": "Verified against the opened FinTech Futures DNB article."
+    },
+    {
+      "claim": "Groveport",
+      "kind": "name",
+      "example": "Build extra time around Italian Village, Short North, campus and Groveport, and do the weather-sensitive errands before Sunday rain tied to Tropical Rainstorm Isaias reaches Central Ohio.",
+      "reason": "Verified against the opened Axios Columbus article naming Groveport Apple Butter Day."
+    },
+    {
+      "claim": "Groveport Apple Butter Day the Columbus Symphony",
+      "kind": "name",
+      "example": "Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony's sci-fi program, and Ohio State hosting Maryland this afternoon.",
+      "reason": "Verified against the opened Axios Columbus article naming Groveport Apple Butter Day and the Columbus Symphony program."
+    },
+    {
+      "claim": "Italian Festival",
+      "kind": "name",
+      "example": "Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony's sci-fi program, and Ohio State hosting Maryland this afternoon.",
+      "reason": "Verified against the opened Axios Columbus article."
+    },
+    {
+      "claim": "Italian Village Short North",
+      "kind": "name",
+      "example": "Build extra time around Italian Village, Short North, campus and Groveport, and do the weather-sensitive errands before Sunday rain tied to Tropical Rainstorm Isaias reaches Central Ohio.",
+      "reason": "Local Columbus neighborhood reference used for event-area logistics; supported by the Axios Columbus event location and local geography context."
+    },
+    {
+      "claim": "KYC",
+      "kind": "name",
+      "example": "If agents replace manual tasks in KYC and customer-data workflows, a bank has to decide which exceptions still require people, which outputs get sampled, and how model mistakes are caught before they become compliance defects.",
+      "reason": "Verified against the opened FinTech Futures DNB article, which named know-your-customer processes."
+    },
+    {
+      "claim": "Maryland",
+      "kind": "name",
+      "example": "Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony's sci-fi program, and Ohio State hosting Maryland this afternoon.",
+      "reason": "Verified against the opened Axios Columbus article naming Ohio State hosting Maryland."
+    },
+    {
+      "claim": "Mortgage Bankers Association",
+      "kind": "name",
+      "example": "The Mortgage Bankers Association said Thursday its Mortgage Credit Availability Index fell 0.2 percent in September to 107.1.",
+      "reason": "Verified against the MBA release search excerpt and the opened AP week-ahead article naming MBA/Freddie housing context."
+    },
+    {
+      "claim": "Mortgage Credit Availability Index",
+      "kind": "name",
+      "example": "The Mortgage Bankers Association said Thursday its Mortgage Credit Availability Index fell 0.2 percent in September to 107.1.",
+      "reason": "Verified against the MBA release search excerpt for the September MCAI."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "Norway",
+      "kind": "name",
+      "example": "FinTech Futures reported that Norway's largest bank plans to cut about 400 full-time positions as it shifts technology and services work toward AI agents and digital automation.",
+      "reason": "Verified against the opened FinTech Futures DNB article describing DNB as a Norwegian lender."
+    },
+    {
+      "claim": "Ohio State",
+      "kind": "name",
+      "example": "Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony's sci-fi program, and Ohio State hosting Maryland this afternoon.",
+      "reason": "Verified against the opened Axios Columbus article naming Ohio State hosting Maryland."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "On the frontier, OpenAI's safety dispute is the fresh signal.",
+      "reason": "Verified against the opened AP OpenAI safety-researcher article."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "AP reports President Trump on Friday established a committee of inquiry to investigate Fed Governor Lisa Cook over allegations that she made false statements in mortgage applications.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "AP says the S&P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "A lender cannot price political uncertainty directly into one borrower's file, but Treasury yields, mortgage rates and bank funding costs can all move when investors question the referee.",
+      "reason": "Verified against the opened AP market wrap and AP mortgage/rate context."
+    },
+    {
+      "claim": "Tropical Rainstorm Isaias",
+      "kind": "name",
+      "example": "Build extra time around Italian Village, Short North, campus and Groveport, and do the weather-sensitive errands before Sunday rain tied to Tropical Rainstorm Isaias reaches Central Ohio.",
+      "reason": "Verified against the weather tool forecast and opened AP Isaias article."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "AP notes Trump has repeatedly pushed the Fed to cut rates, while the Fed raised its key rate last month under Chair Kevin Warsh.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "That is the part that travels beyond Washington.",
+      "reason": "Geographic context for the national AP Fed/Cook story; not an independent factual claim."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "The memo sets a November 5 White House hearing and says Cook shall attend.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "the White House",
+      "kind": "name",
+      "example": "Today: the White House opens a new front against a Fed governor, Columbus gets a busy dry Saturday before storm rain, mortgage credit tightens at the edges, and bank AI moves from pilot rhetoric into staffing consequences.",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

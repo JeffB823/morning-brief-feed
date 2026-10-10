@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-10",
+  "cutoff": "2026-10-10T05:06:02-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-03_morning-brief-script.md",
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md",
+    "2026-10-06_morning-brief-script.md",
+    "2026-10-07_morning-brief-script.md",
+    "2026-10-08_morning-brief-script.md",
+    "2026-10-09_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "fed-cook-inquiry",
+      "beat": "national",
+      "event_date": "2026-10-09",
+      "source": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
+      "decision": "selected",
+      "rationale": "Fresh AP national finance story with direct consequences for Fed independence, rates, banks and borrowers."
+    },
+    {
+      "id": "iran-war-election-calendar",
+      "beat": "national",
+      "event_date": "2026-10-10",
+      "source": "https://apnews.com/article/trump-iran-midterms-strikes-sanctions-f5481939341ce51a5a3841498b030260",
+      "decision": "not_selected",
+      "rationale": "Fresh and consequential, but markets and oil already carry the Iran-war effect today; Fed independence was more actionable."
+    },
+    {
+      "id": "isaias-power-fuel-risk",
+      "beat": "national",
+      "event_date": "2026-10-10",
+      "source": "https://apnews.com/article/hurricane-isaias-flooding-power-outages-65ac97bf16477d89ec6f847b09ccb6fc",
+      "decision": "not_selected_major",
+      "rationale": "Fresh disaster and fuel-risk story, used only as weather and travel context for Columbus rather than a full segment."
+    },
+    {
+      "id": "columbus-weekend-events",
+      "beat": "columbus",
+      "event_date": "2026-10-10",
+      "source": "https://www.axios.com/local/columbus/2026/10/09/columbus-weekend-events-italian-festival-osu-toddler-rave",
+      "decision": "selected",
+      "rationale": "Fresh local planning item with practical traffic, parking and weather timing consequences."
+    },
+    {
+      "id": "mba-credit-availability-september",
+      "beat": "home_lending",
+      "event_date": "2026-10-08",
+      "source": "https://www.mba.org/news-and-research/newsroom/news/2026/10/08/mortgage-credit-availability-decreased-in-september",
+      "decision": "selected",
+      "rationale": "Fresh mortgage operations story outside routine rates, affecting documentation, cash-out refinance and investor-property workflows."
+    },
+    {
+      "id": "dnb-ai-restructuring",
+      "beat": "bank_ai",
+      "event_date": "2026-10-07",
+      "source": "https://www.fintechfutures.com/job-cuts-new-hires/norway-s-dnb-to-cut-400-jobs-in-ai-driven-restructuring",
+      "decision": "selected_dated_update",
+      "rationale": "Previously uncovered specialist update from the last seven days; operationally relevant for banking AI staffing and control design."
+    },
+    {
+      "id": "openai-safety-researchers",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-09",
+      "source": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "decision": "selected",
+      "rationale": "Fresh frontier safety and policy development with named lab, disputed facts and procurement relevance."
+    },
+    {
+      "id": "friday-market-wrap",
+      "beat": "markets",
+      "event_date": "2026-10-09",
+      "source": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9",
+      "decision": "selected_compact",
+      "rationale": "Fresh market context for equities, oil and Treasury yields after Friday's close."
+    },
+    {
+      "id": "columbus-weather-oct-10",
+      "beat": "weather",
+      "event_date": "2026-10-10",
+      "source": "https://weather.com/weather/today/l/Columbus+OH",
+      "decision": "selected_compact",
+      "rationale": "Routine but necessary local planning weather; not counted toward the freshness floor."
+    }
+  ],
+  "stories": [
+    {
+      "id": "fed-cook-inquiry",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5"
+      ],
+      "new_fact": "President Trump established a committee of inquiry on October 9 to investigate Fed Governor Lisa Cook and set a November 5 White House hearing.",
+      "new_takeaway": "The operational issue is whether confidence in independent rate-setting becomes a borrowing-cost factor for markets, banks and borrowers.",
+      "why_now": "AP reported the committee and hearing memo on October 9, inside the 24-hour window for this episode.",
+      "previous_coverage": "The previous seven scripts did not cover the Cook committee; recent national segments covered visas, FCC/media, jobs and election operations.",
+      "uncertainty": "Cook's appearance, the legal basis for removal and the market response remain unresolved.",
+      "watch": "Whether the White House publishes new evidence or legal reasoning before Cook's November 5 hearing."
+    },
+    {
+      "id": "columbus-weekend-events",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-10",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/09/columbus-weekend-events-italian-festival-osu-toddler-rave",
+        "https://weather.com/weather/today/l/Columbus+OH"
+      ],
+      "new_fact": "Axios Columbus listed the Italian Festival, Groveport Apple Butter Day, the Columbus Symphony and Ohio State-Maryland as key weekend events, while the local forecast shows rain risk rising Sunday.",
+      "new_takeaway": "The useful local consequence is traffic, parking and timing: use Saturday's dry window before rain slows Sunday travel.",
+      "why_now": "The events take place October 10 and October 11, and the Axios weekend guide was published October 9.",
+      "previous_coverage": "Recent Columbus segments covered housing, crisis response, utilities, voting and weather; this specific weekend logistics item was not covered.",
+      "uncertainty": "Event attendance and rain timing can shift; the story is a planning note, not a civic policy development.",
+      "watch": "Whether Sunday rain from Isaias causes travel delays or event changes in Central Ohio."
+    },
+    {
+      "id": "mba-credit-availability-september",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": [
+        "https://www.mba.org/news-and-research/newsroom/news/2026/10/08/mortgage-credit-availability-decreased-in-september",
+        "https://apnews.com/article/inflation-sales-banks-earnings-housing-75c52cd60818e6c8957edfe8f8f535a9"
+      ],
+      "new_fact": "MBA said the Mortgage Credit Availability Index fell 0.2 percent to 107.1 in September, with conventional documentation tightening and fewer cash-out refinance and investor-purchase offerings.",
+      "new_takeaway": "The operational consequence is edge tightening on product matrices, documentation timing and borrower promises while rates already pressure qualification.",
+      "why_now": "MBA published the September MCAI release on October 8, within 48 hours of the October 10 episode.",
+      "previous_coverage": "The prior seven episodes covered Fannie guide updates, UAD exceptions, Freddie OAuth, score-model plumbing and rate shocks; MCAI product tightening was not covered.",
+      "uncertainty": "The release does not show loan-level fallout, denial rates or whether the tightening persists into October.",
+      "watch": "Whether Tuesday's existing-home sales report shows rates and tighter credit cutting demand."
+    },
+    {
+      "id": "dnb-ai-restructuring",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-10-07",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "https://www.fintechfutures.com/job-cuts-new-hires/norway-s-dnb-to-cut-400-jobs-in-ai-driven-restructuring"
+      ],
+      "new_fact": "FinTech Futures reported DNB plans to cut about 400 full-time positions, mainly in technology and services, as AI agents and digital automation replace manual tasks.",
+      "new_takeaway": "The banking-AI takeaway moves from adoption claims to staffing and control design, but the public metric is headcount rather than quality or compliance results.",
+      "why_now": "This is a previously uncovered specialist update from October 7, selected on a quiet Saturday because it changes an operating decision.",
+      "previous_coverage": "Recent bank-AI segments covered BNP Paribas, Plaid, Incognia, Barclays, Kyndryl, Upstart and Feedzai; DNB was not covered.",
+      "uncertainty": "DNB did not disclose error rates, cycle-time baselines, customer outcomes or regulator acceptance of AI-assisted KYC and data workflows.",
+      "watch": "Whether DNB discloses workflow-specific quality, cycle-time, customer or regulator evidence as the Q4 restructuring is booked.",
+      "date_exception": "Specialist bank-AI beat used one previously uncovered update from the last seven days because it has direct staffing and control-design consequences.",
+      "ledger_row_changed": "DNB / lanes 7 and 8 / added announced restructuring row tied to AI agents in customer data management, KYC, technology development and software coding."
+    },
+    {
+      "id": "openai-safety-researchers",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+        "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525"
+      ],
+      "new_fact": "OpenAI said it fired three safety researchers for a breach of trust, while the researchers warned that unclear rules and fear were chilling AI safety work.",
+      "new_takeaway": "The frontier issue is not a benchmark; it is whether lab safety processes and external assessment access are credible enough for regulated buyers.",
+      "why_now": "AP reported the firings and public dispute on October 9, and published a related self-policing story early October 10.",
+      "previous_coverage": "Recent frontier segments covered Anthropic cyber access, GPT-6 UI, agent probing and federal task-force policy; this specific internal safety-process dispute was not covered.",
+      "uncertainty": "The public record does not resolve whether policy violations or retaliation concerns drove the firings.",
+      "watch": "Whether OpenAI gives external assessors enough access to answer the safety-process dispute.",
+      "frontier_bar": "Safety and policy item involving frontier-lab internal safety process, third-party oversight and self-policing credibility."
+    },
+    {
+      "id": "friday-market-wrap",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9"
+      ],
+      "new_fact": "AP reported the S&P 500 rose 0.6 percent, the Dow gained 423 points, Brent settled at $104.72 and the 10-year Treasury yield rose to 5.24 percent.",
+      "new_takeaway": "Equities can finish higher while borrowers, lenders and local finance teams still face expensive long money.",
+      "why_now": "The AP market wrap covers the October 9 close.",
+      "previous_coverage": "Markets have been compactly covered in recent episodes; this is included as current context for rates, oil and earnings week.",
+      "uncertainty": "Next week's inflation, retail sales and bank earnings data will test whether the pressure is being absorbed or spreading.",
+      "watch": "Whether inflation data, retail sales and bank earnings confirm consumer and financing stress."
+    },
+    {
+      "id": "columbus-weather-oct-10",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-10",
+      "publication_date": "2026-10-10",
+      "sources": [
+        "https://weather.com/weather/today/l/Columbus+OH"
+      ],
+      "new_fact": "Columbus forecast at cutoff showed sun through high clouds Saturday near 73 and some Sunday rain from Tropical Rainstorm Isaias.",
+      "new_takeaway": "The Saturday outdoor window is better than Sunday, when slower travel and reduced visibility are possible.",
+      "why_now": "The forecast applies to October 10 and October 11 in Columbus.",
+      "previous_coverage": "Routine weather is updated daily and kept compact.",
+      "uncertainty": "Rain timing and intensity may change as Isaias moves inland.",
+      "watch": "Whether Sunday rain slows Central Ohio travel."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "4f4d7f4ee7cd83df804b32316b6a5777747fb75b9ca1e771f67d244bbf5508e3",
+    "notes": "Compared facts and takeaways against the previous seven scripts. Omitted stale Microsoft visa, BNP/Anthropic cyber and routine rate recaps as full segments. Home lending leads with MCAI product/documentation tightening. AI in Banking updates the ledger with DNB restructuring and evidence limits. Frontier AI records OpenAI safety-process dispute as policy/safety evidence, not a benchmark. Closing has exactly three watch items."
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://www.mba.org/news-and-research/newsroom/news/2026/10/08/mortgage-credit-availability-decreased-in-september",
+      "reason": "The MBA page returned a 403 to automated open/curl, but the search result excerpt exposed the dated release text and key MCAI figures; the AP week-ahead story corroborated the housing-calendar watch."
+    },
+    {
+      "claim": "https://weather.com/weather/today/l/Columbus+OH",
+      "reason": "Weather values were retrieved from the weather tool at cutoff and may change by the time the claim checker fetches the page."
+    },
+    {
+      "claim": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
+      "reason": "The AP page opened in browser research, but curl returned a 16-character unusable body; Fed/Cook inquiry facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/10/09/columbus-weekend-events-italian-festival-osu-toddler-rave",
+      "reason": "The Axios page opened in browser research, but curl returned a 16-character unusable body; Columbus event names, times and location were verified against the opened Axios article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/inflation-sales-banks-earnings-housing-75c52cd60818e6c8957edfe8f8f535a9",
+      "reason": "The AP week-ahead page opened in browser research, but curl returned a 16-character unusable body; existing-home-sales, inflation, retail-sales and big-bank earnings calendar facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "reason": "The AP OpenAI safety-researcher page opened in browser research, but curl returned a 16-character unusable body; OpenAI dispute facts were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525",
+      "reason": "The AP AI self-policing page opened in browser research, but curl returned a 16-character unusable body; external-assessor and self-policing context was verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9",
+      "reason": "The AP market-wrap page opened in browser research, but curl returned a 16-character unusable body; index, Brent and Treasury-yield figures were verified against the opened AP article at cutoff."
+    },
+    {
+      "claim": "0.2",
+      "reason": "Verified against the MBA release search excerpt, which reported the MCAI fell 0.2 percent in September."
+    },
+    {
+      "claim": "107.1",
+      "reason": "Verified against the MBA release search excerpt, which reported the MCAI at 107.1 in September."
+    },
+    {
+      "claim": "Mortgage Bankers Association",
+      "reason": "Verified against the MBA release search excerpt and the opened AP week-ahead article naming MBA/Freddie housing context."
+    },
+    {
+      "claim": "Mortgage Credit Availability Index",
+      "reason": "Verified against the MBA release search excerpt for the September MCAI."
+    },
+    {
+      "claim": "0.6",
+      "reason": "Verified against the opened AP market wrap, which reported 0.6% gains for the S&P 500 and Nasdaq."
+    },
+    {
+      "claim": "423",
+      "reason": "Verified against the opened AP market wrap, which reported the Dow added 423 points."
+    },
+    {
+      "claim": "5.22",
+      "reason": "Verified against the opened AP market wrap, which reported the 10-year Treasury yield rose from 5.22% late Thursday."
+    },
+    {
+      "claim": "5.24",
+      "reason": "Verified against the opened AP market wrap, which reported the 10-year Treasury yield at 5.24%."
+    },
+    {
+      "claim": "500",
+      "reason": "Part of the market-index name S&P 500; verified against the opened AP market wrap."
+    },
+    {
+      "claim": "Brent",
+      "reason": "Verified against the opened AP market wrap, which discussed Brent crude."
+    },
+    {
+      "claim": "Dow",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "S&P",
+      "reason": "Verified against the opened AP market wrap."
+    },
+    {
+      "claim": "10",
+      "reason": "Episode date is generated from the local America/New_York date for this automation run, October 10, 2026."
+    },
+    {
+      "claim": "2026",
+      "reason": "Episode date is generated from the local America/New_York date for this automation run, October 10, 2026."
+    },
+    {
+      "claim": "11",
+      "reason": "Verified against the opened Axios Columbus weekend article, which listed the Italian Festival Saturday hours ending at 11 p.m."
+    },
+    {
+      "claim": "60",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "70",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "73",
+      "reason": "Weather value retrieved from the weather tool at cutoff for Columbus; weather pages update frequently."
+    },
+    {
+      "claim": "400",
+      "reason": "Verified against the opened FinTech Futures DNB article, which reported around 400 full-time positions."
+    },
+    {
+      "claim": "10500",
+      "reason": "Verified against the opened FinTech Futures DNB article, which reported more than 10,500 full-time staff."
+    },
+    {
+      "claim": "DNB",
+      "reason": "Verified against the opened FinTech Futures DNB article."
+    },
+    {
+      "claim": "FinTech Futures",
+      "reason": "Verified against the opened FinTech Futures DNB article."
+    },
+    {
+      "claim": "Norway",
+      "reason": "Verified against the opened FinTech Futures DNB article describing DNB as a Norwegian lender."
+    },
+    {
+      "claim": "KYC",
+      "reason": "Verified against the opened FinTech Futures DNB article, which named know-your-customer processes."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Verified against the opened Axios Columbus weekend article."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Weather context was verified against the weather tool for Columbus, Ohio at cutoff."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Verified against the opened Axios Columbus weekend article and weather tool location."
+    },
+    {
+      "claim": "East Lincoln Street",
+      "reason": "Verified against the opened Axios Columbus article, which listed the Italian Festival location near 168 E. Lincoln St."
+    },
+    {
+      "claim": "Groveport",
+      "reason": "Verified against the opened Axios Columbus article naming Groveport Apple Butter Day."
+    },
+    {
+      "claim": "Groveport Apple Butter Day the Columbus Symphony",
+      "reason": "Verified against the opened Axios Columbus article naming Groveport Apple Butter Day and the Columbus Symphony program."
+    },
+    {
+      "claim": "Italian Festival",
+      "reason": "Verified against the opened Axios Columbus article."
+    },
+    {
+      "claim": "Italian Village Short North",
+      "reason": "Local Columbus neighborhood reference used for event-area logistics; supported by the Axios Columbus event location and local geography context."
+    },
+    {
+      "claim": "Maryland",
+      "reason": "Verified against the opened Axios Columbus article naming Ohio State hosting Maryland."
+    },
+    {
+      "claim": "Ohio State",
+      "reason": "Verified against the opened Axios Columbus article naming Ohio State hosting Maryland."
+    },
+    {
+      "claim": "Tropical Rainstorm Isaias",
+      "reason": "Verified against the weather tool forecast and opened AP Isaias article."
+    },
+    {
+      "claim": "Fed",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Federal Reserve",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Fed Governor Lisa Cook",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Trump",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "White House",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "the White House",
+      "reason": "Verified against the opened AP Fed/Cook article."
+    },
+    {
+      "claim": "Cook November",
+      "reason": "Verified against the opened AP Fed/Cook article, which reported the November 5 White House hearing."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Verified against the opened AP market wrap and AP mortgage/rate context."
+    },
+    {
+      "claim": "Washington",
+      "reason": "Geographic context for the national AP Fed/Cook story; not an independent factual claim."
+    },
+    {
+      "claim": "OpenAI",
+      "reason": "Verified against the opened AP OpenAI safety-researcher article."
+    },
+    {
+      "claim": "Credit",
+      "reason": "False positive from sentence-start capitalization; the supported claim is mortgage credit availability from MBA."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the show phrase AI in Banking, I; not a factual claim."
+    }
+  ]
+}
