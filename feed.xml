@@ -27,6 +27,94 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Fed Pressure, Columbus Weekend, Tighter Credit, and AI Job Cuts - October 10, 2026</title>
+    <description>The October 10 Morning Brief covers the White House inquiry into Fed Governor Lisa Cook, a busy Columbus weekend with storm remnants approaching Sunday, tighter mortgage credit availability, DNB&#x27;s AI-driven restructuring, OpenAI&#x27;s safety-researcher dispute, Friday&#x27;s market close, and Central Ohio weather.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today: the White House opens a new front against a Fed governor, Columbus gets a busy dry Saturday before storm rain, mortgage credit tightens at the edges, and bank AI moves from pilot rhetoric into staffing consequences.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Saturday, October 10th, 2026.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> Start nationally with Federal Reserve independence. AP reports President Trump on Friday established a committee of inquiry to investigate Fed Governor Lisa Cook over allegations that she made false statements in mortgage applications.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is this a legal process, a personnel fight, or a rate-policy fight?</p>
+<p><span style="font-weight:bold">Host:</span> It is all three. The memo sets a November 5 White House hearing and says Cook shall attend. AP notes Trump has repeatedly pushed the Fed to cut rates, while the Fed raised its key rate last month under Chair Kevin Warsh.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why should a borrower or business owner care about the Fed personnel angle?</p>
+<p><span style="font-weight:bold">Host:</span> Because the dispute is really about confidence in the rate-setting process. If markets think governors can be removed for political reasons, the cost of borrowing may reflect institutional risk on top of inflation, debt and oil-price pressure.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is the part that travels beyond Washington. A lender cannot price political uncertainty directly into one borrower&#x27;s file, but Treasury yields, mortgage rates and bank funding costs can all move when investors question the referee.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is Cook&#x27;s side of the story?</p>
+<p><span style="font-weight:bold">Host:</span> Her attorneys said they are evaluating whether she should appear and argue there is no legal basis to fire her. Cook has denied wrongdoing and has not been charged with a crime. AP also reported the Fed declined comment.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the useful point is not deciding the mortgage allegation from a distance.</p>
+<p><span style="font-weight:bold">Host:</span> Correct. The operating question is whether this process creates a viable path to remove a sitting Fed governor. That matters for bond traders, banks, corporate treasurers, and anyone pricing a loan off expectations for the next policy vote.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the useful local note is a crowded but workable Saturday. Axios Columbus highlights the Italian Festival downtown, Groveport Apple Butter Day, the Columbus Symphony&#x27;s sci-fi program, and Ohio State hosting Maryland this afternoon.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is lighter than a city-hall story. Why include it?</p>
+<p><span style="font-weight:bold">Host:</span> Because it changes the day for residents. The practical issue is traffic, parking and timing before weather turns wetter Sunday. Axios notes the Italian Festival runs Saturday from 10 a.m. to 11 p.m. near East Lincoln Street, while Ohio State football adds its own campus traffic.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should people actually do differently?</p>
+<p><span style="font-weight:bold">Host:</span> Treat today as the outdoor window. Build extra time around Italian Village, Short North, campus and Groveport, and do the weather-sensitive errands before Sunday rain tied to Tropical Rainstorm Isaias reaches Central Ohio.</p>
+<p><span style="font-weight:bold">Co-host:</span> Any broader Columbus takeaway?</p>
+<p><span style="font-weight:bold">Host:</span> Local weekends are increasingly logistics stories. Big events are good for restaurants, venues and neighborhood foot traffic, but they also test transit, rideshare pickup zones, police staffing and how well visitors can move between districts without turning a fun day into a parking hunt.</p>
+<p><span style="font-weight:bold">Co-host:</span> For a family, that means choosing one cluster instead of trying to hit everything. For a small business near the route, it means staffing for bursts, not just checking the weather app and hoping the crowd arrives evenly.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is tighter credit availability, not just another rate quote. The Mortgage Bankers Association said Thursday its Mortgage Credit Availability Index fell 0.2 percent in September to 107.1.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which loan workflow feels that first?</p>
+<p><span style="font-weight:bold">Host:</span> Conventional loans with documentation-sensitive borrowers, cash-out refinances, and investor-property scenarios. MBA said lenders tightened documentation requirements on conventional loans and reduced offerings that allow cash-out refinances and investor home purchases.</p>
+<p><span style="font-weight:bold">Co-host:</span> That sounds small. Does 0.2 percent matter?</p>
+<p><span style="font-weight:bold">Host:</span> The index move is small, but the direction matters because it lands while rates are already stressing qualification. A borrower who was marginal on payment now may also face less product flexibility, more documentation scrutiny, or fewer investor-property options.</p>
+<p><span style="font-weight:bold">Co-host:</span> Give me the desk-level version. Is this an underwriter saying no more often, or a lender narrowing the menu before the file ever gets there?</p>
+<p><span style="font-weight:bold">Host:</span> More of the second. Credit availability measures products and standards available through channels, not one underwriter&#x27;s judgment on one file. If cash-out or investor offerings narrow, a loan officer may never be able to structure the same request that was possible last month.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the consequence is not a dramatic credit freeze.</p>
+<p><span style="font-weight:bold">Host:</span> Right. It is an edge tightening. Loan officers should refresh product matrices, document self-employed and investor files earlier, and avoid promising a cash-out or investor structure before checking whether that channel is still open at the same price and documentation level.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is the borrower version?</p>
+<p><span style="font-weight:bold">Host:</span> Bring cleaner paperwork sooner. Income, assets, property purpose and reserve documentation matter more when lenders pull back on the products that tolerate messy files. The next watch is Tuesday&#x27;s existing-home sales report, because weaker demand would show whether tight credit is reinforcing the rate shock.</p>
+<p><span style="font-weight:bold">Co-host:</span> That also matters for real estate agents. If a buyer&#x27;s approval depends on cash-out proceeds, rental income assumptions, or an investor product that just narrowed, the offer strategy has to change before inspection and appraisal money goes out.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added DNB to the deployment ledger. FinTech Futures reported that Norway&#x27;s largest bank plans to cut about 400 full-time positions as it shifts technology and services work toward AI agents and digital automation.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is that a production result or just an AI cost-cutting slogan?</p>
+<p><span style="font-weight:bold">Host:</span> The evidence rank is reputable trade reporting using DNB&#x27;s own statement. DNB says AI agents are already creating efficiency gains in customer data management, know-your-customer processes, technology development and software coding. But it did not publish error rates, cycle-time baselines or customer outcomes.</p>
+<p><span style="font-weight:bold">Co-host:</span> Which task lanes does that hit?</p>
+<p><span style="font-weight:bold">Host:</span> Compliance operations, internal productivity and software engineering. The workforce reduction is expected during the fourth quarter and mainly affects the technology and services division, nearly 4 percent of DNB&#x27;s workforce of more than 10,500 full-time staff.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
+<p><span style="font-weight:bold">Host:</span> It changes staffing and control design. If agents replace manual tasks in KYC and customer-data workflows, a bank has to decide which exceptions still require people, which outputs get sampled, and how model mistakes are caught before they become compliance defects.</p>
+<p><span style="font-weight:bold">Co-host:</span> The limitation is that the public metric is headcount, not quality.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. DNB disclosed a restructuring number and broad task areas, not whether reviews got faster, defects fell, customers waited less, or regulators accepted the new controls. That is the evidence gap bank buyers should notice.</p>
+<p><span style="font-weight:bold">Co-host:</span> And it changes the internal politics of AI. Once a bank ties agents to a staff reduction, every future metric has to prove more than novelty. It has to prove the remaining people can handle exceptions without hidden queues building up.</p>
+<p><span style="font-weight:bold">Host:</span> That is the sharp takeaway. A pilot can survive on enthusiasm. A restructuring has to survive audit, service levels, employee relations and customer complaints. The first real proof will be whether DNB can show stable control results after the Q4 cuts are booked.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> On the frontier, OpenAI&#x27;s safety dispute is the fresh signal. AP reports OpenAI said Friday it fired three safety researchers for a breach of trust, while the researchers said unclear rules and fear were chilling AI safety work.</p>
+<p><span style="font-weight:bold">Co-host:</span> What frontier bar does that clear?</p>
+<p><span style="font-weight:bold">Host:</span> It clears safety and policy, not a capability benchmark. The checkable development is a public dispute inside a frontier lab over how safety concerns, sensitive information and third-party oversight should work.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
+<p><span style="font-weight:bold">Host:</span> There is no model score here. AP reports OpenAI said the researchers violated policies for handling sensitive information. The researchers urged OpenAI to preserve third-party safety monitoring and the ability to scrutinize rapidly advancing models.</p>
+<p><span style="font-weight:bold">Co-host:</span> How is that different from the agent incidents we covered earlier?</p>
+<p><span style="font-weight:bold">Host:</span> The agent incidents were failure behavior. This is the institutional response layer: who can raise concerns, who can see evidence, and whether external assessors get enough access to validate frontier risks without leaking sensitive data.</p>
+<p><span style="font-weight:bold">Co-host:</span> That creates a real tradeoff. Labs need to protect sensitive model details, but if the rules are so opaque that safety researchers fear escalation, outsiders cannot tell whether the process is careful or just controlled.</p>
+<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is relying on lab-provided frontier models only after vendor-risk teams can review safety disclosures and contractual audit rights around incidents, not just marketing claims about self-policing.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a bank-relevant frontier point. If the lab&#x27;s own safety process is disputed, procurement teams should ask what evidence survives outside the lab.</p>
+<p><span style="font-weight:bold">Host:</span> The watch is not whether one side wins the public argument this weekend. It is whether OpenAI, outside assessors or regulators produce a process that separates legitimate confidential-information rules from retaliation risk, because banks need that distinction before they can trust the vendor file.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Markets closed Friday with gains, but not much relief on the borrowing-cost story. AP says the S&amp;P 500 climbed 0.6 percent, the Dow added 423 points, and the Nasdaq rose 0.6 percent.</p>
+<p><span style="font-weight:bold">Co-host:</span> What kept the market from feeling cleaner?</p>
+<p><span style="font-weight:bold">Host:</span> Oil and yields. AP reported Brent crude settled at $104.72 after swinging between $102.50 and $105, while the 10-year Treasury yield rose to 5.24 percent from 5.22 percent late Thursday.</p>
+<p><span style="font-weight:bold">Co-host:</span> So equities finished better, but financing stayed expensive.</p>
+<p><span style="font-weight:bold">Host:</span> That is the useful read. Stocks can rise on company-specific strength, but lenders, builders, city finance teams and borrowers still face long rates near multidecade highs. Next week brings inflation data, retail sales and big-bank earnings, so the market gets a direct test of whether households and banks are absorbing the pressure.</p>
+<p><span style="font-weight:bold">Co-host:</span> The bank earnings angle is especially useful this time. Trading desks may like volatility, but consumer credit, deposit costs and loan demand will show whether high rates are becoming profit fuel, customer strain, or both.</p>
+<p><span style="font-weight:bold">Host:</span> Yes. If banks report strong trading but softer loan demand or more cautious consumers, that would fit the story from mortgages and retail sales: financial markets can look resilient while household decisions become more defensive.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus gets the better half of the weekend today. The forecast calls for sun through high clouds, a high near 73, and a Saturday night low around 60.</p>
+<p><span style="font-weight:bold">Co-host:</span> And Sunday?</p>
+<p><span style="font-weight:bold">Host:</span> Sunday brings some rain from Tropical Rainstorm Isaias, with slower travel and reduced visibility possible, and a high near 70. The practical move is simple: keep outdoor plans today, and leave more time Sunday if you are driving.</p>
+<p><span style="font-weight:bold">Co-host:</span> So Saturday is festival, yard, grocery and campus-traffic day. Sunday is the slower-drive day, especially for anyone coming back from a trip or trying to squeeze errands between rain bands.</p>
+<p><span style="font-weight:bold">Host:</span> Three watch items: first, whether the White House publishes new evidence or legal reasoning before Cook&#x27;s November 5 hearing; second, whether Tuesday&#x27;s existing-home sales report shows rates and tighter credit cutting demand; third, whether OpenAI gives external assessors enough access to answer the safety-process dispute.</p>
+<p><span style="font-weight:bold">Co-host:</span> Those are the right triggers: Fed independence, housing demand under tighter credit, and proof that AI safety review is more than a promise.</p>
+<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Saturday, October 10th. Have a good morning, and keep the next decision tied to the fact pattern that actually changed.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-10_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-10_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-10_morning-brief.mp3" length="13627794" type="audio/mpeg"/>
+    <pubDate>Sat, 10 Oct 2026 05:17:01 -0400</pubDate>
+    <itunes:duration>00:14:10</itunes:duration>
+    <itunes:episode>20261010</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-10</guid>
+  </item>
+  <item>
     <title>Morning Brief — Visas, Columbus Housing, Mortgage Rates, and Cyber AI - October 9, 2026</title>
     <description>The October 9 Morning Brief covers the Trump administration&#x27;s suspension of Microsoft and other firms from a green-card labor program, Columbus housing affordability, the latest mortgage-rate shock, BNP Paribas and BNY banking AI evidence, Anthropic&#x27;s critical-infrastructure cyber program, unsettled markets, and a warm Central Ohio forecast.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -864,75 +952,9 @@
     <guid isPermaLink="false">morning-brief-2026-09-30</guid>
   </item>
   <item>
-    <title>Morning Brief — Canada Ban, Columbus Traffic Grant, MPF Servicing, and Astra Delay - September 29, 2026</title>
-    <description>The September 29 Morning Brief covers the U.S. ban on nearly $1 billion in Canadian imports, a Columbus traffic-safety grant and utility-rate agenda item, MPF servicing notices, Bank of America&#x27;s Ask GPS Intelligence Hub, OpenAI&#x27;s GPT-6.1 Astra delay, pressured markets, and sunny Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: a trade ban tests whether symbolic pressure still creates real business costs, Columbus routes new safety money through local streets, mortgage servicers get a file-transfer and insurance-termination checklist, and OpenAI turns a frontier model delay into a bank-risk lesson.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, September 29th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with trade. The United States ban on nearly 1 billion dollars in Canadian imports took effect at 12:01 this morning, covering products such as alcoholic beverages, dairy products and motorcycles.</p>
-<p><span style="font-weight:bold">Co-host:</span> If the dollar amount is small beside total U.S.-Canada trade, why should businesses care?</p>
-<p><span style="font-weight:bold">Host:</span> Because the operational cost is uncertainty. AP says the targeted goods are a sliver of roughly 880 billion dollars in annual two-way trade, but the ban follows 50 percent tariffs and Canadian retaliation. Importers now have to decide whether a product line is blocked, uneconomic, or merely delayed.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the headline is not only diplomatic friction. It is a purchasing and inventory problem.</p>
-<p><span style="font-weight:bold">Host:</span> Right. The useful number is 967 million dollars of covered imports, with 87 percent tied to alcoholic beverages. A distributor, grocer or restaurant group may not lose the whole category, but it has to replace suppliers, change pricing, or explain gaps to customers who never followed the tariff fight.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would change the takeaway?</p>
-<p><span style="font-weight:bold">Host:</span> A negotiated carveout or a Canadian countermeasure that hits U.S. exporters. If this stays narrow, it is mostly a warning shot. If it becomes another round of retaliation, companies near the border start treating policy risk as part of ordinary supply-chain planning.</p>
-<p><span style="font-weight:bold">Host:</span> The bottom line is that trade fights no longer have to be huge to be disruptive. A small banned category can still create contract, inventory and customer-service work for firms that thought a nearby supplier was the safest option.</p>
-<p><span style="font-weight:bold">Co-host:</span> That also changes how managers read vendor concentration. A supplier can be close, familiar and politically exposed at the same time. The lesson is not to abandon Canadian sourcing. It is to know which categories can be switched quickly and which ones would leave shelves, menus or repair schedules exposed.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, the council agenda gives us a local operations story. Council listed a 137,500 dollar Ohio Department of Public Safety grant for the Safe Communities program, aimed at traffic-safety education across Columbus and Franklin County.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is that enough money to change street safety, or is it mostly symbolic?</p>
-<p><span style="font-weight:bold">Host:</span> By itself, it is not a redesign of High Street or a new enforcement unit. The affected workflow is public-health outreach: accepting the grant, appropriating the money, and using it for safety awareness and education forums. That can support seat-belt, impaired-driving and crash-prevention work, but it is not a substitute for engineering dangerous corridors.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why put this ahead of the larger data-center utility item?</p>
-<p><span style="font-weight:bold">Host:</span> Because yesterday&#x27;s large-load rate ordinance was already on the watch list, and the public page had not posted minutes by cutoff. The safer local update is what the agenda itself shows: traffic-safety dollars moving through the health department, while the utility-rate item remains the rate-design trigger to revisit when action is posted.</p>
-<p><span style="font-weight:bold">Co-host:</span> For a resident, the question is whether education connects to places where crashes actually happen.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. A grant is most useful when the city can point it at corridors, schools, events or neighborhoods where behavior and crash data overlap. Otherwise it becomes pamphlets and slogans. The next useful record is how the program reports activities and whether council posts final action on the large-load rate file.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is the local accountability piece. Residents should not have to guess whether safety money went to broad messaging or to a corridor with repeated crashes. The program becomes more credible when the city can name the audience, the behavior it is trying to change, and the follow-up measure.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, today&#x27;s operational update is a dated specialist item from the MPF Program, not a rate recap. The September 25 MPF servicing summary says Fannie Mae updated mortgage-insurance termination requirements, and Computershare transitioned its secure file-transfer portal from ServicerConnect to TrustConnect.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which loan workflow changes for a servicer?</p>
-<p><span style="font-weight:bold">Host:</span> Two workflows. First, conventional mortgage-insurance cancellation now requires servicers to absorb Fannie Mae&#x27;s updated current-value solicitation policy. The second is file exchange: MPF participants need the right portal access and procedures after the September 25 TrustConnect transition.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the borrower consequence?</p>
-<p><span style="font-weight:bold">Host:</span> On insurance termination, the borrower consequence is potential payment relief if a servicer can identify eligible loans and solicit correctly. The servicing risk is the opposite: bad timing, weak documentation, or poor valuation handling can delay a valid cancellation or create complaint work.</p>
-<p><span style="font-weight:bold">Co-host:</span> And the portal change sounds mundane until a file does not move.</p>
-<p><span style="font-weight:bold">Host:</span> That is the point. Secure transfer changes affect reporting, exception handling and evidence trails. A servicer can have the right policy interpretation and still fail operationally if staff, vendors or credentials are pointed at the old file path.</p>
-<p><span style="font-weight:bold">Host:</span> The important caveat is freshness. Fannie Mae&#x27;s underlying lender letter was September 16, and MPF summarized it on September 25, so I am using it as a previously uncovered operational update, not one of today&#x27;s four fresh developments.</p>
-<p><span style="font-weight:bold">Co-host:</span> For lenders, that caveat matters. A stale policy memo can still create a current servicing task if it has not been operationalized. The mistake would be presenting it as breaking news. The useful move is checking loan populations, borrower communication language and portal readiness before exception queues start to grow.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, the deployment ledger now includes Bank of America. The new row is AskGPS Intelligence Hub, an internal Global Payments Solutions tool that brings client, account and relationship data into treasury insights for employees.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed compared with a normal bank chatbot?</p>
-<p><span style="font-weight:bold">Host:</span> The task moved from knowledge lookup toward decision-ready client preparation. Bank of America says Ask GPS began in 2025 and supports nearly 3,000 employees with trusted institutional knowledge. The September 28 expansion adds relationship insights across client, product and activity signals.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there an outcome metric?</p>
-<p><span style="font-weight:bold">Host:</span> None disclosed for preparation time, treasury revenue, client retention, error rate or compliance-review defects. The evidence rank is company claim. That is still useful because the deployment is named, the employee group is named, and the control boundary is explicit: employees remain responsible for decisions and client interactions.</p>
-<p><span style="font-weight:bold">Host:</span> What this would change at a large bank is relationship-manager workflow design. If AI can combine treasury data before a client conversation, the bank can standardize preparation, but it also has to prove which source each recommendation came from and who approved the client-facing advice.</p>
-<p><span style="font-weight:bold">Co-host:</span> The limitation is traceability, then.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. A treasury client may act on cash-management advice, liquidity timing or payment-priority discussion. If the model surfaces a gap or opportunity, the employee needs a source trail and review path before turning that into a recommendation. Today&#x27;s ledger change is new institution, lane five and lane six, status production, metric absent.</p>
-<p><span style="font-weight:bold">Co-host:</span> That metric gap is not just a footnote. If employees like the tool but the bank cannot show faster prep, better coverage, fewer missed opportunities or clean review results, the business case stays a story about adoption rather than performance.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, the story is restraint. AP reports OpenAI is delaying GPT-6.1 Astra over security concerns, one day before AI executives are expected to meet with President Trump in Washington.</p>
-<p><span style="font-weight:bold">Co-host:</span> What bar does a delay clear?</p>
-<p><span style="font-weight:bold">Host:</span> Notable failure, withdrawal or reversal, plus safety. The new fact is that a named model release is being held back. That is different from a generic warning because it changes access timing for developers and enterprises waiting for the next Astra step.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> The delay itself is the reported event. The underlying security concern is not a published benchmark or independent replication in the AP story. That means we should not invent a capability score. The honest takeaway is narrower: OpenAI is treating agent and security behavior as strong enough to affect release timing.</p>
-<p><span style="font-weight:bold">Host:</span> The practical disruption is procurement and pilot planning. Teams that expected the next frontier model to arrive on a predictable cadence now need fallback models, test plans that account for release pauses, and contracts that do not assume every announced capability becomes available on schedule.</p>
-<p><span style="font-weight:bold">Co-host:</span> How would a regulated bank use that?</p>
-<p><span style="font-weight:bold">Host:</span> Earliest use would be sandbox evaluation after release, gated by model-risk approval that specifically tests tool use, data leakage and unauthorized action before any customer, payment or production system access.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also gives buyers a negotiation point. If a lab can pause access for safety, enterprise contracts need language for delayed features, replacement models and evidence after a release resumes. Otherwise a pilot plan can depend on a model that is not actually cleared to ship.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets are still telling the same financing story, but with sharper numbers. AP reported Asian shares mostly fell after Wall Street losses, U.S. futures edged lower, and oil climbed as uncertainty continued around U.S.-Iran talks and the Strait of Hormuz.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should a lender or local finance team watch first?</p>
-<p><span style="font-weight:bold">Host:</span> The 10-year Treasury. AP reported it around 5.25 percent early Tuesday after touching 5.27 percent Monday, the highest level since 2007. That is the pressure point for mortgage rate sheets, municipal borrowing and any company deciding whether to finance inventory.</p>
-<p><span style="font-weight:bold">Co-host:</span> And oil?</p>
-<p><span style="font-weight:bold">Host:</span> Brent was near 99.63 dollars a barrel in the AP market report, far above late-February levels. If energy stays elevated, inflation anxiety stays harder to calm, which makes bond relief less reliable even if equities get a bounce.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is why today&#x27;s market check is less about a single red or green screen and more about financing conditions. If oil and yields both stay high, lenders, builders and public agencies all have to budget for expensive capital a little longer.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a simple weather day. The National Weather Service point forecast shows a cool morning, light wind, mostly sunny sky, and temperatures climbing into the mid-70s this afternoon with essentially no precipitation signal.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the commute advice is ordinary?</p>
-<p><span style="font-weight:bold">Host:</span> Ordinary in a good way. Take a light layer early, expect dry roads, and treat outdoor work, school pickup and evening errands as weather-friendly. The bigger local variable today is traffic, not storms.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: whether Canada retaliates against the new import ban; whether Columbus posts final action on the large-load utility ordinance and the Safe Communities grant; and whether OpenAI describes the security bar GPT-6.1 Astra must clear before release.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are the triggers: trade response, council records and a model-release safety threshold.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Tuesday, September 29th. Have a good morning, and let the newest operating fact decide what deserves your attention.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Tuesday, September 29, 2026</title>
+    <description>Your Morning Brief for Tuesday, September 29, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-29_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-29_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-29_morning-brief.mp3" length="12986127" type="audio/mpeg"/>
@@ -1168,18 +1190,6 @@
     <itunes:duration>00:14:15</itunes:duration>
     <itunes:episode>20260910</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-10</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, September 09, 2026</title>
-    <description>Your Morning Brief for Wednesday, September 09, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-09_morning-brief-chapters.json" type="application/json+chapters"/>
-    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-09_morning-brief-transcript.html" type="text/html"/>
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-09_morning-brief.mp3" length="14157518" type="audio/mpeg"/>
-    <pubDate>Wed, 09 Sep 2026 09:43:52 -0600</pubDate>
-    <itunes:duration>00:14:43</itunes:duration>
-    <itunes:episode>20260909</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-09</guid>
   </item>
 </channel>
 </rss>
