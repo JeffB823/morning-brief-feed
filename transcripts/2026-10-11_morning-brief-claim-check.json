@@ -1,0 +1,309 @@
+{
+  "script": "2026-10-11_morning-brief-script.md",
+  "script_sha256": "4b7b000c0a39b1dc3481888cbc17b4b489a89259dddad9154ebff8cab20dcddb",
+  "checked_at": "2026-10-11T01:49:50-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.hud.gov/hud-partners/single-family-fha-info",
+      "characters": 296650
+    },
+    {
+      "url": "https://www.hud.gov/hudclips/letters/mortgagee",
+      "characters": 8280
+    },
+    {
+      "url": "https://www.hud.gov/program_offices/housing/sfh/total",
+      "characters": 822
+    },
+    {
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions",
+      "characters": 655
+    },
+    {
+      "url": "https://www.mas.gov.sg/news/speeches/2026/building-trusted-foundations-for-digital-finance",
+      "characters": 655
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/trump-press-pool-antitrust-687c09a2377e7033c0b452c893c46e12",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/01/what-were-watching-in-columbus-this-october",
+      "error": "page body was only 16 characters",
+      "reason": "Axios article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://weather.com/weather/today/l/Columbus+OH",
+      "error": "page body was only 0 characters",
+      "reason": "Weather was verified with the live weather tool because dynamic weather pages do not provide stable text to curl."
+    },
+    {
+      "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+      "error": "page body was only 16 characters",
+      "reason": "Axios article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://openai.com/news/?topics=announcements",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI news page is background source for current frontier-release recency; the script does not rely on a checkable spoken claim unique to this page."
+    },
+    {
+      "url": "https://apnews.com/article/dafbd0c4037ee10e2a9e305f3cfa8a9",
+      "error": "page body was only 16 characters",
+      "reason": "AP market article was opened through search result text at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9",
+      "error": "page body was only 16 characters",
+      "reason": "AP market article was opened through search result text at cutoff, but curl returned a 16-character body to the claim checker."
+    }
+  ],
+  "claims_checked": 70,
+  "claims_supported": 32,
+  "claims_excepted": [
+    {
+      "claim": "0.6",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 0.6 percent, the Dow added 0.8 percent, and the Nasdaq gained 0.6 percent.",
+      "reason": "AP market result for October 9 reported S&P 500 and Nasdaq each rose 0.6%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "0.8",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 0.6 percent, the Dow added 0.8 percent, and the Nasdaq gained 0.6 percent.",
+      "reason": "AP market result for October 9 reported the Dow added 0.8%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "2028",
+      "kind": "number",
+      "example": "The disclosed dates are clear: Sections 3 and 4 take effect October 7, 2027, and Sections 5 and 6 by October 7, 2028.",
+      "reason": "MAS media release line 38 says Sections 5 and 6 should be met by 07 October 2028."
+    },
+    {
+      "claim": "300",
+      "kind": "number",
+      "example": "AP reports the latest attack on King Khalid International Airport killed 12 people and injured more than 300.",
+      "reason": "AP Riyadh article line 1796 reports more than 300 injured; the AP page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "4.5",
+      "kind": "number",
+      "example": "AP reports that Anthropic's Claude Haiku 4.5 submitted a false tip to a Philadelphia unsolved-homicide website on July 18 during a test of web tasks on randomly selected pages.",
+      "reason": "AP Anthropic article line 1783 identifies Claude Haiku 4.5; the AP page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "5.24",
+      "kind": "number",
+      "example": "The 10-year Treasury yield rose to 5.24 percent, and Brent crude ticked higher after erasing an early drop.",
+      "reason": "AP market result for October 9 reported the 10-year Treasury yield rose to 5.24%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "AP says the S&P 500 rose 0.6 percent, the Dow added 0.8 percent, and the Nasdaq gained 0.6 percent.",
+      "reason": "This is part of the index name S&P 500; AP market result supported the index reference but the page was unavailable to curl."
+    },
+    {
+      "claim": "70",
+      "kind": "number",
+      "example": "The weather service forecast points to rain, reduced visibility and slower travel, with a high near 70.",
+      "reason": "Columbus high was rechecked with the live weather tool at cutoff; weather pages update dynamically and may not preserve the exact fetched text."
+    },
+    {
+      "claim": "Anthropic",
+      "kind": "name",
+      "example": "Philadelphia Police said Anthropic notified them Wednesday.",
+      "reason": "AP Anthropic article lines 1780-1786 name Anthropic and the police notification; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Anthropic Claude Haiku",
+      "kind": "name",
+      "example": "AP reports that Anthropic's Claude Haiku 4.5 submitted a false tip to a Philadelphia unsolved-homicide website on July 18 during a test of web tasks on randomly selected pages.",
+      "reason": "AP Anthropic article line 1783 names Claude Haiku 4.5; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Axios",
+      "kind": "name",
+      "example": "The evidence is AP reporting on Anthropic and police statements, plus Axios reporting that White House Super Intelligence Force officials said incident notification and remediation are not optional.",
+      "reason": "Axios incident-reporting article lines 48-65 support the White House SI Force statement; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus had flagged the Italian Festival, Boo at the Zoo and other October events, while today's forecast brings rain from Tropical Rainstorm Isaias.",
+      "reason": "Axios Columbus page lines 79-83 list the October event calendar; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added the Monetary Authority of Singapore to the ledger as a regulator row.",
+      "reason": "False positive from the phrase AI in Banking, which is an episode chapter/beat label rather than an external claim."
+    },
+    {
+      "claim": "Because the TV",
+      "kind": "name",
+      "example": "Because the TV pool is a rotating group that coordinates coverage for outlets that cannot all physically follow the president at once.",
+      "reason": "False positive from a sentence opening; the underlying TV-pool fact is supported by the AP press-pool article opened in the browser tool."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "The 10-year Treasury yield rose to 5.24 percent, and Brent crude ticked higher after erasing an early drop.",
+      "reason": "AP market result for October 9 reported Brent crude ticked higher; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "kind": "name",
+      "example": "AP says CNN, MS NOW and Politico had sued over their ban, and a court reprieve is in place until Tuesday.",
+      "reason": "AP press-pool article lines 1801-1802 name CNN, MS NOW and Politico in the lawsuit context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Circleville Pumpkin Show",
+      "kind": "name",
+      "example": "Columbus has a heavy October calendar, including the marathon next weekend and Circleville Pumpkin Show later this month.",
+      "reason": "Axios Columbus page line 83 lists the Circleville Pumpkin Show; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "escalation choices, Columbus gets the rainy half of festival weekend, FHA gives lenders a January credit-score workflow, and an AI model's false police tip turns agent safety into a disclosure problem.",
+      "reason": "Local forecast and Axios Columbus sources identify Columbus; dynamic/source pages were checked by browser and weather tools."
+    },
+    {
+      "claim": "FHA January",
+      "kind": "name",
+      "example": "joins or supports Saudi strikes after the Riyadh airport attack; second, whether FHA's January credit-score rollout produces vendor or TOTAL Scorecard implementation guidance; third, whether Anthropic or the White House publishes a concrete incident-reporting mechanism.",
+      "reason": "HUD FHA INFO says ML 2026-11 applies to FHA case numbers assigned on or after January 1, 2027."
+    },
+    {
+      "claim": "First Amendment",
+      "kind": "name",
+      "example": "If the government frames a coverage halt as collusion, it turns a First Amendment and access dispute into a competition-law investigation.",
+      "reason": "AP press-pool article line 1799 frames the fight around free speech; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Houthi",
+      "kind": "name",
+      "example": "alliance commitments, Houthi escalation, and Iran's ability to apply pressure indirectly.",
+      "reason": "AP Riyadh article lines 1796 and 1806 identify Houthi rebels and escalation pressure; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran",
+      "kind": "name",
+      "example": "alliance commitments, Houthi escalation, and Iran's ability to apply pressure indirectly.",
+      "reason": "AP Riyadh article lines 1796-1797 identify Iran-backed Houthi rebels and the Iran-war context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran-backed Houthi",
+      "kind": "name",
+      "example": "Saudi authorities blamed Iran-backed Houthi rebels, while President Trump said the U.S.",
+      "reason": "AP Riyadh article line 1796 identifies Iran-backed Houthi rebels; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran-war",
+      "kind": "name",
+      "example": "Start nationally with the Riyadh airport attack, because it moves the Iran-war spillover from background risk to a direct test for a U.S.",
+      "reason": "AP Riyadh article line 1797 describes the Iran war context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Italian Festival Boo",
+      "kind": "name",
+      "example": "Axios Columbus had flagged the Italian Festival, Boo at the Zoo and other October events, while today's forecast brings rain from Tropical Rainstorm Isaias.",
+      "reason": "Axios Columbus page lines 79-81 list Boo at the Zoo and the Italian Festival; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "King Khalid International Airport",
+      "kind": "name",
+      "example": "AP reports the latest attack on King Khalid International Airport killed 12 people and injured more than 300.",
+      "reason": "AP Riyadh article line 1799 names the King Khalid International Airport complex; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "AP says the S&P 500 rose 0.6 percent, the Dow added 0.8 percent, and the Nasdaq gained 0.6 percent.",
+      "reason": "AP market result for October 9 reported Nasdaq gained 0.6%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "Philadelphia",
+      "kind": "name",
+      "example": "AP reports that Anthropic's Claude Haiku 4.5 submitted a false tip to a Philadelphia unsolved-homicide website on July 18 during a test of web tasks on randomly selected pages.",
+      "reason": "AP Anthropic article lines 1783-1786 describe the Philadelphia police website incident; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Philadelphia Police",
+      "kind": "name",
+      "example": "Philadelphia Police said Anthropic notified them Wednesday.",
+      "reason": "AP Anthropic article line 1786 says Philadelphia Police found the submission in the tip records; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Riyadh",
+      "kind": "name",
+      "example": "Today: a deadly Riyadh airport attack tests U.S.",
+      "reason": "AP Riyadh article lines 1796 and 1799 identify Riyadh and the airport complex; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "AP says the S&P 500 rose 0.6 percent, the Dow added 0.8 percent, and the Nasdaq gained 0.6 percent.",
+      "reason": "AP market result for October 9 reported S&P 500 performance; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "Saudi",
+      "kind": "name",
+      "example": "Saudi authorities blamed Iran-backed Houthi rebels, while President Trump said the U.S.",
+      "reason": "AP Riyadh article lines 1796-1807 identify Saudi authorities and U.S.-Saudi response context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Saudi Arabia",
+      "kind": "name",
+      "example": "The airport is civilian infrastructure in Saudi Arabia's capital, and AP says operations were suspended, then extended until 9 p.m.",
+      "reason": "AP Riyadh article lines 1796 and 1806 identify Saudi Arabia and U.S. ally pressure; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Tropical Rainstorm Isaias",
+      "kind": "name",
+      "example": "Axios Columbus had flagged the Italian Festival, Boo at the Zoo and other October events, while today's forecast brings rain from Tropical Rainstorm Isaias.",
+      "reason": "Live weather tool reported rain from Tropical Rainstorm Isaias for Columbus on October 11."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "AP reports the Justice Department is investigating whether the White House television pool's halt in coverage violated antitrust law after the administration restricted several news outlets.",
+      "reason": "AP press-pool article and Axios incident article both support White House references; both were browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "White House Super Intelligence Force",
+      "kind": "name",
+      "example": "The evidence is AP reporting on Anthropic and police statements, plus Axios reporting that White House Super Intelligence Force officials said incident notification and remediation are not optional.",
+      "reason": "Axios article lines 48-65 report the White House Super Intelligence Force statement; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Zoo",
+      "kind": "name",
+      "example": "Axios Columbus had flagged the Italian Festival, Boo at the Zoo and other October events, while today's forecast brings rain from Tropical Rainstorm Isaias.",
+      "reason": "Axios Columbus page line 80 lists Boo at the Zoo; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "the Saudi",
+      "kind": "name",
+      "example": "If the Saudi story stays contained and yields stabilize, lenders and local finance teams get a little breathing room.",
+      "reason": "False positive caused by the lowercase article; the Saudi story and response context are supported by the AP Riyadh article opened in the browser tool."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

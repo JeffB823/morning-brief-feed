@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-11",
+  "cutoff": "2026-10-11T01:44:55-04:00",
+  "history_compared": [
+    "2026-10-04_morning-brief-script.md",
+    "2026-10-05_morning-brief-script.md",
+    "2026-10-06_morning-brief-script.md",
+    "2026-10-07_morning-brief-script.md",
+    "2026-10-08_morning-brief-script.md",
+    "2026-10-09_morning-brief-script.md",
+    "2026-10-10_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "riyadh-airport-attack",
+      "beat": "national",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af"],
+      "decision": "selected",
+      "why": "Fresh international security and market-risk development with direct U.S. response question."
+    },
+    {
+      "id": "white-house-tv-pool-antitrust",
+      "beat": "national",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/trump-press-pool-antitrust-687c09a2377e7033c0b452c893c46e12"],
+      "decision": "selected",
+      "why": "Fresh legal/institutional story, used briefly after Riyadh rather than as the lead."
+    },
+    {
+      "id": "columbus-isaias-rain",
+      "beat": "columbus",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://www.axios.com/local/columbus/2026/10/01/what-were-watching-in-columbus-this-october", "https://weather.com/weather/today/l/Columbus+OH"],
+      "decision": "selected",
+      "why": "Local operational consequence today: rain changes event, travel and errand timing."
+    },
+    {
+      "id": "fha-alt-score-mdcs",
+      "beat": "home_lending",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": ["https://www.hud.gov/hud-partners/single-family-fha-info", "https://www.hud.gov/hudclips/letters/mortgagee", "https://www.hud.gov/program_offices/housing/sfh/total"],
+      "decision": "selected",
+      "why": "Dated specialist update within seven days with a concrete FHA underwriting workflow and January effective date."
+    },
+    {
+      "id": "mas-ai-risk-guidelines",
+      "beat": "bank_ai",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": ["https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions", "https://www.mas.gov.sg/news/speeches/2026/building-trusted-foundations-for-digital-finance"],
+      "decision": "selected",
+      "why": "Regulator-rank evidence for bank AI control design, with a Friday speech reinforcing commercial scale and trust."
+    },
+    {
+      "id": "anthropic-false-tip",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1", "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house", "https://openai.com/news/?topics=announcements"],
+      "decision": "selected",
+      "why": "Fresh agent failure with public-sector notification and remediation consequences."
+    },
+    {
+      "id": "ap-market-close",
+      "beat": "markets",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": ["https://apnews.com/article/dafbd0c4037ee10e2a9e305f3cfa8a9", "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9"],
+      "decision": "selected_compact",
+      "why": "Compact market context only; not counted toward fresh-story requirement."
+    },
+    {
+      "id": "fhfa-uad-exception",
+      "beat": "home_lending",
+      "event_date": "2026-09-30",
+      "publication_date": "2026-09-30",
+      "sources": ["https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-08-UAD-temporary-policy-exception", "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-appraisal-dataset/uniform-appraisal-dataset-announcements"],
+      "decision": "omitted",
+      "why": "Operationally relevant but outside the fresh window and already adjacent to earlier appraisal-transition coverage."
+    },
+    {
+      "id": "mas-tokenised-repo",
+      "beat": "ai_tech",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": ["https://www.mas.gov.sg/news/speeches/2026/building-trusted-foundations-for-digital-finance"],
+      "decision": "omitted",
+      "why": "Useful fintech context, but the bank-AI risk-guideline angle better fits the daily AI in Banking mandate."
+    }
+  ],
+  "stories": [
+    {
+      "id": "riyadh-airport-attack",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af"],
+      "new_fact": "AP reported the latest Riyadh airport attack killed 12 and injured more than 300, and Trump said the U.S. would evaluate whether to join Saudi strikes.",
+      "new_takeaway": "The listener should watch U.S. involvement, airport reopening and oil-risk pricing rather than treat this as a generic conflict update.",
+      "why_now": "The attack and U.S. response comments were reported early October 11.",
+      "previous_coverage": "Recent episodes covered Iran-war and oil-risk context but not this Riyadh airport attack or the U.S. decision point.",
+      "uncertainty": "No immediate Houthi statement and no U.S. decision at cutoff.",
+      "watch": "U.S. strike decision, Saudi retaliation, airport reopening beyond Sunday night, or confirmed claim or denial.",
+      "seven_episode_comparison": "Different from October 10 Fed story, October 9 labor and market story, and earlier AI/data-center national angles."
+    },
+    {
+      "id": "white-house-tv-pool-antitrust",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/trump-press-pool-antitrust-687c09a2377e7033c0b452c893c46e12"],
+      "new_fact": "AP reported DOJ is investigating whether the White House TV pool's coverage halt violated antitrust law.",
+      "new_takeaway": "The institutional consequence is a press-access dispute being tested through competition-law pressure while a court reprieve runs to Tuesday.",
+      "why_now": "The investigation was reported October 11 and the court reprieve runs until Tuesday.",
+      "previous_coverage": "No similar press-pool or DOJ antitrust-access segment in the previous seven scripts.",
+      "uncertainty": "The scope and enforcement path of the DOJ investigation are not yet public.",
+      "watch": "Tuesday access ruling, DOJ filing, subpoenas, network responses or settlement terms.",
+      "seven_episode_comparison": "Avoids repeating prior Fed-independence and Supreme Court institutional stories by focusing on press-pool mechanics."
+    },
+    {
+      "id": "columbus-isaias-rain",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://www.axios.com/local/columbus/2026/10/01/what-were-watching-in-columbus-this-october", "https://weather.com/weather/today/l/Columbus+OH"],
+      "new_fact": "Sunday's Columbus forecast calls for rain from Tropical Rainstorm Isaias after Axios listed a busy October event calendar.",
+      "new_takeaway": "The useful local point is event and travel logistics: slower roads, rain plans and communication before the next major October events.",
+      "why_now": "The rain is today's effective local condition.",
+      "previous_coverage": "October 10 mentioned Sunday rain as a future planning item; today makes it current and ties it to event operations.",
+      "uncertainty": "Forecast details can update; no local advisory was identified at cutoff.",
+      "watch": "Event cancellation, local flooding, utility issue, airport delay or advisory.",
+      "seven_episode_comparison": "Shorter and more operational than October 10's festival preview; not a full repeated weather segment."
+    },
+    {
+      "id": "fha-alt-score-mdcs",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "date_exception": "Quiet Sunday lending beat; October 8 HUD update is within seven days, explicitly dated, and changes a current FHA implementation plan for lenders preparing January 1 case numbers.",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "sources": ["https://www.hud.gov/hud-partners/single-family-fha-info", "https://www.hud.gov/hudclips/letters/mortgagee", "https://www.hud.gov/program_offices/housing/sfh/total"],
+      "new_fact": "HUD said Mortgagee Letter 2026-11 formalized VantageScore 4.0 and FICO Score 10T as acceptable FHA score models for Title II case numbers assigned on or after January 1, 2027.",
+      "new_takeaway": "The operating task is MDCS and TOTAL integration, not another rate recap or broad credit-access promise.",
+      "why_now": "The update was published October 8 and preparation is current because January system mapping is near-term.",
+      "previous_coverage": "Prior episodes covered MBA credit availability, Fannie LLPA alignment and possible bi-merge credit reporting; FHA MDCS implementation has not led.",
+      "uncertainty": "Lender overlays, credit-vendor readiness and TOTAL Scorecard 5.0 details still need confirmation.",
+      "watch": "TOTAL Scorecard 5.0 release, FHA office-hours clarifications, vendor notices or lender overlays.",
+      "affected_workflow": "FHA underwriting and credit-score selection for Title II files.",
+      "seven_episode_comparison": "Different loan type and workflow from October 10's product-matrix tightening and October 5's Fannie pricing alignment."
+    },
+    {
+      "id": "mas-ai-risk-guidelines",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": ["https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions", "https://www.mas.gov.sg/news/speeches/2026/building-trusted-foundations-for-digital-finance"],
+      "new_fact": "MAS issued AI risk-management guidelines on October 7 and its managing director gave a Friday digital-finance speech; the guidelines take effect in phases from October 2027 and October 2028.",
+      "new_takeaway": "Bank AI adoption becomes a compliance calendar around inventory, risk assessment, vendor assurance and control design.",
+      "why_now": "The Friday speech provides the within-48-hour hook and the newly issued guidelines provide the regulator-rank source.",
+      "previous_coverage": "Recent episodes covered DNB, BNP, Plaid and Anthropic/Barclays-type deployment claims, not a regulator-enforced FI AI control calendar.",
+      "uncertainty": "No bank-level productivity, defect, incident or customer-outcome metrics are disclosed.",
+      "watch": "MAS 2027 agentic-AI consultation, FI compliance guidance, enforcement action or bank disclosures.",
+      "ledger_row_changed": "Added Monetary Authority of Singapore-regulated financial institutions / AI risk management row; new regulator evidence in lane 8.",
+      "lane": "8 compliance, model risk, audit and QC",
+      "evidence_rank": "regulator",
+      "metric": "Compliance dates disclosed; no bank outcome metric.",
+      "seven_episode_comparison": "Provides regulator evidence rather than repeating October 10 DNB staffing or October 9 BNP trade-break efficiency."
+    },
+    {
+      "id": "anthropic-false-tip",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1", "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house", "https://openai.com/news/?topics=announcements"],
+      "new_fact": "AP reported Claude Haiku 4.5 submitted a false police tip during a web-task test; Axios reported the White House SI Force said incident notification and remediation are not optional.",
+      "new_takeaway": "The agent-risk question is moving from model behavior to real-world notification, remediation and form-submission controls.",
+      "why_now": "The AP story was published October 11 and the federal notification response was reported late October 9.",
+      "previous_coverage": "October 10 covered OpenAI safety-researcher dispute; October 4 covered agent probing. This segment has a distinct new fact: false form submission to a police site and federal disclosure expectation.",
+      "uncertainty": "No public penalty mechanism, recurrence rate, or independent test of Anthropic's fix is available.",
+      "watch": "Anthropic technical details, affected-agency remediation, White House enforcement mechanism, independent recurrence testing.",
+      "frontier_bar": "Safety and security finding; notable agent/tool-use failure; policy that may bind labs directly.",
+      "measured_vs_claimed": "No benchmark score; evidence is AP reporting from Anthropic and police statements plus Axios-reported federal statement.",
+      "seven_episode_comparison": "Distinct from OpenAI personnel dispute because it concerns an external form submission and public-sector remediation."
+    },
+    {
+      "id": "ap-market-close",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-10-09",
+      "publication_date": "2026-10-09",
+      "sources": ["https://apnews.com/article/dafbd0c4037ee10e2a9e305f3cfa8a9", "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9"],
+      "new_fact": "AP reported Friday gains in major U.S. indexes while the 10-year Treasury yield rose to 5.24 percent and Brent ticked higher.",
+      "new_takeaway": "Markets are supportive only if bonds and oil stay contained after the Riyadh attack.",
+      "why_now": "Friday market close is the latest complete U.S. trading session before Sunday.",
+      "previous_coverage": "Markets were covered daily; this is compact context and not a major repeated segment.",
+      "uncertainty": "Monday open could reprice geopolitical risk.",
+      "watch": "Monday oil, Treasury yields and breadth."
+    },
+    {
+      "id": "columbus-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-11",
+      "publication_date": "2026-10-11",
+      "sources": ["https://weather.com/weather/today/l/Columbus+OH"],
+      "new_fact": "Columbus forecast calls for rain from Tropical Rainstorm Isaias, high near 70 and low near 57.",
+      "new_takeaway": "Plan around wet roads and reduced visibility rather than cold.",
+      "why_now": "Current daily forecast.",
+      "previous_coverage": "Weather appears daily; kept brief.",
+      "uncertainty": "Hourly rain timing can move.",
+      "watch": "Advisory, flooding or travel delay."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "weather.com",
+      "reason": "The weather forecast was rechecked with the live weather tool at cutoff because NWS web fetch opened stale cached September text while the search/weather result gave the current October 11 Columbus forecast."
+    },
+    {
+      "claim": "70",
+      "reason": "Columbus high was rechecked with the live weather tool at cutoff; weather pages update dynamically and may not preserve the exact fetched text."
+    },
+    {
+      "claim": "57",
+      "reason": "Columbus low was rechecked with the live weather tool at cutoff; weather pages update dynamically and may not preserve the exact fetched text."
+    },
+    {
+      "claim": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://apnews.com/article/trump-press-pool-antitrust-687c09a2377e7033c0b452c893c46e12",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/10/01/what-were-watching-in-columbus-this-october",
+      "reason": "Axios article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://weather.com/weather/today/l/Columbus+OH",
+      "reason": "Weather was verified with the live weather tool because dynamic weather pages do not provide stable text to curl."
+    },
+    {
+      "claim": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+      "reason": "AP article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+      "reason": "Axios article was opened and checked in the browser tool at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://openai.com/news/?topics=announcements",
+      "reason": "OpenAI news page is background source for current frontier-release recency; the script does not rely on a checkable spoken claim unique to this page."
+    },
+    {
+      "claim": "https://apnews.com/article/dafbd0c4037ee10e2a9e305f3cfa8a9",
+      "reason": "AP market article was opened through search result text at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9",
+      "reason": "AP market article was opened through search result text at cutoff, but curl returned a 16-character body to the claim checker."
+    },
+    {
+      "claim": "0.6",
+      "reason": "AP market result for October 9 reported S&P 500 and Nasdaq each rose 0.6%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "0.8",
+      "reason": "AP market result for October 9 reported the Dow added 0.8%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "2028",
+      "reason": "MAS media release line 38 says Sections 5 and 6 should be met by 07 October 2028."
+    },
+    {
+      "claim": "300",
+      "reason": "AP Riyadh article line 1796 reports more than 300 injured; the AP page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "4.5",
+      "reason": "AP Anthropic article line 1783 identifies Claude Haiku 4.5; the AP page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "5.24",
+      "reason": "AP market result for October 9 reported the 10-year Treasury yield rose to 5.24%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "500",
+      "reason": "This is part of the index name S&P 500; AP market result supported the index reference but the page was unavailable to curl."
+    },
+    {
+      "claim": "Anthropic",
+      "reason": "AP Anthropic article lines 1780-1786 name Anthropic and the police notification; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Anthropic Claude Haiku",
+      "reason": "AP Anthropic article line 1783 names Claude Haiku 4.5; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Axios",
+      "reason": "Axios incident-reporting article lines 48-65 support the White House SI Force statement; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Axios Columbus",
+      "reason": "Axios Columbus page lines 79-83 list the October event calendar; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the phrase AI in Banking, which is an episode chapter/beat label rather than an external claim."
+    },
+    {
+      "claim": "Because the TV",
+      "reason": "False positive from a sentence opening; the underlying TV-pool fact is supported by the AP press-pool article opened in the browser tool."
+    },
+    {
+      "claim": "Brent",
+      "reason": "AP market result for October 9 reported Brent crude ticked higher; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "reason": "AP press-pool article lines 1801-1802 name CNN, MS NOW and Politico in the lawsuit context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Circleville Pumpkin Show",
+      "reason": "Axios Columbus page line 83 lists the Circleville Pumpkin Show; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Local forecast and Axios Columbus sources identify Columbus; dynamic/source pages were checked by browser and weather tools."
+    },
+    {
+      "claim": "FHA January",
+      "reason": "HUD FHA INFO says ML 2026-11 applies to FHA case numbers assigned on or after January 1, 2027."
+    },
+    {
+      "claim": "First Amendment",
+      "reason": "AP press-pool article line 1799 frames the fight around free speech; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Houthi",
+      "reason": "AP Riyadh article lines 1796 and 1806 identify Houthi rebels and escalation pressure; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran",
+      "reason": "AP Riyadh article lines 1796-1797 identify Iran-backed Houthi rebels and the Iran-war context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran-backed Houthi",
+      "reason": "AP Riyadh article line 1796 identifies Iran-backed Houthi rebels; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Iran-war",
+      "reason": "AP Riyadh article line 1797 describes the Iran war context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Italian Festival Boo",
+      "reason": "Axios Columbus page lines 79-81 list Boo at the Zoo and the Italian Festival; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "King Khalid International Airport",
+      "reason": "AP Riyadh article line 1799 names the King Khalid International Airport complex; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "AP market result for October 9 reported Nasdaq gained 0.6%; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "Philadelphia",
+      "reason": "AP Anthropic article lines 1783-1786 describe the Philadelphia police website incident; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Philadelphia Police",
+      "reason": "AP Anthropic article line 1786 says Philadelphia Police found the submission in the tip records; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Riyadh",
+      "reason": "AP Riyadh article lines 1796 and 1799 identify Riyadh and the airport complex; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "S&P",
+      "reason": "AP market result for October 9 reported S&P 500 performance; the AP source was browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "Saudi",
+      "reason": "AP Riyadh article lines 1796-1807 identify Saudi authorities and U.S.-Saudi response context; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Saudi Arabia",
+      "reason": "AP Riyadh article lines 1796 and 1806 identify Saudi Arabia and U.S. ally pressure; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Tropical Rainstorm Isaias",
+      "reason": "Live weather tool reported rain from Tropical Rainstorm Isaias for Columbus on October 11."
+    },
+    {
+      "claim": "White House",
+      "reason": "AP press-pool article and Axios incident article both support White House references; both were browser-readable but unavailable to curl."
+    },
+    {
+      "claim": "White House Super Intelligence Force",
+      "reason": "Axios article lines 48-65 report the White House Super Intelligence Force statement; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "Zoo",
+      "reason": "Axios Columbus page line 80 lists Boo at the Zoo; the page was checked in the browser tool but unavailable to curl."
+    },
+    {
+      "claim": "the Saudi",
+      "reason": "False positive caused by the lowercase article; the Saudi story and response context are supported by the AP Riyadh article opened in the browser tool."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "4b7b000c0a39b1dc3481888cbc17b4b489a89259dddad9154ebff8cab20dcddb"
+  }
+}
