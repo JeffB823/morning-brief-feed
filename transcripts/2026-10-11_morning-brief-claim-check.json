@@ -1,7 +1,7 @@
 {
   "script": "2026-10-11_morning-brief-script.md",
-  "script_sha256": "4b7b000c0a39b1dc3481888cbc17b4b489a89259dddad9154ebff8cab20dcddb",
-  "checked_at": "2026-10-11T01:49:50-0400",
+  "script_sha256": "f98b67ae3c9a25d5058ae59676bc122a46cc80286770617d8edffa14dfbb19c0",
+  "checked_at": "2026-10-11T01:57:30-0400",
   "sources_fetched": [
     {
       "url": "https://www.hud.gov/hud-partners/single-family-fha-info",
@@ -72,7 +72,7 @@
       "reason": "AP market article was opened through search result text at cutoff, but curl returned a 16-character body to the claim checker."
     }
   ],
-  "claims_checked": 70,
+  "claims_checked": 67,
   "claims_supported": 32,
   "claims_excepted": [
     {
@@ -96,7 +96,7 @@
     {
       "claim": "300",
       "kind": "number",
-      "example": "AP reports the latest attack on King Khalid International Airport killed 12 people and injured more than 300.",
+      "example": "AP reports 12 people killed and more than 300 injured.",
       "reason": "AP Riyadh article line 1796 reports more than 300 injured; the AP page was checked in the browser tool but unavailable to curl."
     },
     {
@@ -154,12 +154,6 @@
       "reason": "False positive from the phrase AI in Banking, which is an episode chapter/beat label rather than an external claim."
     },
     {
-      "claim": "Because the TV",
-      "kind": "name",
-      "example": "Because the TV pool is a rotating group that coordinates coverage for outlets that cannot all physically follow the president at once.",
-      "reason": "False positive from a sentence opening; the underlying TV-pool fact is supported by the AP press-pool article opened in the browser tool."
-    },
-    {
       "claim": "Brent",
       "kind": "name",
       "example": "The 10-year Treasury yield rose to 5.24 percent, and Brent crude ticked higher after erasing an early drop.",
@@ -190,12 +184,6 @@
       "reason": "HUD FHA INFO says ML 2026-11 applies to FHA case numbers assigned on or after January 1, 2027."
     },
     {
-      "claim": "First Amendment",
-      "kind": "name",
-      "example": "If the government frames a coverage halt as collusion, it turns a First Amendment and access dispute into a competition-law investigation.",
-      "reason": "AP press-pool article line 1799 frames the fight around free speech; the page was checked in the browser tool but unavailable to curl."
-    },
-    {
       "claim": "Houthi",
       "kind": "name",
       "example": "alliance commitments, Houthi escalation, and Iran's ability to apply pressure indirectly.",
@@ -224,12 +212,6 @@
       "kind": "name",
       "example": "Axios Columbus had flagged the Italian Festival, Boo at the Zoo and other October events, while today's forecast brings rain from Tropical Rainstorm Isaias.",
       "reason": "Axios Columbus page lines 79-81 list Boo at the Zoo and the Italian Festival; the page was checked in the browser tool but unavailable to curl."
-    },
-    {
-      "claim": "King Khalid International Airport",
-      "kind": "name",
-      "example": "AP reports the latest attack on King Khalid International Airport killed 12 people and injured more than 300.",
-      "reason": "AP Riyadh article line 1799 names the King Khalid International Airport complex; the page was checked in the browser tool but unavailable to curl."
     },
     {
       "claim": "Nasdaq",
@@ -282,7 +264,7 @@
     {
       "claim": "White House",
       "kind": "name",
-      "example": "AP reports the Justice Department is investigating whether the White House television pool's halt in coverage violated antitrust law after the administration restricted several news outlets.",
+      "example": "AP reports the Justice Department is investigating whether the White House television pool's coverage halt violated antitrust law after the administration restricted several news outlets.",
       "reason": "AP press-pool article and Axios incident article both support White House references; both were browser-readable but unavailable to curl."
     },
     {
@@ -300,7 +282,7 @@
     {
       "claim": "the Saudi",
       "kind": "name",
-      "example": "If the Saudi story stays contained and yields stabilize, lenders and local finance teams get a little breathing room.",
+      "example": "If the Saudi story stays contained and yields stabilize, lenders and local finance teams get breathing room.",
       "reason": "False positive caused by the lowercase article; the Saudi story and response context are supported by the AP Riyadh article opened in the browser tool."
     }
   ],
