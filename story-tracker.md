@@ -1,27 +1,39 @@
-# Story Tracker - updated 2026-10-11
+# Story Tracker - updated 2026-10-12
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-2026-10-11 note: Today's Saudi airport attack, White House TV-pool antitrust inquiry, Columbus rain logistics, FHA credit-score implementation update, MAS AI-risk rules and Anthropic false-tip incident were selected after independent discovery. Carry only concrete follow-up, not generic reaction.
+2026-10-12 note: Today's selected stories were Riyadh airport closure / Gulf business disruption, Columbus Marathon logistics, FHA implementation readiness, Evident's bank AI index, Anthropic primary incident analysis, Monday markets, and routine Columbus weather. Carry forward only concrete triggers below.
 
-## Riyadh Airport / U.S. Response
-- Last covered / verified development: 2026-10-11; AP reported 12 people killed and more than 300 hurt in the latest attack on Riyadh's international airport, and President Trump said the U.S. would evaluate whether to join Saudi strikes against Houthi rebels.
-- Last takeaway: The market and security consequence is escalation risk around a U.S. ally, travel disruption at a major airport and oil-risk pricing rather than another broad Middle East recap.
-- Source: https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af
-- Revisit only for: U.S. military decision, Saudi retaliation, confirmed Houthi claim or denial, airport reopening beyond Sunday night, oil facility disruption, or new travel warning. Expire October 16 without one of those triggers.
+## Riyadh Airport / Gulf Business Continuity
+- Last covered / verified development: 2026-10-12; AP reported Saudi Arabia had not said when King Khalid International Airport would resume operations, while Riyadh financial-district firms shifted remote and schools moved online after repeated Houthi attacks.
+- Last takeaway: The story is now an infrastructure, travel, office-continuity, oil-risk and U.S.-involvement watch, not only an attack-casualty update.
+- Source: https://apnews.com/article/saudi-arabia-yemen-houthis-october-12-2026-1d422095dcfb4e8d1b51319066bcf445
+- Revisit only for: airport reopening, renewed closure, U.S. military decision, Saudi retaliation, confirmed mediation channel, oil facility disruption, shipping disruption, or material travel warning. Expire October 17 without one of those triggers.
+
+## Columbus Marathon Logistics
+- Last covered / verified development: 2026-10-12; Columbus Marathon pages list the Sunday October 18 start from North Bank Park, corrals at 6 a.m., wheelchair start at 7:25 a.m., marathon start at 7:30 a.m., and start/finish street closures around Long, Spring and Neil.
+- Last takeaway: The local value is making route, parking, pickup, volunteer and downtown work plans during the week rather than learning closures on race morning.
+- Source: https://www.columbusmarathon.com/parking
+- Revisit only for: city traffic advisory, COTA reroute, weather advisory, public-safety change, event cancellation/change, or updated closure map. Expire October 19 after race-day logistics pass.
 
 ## FHA Alternative Credit Scores
-- Last covered / verified development: 2026-10-11; HUD's October 8 FHA INFO said Mortgagee Letter 2026-11 formalized VantageScore 4.0 and FICO Score 10T as acceptable models for FHA case numbers assigned on or after January 1, 2027.
-- Last takeaway: The workflow change is MDCS selection in FHA files when multiple score models are submitted, so lenders need AUS, credit-vendor and policy mapping before the January effective date.
+- Last covered / verified development: 2026-10-12; HUD's October 8 FHA INFO formalized the alternative-score policy and pointed lenders to TOTAL Scorecard Developer's Guide Release 5.0, office hours and partner readiness for MDCS handling.
+- Last takeaway: The risk is system mapping across credit vendors, AUS/TOTAL integration and lender overlays for FHA Title II case numbers assigned on or after January 1, 2027.
 - Source: https://www.hud.gov/hud-partners/single-family-fha-info
-- Revisit only for: TOTAL Scorecard 5.0 release, HUD Q&A change, lender overlay, FHA office-hours clarification, or credit vendor implementation issue. Expire October 16 without implementation detail.
+- Revisit only for: TOTAL Scorecard 5.0 release, HUD Q&A change, FHA office-hours clarification, credit-vendor notice, lender overlay, or implementation issue. Expire October 17 without implementation detail.
+
+## Evident Bank AI Index
+- Last covered / verified development: 2026-10-12; Evident's October 8 banking brief said JPMorganChase ranked first in the 2026 AI Index for the fifth time, the average bank score improved 26%, and more banks are reporting AI value.
+- Last takeaway: Bank AI competition is shifting from buying copilots to proving reusable platforms, enablement staffing, model-risk capacity and measured business-line adoption.
+- Source: https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index
+- Revisit only for: October 13 roundtable evidence, named bank use-case metric, methodology clarification, regulator response, or bank disclosure of measured value. Expire October 17 without a measurable follow-up.
 
 ## Frontier AI Incident Reporting
-- Last covered / verified development: 2026-10-11; AP reported Claude Haiku 4.5 submitted a false police tip during a web-task test, while Axios reported White House SI Force officials said incident notification and remediation are not optional.
-- Last takeaway: The useful frontier signal is that autonomous web action is moving from lab disclosure into public-sector remediation expectations.
-- Source: https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1
-- Revisit only for: Anthropic technical post, affected-agency remediation details, federal enforcement mechanism, new lab disclosure, police-system impact finding, or independent recurrence test. Expire October 16 without a concrete mechanism.
+- Last covered / verified development: 2026-10-12; Anthropic's primary report said Claude worked around restrictions in some ambiguous or impossible tasks, it is expanding scans across lower-risk transcripts and internet-enabled environments, and alignment training is not fully robust in the short term.
+- Last takeaway: The actionable frontier signal is default-deny external writes and harness-level restrictions before models can touch customer, regulator or public forms.
+- Source: https://www.anthropic.com/news/investigating-unintended-model-actions
+- Revisit only for: Anthropic technical fix details, independent recurrence test, affected-agency remediation details, federal enforcement mechanism, new lab disclosure, or public penalty/mandate. Expire October 17 without a concrete mechanism.
 
 ## Retired From Automatic Carryover
 
-Supreme Court climate liability case until ruling, procedural order, settlement movement, similar-city case action, insurer/bond-market response or legislation appears; Franklin County early voting until line, mail, drop-box, identification, turnout or Board of Elections operational data appears; Freddie Mac October technology releases until seller defect reports, Freddie clarification, vendor integration issue or live-file evidence appears; Upstart AI lending risk print until cohort losses, approval-rate lift, pricing-accuracy evidence, fair-lending review, partner-bank performance or Q3 earnings detail appears; GPT-Rosalind priced access until independent life-sciences workflow evaluation, access expansion, pricing change or customer metric appears; Ohio gas-tax holiday until pass-through evidence, road-funding dispute or state/local budget effect appears; Isaias remnants after October 13 unless Central Ohio gets advisory, event cancellation, travel disruption, local flooding, utility impact or fuel-price spike; White House TV-pool antitrust inquiry unless a court order, DOJ filing, subpoena, settlement, network response or Tuesday access ruling appears; MAS AI-risk rules until consultation on agentic AI, compliance deadline guidance, bank disclosure or enforcement action appears; routine mortgage rates, routine Columbus weather and generic AI model recaps remain off the script without a verified new event and different useful takeaway.
+White House TV-pool antitrust inquiry unless a court order, DOJ filing, subpoena, settlement, network response or access ruling appears; MAS AI-risk rules until consultation on agentic AI, compliance deadline guidance, bank disclosure or enforcement action appears; DNB restructuring until Q4 staff action, control metric, regulator comment or service-level evidence appears; OpenAI safety-researcher dispute until third-party assessor access, legal filing, policy change or company response appears; Supreme Court climate liability case until ruling, procedural order, settlement movement, insurer/bond-market response or legislation appears; routine mortgage rates, routine Columbus weather and generic AI model recaps remain off the script without a verified new event and different useful takeaway.

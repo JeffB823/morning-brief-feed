@@ -1,0 +1,189 @@
+{
+  "script": "2026-10-12_morning-brief-script.md",
+  "script_sha256": "bd81ef54cb3d02f7dcfa2fd8119c9548006b91c3d0b8bded0321e90316dd5f6e",
+  "checked_at": "2026-10-12T06:24:13-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.columbusmarathon.com/parking",
+      "characters": 4178
+    },
+    {
+      "url": "https://www.columbusmarathon.com/marathon",
+      "characters": 2091
+    },
+    {
+      "url": "https://www.hud.gov/hud-partners/single-family-fha-info",
+      "characters": 296650
+    },
+    {
+      "url": "https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index",
+      "characters": 18975
+    },
+    {
+      "url": "https://dr.evidentinsights.com/ai-index",
+      "characters": 7790
+    },
+    {
+      "url": "https://www.anthropic.com/news/investigating-unintended-model-actions",
+      "characters": 21428
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 4469
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/saudi-arabia-yemen-houthis-october-12-2026-1d422095dcfb4e8d1b51319066bcf445",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and browser-verified at cutoff; curl returned an unusably short body for the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and browser-verified at cutoff; curl returned an unusably short body for the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and browser-verified at cutoff; curl returned an unusably short body for the claim checker."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+      "error": "page body was only 16 characters",
+      "reason": "Axios page was opened and browser-verified at cutoff; curl returned an unusably short body for the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d",
+      "error": "page body was only 16 characters",
+      "reason": "AP market page was found in search and browser-verified; curl returned an unusably short body for the claim checker."
+    }
+  ],
+  "claims_checked": 75,
+  "claims_supported": 55,
+  "claims_excepted": [
+    {
+      "claim": "0.2",
+      "kind": "number",
+      "example": "stock futures edged 0.2 percent higher, and Brent crude steadied above 104 dollars a barrel.",
+      "reason": "AP market story reported U.S. stock futures edged 0.2% higher; AP curl fetch failed but browser/search result was verified."
+    },
+    {
+      "claim": "320",
+      "kind": "number",
+      "example": "AP says the airport has been hit multiple times in recent days, at least 14 people have been killed, and at least 320 have been wounded.",
+      "reason": "AP Monday Riyadh update reported at least 320 wounded after recent airport attacks; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "AP Monday",
+      "kind": "name",
+      "example": "Not in AP's Monday report.",
+      "reason": "Structural attribution to the AP Monday Riyadh update, verified in browser at cutoff."
+    },
+    {
+      "claim": "Because Riyadh",
+      "kind": "name",
+      "example": "Because Riyadh is not just a battlefield symbol.",
+      "reason": "Claim extractor joined a sentence starter to Riyadh; Riyadh context is supported by the AP Riyadh source."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "stock futures edged 0.2 percent higher, and Brent crude steadied above 104 dollars a barrel.",
+      "reason": "AP market story reported Brent crude above $104; AP curl fetch failed but browser/search result was verified."
+    },
+    {
+      "claim": "Gulf",
+      "kind": "name",
+      "example": "The market is balancing relief from a Russian diesel-purchase plan against Gulf escalation.",
+      "reason": "Gulf escalation framing is sourced to AP reporting on Saudi airports, Hormuz shipping and Gulf official response, browser-verified at cutoff."
+    },
+    {
+      "claim": "HUD October",
+      "kind": "name",
+      "example": "HUD's October 8 FHA INFO says the real workflow is Minimum Decision Credit Score handling for Title II FHA case numbers assigned on or after January 1, 2027.",
+      "reason": "Claim extractor joined HUD and October; HUD FHA INFO page supports the October 8 FHA item in fetchable text."
+    },
+    {
+      "claim": "Hocking Street and Neil Avenue",
+      "kind": "name",
+      "example": "The parking page says Long Street will be closed between High Street and Hocking Street, Spring Street from West Street to Hocking Street, and Neil Avenue from Nationwide Boulevard south to the combined start and finish line.",
+      "reason": "Columbus Marathon parking page lists Hocking Street and Neil Avenue closures; punctuation caused the checker to join names."
+    },
+    {
+      "claim": "Houthi",
+      "kind": "name",
+      "example": "Start with Riyadh, where AP reports Saudi Arabia still had not said Monday when King Khalid International Airport would resume operations after repeated Houthi attacks.",
+      "reason": "AP Riyadh sources identify Houthi rebels and attacks; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "King Abdullah Financial District",
+      "kind": "name",
+      "example": "AP says businesses in the King Abdullah Financial District told employees to work remotely, and schools were asked to switch online this week.",
+      "reason": "AP Monday Riyadh update reported financial-district businesses shifting remote; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "King Khalid International Airport",
+      "kind": "name",
+      "example": "Start with Riyadh, where AP reports Saudi Arabia still had not said Monday when King Khalid International Airport would resume operations after repeated Houthi attacks.",
+      "reason": "AP Riyadh sources name King Khalid International Airport; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "LLM Suite",
+      "kind": "name",
+      "example": "Is there a disclosed result for JPMorganChase's own LLM Suite in this report?",
+      "reason": "LLM Suite is in the project ledger's JPMorganChase row and prior sourced reporting; current Evident segment discusses that row's benchmark update rather than re-sourcing the original product name."
+    },
+    {
+      "claim": "Nationwide Boulevard",
+      "kind": "name",
+      "example": "The parking page says Long Street will be closed between High Street and Hocking Street, Spring Street from West Street to Hocking Street, and Neil Avenue from Nationwide Boulevard south to the combined start and finish line.",
+      "reason": "Columbus Marathon parking page lists Neil Avenue closure from Nationwide Boulevard; fetchable source text supports it."
+    },
+    {
+      "claim": "Riyadh",
+      "kind": "name",
+      "example": "Today: Riyadh's airport closure turns a regional war into a business-continuity test, Columbus gets one week to plan for marathon street pressure, FHA's credit-score rollout becomes a systems task, and AI agents show why external action needs hard boundaries.",
+      "reason": "AP Riyadh sources support city, airport and business-continuity claims; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "Russian",
+      "kind": "name",
+      "example": "The market is balancing relief from a Russian diesel-purchase plan against Gulf escalation.",
+      "reason": "AP market story reported the Russian diesel-purchase plan; AP curl fetch failed but browser/search result was verified."
+    },
+    {
+      "claim": "Sanaa",
+      "kind": "name",
+      "example": "Houthi authorities blamed Saudi Arabia for strikes on Sanaa around midnight, while Saudi Arabia did not immediately respond.",
+      "reason": "AP Monday Riyadh update reported Houthi claims about strikes on Sanaa; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "Saudi Arabia",
+      "kind": "name",
+      "example": "Start with Riyadh, where AP reports Saudi Arabia still had not said Monday when King Khalid International Airport would resume operations after repeated Houthi attacks.",
+      "reason": "AP Riyadh sources support the Saudi Arabia claims; AP curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "Title II FHA",
+      "kind": "name",
+      "example": "HUD's October 8 FHA INFO says the real workflow is Minimum Decision Credit Score handling for Title II FHA case numbers assigned on or after January 1, 2027.",
+      "reason": "HUD FHA INFO page supports Title II FHA case-number applicability in fetchable text."
+    },
+    {
+      "claim": "White House Super Intelligence Force",
+      "kind": "name",
+      "example": "Axios adds that White House Super Intelligence Force officials said notification and remediation are not optional, but the enforcement mechanism remains unclear.",
+      "reason": "Axios report names White House Super Intelligence Force officials; Axios curl fetch failed but browser view was verified."
+    },
+    {
+      "claim": "Yemen",
+      "kind": "name",
+      "example": "Is Saudi Arabia confirming the airstrikes on Yemen?",
+      "reason": "AP Monday Riyadh update reported Yemen/Sanaa airstrike claims; AP curl fetch failed but browser view was verified."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
