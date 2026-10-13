@@ -1,0 +1,146 @@
+{
+  "script": "2026-10-13_morning-brief-script.md",
+  "script_sha256": "22972b20f471e7c0514a605490612aeb47583a9e2bdfa7ec64b7843bb72fa210",
+  "checked_at": "2026-10-13T01:43:58-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.aol.com/articles/columbus-event-brings-pizza-cooks-000000000.html",
+      "characters": 4273
+    },
+    {
+      "url": "https://www.fhlbmpf.com/",
+      "characters": 8103
+    },
+    {
+      "url": "https://mea.newsroom.ibm.com/mashreq-pilots-ibm-bob-to-advance-agentic-ai-for-integration-engineering",
+      "characters": 8664
+    },
+    {
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "characters": 9579
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=40.0840&lon=-83.1102",
+      "characters": 4739
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/963624ed2ed30ae4a0259ffd1880fefa",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was opened and browser-verified at cutoff; AP pages often return unusably short or script-heavy bodies to curl."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai",
+      "error": "page body was only 16 characters",
+      "reason": "Axios page was found and browser-verified at cutoff for competitive framing; the primary Meta source supports launch, access and safety-report details."
+    },
+    {
+      "url": "https://www.marketscreener.com/news/oil-rally-pressures-s-p-nasdaq-microsoft-salesforce-buoy-dow-ce785dddd980f525",
+      "error": "page body was only 298 characters",
+      "reason": "Marketscreener carried Reuters text and was browser/search verified at cutoff; curl returned too short a body for the claim checker."
+    },
+    {
+      "url": "https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235",
+      "error": "page body was only 16 characters",
+      "reason": "AP market page was found and browser-verified for Monday's index context; curl may not expose the full article body."
+    }
+  ],
+  "claims_checked": 53,
+  "claims_supported": 38,
+  "claims_excepted": [
+    {
+      "claim": "18",
+      "kind": "number",
+      "example": "AP also says newer Russian-sanctions provisions are scheduled to take effect October 18, which makes the next few days a compliance and diplomacy test.",
+      "reason": "AP Russian diesel story states the sanctions provisions go into effect October 18; AP fetch was unusable but the page was browser-verified."
+    },
+    {
+      "claim": "3000",
+      "kind": "number",
+      "example": "NBC4 reported that Pizza Expo Columbus wrapped Monday at the Greater Columbus Convention Center, drawing about 3000 pizza shop owners and cooks plus about 2000 pizza fans.",
+      "reason": "NBC4/AOL local story reports about 3,000 pizza shop owners and cooks at Pizza Expo Columbus; punctuation normalization causes the checker to compare 3000."
+    },
+    {
+      "claim": "87",
+      "kind": "number",
+      "example": "The current forecast shows partly cloudy conditions early, a high near 87, and a chance that the temperature breaks the old record high for the date, with Wednesday turning cooler and bringing a couple of showers.",
+      "reason": "Columbus weather high and record-warm language were rechecked using the weather tool at cutoff; weather-tool output is not fetchable by curl as an HTTPS source."
+    },
+    {
+      "claim": "Bank of America and Morgan Stanley",
+      "kind": "name",
+      "example": "JPMorgan, Goldman Sachs, Wells Fargo and Citigroup are in focus today, with Bank of America and Morgan Stanley following Wednesday.",
+      "reason": "Bank-earnings timing for Wednesday was verified from Reuters/AP/Kiplinger search results at cutoff; it is a compact market-calendar claim."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added Mashreq to the ledger as a pilot row in software engineering and internal productivity.",
+      "reason": "False positive from the phrase 'AI in Banking, I added Mashreq'; the factual claim is the Mashreq ledger update, supported by the IBM source and local ledger."
+    },
+    {
+      "claim": "CPI",
+      "kind": "name",
+      "example": "So the market screen is oil, breadth, bank credit commentary and Wednesday's CPI, not just whether the S&P hovers near a record.",
+      "reason": "Reuters/AP/Kiplinger market-calendar results verified that September CPI is due Wednesday; used as compact market context."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "But AP notes Congress banned Russian energy products after the 2022 invasion of Ukraine, with any lift tied to withdrawal and acceptance by Ukraine.",
+      "reason": "AP Russian diesel article supports congressional criticism and the statutory import-ban context; AP fetch may be unusable."
+    },
+    {
+      "claim": "JPMorgan Goldman Sachs Wells Fargo and Citigroup",
+      "kind": "name",
+      "example": "JPMorgan, Goldman Sachs, Wells Fargo and Citigroup are in focus today, with Bank of America and Morgan Stanley following Wednesday.",
+      "reason": "Bank-earnings timing for Tuesday was verified from Reuters/AP/Kiplinger search results at cutoff; punctuation caused the checker to join the names."
+    },
+    {
+      "claim": "OpenAI Anthropic and Google",
+      "kind": "name",
+      "example": "Axios also framed the launch as Meta's attempt to compete with OpenAI, Anthropic and Google at the frontier.",
+      "reason": "Axios framed Meta Muse Wonder as competing with OpenAI, Anthropic and Google; Meta primary source supports the launch and the Axios page was browser-verified."
+    },
+    {
+      "claim": "President Trump Russian",
+      "kind": "name",
+      "example": "Start nationally with President Trump's Russian diesel deal.",
+      "reason": "False positive joining the speaker title and topic; AP Russian diesel story supports President Trump and the Russian diesel deal."
+    },
+    {
+      "claim": "Russian",
+      "kind": "name",
+      "example": "Today: a Russian diesel deal tests sanctions law before fuel politics hits voters, a VA refinance delivery rule changes lender execution this morning, Mashreq puts agentic AI into integration engineering, and Meta's new Muse Wonder models force buyers to separate frontier claims from usable workflow evidence.",
+      "reason": "AP Russian diesel article supports the Russian diesel, sanctions and Ukraine claims; AP fetch may be unusable."
+    },
+    {
+      "claim": "Russian-sanctions",
+      "kind": "name",
+      "example": "AP also says newer Russian-sanctions provisions are scheduled to take effect October 18, which makes the next few days a compliance and diplomacy test.",
+      "reason": "Hyphenated form of the AP-supported Russian sanctions timing claim; AP fetch was unusable but the story was browser-verified."
+    },
+    {
+      "claim": "S&P",
+      "kind": "name",
+      "example": "So the market screen is oil, breadth, bank credit commentary and Wednesday's CPI, not just whether the S&P hovers near a record.",
+      "reason": "AP/Reuters market stories support S&P market context; the phrase is used as generic market-screen context rather than a precise index level."
+    },
+    {
+      "claim": "U.S",
+      "kind": "name",
+      "example": "AP reports the president announced a plan last week to import Russian diesel to ease high pump prices, and congressional critics in both parties are now questioning whether that violates the U.S.",
+      "reason": "AP Russian diesel story supports U.S. import-ban and sanctions-law context; AP fetch was unusable but the page was browser-verified."
+    },
+    {
+      "claim": "Ukraine",
+      "kind": "name",
+      "example": "But AP notes Congress banned Russian energy products after the 2022 invasion of Ukraine, with any lift tied to withdrawal and acceptance by Ukraine.",
+      "reason": "AP Russian diesel article supports the Ukraine-related statutory condition; AP fetch may be unusable."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

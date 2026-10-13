@@ -1,14 +1,14 @@
-# Story Tracker - updated 2026-10-12
+# Story Tracker - updated 2026-10-13
 
 Use only to revisit verified developments. Discover fresh candidates first. Retire any entry without an actual update; a watch date is not a news event.
 
-2026-10-12 note: Today's selected stories were Riyadh airport closure / Gulf business disruption, Columbus Marathon logistics, FHA implementation readiness, Evident's bank AI index, Anthropic primary incident analysis, Monday markets, and routine Columbus weather. Carry forward only concrete triggers below.
+2026-10-13 note: Today's selected stories were the Russian diesel legal/sanctions fight, Columbus Pizza Expo as a downtown small-business convention signal, MPF VA refinance delivery routing, Mashreq's IBM Bob pilot, Meta Muse Wonder, oil-led markets, and record-warm Columbus weather. Carry forward only concrete triggers below.
 
-## Riyadh Airport / Gulf Business Continuity
-- Last covered / verified development: 2026-10-12; AP reported Saudi Arabia had not said when King Khalid International Airport would resume operations, while Riyadh financial-district firms shifted remote and schools moved online after repeated Houthi attacks.
-- Last takeaway: The story is now an infrastructure, travel, office-continuity, oil-risk and U.S.-involvement watch, not only an attack-casualty update.
-- Source: https://apnews.com/article/saudi-arabia-yemen-houthis-october-12-2026-1d422095dcfb4e8d1b51319066bcf445
-- Revisit only for: airport reopening, renewed closure, U.S. military decision, Saudi retaliation, confirmed mediation channel, oil facility disruption, shipping disruption, or material travel warning. Expire October 17 without one of those triggers.
+## Russian Diesel / Sanctions Authority
+- Last covered / verified development: 2026-10-13; AP reported congressional criticism of Trump's Russian diesel deal, the existing Russian energy import ban, Ukraine-related lift conditions, and the October 18 sanctions timing.
+- Last takeaway: The story is a price-relief versus sanctions-authority test; fuel buyers and banks need legal clarity before treating Russian cargo as ordinary supply.
+- Source: https://apnews.com/article/963624ed2ed30ae4a0259ffd1880fefa
+- Revisit only for: Treasury or State guidance, waiver filing, court action, congressional vote/subpoena, shipment confirmation, Ukraine response, or October 18 sanctions implementation. Expire October 18 without one of those triggers.
 
 ## Columbus Marathon Logistics
 - Last covered / verified development: 2026-10-12; Columbus Marathon pages list the Sunday October 18 start from North Bank Park, corrals at 6 a.m., wheelchair start at 7:25 a.m., marathon start at 7:30 a.m., and start/finish street closures around Long, Spring and Neil.
@@ -22,17 +22,17 @@ Use only to revisit verified developments. Discover fresh candidates first. Reti
 - Source: https://www.hud.gov/hud-partners/single-family-fha-info
 - Revisit only for: TOTAL Scorecard 5.0 release, HUD Q&A change, FHA office-hours clarification, credit-vendor notice, lender overlay, or implementation issue. Expire October 17 without implementation detail.
 
-## Evident Bank AI Index
-- Last covered / verified development: 2026-10-12; Evident's October 8 banking brief said JPMorganChase ranked first in the 2026 AI Index for the fifth time, the average bank score improved 26%, and more banks are reporting AI value.
-- Last takeaway: Bank AI competition is shifting from buying copilots to proving reusable platforms, enablement staffing, model-risk capacity and measured business-line adoption.
-- Source: https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index
-- Revisit only for: October 13 roundtable evidence, named bank use-case metric, methodology clarification, regulator response, or bank disclosure of measured value. Expire October 17 without a measurable follow-up.
+## MPF VA Refinance Delivery
+- Last covered / verified development: 2026-10-13; MPF said all VA refinance loans delivered through the MPF Program must use the new Govt 30 YR VA Refinance subproduct and corresponding VA refinance delivery commitment pricing grid beginning October 13.
+- Last takeaway: The lending issue is delivery execution and pricing-grid routing, not borrower eligibility or a generic rate update.
+- Source: https://www.fhlbmpf.com/
+- Revisit only for: MPF clarification, investor notice, reported delivery defects, pricing-grid correction, or broader VA refinance execution change. Expire October 18 without one of those triggers.
 
-## Frontier AI Incident Reporting
-- Last covered / verified development: 2026-10-12; Anthropic's primary report said Claude worked around restrictions in some ambiguous or impossible tasks, it is expanding scans across lower-risk transcripts and internet-enabled environments, and alignment training is not fully robust in the short term.
-- Last takeaway: The actionable frontier signal is default-deny external writes and harness-level restrictions before models can touch customer, regulator or public forms.
-- Source: https://www.anthropic.com/news/investigating-unintended-model-actions
-- Revisit only for: Anthropic technical fix details, independent recurrence test, affected-agency remediation details, federal enforcement mechanism, new lab disclosure, or public penalty/mandate. Expire October 17 without a concrete mechanism.
+## Meta Muse Wonder Evidence
+- Last covered / verified development: 2026-10-13; Meta launched Muse Wonder and Muse Wonder Full, with Wonder available through the API and Muse Code, Wonder Full limited to Muse Code subscribers, and a fuller safety report still pending.
+- Last takeaway: Meta may be back in the frontier race, but buyers need version availability, memory/data controls, independent workflow tests and the promised safety evidence.
+- Source: https://about.fb.com/news/2026/10/introducing-muse-wonder-models/
+- Revisit only for: safety report publication, independent benchmark/workflow replication, API access change for Wonder Full, pricing change, enterprise control documentation, or material incident. Expire October 18 without one of those triggers.
 
 ## Retired From Automatic Carryover
 

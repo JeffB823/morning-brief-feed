@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-13",
+  "cutoff": "2026-10-13T06:20:00-04:00",
+  "history_compared": [
+    "2026-10-06_morning-brief-script.md",
+    "2026-10-07_morning-brief-script.md",
+    "2026-10-08_morning-brief-script.md",
+    "2026-10-09_morning-brief-script.md",
+    "2026-10-10_morning-brief-script.md",
+    "2026-10-11_morning-brief-script.md",
+    "2026-10-12_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "russian-diesel-sanctions",
+      "decision": "selected",
+      "source": "https://apnews.com/article/963624ed2ed30ae4a0259ffd1880fefa",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "notes": "Fresh AP national development: congressional criticism, existing import-ban conditions, and October 18 sanctions timing."
+    },
+    {
+      "id": "omar-home-search",
+      "decision": "omitted",
+      "source": "https://apnews.com/article/711336589fd86b1754a3652b798bbfda",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh and consequential, but passed over to avoid another law-enforcement/political-institution segment when diesel had broader markets, compliance and household-cost consequences."
+    },
+    {
+      "id": "dc-golf-course-halt",
+      "decision": "omitted",
+      "source": "https://apnews.com/article/fdf4667378e21a8bd7fced6a80258ec8",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh court order, but less directly useful for this show's Columbus, lending and business listeners than the sanctions/fuel story."
+    },
+    {
+      "id": "riyadh-defense-probe",
+      "decision": "omitted",
+      "source": "https://apnews.com/article/40c6ab822df376688ce1a0955a044488",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh probe, but Riyadh carried over on Oct. 11 and Oct. 12; omitted to stay within carryover limits absent a reopening, U.S. military decision or oil-facility disruption."
+    },
+    {
+      "id": "columbus-pizza-expo",
+      "decision": "selected",
+      "source": "https://www.aol.com/articles/columbus-event-brings-pizza-cooks-000000000.html",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-13",
+      "notes": "Fresh local business/event update from NBC4 carried by AOL; provides a non-repeated downtown convention and small-business signal."
+    },
+    {
+      "id": "mpf-va-refinance-subproduct",
+      "decision": "selected",
+      "source": "https://www.fhlbmpf.com/",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-02",
+      "notes": "Effective today; specific operational lending change to VA refinance delivery routing and pricing grids."
+    },
+    {
+      "id": "mashreq-ibm-bob-pilot",
+      "decision": "selected",
+      "source": "https://mea.newsroom.ibm.com/mashreq-pilots-ibm-bob-to-advance-agentic-ai-for-integration-engineering",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh banking AI pilot with task, baseline and early time-saved metric; updates the bank AI ledger."
+    },
+    {
+      "id": "meta-muse-wonder",
+      "decision": "selected",
+      "source": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh frontier model/access shift with concrete workflow implications and clear evidence caveat."
+    },
+    {
+      "id": "monday-market-oil-rally",
+      "decision": "selected",
+      "source": "https://www.marketscreener.com/news/oil-rally-pressures-s-p-nasdaq-microsoft-salesforce-buoy-dow-ce785dddd980f525",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "notes": "Fresh compact market context; oil and earnings setup connect back to diesel, rates and bank commentary."
+    },
+    {
+      "id": "columbus-record-warm-weather",
+      "decision": "selected",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=40.0840&lon=-83.1102",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "notes": "Routine daily utility; does not count toward the four fresh stories."
+    },
+    {
+      "id": "fha-alternative-credit-scores",
+      "decision": "omitted",
+      "source": "https://www.hud.gov/hud-partners/single-family-fha-info",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "notes": "Covered Oct. 11 and Oct. 12; no new vendor notice, TOTAL release or overlay update."
+    },
+    {
+      "id": "evident-bank-ai-index",
+      "decision": "omitted",
+      "source": "https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index",
+      "event_date": "2026-10-08",
+      "publication_date": "2026-10-08",
+      "notes": "Covered Oct. 12; no roundtable follow-up available at cutoff."
+    }
+  ],
+  "stories": [
+    {
+      "id": "russian-diesel-sanctions",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://apnews.com/article/963624ed2ed30ae4a0259ffd1880fefa"
+      ],
+      "new_fact": "AP reported that Trump's Russian diesel deal is drawing congressional criticism over the existing Russian energy import ban, Ukraine-related conditions and an October 18 sanctions timing issue.",
+      "new_takeaway": "Fuel price relief can collide with sanctions law; fuel buyers, refiners and banks need legal clarity before treating Russian cargo as ordinary supply.",
+      "why_now": "The AP story and the October 18 sanctions date create a current compliance and market test.",
+      "previous_coverage": "Prior seven scripts covered Riyadh, Fed independence, FCC disputes and markets, but not the Russian diesel legal dispute.",
+      "uncertainty": "The administration's legal theory, shipment mechanics, Ukraine response and congressional remedies remain unclear.",
+      "watch": "Treasury or State guidance, a waiver theory, court action, congressional action, confirmed shipment or October 18 sanctions implementation."
+    },
+    {
+      "id": "columbus-pizza-expo",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://www.aol.com/articles/columbus-event-brings-pizza-cooks-000000000.html"
+      ],
+      "new_fact": "NBC4 reported that Pizza Expo Columbus ended Monday at the Greater Columbus Convention Center after drawing about 3,000 pizza shop owners and cooks plus about 2,000 pizza fans.",
+      "new_takeaway": "A recurring niche trade show can become downtown convention demand and a small-business supplier/margin signal, not merely a consumer event.",
+      "why_now": "The event wrapped Monday and organizers said they plan to continue it in 2027.",
+      "previous_coverage": "Recent Columbus segments covered early voting, gas tax, crisis response, housing, weather/event logistics and marathon planning; no pizza expo or downtown trade-show segment.",
+      "uncertainty": "No public economic-impact number or 2027 contract detail was disclosed.",
+      "watch": "Whether organizers confirm 2027 dates and whether downtown convention calendars keep adding specialty trade shows."
+    },
+    {
+      "id": "mpf-va-refinance-subproduct",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-02",
+      "sources": [
+        "https://www.fhlbmpf.com/"
+      ],
+      "new_fact": "Beginning October 13, all VA refinance loans delivered through the MPF Program must use the new Govt 30 YR VA Refinance subproduct and corresponding VA refinance delivery commitment pricing grid.",
+      "new_takeaway": "The operational risk is pricing-grid and delivery-routing defects for VA refinance files, not borrower eligibility or a generic rate update.",
+      "why_now": "The requirement becomes effective on the episode date after the Columbus Day funding pause.",
+      "previous_coverage": "Recent lending segments covered Freddie delivery, UAD exceptions, Fannie guide updates, rates, MBA credit availability and FHA score implementation; no MPF VA refi delivery segment.",
+      "uncertainty": "MPF may issue clarifications if participating financial institutions report mapping or pricing issues.",
+      "watch": "MPF clarifications, reported delivery defects, pricing-grid corrections or broader VA refinance execution changes."
+    },
+    {
+      "id": "mashreq-ibm-bob-pilot",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://mea.newsroom.ibm.com/mashreq-pilots-ibm-bob-to-advance-agentic-ai-for-integration-engineering"
+      ],
+      "new_fact": "IBM announced that Mashreq is piloting IBM Bob for integration engineering, reporting up to a 60%-70% reduction in design and troubleshooting time and about 4,000 AI-agent requests per month through a secure gateway.",
+      "new_takeaway": "The banking-AI buyer question is whether faster integration design also produces safer deployment quality, not only whether engineers save minutes.",
+      "why_now": "The announcement was published October 12 and changes the bank AI ledger with a new pilot row.",
+      "previous_coverage": "Recent bank AI segments covered Upstart, Incognia, Plaid, BNP, MAS and Evident; no Mashreq/IBM integration-engineering row.",
+      "uncertainty": "Evidence is company/vendor reported; no independent defect-rate, outage, security, customer-impact or regulator-acceptance metric was disclosed.",
+      "watch": "Production rollout, independent quality evidence, incident-resolution metric, security findings or regulator/customer disclosure.",
+      "ledger_row_changed": "Mashreq / IBM Bob integration engineering: new pilot row in lane 7 with company/vendor-reported time-saved metric and missing quality controls."
+    },
+    {
+      "id": "meta-muse-wonder",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+        "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai"
+      ],
+      "new_fact": "Meta launched Muse Wonder and Muse Wonder Full, with Muse Wonder available through the Meta Model API and Muse Code and Wonder Full limited to Muse Code subscribers.",
+      "new_takeaway": "Meta's frontier return is actionable only after buyers distinguish version availability, memory behavior, safety evidence and independent workflow results.",
+      "why_now": "The models launched October 12, within 24 hours of the episode cutoff.",
+      "previous_coverage": "Recent frontier segments covered OpenAI safety researchers and Anthropic agent failures; no Meta Muse Wonder segment.",
+      "uncertainty": "Meta's additional safety evaluations were promised but not yet public at cutoff, and benchmark claims remain first-party until third-party workflow replication.",
+      "watch": "Full safety report publication, independent workflow tests, Wonder Full API access, pricing changes or enterprise-control documentation.",
+      "frontier_bar": "New capability and access shift for agentic frontier models, with practical workflow implications and safety-evidence gap."
+    },
+    {
+      "id": "monday-market-oil-rally",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://www.marketscreener.com/news/oil-rally-pressures-s-p-nasdaq-microsoft-salesforce-buoy-dow-ce785dddd980f525",
+        "https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235"
+      ],
+      "new_fact": "Reuters reported Monday that oil touched its highest level in about two weeks, chip stocks fell and investors looked ahead to bank earnings, inflation data and retail sales.",
+      "new_takeaway": "For borrowers and local finance teams, oil and yields matter more than a mixed stock index when inflation and rate expectations are still live.",
+      "why_now": "Monday's market setup leads into Tuesday bank earnings and Wednesday CPI.",
+      "previous_coverage": "Prior episodes covered Friday and Monday market setups; this is kept compact and tied to fresh oil/earnings/CPI timing.",
+      "uncertainty": "Treasury cash-market signals were limited by the holiday, and market levels can change during Tuesday trading.",
+      "watch": "Bank earnings credit commentary, Wednesday CPI, retail sales, oil and Treasury yields."
+    },
+    {
+      "id": "columbus-record-warm-weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=40.0840&lon=-83.1102"
+      ],
+      "new_fact": "The Columbus forecast at cutoff showed partly cloudy early conditions, a high near 87 and a chance to break the old record high for the date, with Wednesday cooler and bringing showers.",
+      "new_takeaway": "Treat Tuesday like a late-summer day and use the dry window before Wednesday showers.",
+      "why_now": "Daily local utility.",
+      "previous_coverage": "Routine daily weather; the record-warm day differs from yesterday's fog/warm setup.",
+      "uncertainty": "Record-high and shower timing can shift with updated forecasts.",
+      "watch": "Wednesday shower timing and any heat-related local advisories."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "2026",
+      "reason": "Episode date, source dates and future watch dates were checked against source metadata and the America/New_York episode date; some source fetches expose dates inconsistently."
+    },
+    {
+      "claim": "https://apnews.com/article/963624ed2ed30ae4a0259ffd1880fefa",
+      "reason": "AP page was opened and browser-verified at cutoff; AP pages often return unusably short or script-heavy bodies to curl."
+    },
+    {
+      "claim": "https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235",
+      "reason": "AP market page was found and browser-verified for Monday's index context; curl may not expose the full article body."
+    },
+    {
+      "claim": "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai",
+      "reason": "Axios page was found and browser-verified at cutoff for competitive framing; the primary Meta source supports launch, access and safety-report details."
+    },
+    {
+      "claim": "https://www.marketscreener.com/news/oil-rally-pressures-s-p-nasdaq-microsoft-salesforce-buoy-dow-ce785dddd980f525",
+      "reason": "Marketscreener carried Reuters text and was browser/search verified at cutoff; curl returned too short a body for the claim checker."
+    },
+    {
+      "claim": "18",
+      "reason": "AP Russian diesel story states the sanctions provisions go into effect October 18; AP fetch was unusable but the page was browser-verified."
+    },
+    {
+      "claim": "3000",
+      "reason": "NBC4/AOL local story reports about 3,000 pizza shop owners and cooks at Pizza Expo Columbus; punctuation normalization causes the checker to compare 3000."
+    },
+    {
+      "claim": "2000",
+      "reason": "NBC4/AOL local story reports about 2,000 pizza fans at Pizza Expo Columbus; punctuation normalization causes the checker to compare 2000."
+    },
+    {
+      "claim": "87",
+      "reason": "Columbus weather high and record-warm language were rechecked using the weather tool at cutoff; weather-tool output is not fetchable by curl as an HTTPS source."
+    },
+    {
+      "claim": "66",
+      "reason": "Current Columbus temperature was rechecked using the weather tool at cutoff; the final script does not rely on it as a major claim."
+    },
+    {
+      "claim": "AOL",
+      "reason": "AOL carried the NBC4 local article and exposed its text in browser/search; the spoken script attributes to NBC4 and the source URL is in the research record."
+    },
+    {
+      "claim": "Axios",
+      "reason": "Axios Meta story was opened and browser-verified for competitive framing; if curl cannot fetch it, the primary Meta source still supports the launch details."
+    },
+    {
+      "claim": "Bank of America",
+      "reason": "Bank-earnings timing was verified from Reuters/AP/Kiplinger search results at cutoff; it is used as a compact market-calendar claim."
+    },
+    {
+      "claim": "Bank of America and Morgan Stanley",
+      "reason": "Bank-earnings timing for Wednesday was verified from Reuters/AP/Kiplinger search results at cutoff; it is a compact market-calendar claim."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "False positive from the phrase 'AI in Banking, I added Mashreq'; the factual claim is the Mashreq ledger update, supported by the IBM source and local ledger."
+    },
+    {
+      "claim": "Citigroup",
+      "reason": "Bank-earnings timing was verified from Reuters/AP/Kiplinger search results at cutoff; it is used as a compact market-calendar claim."
+    },
+    {
+      "claim": "Columbus Day",
+      "reason": "MPF homepage states the Columbus Day delivery/funding pause; the effective-date claim comes from the same fetchable MPF source."
+    },
+    {
+      "claim": "Congress",
+      "reason": "AP Russian diesel article supports congressional criticism and the statutory import-ban context; AP fetch may be unusable."
+    },
+    {
+      "claim": "CPI",
+      "reason": "Reuters/AP/Kiplinger market-calendar results verified that September CPI is due Wednesday; used as compact market context."
+    },
+    {
+      "claim": "Goldman Sachs",
+      "reason": "Bank-earnings timing was verified from Reuters/AP/Kiplinger search results at cutoff; it is used as a compact market-calendar claim."
+    },
+    {
+      "claim": "JPMorgan",
+      "reason": "Bank-earnings timing was verified from Reuters/AP/Kiplinger search results at cutoff; it is used as a compact market-calendar claim."
+    },
+    {
+      "claim": "JPMorgan Goldman Sachs Wells Fargo and Citigroup",
+      "reason": "Bank-earnings timing for Tuesday was verified from Reuters/AP/Kiplinger search results at cutoff; punctuation caused the checker to join the names."
+    },
+    {
+      "claim": "OpenAI Anthropic and Google",
+      "reason": "Axios framed Meta Muse Wonder as competing with OpenAI, Anthropic and Google; Meta primary source supports the launch and the Axios page was browser-verified."
+    },
+    {
+      "claim": "President Trump Russian",
+      "reason": "False positive joining the speaker title and topic; AP Russian diesel story supports President Trump and the Russian diesel deal."
+    },
+    {
+      "claim": "Russian",
+      "reason": "AP Russian diesel article supports the Russian diesel, sanctions and Ukraine claims; AP fetch may be unusable."
+    },
+    {
+      "claim": "Russian-sanctions",
+      "reason": "Hyphenated form of the AP-supported Russian sanctions timing claim; AP fetch was unusable but the story was browser-verified."
+    },
+    {
+      "claim": "S&P",
+      "reason": "AP/Reuters market stories support S&P market context; the phrase is used as generic market-screen context rather than a precise index level."
+    },
+    {
+      "claim": "U.S",
+      "reason": "AP Russian diesel story supports U.S. import-ban and sanctions-law context; AP fetch was unusable but the page was browser-verified."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Treasury is a watch trigger/inference for sanctions guidance based on AP's sanctions and administration context, not a completed action."
+    },
+    {
+      "claim": "Ukraine",
+      "reason": "AP Russian diesel article supports the Ukraine-related statutory condition; AP fetch may be unusable."
+    },
+    {
+      "claim": "Wells Fargo",
+      "reason": "Bank-earnings timing was verified from Reuters/AP/Kiplinger search results at cutoff; it is used as a compact market-calendar claim."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Compared facts and conclusions against Oct. 6-12 scripts. Avoided third consecutive Riyadh/FHA/Anthropic carryover without a materially different trigger. Home lending leads with an MPF VA refinance delivery workflow and consequence. Banking AI updates a ledger row with a named pilot, baseline and limitation. Frontier AI updates the tracker with Meta Muse Wonder while separating Meta claims from independent evidence. Closing has exactly three watch items.",
+    "script_sha256": "22972b20f471e7c0514a605490612aeb47583a9e2bdfa7ec64b7843bb72fa210"
+  }
+}
