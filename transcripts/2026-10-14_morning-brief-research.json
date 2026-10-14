@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-14",
+  "cutoff": "2026-10-14T01:44:54-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-07_morning-brief-script.md",
+    "2026-10-08_morning-brief-script.md",
+    "2026-10-09_morning-brief-script.md",
+    "2026-10-10_morning-brief-script.md",
+    "2026-10-11_morning-brief-script.md",
+    "2026-10-12_morning-brief-script.md",
+    "2026-10-13_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "white-house-press-access-injunction",
+      "beat": "national",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://apnews.com/article/cnn-ms-now-politico-white-house-1a023a8890e8d25d5d293862f4cd47af"
+      ],
+      "decision": "selected",
+      "rationale": "Fresh court order changes press-access operations and differs from prior ABC/FCC license segment."
+    },
+    {
+      "id": "september-cpi-preview",
+      "beat": "markets",
+      "event_date": "2026-10-14",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048"
+      ],
+      "decision": "selected_compact",
+      "rationale": "Fresh market setup for rates, mortgage sheets and Fed expectations."
+    },
+    {
+      "id": "columbus-muslim-voter-day",
+      "beat": "columbus",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://www.wosu.org/politics-government/2026-10-12/what-issues-are-muslim-voters-in-columbus-concerned-about-in-the-2026-midterm-election"
+      ],
+      "decision": "selected",
+      "rationale": "Fresh local turnout and access event, not previously covered in the seven-episode window."
+    },
+    {
+      "id": "firstclose-cotality-home-equity",
+      "beat": "home_lending",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://www.firstclose.com/firstclose-collaborates-with-cotality/",
+        "https://www.mortgage.news/article/firstclose-cotality-home-equity-platform-seven-day-close-october-2026"
+      ],
+      "decision": "selected",
+      "rationale": "Specific operational change for home-equity origination workflow; avoids routine rate recap."
+    },
+    {
+      "id": "td-agentic-mortgage-operations",
+      "beat": "bank_ai",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://td.mediaroom.com/2026-10-13-TD-expands-agentic-AI-across-mortgage-operations-to-make-banking-faster,-simpler-and-more-human",
+        "https://www.mortgage.news/article/td-bank-agentic-ai-mortgage-funding-discharge-canada-october-2026"
+      ],
+      "decision": "selected",
+      "rationale": "Named bank deployment in mortgage funding and discharge with disclosed company-reported time metrics."
+    },
+    {
+      "id": "gemini-argon-safety-update",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+        "https://deepmind.google/models/model-cards/gemini-4-argon/"
+      ],
+      "decision": "selected",
+      "rationale": "Fresh safety evidence and model-card update for an existing frontier model thread."
+    },
+    {
+      "id": "google-singapore-on-device-scam-model",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-14",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      ],
+      "decision": "rejected",
+      "rationale": "Fresh and useful, but banking AI and frontier slots already had stronger workflow relevance today."
+    },
+    {
+      "id": "experian-soft-pull-mortgage-profile",
+      "beat": "home_lending",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://www.housingwire.com/articles/experian-power-profile-plus/"
+      ],
+      "decision": "rejected",
+      "rationale": "Fresh mortgage-credit workflow story, but FirstClose/Cotality better rotated into borrower products and home-equity operations."
+    }
+  ],
+  "stories": [
+    {
+      "id": "white-house-press-access-injunction",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://apnews.com/article/cnn-ms-now-politico-white-house-1a023a8890e8d25d5d293862f4cd47af"
+      ],
+      "new_fact": "Judge Timothy Kelly issued a preliminary injunction preserving CNN, MS NOW and Politico hard-pass access while the lawsuit proceeds.",
+      "new_takeaway": "White House credentialing is being treated as operating infrastructure subject to due process and viewpoint limits.",
+      "why_now": "The temporary order was expiring Tuesday and the judge extended protection late Tuesday.",
+      "previous_coverage": "No direct prior segment; October 7 covered ABC/FCC licensing, a different press/regulator conflict.",
+      "uncertainty": "Appeal posture, final merits ruling and any narrowed access policy remain unresolved.",
+      "watch": "Justice Department appeal, narrowed credential policy or a merits schedule."
+    },
+    {
+      "id": "columbus-muslim-voter-day",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://www.wosu.org/politics-government/2026-10-12/what-issues-are-muslim-voters-in-columbus-concerned-about-in-the-2026-midterm-election"
+      ],
+      "new_fact": "More than a dozen Muslim organizations held the first Columbus Muslim Voter Day near the Franklin County Board of Elections and plan a repeat on October 24.",
+      "new_takeaway": "The local access issue is the full path to voting: trust, transportation, ID, safety perceptions and community translation.",
+      "why_now": "The first event occurred Monday during early voting and the next event has a dated October 24 trigger.",
+      "previous_coverage": "No prior coverage in the seven-episode window.",
+      "uncertainty": "Turnout impact and whether the model repeats beyond one community are not yet known.",
+      "watch": "October 24 repeat event and early-vote turnout patterns around Morse Road."
+    },
+    {
+      "id": "firstclose-cotality-home-equity",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://www.firstclose.com/firstclose-collaborates-with-cotality/",
+        "https://www.mortgage.news/article/firstclose-cotality-home-equity-platform-seven-day-close-october-2026"
+      ],
+      "new_fact": "FirstClose and Cotality launched a deeper integration for home-equity origination from application and automated decisioning through valuation, title, closing and funding.",
+      "new_takeaway": "The operational test is whether a second-lien workflow can shorten cycle time without hiding title, valuation or borrower-communication exceptions.",
+      "why_now": "The primary announcement was dated October 12 and reported October 13.",
+      "previous_coverage": "Prior lending segments covered UAD, Fannie guide changes, FHA score implementation and MPF VA refinance delivery; this is a new home-equity workflow story.",
+      "uncertainty": "No live-client average close times, exception rates, title outcomes or pricing were disclosed.",
+      "watch": "FirstClose or Cotality live-client close-time data, exception handling detail or adoption disclosure."
+    },
+    {
+      "id": "td-agentic-mortgage-operations",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://td.mediaroom.com/2026-10-13-TD-expands-agentic-AI-across-mortgage-operations-to-make-banking-faster,-simpler-and-more-human",
+        "https://www.mortgage.news/article/td-bank-agentic-ai-mortgage-funding-discharge-canada-october-2026"
+      ],
+      "new_fact": "TD announced agentic AI for mortgage funding and discharge after an earlier pre-adjudication tool reportedly cut average processing time from 15 hours to less than three minutes.",
+      "new_takeaway": "Banks are moving AI into document assembly and verification, making correction-rate measurement and human approval logs the key control.",
+      "why_now": "TD announced the new capabilities on October 13.",
+      "previous_coverage": "No TD row or mortgage-funding/discharge AI segment appeared in the prior seven scripts.",
+      "uncertainty": "Volumes, error rates, costs, correction rates and staffing changes for the new tools were not disclosed.",
+      "watch": "TD disclosure of volumes, correction rates, funding/discharge defects or customer timing outcomes.",
+      "ledger_row_changed": "Added TD Bank Group / Real Estate Secured Lending mortgage funding and discharge agentic AI as production lane 4, with company-reported time metrics and missing quality metrics."
+    },
+    {
+      "id": "gemini-argon-safety-update",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-13",
+      "publication_date": "2026-10-13",
+      "sources": [
+        "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+        "https://deepmind.google/models/model-cards/gemini-4-argon/"
+      ],
+      "new_fact": "Google published fresh Gemini 4 Argon safety evidence, including 12 of 12 simulated cyberattack scenarios solved and new monitoring claims.",
+      "new_takeaway": "Safety telemetry is now a buying requirement for frontier agents because stronger models can both solve harder cyber tasks and attempt boundary workarounds.",
+      "why_now": "Google posted the safety update and updated the model card on October 13.",
+      "previous_coverage": "October 1 and October 2 covered Argon's launch and third-party comparison page; this segment uses a new safety report and model-card update.",
+      "uncertainty": "The figures are lab-reported and need independent workflow replication.",
+      "watch": "Independent cyber, bio-safety or prompt-injection replication of the Argon safety claims.",
+      "frontier_bar": "Safety and security finding plus agent/tool-use control evidence."
+    },
+    {
+      "id": "september-cpi-preview",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-14",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048"
+      ],
+      "new_fact": "AP reported economists surveyed by FactSet expect September CPI at 3.6 percent year over year and 0.6 percent month over month.",
+      "new_takeaway": "The market issue is whether inflation changes the Fed path that feeds Treasury yields, mortgage sheets and local borrowing costs.",
+      "why_now": "The Labor Department report is due Wednesday morning.",
+      "previous_coverage": "Prior markets segments discussed oil, bank earnings and rates, but not this CPI release setup.",
+      "uncertainty": "The actual CPI print was not yet released at cutoff.",
+      "watch": "Wednesday CPI print and Fed reaction before the October 27-28 meeting."
+    },
+    {
+      "id": "columbus-weather-2026-10-14",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-14",
+      "publication_date": "2026-10-14",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "NWS forecast called for showers and thunderstorms Wednesday with a high near 82 and around an 80 percent daytime precipitation chance.",
+      "new_takeaway": "The useful local action is to treat warmth as a storm-day setup, not as a dry-day signal.",
+      "why_now": "The forecast applies to today's commute and outdoor planning.",
+      "previous_coverage": "Routine weather is included daily but not counted toward freshness.",
+      "uncertainty": "Thunderstorm timing and exact rainfall vary by location.",
+      "watch": "NWS updates on thunderstorm timing and rainfall amounts."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/cnn-ms-now-politico-white-house-1a023a8890e8d25d5d293862f4cd47af",
+      "reason": "AP page was browser-verified at cutoff; curl returned a 16-character unusable body while the browser source showed the injunction, 78 reporters, parties and Judge Timothy Kelly details."
+    },
+    {
+      "claim": "https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048",
+      "reason": "AP page was browser-verified at cutoff; curl returned a 16-character unusable body while the browser source showed the FactSet CPI expectations, Warsh comments and Oct. 27-28 Fed timing."
+    },
+    {
+      "claim": "0.6",
+      "reason": "Browser-verified AP CPI story reported the expected 0.6 percent August-to-September CPI increase; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "2.5",
+      "reason": "Browser-verified AP CPI story reported expected core prices at 2.5 percent year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "27",
+      "reason": "Browser-verified AP CPI story reported the Fed meeting dates of October 27-28; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "3.4",
+      "reason": "Browser-verified AP CPI story reported August CPI at 3.4 percent year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "3.6",
+      "reason": "Browser-verified AP CPI story reported FactSet economists expected 3.6 percent September CPI year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "78",
+      "reason": "Browser-verified AP press-access story reported the bans affected 78 reporters; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Banking I",
+      "reason": "Claim extractor artifact from the production phrase 'For AI in Banking, I added'; not a factual entity."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "reason": "Browser-verified AP press-access story named CNN, MS NOW and Politico; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "District Judge Timothy Kelly",
+      "reason": "Browser-verified AP press-access story named U.S. District Judge Timothy Kelly; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "FactSet",
+      "reason": "Browser-verified AP CPI story attributed inflation expectations to a FactSet economist survey; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Fed Chair Kevin Warsh",
+      "reason": "Browser-verified AP CPI story named Fed Chairman Kevin Warsh and his recent inflation comments; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Justice Department",
+      "reason": "Browser-verified AP press-access story described Justice Department lawyers arguing the administration's position; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Kelly",
+      "reason": "Browser-verified AP press-access story repeatedly identified Judge Kelly; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Morse Road",
+      "reason": "WOSU source places the event at International Mall next to the Franklin County Board of Elections on Morse Road; the road name is local geographic context for that sourced location."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Generic market term in the phrase Treasury yields; included as market context, not a named source-specific institutional claim."
+    },
+    {
+      "claim": "Tuesday TD",
+      "reason": "Claim extractor artifact spanning the date setup and TD name; the TD announcement itself is source-supported."
+    },
+    {
+      "claim": "White House",
+      "reason": "Browser-verified AP press-access story is specifically about White House reporter access; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "the October",
+      "reason": "Claim extractor artifact from the phrase 'the October 24 repeat event'; not a factual entity."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "caf2da4db63e5a4e9a687b13486bb31d69c7cf63e1585e519683a8a11b1f8777",
+    "notes": "Compared selected facts and takeaways against seven prior scripts. Only ongoing theme reuse is press-access institutions and frontier agent safety; each has new dated facts and different operational takeaway."
+  }
+}

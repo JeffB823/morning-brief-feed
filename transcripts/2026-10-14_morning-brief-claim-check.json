@@ -1,0 +1,166 @@
+{
+  "script": "2026-10-14_morning-brief-script.md",
+  "script_sha256": "caf2da4db63e5a4e9a687b13486bb31d69c7cf63e1585e519683a8a11b1f8777",
+  "checked_at": "2026-10-14T01:53:09-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/politics-government/2026-10-12/what-issues-are-muslim-voters-in-columbus-concerned-about-in-the-2026-midterm-election",
+      "characters": 9317
+    },
+    {
+      "url": "https://www.firstclose.com/firstclose-collaborates-with-cotality/",
+      "characters": 5991
+    },
+    {
+      "url": "https://www.mortgage.news/article/firstclose-cotality-home-equity-platform-seven-day-close-october-2026",
+      "characters": 3997
+    },
+    {
+      "url": "https://td.mediaroom.com/2026-10-13-TD-expands-agentic-AI-across-mortgage-operations-to-make-banking-faster,-simpler-and-more-human",
+      "characters": 6049
+    },
+    {
+      "url": "https://www.mortgage.news/article/td-bank-agentic-ai-mortgage-funding-discharge-canada-october-2026",
+      "characters": 3717
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+      "characters": 12765
+    },
+    {
+      "url": "https://deepmind.google/models/model-cards/gemini-4-argon/",
+      "characters": 23210
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8877
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/cnn-ms-now-politico-white-house-1a023a8890e8d25d5d293862f4cd47af",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was browser-verified at cutoff; curl returned a 16-character unusable body while the browser source showed the injunction, 78 reporters, parties and Judge Timothy Kelly details."
+    },
+    {
+      "url": "https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was browser-verified at cutoff; curl returned a 16-character unusable body while the browser source showed the FactSet CPI expectations, Warsh comments and Oct. 27-28 Fed timing."
+    }
+  ],
+  "claims_checked": 54,
+  "claims_supported": 36,
+  "claims_excepted": [
+    {
+      "claim": "0.6",
+      "kind": "number",
+      "example": "AP says prices are expected to rise 0.6 percent from August to September, the biggest monthly jump since April, driven in part by gas.",
+      "reason": "Browser-verified AP CPI story reported the expected 0.6 percent August-to-September CPI increase; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "2.5",
+      "kind": "number",
+      "example": "Core prices are expected to rise 2.5 percent from a year ago.",
+      "reason": "Browser-verified AP CPI story reported expected core prices at 2.5 percent year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "27",
+      "kind": "number",
+      "example": "Investors could lean harder into the idea that the Fed pauses at the October 27 and 28 meeting.",
+      "reason": "Browser-verified AP CPI story reported the Fed meeting dates of October 27-28; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "3.4",
+      "kind": "number",
+      "example": "AP says economists surveyed by FactSet expect consumer prices to have risen 3.6 percent from a year earlier, up from 3.4 percent in August.",
+      "reason": "Browser-verified AP CPI story reported August CPI at 3.4 percent year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "3.6",
+      "kind": "number",
+      "example": "AP says economists surveyed by FactSet expect consumer prices to have risen 3.6 percent from a year earlier, up from 3.4 percent in August.",
+      "reason": "Browser-verified AP CPI story reported FactSet economists expected 3.6 percent September CPI year over year; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "78",
+      "kind": "number",
+      "example": "AP says the bans affected 78 reporters across the three organizations.",
+      "reason": "Browser-verified AP press-access story reported the bans affected 78 reporters; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Banking I",
+      "kind": "name",
+      "example": "For AI in Banking, I added TD Bank Group to the ledger as a production row in document operations and mortgage workflow support.",
+      "reason": "Claim extractor artifact from the production phrase 'For AI in Banking, I added'; not a factual entity."
+    },
+    {
+      "claim": "CNN MS NOW and Politico",
+      "kind": "name",
+      "example": "District Judge Timothy Kelly late Tuesday extended an order blocking the Trump administration from banning CNN, MS NOW and Politico reporters while their lawsuit proceeds.",
+      "reason": "Browser-verified AP press-access story named CNN, MS NOW and Politico; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "District Judge Timothy Kelly",
+      "kind": "name",
+      "example": "District Judge Timothy Kelly late Tuesday extended an order blocking the Trump administration from banning CNN, MS NOW and Politico reporters while their lawsuit proceeds.",
+      "reason": "Browser-verified AP press-access story named U.S. District Judge Timothy Kelly; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "FactSet",
+      "kind": "name",
+      "example": "AP says economists surveyed by FactSet expect consumer prices to have risen 3.6 percent from a year earlier, up from 3.4 percent in August.",
+      "reason": "Browser-verified AP CPI story attributed inflation expectations to a FactSet economist survey; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Fed Chair Kevin Warsh",
+      "kind": "name",
+      "example": "Fed Chair Kevin Warsh already raised rates last month and said inflation was too high for too long.",
+      "reason": "Browser-verified AP CPI story named Fed Chairman Kevin Warsh and his recent inflation comments; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Justice Department",
+      "kind": "name",
+      "example": "Justice Department lawyers argued White House access is a privilege and that the president can act to protect national security and counter misinformation.",
+      "reason": "Browser-verified AP press-access story described Justice Department lawyers arguing the administration's position; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Kelly",
+      "kind": "name",
+      "example": "Kelly said the outlets are likely to succeed on free speech and due process claims, and he preserved the status quo because the loss of hard passes would change how reporters do their jobs.",
+      "reason": "Browser-verified AP press-access story repeatedly identified Judge Kelly; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "Morse Road",
+      "kind": "name",
+      "example": "Watch the October 24 repeat event and early-vote turnout patterns around Morse Road.",
+      "reason": "WOSU source places the event at International Mall next to the Franklin County Board of Elections on Morse Road; the road name is local geographic context for that sourced location."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "If today's report confirms another gas-driven acceleration, markets may keep pressure on Treasury yields, mortgage sheets and local borrowing costs even if stocks stay calm.",
+      "reason": "Generic market term in the phrase Treasury yields; included as market context, not a named source-specific institutional claim."
+    },
+    {
+      "claim": "Tuesday TD",
+      "kind": "name",
+      "example": "On Tuesday, TD announced two agentic AI capabilities for its Real Estate Secured Lending business.",
+      "reason": "Claim extractor artifact spanning the date setup and TD name; the TD announcement itself is source-supported."
+    },
+    {
+      "claim": "White House",
+      "kind": "name",
+      "example": "Today: a judge turns White House press access into an operating rule, a Columbus voter event shows where ballot friction still lives, home-equity lenders get a new seven-day workflow pitch, and Google's Argon safety report gives AI buyers a sharper test for agent controls.",
+      "reason": "Browser-verified AP press-access story is specifically about White House reporter access; curl could not fetch usable AP text."
+    },
+    {
+      "claim": "the October",
+      "kind": "name",
+      "example": "Watch the October 24 repeat event and early-vote turnout patterns around Morse Road.",
+      "reason": "Claim extractor artifact from the phrase 'the October 24 repeat event'; not a factual entity."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
