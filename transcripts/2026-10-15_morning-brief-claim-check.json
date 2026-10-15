@@ -1,0 +1,126 @@
+{
+  "script": "2026-10-15_morning-brief-script.md",
+  "script_sha256": "789e563997dd30244d586b61963e11bd2c7161fabaa32a5e29bd95537a59c527",
+  "checked_at": "2026-10-15T01:47:55-0400",
+  "sources_fetched": [
+    {
+      "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000481/bac09302026ex991.htm",
+      "characters": 66604
+    },
+    {
+      "url": "https://www.housingwire.com/articles/bofa-q3-home-loans-down-12/",
+      "characters": 7541
+    },
+    {
+      "url": "https://www.starlingbank.com/news/starling-backs-uk-sovereign-cloud/",
+      "characters": 7030
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "characters": 7530
+    },
+    {
+      "url": "https://x.ai/news/grok-voice-3",
+      "characters": 5258
+    },
+    {
+      "url": "https://docs.x.ai/developers/release-notes?release=2026-10-9b9dfeba",
+      "characters": 18082
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8562
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/79578459490a2fa1a18d5460cff69029",
+      "error": "page body was only 16 characters",
+      "reason": "AP's article was verified in browser search at cutoff, which reported the October 14 D.C. Circuit hearing and judges' questions about limits; curl returned a 16-character unusable response."
+    },
+    {
+      "url": "https://www.nbc4i.com/news/local-news/union-county/central-ohio-residents-continue-pushing-back-on-massive-power-line-project/",
+      "error": "page body was only 35 characters",
+      "reason": "NBC4 headline and details were verified in browser search at cutoff, which reported the active comment window and roughly 220-mile proposal; curl returned a 35-character unusable response."
+    }
+  ],
+  "claims_checked": 41,
+  "claims_supported": 29,
+  "claims_excepted": [
+    {
+      "claim": "220",
+      "kind": "number",
+      "example": "NBC4 reports that residents have a comment window on Grid Growth, a proposal for roughly 220 miles of high-voltage transmission as electricity demand rises across the state.",
+      "reason": "Browser-verified NBC4 reporting described Grid Growth as roughly 220 miles of high-voltage transmission; direct fetch was unusable."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Today: appellate judges press the government on the limits of a president's power to put troops on Washington streets, Central Ohio residents get a concrete chance to shape a power-line route, and bank earnings show why home equity is gaining attention while first liens lose volume.",
+      "reason": "Geographic show framing for the locally sourced transmission story; the NBC4 result is Central Ohio reporting."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "The administration says the president has broad authority in the capital; challengers say routine street patrols cross a line that Congress did not authorize.",
+      "reason": "General legal context in the court discussion, not an asserted legislative act or source-specific fact."
+    },
+    {
+      "claim": "D.C",
+      "kind": "name",
+      "example": "Court of Appeals for the D.C.",
+      "reason": "Claim-extractor artifact from the court's standard geographic name, D.C. Circuit."
+    },
+    {
+      "claim": "Grid Growth",
+      "kind": "name",
+      "example": "NBC4 reports that residents have a comment window on Grid Growth, a proposal for roughly 220 miles of high-voltage transmission as electricity demand rises across the state.",
+      "reason": "Browser-verified NBC4 report named Grid Growth; direct fetch was unusable."
+    },
+    {
+      "claim": "Guard",
+      "kind": "name",
+      "example": "The Guard has already been on the streets for more than a year.",
+      "reason": "Claim-extractor artifact from the source-backed National Guard story."
+    },
+    {
+      "claim": "HELOC",
+      "kind": "name",
+      "example": "That moves work toward HELOC and closed-end equity pricing, lien-position review, disclosures, servicing setup and the question of whether the payment shock is clear.",
+      "reason": "Standard product category used to explain the source-backed home-equity production mix, not a claim that a particular Bank of America product changed."
+    },
+    {
+      "claim": "President Trump National Guard",
+      "kind": "name",
+      "example": "Circuit heard arguments Wednesday over President Trump's National Guard deployment in Washington, and Associated Press reports that judges repeatedly asked government lawyers whether there is any limit on that authority.",
+      "reason": "Claim-extractor span for the AP-source-backed D.C. Circuit hearing on the Washington Guard deployment."
+    },
+    {
+      "claim": "Union Franklin",
+      "kind": "name",
+      "example": "For companies planning in Union, Franklin or adjacent counties, the issue is whether the proposed grid map matches the places where they expect to build and hire.",
+      "reason": "Claim-extractor span naming Central Ohio counties in local planning context, not a discrete unsupported entity claim."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "Today: appellate judges press the government on the limits of a president's power to put troops on Washington streets, Central Ohio residents get a concrete chance to shape a power-line route, and bank earnings show why home equity is gaining attention while first liens lose volume.",
+      "reason": "Claim-extractor artifact for Washington, D.C., the location of the AP-source-backed Guard hearing."
+    },
+    {
+      "claim": "Washington Guard",
+      "kind": "name",
+      "example": "Circuit's written decision on limits for the Washington Guard deployment; second, the Grid Growth route-comment deadline and any revised Central Ohio corridor materials; third, whether Starling names a live transaction-model use case with a measured result.",
+      "reason": "Short form for the AP-source-backed Washington National Guard deployment."
+    },
+    {
+      "claim": "Washington and Associated Press",
+      "kind": "name",
+      "example": "Circuit heard arguments Wednesday over President Trump's National Guard deployment in Washington, and Associated Press reports that judges repeatedly asked government lawyers whether there is any limit on that authority.",
+      "reason": "Claim-extractor artifact spanning a location and attribution; AP was browser-verified at cutoff."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
