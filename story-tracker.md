@@ -1,4 +1,4 @@
-# Story Tracker - updated 2026-10-15
+# Story Tracker - updated 2026-10-16
 
 Only active stories with a specific likely development within five days appear here. Fresh candidates must be discovered before this file is consulted.
 
@@ -7,6 +7,36 @@ Only active stories with a specific likely development within five days appear h
 - Last takeaway: The decision may define a durable authority rule for deployment scope and duration, rather than decide a single patrol dispute.
 - Source: https://apnews.com/article/79578459490a2fa1a18d5460cff69029
 - Revisit only for: written opinion, emergency order, new deployment scope, local-government response, or Supreme Court filing. Expire October 20 without one of these triggers.
+
+## Ohio School Voucher Appeal
+- Last verified development: 2026-10-15; an Ohio court ruled the private-school voucher program unconstitutional, and the state said it would appeal.
+- Last takeaway: Families and schools need to distinguish the current ruling from the eventual appellate outcome when planning enrollment and budgets.
+- Source: https://apnews.com/article/b63d98b59e705f04a7d2afbef330b516
+- Revisit only for: appeal filing, stay request, state guidance, school participation change, or an appellate order. Expire October 21 without one of these triggers.
+
+## Central Ohio Campaign Access
+- Last verified development: 2026-10-14; WOSU reported that reporters were barred from Amy Acton's student rally near Ohio State, while Vivek Ramaswamy appeared at a Columbus community forum.
+- Last takeaway: Open forums and on-the-record follow-ups are the useful evidence of how voters can test competing policy claims.
+- Source: https://www.wosu.org/politics-government/2026-10-14/amy-acton-campaigns-at-closed-door-rally-while-vivek-ramaswamy-criticizes-her-at-columbus-forum
+- Revisit only for: a Central Ohio debate or forum, campaign policy release, access change, or a substantive question-and-answer exchange. Expire October 21 without one of these triggers.
+
+## MPF Xtra Escrow Reporting Conversion
+- Last verified development: 2026-10-15; MPF said participating MPF Xtra institutions must submit escrow events separately to Computershare in Excel, CSV or JSON beginning December 1; ASCII files will not be accepted.
+- Last takeaway: This is a servicing data-handoff and reconciliation conversion, not a borrower-rate or eligibility rule.
+- Source: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates
+- Revisit only for: implementation guide, sample layout, clarified field mapping, reported test failure, or deadline adjustment. Expire October 21 without one of these triggers.
+
+## Bank of America AI Scale Disclosure
+- Last verified development: 2026-10-14; Bank of America reported more than 200,000 teammates using AI tools across more than 300 approved use cases.
+- Last takeaway: Adoption counts show scale but do not substitute for a named workflow baseline, quality measure or customer outcome.
+- Source: https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000481/bac09302026ex991.htm
+- Revisit only for: named use-case metric, quality or risk outcome, investor-call detail, control disclosure, or customer result. Expire October 20 without one of these triggers.
+
+## GPT-Live-1.1 Voice Update
+- Last verified development: 2026-10-15; OpenAI release notes announced GPT-Live-1.1, GPT-Live-1.1 Quip and additional ChatGPT Voice accents and voices.
+- Last takeaway: Voice-version availability does not demonstrate task performance; version-specific call testing is still necessary in regulated workflows.
+- Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+- Revisit only for: version-specific latency, accessibility or task evaluation; enterprise controls; broad availability change; or a regression report. Expire October 21 without one of these triggers.
 
 ## Grid Growth Central Ohio Siting
 - Last verified development: 2026-10-14; NBC4 reported an active resident comment window on Grid Growth's proposed roughly 220-mile high-voltage transmission project.

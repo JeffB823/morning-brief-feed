@@ -1,0 +1,90 @@
+{
+  "script": "2026-10-16_morning-brief-script.md",
+  "script_sha256": "b8586f86e279767f9cb4a20c473d5b2f8b3d60b601585dbadf603e3f9b442955",
+  "checked_at": "2026-10-16T01:40:35-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/politics-government/2026-10-14/amy-acton-campaigns-at-closed-door-rally-while-vivek-ramaswamy-criticizes-her-at-columbus-forum",
+      "characters": 11278
+    },
+    {
+      "url": "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates",
+      "characters": 3620
+    },
+    {
+      "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000481/bac09302026ex991.htm",
+      "characters": 66604
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 8378
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/b63d98b59e705f04a7d2afbef330b516",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was browser-verified at cutoff; AP curl responses commonly return an unusably short script shell to the local claim checker."
+    },
+    {
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI's official release-notes page was browser-verified at cutoff for the October 15 GPT-Live-1.1, Quip, voice and accent entries; its dynamically rendered body was empty to curl."
+    }
+  ],
+  "claims_checked": 35,
+  "claims_supported": 27,
+  "claims_excepted": [
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Watch the next Central Ohio forums and whether campaigns publish substantive policy detail that can be examined beyond a rally stage.",
+      "reason": "Geographic context, not a source assertion; the cited WOSU report locates both campaign events in Columbus near Ohio State and across town."
+    },
+    {
+      "claim": "ChatGPT Voice",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's release notes Thursday announced GPT-Live-1.1 and a smaller GPT-Live-1.1 Quip model for ChatGPT Voice, along with more natural accents across languages and additional voices.",
+      "reason": "The cited October 15 OpenAI release notes expressly identify the GPT-Live-1.1 rollout as occurring in ChatGPT Voice; verified in browser because curl returned no rendered body."
+    },
+    {
+      "claim": "English",
+      "kind": "name",
+      "example": "The stated change is a new Live version and broader voice options, including French, German, Hindi, Japanese, Korean, Mexican Spanish and a new English voice.",
+      "reason": "The cited October 15 OpenAI release notes list a new English voice among the voice additions; verified in browser because curl returned no rendered body."
+    },
+    {
+      "claim": "Excel CSV",
+      "kind": "name",
+      "example": "The Mortgage Partnership Finance program announced Thursday that, beginning December 1, participating institutions using MPF Xtra must submit escrow events separately and report them directly to Computershare in Excel, CSV or JSON.",
+      "reason": "MPF's October 15 announcement lists Excel, CSV and JSON as accepted report formats; the checker combines adjacent capitalized format names."
+    },
+    {
+      "claim": "French German Hindi Japanese Korean Mexican Spanish",
+      "kind": "name",
+      "example": "The stated change is a new Live version and broader voice options, including French, German, Hindi, Japanese, Korean, Mexican Spanish and a new English voice.",
+      "reason": "The cited October 15 OpenAI release notes list these language and locale options; the checker combines the adjacent capitalized names."
+    },
+    {
+      "claim": "GPT-Live-1.1",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's release notes Thursday announced GPT-Live-1.1 and a smaller GPT-Live-1.1 Quip model for ChatGPT Voice, along with more natural accents across languages and additional voices.",
+      "reason": "The cited October 15 OpenAI release notes name GPT-Live-1.1; verified in browser because curl returned no rendered body."
+    },
+    {
+      "claim": "GPT-Live-1.1 Quip",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's release notes Thursday announced GPT-Live-1.1 and a smaller GPT-Live-1.1 Quip model for ChatGPT Voice, along with more natural accents across languages and additional voices.",
+      "reason": "The cited October 15 OpenAI release notes name GPT-Live-1.1 Quip; verified in browser because curl returned no rendered body."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's release notes Thursday announced GPT-Live-1.1 and a smaller GPT-Live-1.1 Quip model for ChatGPT Voice, along with more natural accents across languages and additional voices.",
+      "reason": "OpenAI is the publisher and named source of the cited release notes; verified in browser because curl returned no rendered body."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
