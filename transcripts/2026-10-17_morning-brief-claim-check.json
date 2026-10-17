@@ -1,0 +1,215 @@
+{
+  "script": "2026-10-17_morning-brief-script.md",
+  "script_sha256": "f6d362ac9696e4ae710657d18660cebce0890c694df9881460fcbbe56240e37e",
+  "checked_at": "2026-10-17T01:41:58-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/",
+      "characters": 12283
+    },
+    {
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes?change=anthropic-claude-opus-5-5-and-claude-sonnet-5-5-in-ai-develo",
+      "characters": 140403
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 7987
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd",
+      "error": "page body was only 16 characters",
+      "reason": "AP article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports the signed order, Congress notification, Graham law and prior diesel announcement."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/16/ohio-public-land-space-housing-development-plans",
+      "error": "page body was only 16 characters",
+      "reason": "Axios article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports $140,000, $500 million in bond funds and the 66-square-mile inventory."
+    },
+    {
+      "url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
+      "error": "page body was only 303 characters",
+      "reason": "M&T earnings release opened in browser at cutoff; local fetch returned a 303-character body. It reports $25 million sequential revenue increase and $62.9 billion in June subservicing."
+    },
+    {
+      "url": "https://technode.global/2026/10/16/pingan-ai-deepfake-sandbox/",
+      "error": "page body was only 33 characters",
+      "reason": "TechNode Global article opened and read in browser at cutoff; local fetch returned a 33-character body. It reports Ping An and OneConnect, the over 96% trial result and missing methodology."
+    },
+    {
+      "url": "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056",
+      "error": "page body was only 16 characters",
+      "reason": "AP market close article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports S&P, Nasdaq and Dow closing moves."
+    }
+  ],
+  "claims_checked": 41,
+  "claims_supported": 14,
+  "claims_excepted": [
+    {
+      "claim": "0.3",
+      "kind": "number",
+      "example": "The S&P 500 fell 1.1 percent, the Nasdaq lost 2.1 percent, and the Dow declined 0.3 percent, according to the Associated Press.",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "140000",
+      "kind": "number",
+      "example": "Axios reported Friday that the city paid 140000 dollars to join an initiative called Putting Assets to Work.",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "2.1",
+      "kind": "number",
+      "example": "The S&P 500 fell 1.1 percent, the Nasdaq lost 2.1 percent, and the Dow declined 0.3 percent, according to the Associated Press.",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "500",
+      "kind": "number",
+      "example": "Axios says the city has 500 million dollars in housing bond funds.",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "62.9",
+      "kind": "number",
+      "example": "The operational change behind that result began in June, when M&T took on subservicing for an additional 62.9 billion dollars of residential mortgages.",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "96",
+      "kind": "number",
+      "example": "The bank reported detection accuracy above 96 percent in that trial.",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today, a sanctions deadline changes course, Columbus gets a clearer picture of public land, and a mortgage servicer shows where revenue can grow after loans close.",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "Columbus Saturday",
+      "kind": "name",
+      "example": "The National Weather Service expects a cooler Columbus Saturday, mostly sunny with a high around 55 degrees.",
+      "reason": "NWS API forecast for grid ILN/85,81 was retrieved at 01:41 Eastern; its Saturday period forecasts mostly sunny and 55 degrees for Columbus."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "The president told Congress that the pause was in the national interest.",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Eastern",
+      "kind": "name",
+      "example": "Our research cutoff is early this morning Eastern time, so keep an eye out for developments later today.",
+      "reason": "Eastern is the editorial timezone, America/New_York, specified in the assignment; not a reported news claim."
+    },
+    {
+      "claim": "M&T",
+      "kind": "name",
+      "example": "The operational change behind that result began in June, when M&T took on subservicing for an additional 62.9 billion dollars of residential mortgages.",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "M&T Bank",
+      "kind": "name",
+      "example": "M&T Bank reported Friday that third-quarter mortgage banking revenue rose 25 million dollars from the prior quarter, reflecting higher residential subservicing income.",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "Nasdaq",
+      "kind": "name",
+      "example": "The S&P 500 fell 1.1 percent, the Nasdaq lost 2.1 percent, and the Dow declined 0.3 percent, according to the Associated Press.",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "Nasdaq and the Dow",
+      "kind": "name",
+      "example": "The divergence between the technology-heavy Nasdaq and the Dow also illustrates that an index can move differently depending on its constituents.",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "The National Weather Service expects a cooler Columbus Saturday, mostly sunny with a high around 55 degrees.",
+      "reason": "NWS API forecast for grid ILN/85,81 was retrieved at 01:41 Eastern; its Saturday period forecasts mostly sunny and 55 degrees for Columbus."
+    },
+    {
+      "claim": "OneConnect",
+      "kind": "name",
+      "example": "TechNode Global reports the bank said Thursday that its platform, developed with OneConnect, tested whether customer-verification images were forged or synthetically manipulated.",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Ping An",
+      "kind": "name",
+      "example": "Three things to watch: first, Treasury or State guidance defining the scope of the Russia sanctions pause; second, a Columbus shortlist identifying actual public parcels for housing; third, whether Ping An publishes the trial's false-positive rate and test sample.",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Ping An Digital Bank",
+      "kind": "name",
+      "example": "Ping An Digital Bank reported completing a deepfake-detection test in the Hong Kong Monetary Authority's AI sandbox.",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "President Trump signed an executive order Friday putting a new package of sanctions against Russia on hold, according to the Associated Press.",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Putting Assets",
+      "kind": "name",
+      "example": "Axios reported Friday that the city paid 140000 dollars to join an initiative called Putting Assets to Work.",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "Russia",
+      "kind": "name",
+      "example": "President Trump signed an executive order Friday putting a new package of sanctions against Russia on hold, according to the Associated Press.",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Russian",
+      "kind": "name",
+      "example": "We've heard about Russian diesel before.",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "S&P and Nasdaq",
+      "kind": "name",
+      "example": "The S&P and Nasdaq recorded their worst week since June.",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "Senator Lindsey Graham",
+      "kind": "name",
+      "example": "The law, named for the late Senator Lindsey Graham, was signed last month and had an implementation deadline on Sunday.",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "State Department",
+      "kind": "name",
+      "example": "Watch for the written order and Treasury or State Department guidance, as well as any congressional response.",
+      "reason": "Treasury and State are named as possible sources of future guidance, not as agencies that have already issued such guidance."
+    },
+    {
+      "claim": "TechNode Global",
+      "kind": "name",
+      "example": "TechNode Global reports the bank said Thursday that its platform, developed with OneConnect, tested whether customer-verification images were forged or synthetically manipulated.",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "Watch for the written order and Treasury or State Department guidance, as well as any congressional response.",
+      "reason": "Treasury and State are named as possible sources of future guidance, not as agencies that have already issued such guidance."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

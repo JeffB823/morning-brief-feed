@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-17",
+  "cutoff": "2026-10-17T01:41:00-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-10_morning-brief-script.md",
+    "2026-10-11_morning-brief-script.md",
+    "2026-10-12_morning-brief-script.md",
+    "2026-10-13_morning-brief-script.md",
+    "2026-10-14_morning-brief-script.md",
+    "2026-10-15_morning-brief-script.md",
+    "2026-10-16_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "sanctions",
+      "beat": "national",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd"
+      ],
+      "decision": "selected",
+      "rationale": "Pause and existing restrictions are distinct; check implementation guidance."
+    },
+    {
+      "id": "land",
+      "beat": "columbus",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/16/ohio-public-land-space-housing-development-plans"
+      ],
+      "decision": "selected",
+      "rationale": "Inventory is not equivalent to buildable sites; evaluate specific parcels."
+    },
+    {
+      "id": "mt",
+      "beat": "home_lending",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results"
+      ],
+      "decision": "selected",
+      "rationale": "Differentiate current revenue disclosure from older onboarding and profit."
+    },
+    {
+      "id": "ping",
+      "beat": "bank_ai",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://technode.global/2026/10/16/pingan-ai-deepfake-sandbox/",
+        "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/"
+      ],
+      "decision": "selected",
+      "rationale": "Measure false positives and customer friction along with detection."
+    },
+    {
+      "id": "citations",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes?change=anthropic-claude-opus-5-5-and-claude-sonnet-5-5-in-ai-develo"
+      ],
+      "decision": "selected",
+      "rationale": "Citation chips facilitate traceability but do not establish truth or permissions."
+    },
+    {
+      "id": "markets",
+      "beat": "markets",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056"
+      ],
+      "decision": "selected",
+      "rationale": "Stock movements are not deployment outcome measurements."
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "decision": "selected",
+      "rationale": "Dress for cooler weather."
+    },
+    {
+      "id": "oregon-school",
+      "beat": "national",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.democracynow.org/2026/10/16/headlines"
+      ],
+      "decision": "omitted",
+      "rationale": "Significant tragedy, but no verified new development beyond the initial event selected at cutoff."
+    },
+    {
+      "id": "first-horizon",
+      "beat": "home_lending",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.insidemortgagefinance.com/articles/238838-first-horizon-selling-45-billion-of-mortgages-at-10-discount"
+      ],
+      "decision": "omitted",
+      "rationale": "Insufficient accessible detail to assess sale terms."
+    },
+    {
+      "id": "marathon",
+      "beat": "columbus",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/16/weekend-events-october-16-18-jonas-brothers-twenty-one-pilots-marathon"
+      ],
+      "decision": "omitted",
+      "rationale": "Previously covered October 12; no new event development."
+    }
+  ],
+  "stories": [
+    {
+      "id": "sanctions",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd"
+      ],
+      "new_fact": "President signed an order pausing new Russia sanctions before October 18 deadline.",
+      "new_takeaway": "Pause and existing restrictions are distinct; check implementation guidance.",
+      "why_now": "New source disclosure or event on 2026-10-16",
+      "previous_coverage": "October 13 discussed diesel deal and legal path; signed order is new and takeaway concerns scope of the sanctions pause.",
+      "uncertainty": "Scope and effects of waiver remain uncertain.",
+      "watch": "Treasury or State implementation guidance and Congress response.",
+      "carryover": true
+    },
+    {
+      "id": "land",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/16/ohio-public-land-space-housing-development-plans"
+      ],
+      "new_fact": "Inventory identifies 66 square miles of public and tax-exempt land; PAW representative spoke to reporters Thursday.",
+      "new_takeaway": "Inventory is not equivalent to buildable sites; evaluate specific parcels.",
+      "why_now": "New source disclosure or event on 2026-10-15",
+      "previous_coverage": "No comparable inventory in previous seven episodes.",
+      "uncertainty": "Actual site eligibility and funding are not established.",
+      "watch": "Site shortlist and council action."
+    },
+    {
+      "id": "mt",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results"
+      ],
+      "new_fact": "Q3 mortgage banking revenue increased $25 million quarter over quarter on higher subservicing; $62.9 billion transfer began in June.",
+      "new_takeaway": "Differentiate current revenue disclosure from older onboarding and profit.",
+      "why_now": "New source disclosure or event on 2026-10-16",
+      "previous_coverage": "October 15 covered BofA origination mix, October 16 MPF reporting; neither covered M&T subservicing economics.",
+      "uncertainty": "Portfolio-specific revenue and cost not disclosed.",
+      "watch": "Next earnings servicing revenue, costs and performance."
+    },
+    {
+      "id": "ping",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://technode.global/2026/10/16/pingan-ai-deepfake-sandbox/",
+        "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/"
+      ],
+      "new_fact": "Bank reported greater than 96% deepfake detection in a sandbox test.",
+      "new_takeaway": "Measure false positives and customer friction along with detection.",
+      "why_now": "New source disclosure or event on 2026-10-15",
+      "previous_coverage": "Prior episodes covered other banks and tasks; no Ping An detection trial.",
+      "uncertainty": "No sample, baseline, false-positive rate or independent certification disclosed.",
+      "watch": "Test method and deployment disclosure.",
+      "ledger_row_changed": "Added Ping An Digital Bank customer verification deepfake detection as completed sandbox trial with bank-claimed accuracy."
+    },
+    {
+      "id": "citations",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes?change=anthropic-claude-opus-5-5-and-claude-sonnet-5-5-in-ai-develo"
+      ],
+      "new_fact": "Google made custom MCP data store citation mapping generally available.",
+      "new_takeaway": "Citation chips facilitate traceability but do not establish truth or permissions.",
+      "why_now": "New source disclosure or event on 2026-10-16",
+      "previous_coverage": "October 14 examined Gemini Argon safety; October 16 voice models. This is a different product feature and task.",
+      "uncertainty": "No citation accuracy or productivity benchmark disclosed.",
+      "watch": "Published citation accuracy and customer evaluation.",
+      "frontier_bar": "New practical enterprise workflow capability for source traceability."
+    },
+    {
+      "id": "markets",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056"
+      ],
+      "new_fact": "Friday S&P fell 1.1%, Nasdaq 2.1%, Dow 0.3%.",
+      "new_takeaway": "Stock movements are not deployment outcome measurements.",
+      "why_now": "New source disclosure or event on 2026-10-16",
+      "previous_coverage": "Earlier episode covered prior session.",
+      "uncertainty": "Future earnings and prices are uncertain.",
+      "watch": "Next earnings and AI capital spending."
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "NWS forecast Saturday mostly sunny high 55.",
+      "new_takeaway": "Dress for cooler weather.",
+      "why_now": "New source disclosure or event on 2026-10-17",
+      "previous_coverage": "Prior daily weather forecasts.",
+      "uncertainty": "Forecast may change.",
+      "watch": "Updated NWS forecast."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd",
+      "reason": "AP article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports the signed order, Congress notification, Graham law and prior diesel announcement."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/10/16/ohio-public-land-space-housing-development-plans",
+      "reason": "Axios article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports $140,000, $500 million in bond funds and the 66-square-mile inventory."
+    },
+    {
+      "claim": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
+      "reason": "M&T earnings release opened in browser at cutoff; local fetch returned a 303-character body. It reports $25 million sequential revenue increase and $62.9 billion in June subservicing."
+    },
+    {
+      "claim": "https://technode.global/2026/10/16/pingan-ai-deepfake-sandbox/",
+      "reason": "TechNode Global article opened and read in browser at cutoff; local fetch returned a 33-character body. It reports Ping An and OneConnect, the over 96% trial result and missing methodology."
+    },
+    {
+      "claim": "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056",
+      "reason": "AP market close article opened and read in browser at cutoff; local fetch returned a 16-character body. It reports S&P, Nasdaq and Dow closing moves."
+    },
+    {
+      "claim": "0.3",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "140000",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "2.1",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "500",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "62.9",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "96",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "Columbus Saturday",
+      "reason": "NWS API forecast for grid ILN/85,81 was retrieved at 01:41 Eastern; its Saturday period forecasts mostly sunny and 55 degrees for Columbus."
+    },
+    {
+      "claim": "Congress",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Eastern",
+      "reason": "Eastern is the editorial timezone, America/New_York, specified in the assignment; not a reported news claim."
+    },
+    {
+      "claim": "M&T",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "M&T Bank",
+      "reason": "M&T official Q3 release, opened in browser, names the bank and its $62.9 billion June subservicing addition; local fetch returned a short body."
+    },
+    {
+      "claim": "Nasdaq",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "Nasdaq and the Dow",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "National Weather Service",
+      "reason": "NWS API forecast for grid ILN/85,81 was retrieved at 01:41 Eastern; its Saturday period forecasts mostly sunny and 55 degrees for Columbus."
+    },
+    {
+      "claim": "OneConnect",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Ping An",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Ping An Digital Bank",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Putting Assets",
+      "reason": "Axios Columbus inventory article, opened in browser, identifies the city, initiative, $140,000 cost and $500 million housing bond funds; local fetch returned a short body."
+    },
+    {
+      "claim": "Russia",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "Russian",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "S&P and Nasdaq",
+      "reason": "AP Friday market close article, opened in browser, reports the named index changes and their weekly performance; local fetch returned a short body."
+    },
+    {
+      "claim": "Senator Lindsey Graham",
+      "reason": "AP sanctions article, opened in browser, identifies President Trump, Russia, Congress and Senator Lindsey Graham and describes the prior Russian diesel agreement; local fetch returned a short body."
+    },
+    {
+      "claim": "State Department",
+      "reason": "Treasury and State are named as possible sources of future guidance, not as agencies that have already issued such guidance."
+    },
+    {
+      "claim": "TechNode Global",
+      "reason": "TechNode Global report, opened in browser, identifies the bank, partner and trial result above 96%; local fetch returned a short body."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Treasury and State are named as possible sources of future guidance, not as agencies that have already issued such guidance."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "f6d362ac9696e4ae710657d18660cebce0890c694df9881460fcbbe56240e37e"
+  }
+}
