@@ -27,6 +27,73 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Morning Brief — Saturday, October 17, 2026</title>
+    <description>A sanctions pause, Columbus public land, mortgage servicing economics and two practical AI changes.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> Today, a sanctions deadline changes course, Columbus gets a clearer picture of public land, and a mortgage servicer shows where revenue can grow after loans close. We also look at a bank&#x27;s deepfake experiment and a new way to show sources inside enterprise AI answers.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. It&#x27;s Saturday, October 17th, and this is your Morning Brief. Our research cutoff is early this morning Eastern time, so keep an eye out for developments later today.</p>
+<h3 style="margin-top:1.5em">National</h3>
+<p><span style="font-weight:bold">Host:</span> President Trump signed an executive order Friday putting a new package of sanctions against Russia on hold, according to the Associated Press. The law, named for the late Senator Lindsey Graham, was signed last month and had an implementation deadline on Sunday. The president told Congress that the pause was in the national interest.</p>
+<p><span style="font-weight:bold">Co-host:</span> What changes for the people who have to act on the law? Is the law gone, or is its implementation being delayed?</p>
+<p><span style="font-weight:bold">Host:</span> The distinction is a pause, not Congress repealing the legislation. The administration&#x27;s decision changes the immediate expectation around the deadline, but firms and financial institutions still need the actual legal text and any implementing guidance before deciding how a particular transaction is treated. A headline about a pause does not establish that every existing restriction has disappeared.</p>
+<p><span style="font-weight:bold">Co-host:</span> We&#x27;ve heard about Russian diesel before. What is genuinely different today?</p>
+<p><span style="font-weight:bold">Host:</span> Earlier coverage examined whether a proposed diesel purchase could be reconciled with sanctions authority. Friday&#x27;s signed order is a separate action on the broader new sanctions package, taken just before the law&#x27;s implementation deadline. The useful question now is how the administration applies its authority and what Congress does in response, rather than whether a proposed shipment can be arranged.</p>
+<p><span style="font-weight:bold">Co-host:</span> So a business considering a transaction should resist reading one sentence as a blanket permission slip. A delayed new package and existing restrictions can coexist, and the exact parties and goods matter. The next document is more useful than a market rumor about what might happen on Sunday.</p>
+<p><span style="font-weight:bold">Host:</span> Watch for the written order and Treasury or State Department guidance, as well as any congressional response. The scope and duration of the pause, and whether lawmakers contest it, will determine how much changes in practice. We do not yet know the ultimate effect on Russia&#x27;s finances or the war.</p>
+<h3 style="margin-top:1.5em">Columbus</h3>
+<p><span style="font-weight:bold">Host:</span> Columbus is taking inventory of publicly owned and tax-exempt land with an eye toward housing. Axios reported Friday that the city paid 140,000 dollars to join an initiative called Putting Assets to Work. Its analysis identified 66 square miles of public and tax-exempt land, a starting inventory rather than a list of buildable lots.</p>
+<p><span style="font-weight:bold">Co-host:</span> Sixty-six square miles sounds enormous. Why can&#x27;t the city simply turn that land into homes?</p>
+<p><span style="font-weight:bold">Host:</span> Because public or tax-exempt ownership is not the same as availability. A parcel might already support a school, park, utility, road, public service or another protected use. Others may have access, environmental, infrastructure or ownership constraints. The productive next step is to screen individual sites, not divide the headline acreage into a theoretical number of apartments.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can a resident ask that would make the inventory useful?</p>
+<p><span style="font-weight:bold">Host:</span> Ask which sites are actually under consideration, who controls each one, what it does now, and what tradeoffs would accompany a change. A promising site close to transit and jobs may still need water, street improvements or neighborhood discussion. A map makes the conversation more concrete only when the underlying assumptions are visible.</p>
+<p><span style="font-weight:bold">Host:</span> Axios says the city has 500 million dollars in housing bond funds. The inventory could help officials decide where public money might unlock land, but finding a site does not itself finance construction or establish affordability. Land, permitting, construction costs and the eventual rent or sale price remain separate decisions.</p>
+<p><span style="font-weight:bold">Co-host:</span> And a parcel that looks empty on a map may be serving a purpose that residents understand better than a spreadsheet does. A transparent site-by-site process gives neighbors an opportunity to correct the record before the city treats an apparent opportunity as a settled plan.</p>
+<p><span style="font-weight:bold">Host:</span> The watch point is a published shortlist or proposal identifying a real parcel, its current use, the financing and a public decision process. Until then, the scale of the inventory is an invitation to investigate, not a promise of homes delivered.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> Mortgage servicing economics lead our lending coverage. M&amp;T Bank reported Friday that third-quarter mortgage banking revenue rose 25 million dollars from the prior quarter, reflecting higher residential subservicing income. The operational change behind that result began in June, when M&amp;T took on subservicing for an additional 62.9 billion dollars of residential mortgages.</p>
+<p><span style="font-weight:bold">Co-host:</span> What does subservicing mean for the borrower, and who owns the loan?</p>
+<p><span style="font-weight:bold">Host:</span> A subservicer handles loan administration for another party. Depending on the contract, that can include collecting payments, managing escrow and responding to borrowers. The bank&#x27;s disclosure describes additional loans it subservices; it does not say M&amp;T originated or owns all of those mortgages. For borrowers, the immediate concern is whether payment instructions and account information remain accurate through any handoff.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is the entire 25 million dollar increase profit from those new loans?</p>
+<p><span style="font-weight:bold">Host:</span> No. The bank reports a revenue change and attributes the increase to higher subservicing income. It does not isolate the precise contribution of that portfolio or provide a matching cost and profit figure. Revenue is not margin. Staffing, systems, transfer work and service quality all matter before an operator knows the economic return.</p>
+<p><span style="font-weight:bold">Host:</span> The report is new; the transfer itself dates to June. That timing is useful because the quarter now offers evidence of what happened after the onboarding, rather than just an announcement that a contract was won. It also offers a different lens from originations: a lender can earn fees managing existing loans while new lending volume remains rate sensitive.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would a servicing manager examine before calling this a success?</p>
+<p><span style="font-weight:bold">Host:</span> Start with whether transferred balances reconcile, escrow and payment records are accurate, and borrowers can reach the right team. Then compare fee revenue with the operating cost of handling calls, exceptions and delinquent accounts. A larger portfolio may create economies of scale, but it can also magnify small data errors across many households.</p>
+<p><span style="font-weight:bold">Co-host:</span> And for someone whose mortgage is transferred, the important distinction is between a change in who processes the payment and a change in the loan&#x27;s underlying terms. Keep the transfer notice, verify the payment destination independently and review the first statement for missing or duplicated payments.</p>
+<p><span style="font-weight:bold">Host:</span> The next evidence is whether M&amp;T&#x27;s future reports sustain the revenue gain and provide more detail on servicing costs or performance. A single quarterly revenue line cannot establish a durable margin or a borrower experience.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> Ping An Digital Bank reported completing a deepfake-detection test in the Hong Kong Monetary Authority&#x27;s AI sandbox. TechNode Global reports the bank said Thursday that its platform, developed with OneConnect, tested whether customer-verification images were forged or synthetically manipulated. The bank reported detection accuracy above 96 percent in that trial.</p>
+<p><span style="font-weight:bold">Co-host:</span> Compared with what, and how many real customers were affected?</p>
+<p><span style="font-weight:bold">Host:</span> The report does not provide a baseline, sample size, full test method or false-positive rate, and it does not establish a production customer outcome. That makes the figure a bank-reported trial result, not an independently certified operating accuracy. The regulator confirmed completion of the sandbox cohort, but its announcement does not independently validate this specific number.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why does a missing false-positive rate matter for this task?</p>
+<p><span style="font-weight:bold">Host:</span> Because catching fake faces is only half of an identity-checking problem. If legitimate customers are wrongly flagged, they may be locked out or sent to a costly manual queue. A bank evaluating a similar tool needs separate results for genuine and manipulated images, plus a way to review disputed decisions. A single overall accuracy figure can conceal that tradeoff.</p>
+<p><span style="font-weight:bold">Host:</span> For a large bank, the near-term change is a possible addition to the identity-verification workflow, not permission to reject applicants automatically. The bank did not disclose a commercial deployment date. I have recorded the project as a completed trial in the deployment ledger, with the claimed result and those missing measures.</p>
+<p><span style="font-weight:bold">Co-host:</span> The most useful next disclosure would show what images were tested, how they were selected and how often genuine people were incorrectly challenged. That would let a buyer compare fraud detection with customer friction rather than choose on one impressive percentage.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> Google Cloud&#x27;s release notes on Friday added a practical capability for Gemini Enterprise: administrators can configure citations for custom Model Context Protocol data stores. When the assistant answers using tools on a custom server, the feature can display source citation chips. Google describes it as generally available.</p>
+<p><span style="font-weight:bold">Co-host:</span> What could an employee do differently with that?</p>
+<p><span style="font-weight:bold">Host:</span> An employee asking a question of an approved internal data source can see a citation attached to the answer when the mapping is configured. Previously the organization could connect custom data stores, but this release adds a way to configure citation display for that path. The useful workflow is checking a claim against its originating document rather than accepting a fluent answer on its own.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does a citation prove the answer is correct or that the employee is allowed to see the source?</p>
+<p><span style="font-weight:bold">Host:</span> Neither follows from the release note. A link can point to an irrelevant passage, an outdated document or a source that does not support the sentence. Google does not publish a citation accuracy benchmark for this feature in the note. The organization must also configure its data access appropriately; a citation display is not an authorization system.</p>
+<p><span style="font-weight:bold">Host:</span> The measurable test for a buyer is whether reviewers can trace answers to the right passage and catch unsupported statements in their own document collection. The provider has announced availability, not a measured reduction in errors or review time. For a regulated bank, an internal research pilot can use the feature after permission checks and source-access testing.</p>
+<p><span style="font-weight:bold">Co-host:</span> That creates a different kind of experiment from the fraud trial. Here the key question is whether the source shown actually supports the answer and remains accessible to the right employee. A neat citation chip is useful only if it makes that inspection easier.</p>
+<h3 style="margin-top:1.5em">Markets</h3>
+<p><span style="font-weight:bold">Host:</span> Friday&#x27;s stock market close was lower. The S&amp;P 500 fell 1.1 percent, the Nasdaq lost 2.1 percent, and the Dow declined 0.3 percent, according to the Associated Press. Chip companies were among the weak spots as investors reassessed the AI buildout. The S&amp;P and Nasdaq recorded their worst week since June.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does one weak week settle the investment case for AI?</p>
+<p><span style="font-weight:bold">Host:</span> No. Share prices combine expectations about future growth, spending and risk; they do not measure whether a particular deployment works. The divergence between the technology-heavy Nasdaq and the Dow also illustrates that an index can move differently depending on its constituents. The next earnings and spending disclosures will offer more evidence than a single day&#x27;s price action.</p>
+<h3 style="margin-top:1.5em">Weather</h3>
+<p><span style="font-weight:bold">Host:</span> The National Weather Service expects a cooler Columbus Saturday, mostly sunny with a high around 55 degrees. Expect a chilly start and bring a layer for outdoor plans. Forecasts can change, so check the latest local update before setting out.</p>
+<p><span style="font-weight:bold">Co-host:</span> Three things to watch: first, Treasury or State guidance defining the scope of the Russia sanctions pause; second, a Columbus shortlist identifying actual public parcels for housing; third, whether Ping An publishes the trial&#x27;s false-positive rate and test sample.</p>
+<p><span style="font-weight:bold">Host:</span> That&#x27;s your Morning Brief for Saturday. Enjoy the weekend, and thanks for listening.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-17_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-17_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-17_morning-brief.mp3" length="12985160" type="audio/mpeg"/>
+    <pubDate>Sat, 17 Oct 2026 01:45:11 -0400</pubDate>
+    <itunes:duration>00:13:29</itunes:duration>
+    <itunes:episode>20261017</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-17</guid>
+  </item>
+  <item>
     <title>Morning Brief — Morning Brief — Friday, October 16, 2026</title>
     <description>Ohio&#x27;s school-voucher ruling, Columbus campaign access, a new mortgage-servicing reporting requirement, and what bank AI scale still does not prove.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -872,80 +939,9 @@
     <guid isPermaLink="false">morning-brief-2026-10-07</guid>
   </item>
   <item>
-    <title>Morning Brief — Climate Liability, Ohio Early Voting, Freddie Delivery, and Rosalind Pricing - October 6, 2026</title>
-    <description>The October 6 Morning Brief covers the Supreme Court climate-liability argument, Ohio early voting opening at Franklin County, Freddie Mac delivery and income-calculator changes, Upstart&#x27;s latest AI-lending risk print, GPT-Rosalind pricing taking effect, a tech-led market close, and sunny Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: the Supreme Court tests whether climate-cost lawsuits stay alive, Franklin County opens early voting, Freddie Mac changes how some loan delivery and income workflows behave, and a life-sciences AI model gets real pricing instead of preview suspense.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, October 6th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with yesterday&#x27;s Supreme Court argument in the Boulder climate case. AP&#x27;s report carried by WCAX says the justices grappled with whether local governments can sue oil and gas companies in state court for costs tied to climate change.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is the new fact the argument itself, or did something more concrete happen?</p>
-<p><span style="font-weight:bold">Host:</span> The argument is the new operating fact. Last week the case was a docket item. Now businesses, cities, insurers and bond buyers have a first courtroom signal about whether state-law climate damages cases may proceed or get blocked by federal law.</p>
-<p><span style="font-weight:bold">Co-host:</span> Who is actually trying to move money here?</p>
-<p><span style="font-weight:bold">Host:</span> Boulder officials argue Suncor and ExxonMobil should help cover costs linked to worsening disasters. The companies argue these claims would let state courts regulate national and international emissions indirectly. That is why the municipal-finance consequence is bigger than Boulder.</p>
-<p><span style="font-weight:bold">Co-host:</span> So a city budget office should care even if it has never filed a climate lawsuit.</p>
-<p><span style="font-weight:bold">Host:</span> Right. If local claims survive, more governments may treat litigation as one way to fund adaptation, and energy companies may price broader legal exposure. If the companies win broadly, local taxpayers and ratepayers shoulder more of the adaptation bill unless Congress or states create a different funding path.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would change the takeaway before a ruling?</p>
-<p><span style="font-weight:bold">Host:</span> A clear signal from the argument audio, a procedural order, or settlement movement in parallel cases. For now, the useful takeaway is that climate risk is not just a weather or insurance line. It is also becoming a venue, liability and public-budget question.</p>
-<p><span style="font-weight:bold">Co-host:</span> And that makes the ruling useful to track even before anyone writes a check. It could decide whether local governments keep one more bargaining tool, or whether adaptation costs stay mostly inside ordinary budgets and utility rates.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, the useful local update is election operations. Franklin County&#x27;s Board of Elections says in-person absentee voting for the November 3 general election begins today at 1700 Morse Road, with week-one hours from 8 a.m. to 5 p.m. through Friday.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why lead local with voting logistics instead of campaign noise?</p>
-<p><span style="font-weight:bold">Host:</span> Because today&#x27;s change is a service window opening. After yesterday&#x27;s registration deadline, the workflow moves to ballots, identification, staffing, parking, lines and mail requests. That is what a voter or employer can act on this morning.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should a local listener do differently?</p>
-<p><span style="font-weight:bold">Host:</span> If you want the shortest line, the first week is often simpler than the final extended-hours week. Check your sample ballot, bring acceptable identification, and decide whether Morse Road is easier than waiting until Election Day. Absentee voting by mail also begins today under the state calendar.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there a watch item beyond turnout?</p>
-<p><span style="font-weight:bold">Host:</span> Yes: administration capacity. Watch whether Franklin County reports line issues, ballot-mail delays, drop-box confusion or identification problems as the early vote period ramps. Those are concrete signs of whether the election office is absorbing demand smoothly.</p>
-<p><span style="font-weight:bold">Host:</span> The local point is practical, not partisan. Early voting turns the election from an argument on television into a month-long operations test for voters, poll workers and the county office that has to keep access and security moving at the same time.</p>
-<p><span style="font-weight:bold">Co-host:</span> It also gives employers and families a planning choice. A Tuesday morning trip to Morse Road may be easier than a crowded final weekend or a rushed Election Day stop after work.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the lead is Freddie Mac&#x27;s October 5 Loan Selling Advisor release, because it changes delivery execution rather than just rate commentary. The affected workflow is loan delivery for Freddie cash and guarantor executions.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which loan file feels this first?</p>
-<p><span style="font-weight:bold">Host:</span> ARM loans and guarantor contracts. Freddie says Best Efforts cash execution is expanding to ARM loans in Loan Selling Advisor&#x27;s interface and APIs, with contract-level pricing. That gives sellers another execution path for adjustable-rate loans when borrowers are using ARMs to manage payment pressure.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does that affect borrowers directly?</p>
-<p><span style="font-weight:bold">Host:</span> Indirectly. A borrower will not see a button labeled Loan Selling Advisor. But secondary-market execution affects what a lender can offer, how quickly a lock desk can place a loan, and whether operations teams have to work around manual exceptions after the borrower has already chosen a product.</p>
-<p><span style="font-weight:bold">Co-host:</span> What else changed in the workflow?</p>
-<p><span style="font-weight:bold">Host:</span> Freddie also listed intraday guarantor disclosure, security-wire process improvements, LPA-to-Loan Selling Advisor data-compare updates, and loan import changes. The common theme is less waiting and less discrepancy hunting between underwriting data and delivery data.</p>
-<p><span style="font-weight:bold">Host:</span> A second Freddie update took effect October 4 in the Income Calculator. Written verification of employment can now support automated income assessment for representation-and-warranty relief, and income from a borrower employed by a family member or other interested party gets support in that calculator.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds small, but it hits income documentation.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. For processors and underwriters, the consequence is clearer system support for files that otherwise create judgment calls. The limitation is that automation still depends on clean documentation and correct data entry. A supported document type is not the same as a guaranteed approval.</p>
-<p><span style="font-weight:bold">Co-host:</span> For loan officers, that means the borrower conversation changes a little. Instead of saying the system cannot handle that documentation path, the better question becomes whether the file has the right written verification and whether the calculator output matches the story in the application.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> In the bank AI ledger, I added Upstart as a production credit-decisioning row. On Monday, Upstart published September originations of 1,378.3 million dollars and a Q3 total of 4,117.8 million dollars on its AI lending marketplace.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is that an AI performance result or a volume report?</p>
-<p><span style="font-weight:bold">Host:</span> It is a company-reported volume and risk-context update, not a controlled accuracy test. Upstart also reported its October 5 Upstart Macro Index at 1.49, slightly below 1.50 on September 3, and said 1.49 is about 49 percent above what it would expect in a normal economy.</p>
-<p><span style="font-weight:bold">Co-host:</span> What changed in the ledger?</p>
-<p><span style="font-weight:bold">Host:</span> New institution row, lane three, status production, evidence rank company claim. The task is consumer credit underwriting and marketplace pricing. The disclosed metrics are origination dollars and the macro-risk index; there is no public approval-quality, fair-lending, loss-rate, manual-review or partner-bank comparison tied to the AI model in this release.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It changes credit-strategy monitoring. A bank using model-assisted underwriting has to separate loan-growth appetite from model quality, because a bigger origination month can coexist with elevated default risk. The control that matters here is performance monitoring by segment, not generic chatbot governance.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the useful question is whether the model is selecting better risk, not whether the platform is busy.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. Upstart&#x27;s new numbers show production scale and current macro pressure, but they do not prove the AI is approving safer borrowers than a bank&#x27;s existing scorecard. The next evidence would be cohort losses, approval-rate lift, pricing accuracy or partner-bank performance under the same credit conditions.</p>
-<p><span style="font-weight:bold">Co-host:</span> That distinction matters for executives too. Volume can please investors, while examiners and credit officers still ask whether adverse selection, pricing drift or protected-class outcomes are being monitored with the same discipline as growth.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, GPT-Rosalind moves from preview talk to priced access. OpenAI&#x27;s pricing page says billing for gpt-rosalind-research begins October 5, with standard pricing at 5 dollars per million input tokens, 50 cents for cached input, and 25 dollars per million output tokens.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does pricing clear the frontier bar?</p>
-<p><span style="font-weight:bold">Host:</span> Because it changes access and workflow economics. The model was announced earlier for life-sciences research, so the original capability claim is background. The new fact is that approved research users can now attach a real cost to literature review, sequence analysis, experimental planning and tool-heavy scientific work.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> Earlier capability evidence remains lab-and-partner reported, not independent replication for every customer workflow. The price page is the hard operational fact today, because it tells buyers when billing starts, what the token rates are, and who can access the model.</p>
-<p><span style="font-weight:bold">Co-host:</span> Who gets advantaged?</p>
-<p><span style="font-weight:bold">Host:</span> Qualified life-sciences organizations that can govern access and afford repeated tool-heavy runs. The limitation is also clear: access is limited to approved internal research through the trusted-access program, so this is not a general consumer model or an open benchmark for every lab.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is not drug discovery. It is watching specialized-model pricing as a template for domain models, gated by model-risk review that asks whether a narrow model&#x27;s evidence actually fits the bank workflow it would touch.</p>
-<p><span style="font-weight:bold">Co-host:</span> The broader lesson is procurement discipline. A domain model may be worth more per token if it reduces review time or improves evidence quality, but only after the buyer proves the narrow task is actually the expensive bottleneck.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets gave us a split Monday close. AP&#x27;s market table says the Dow rose 0.2 percent, the Nasdaq climbed 1.1 percent to a record, Brent crude settled a little over 100 dollars, and the 10-year Treasury yield rose to 5.31 percent.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is that bullish or stressful?</p>
-<p><span style="font-weight:bold">Host:</span> Both. Tech leadership can carry equity indexes, but a 5.31 percent 10-year keeps pressure on mortgage rates, municipal borrowing and company financing. Oil around 100 dollars keeps inflation anxiety alive even when equities like the AI story.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the market takeaway for lenders is not the Nasdaq record.</p>
-<p><span style="font-weight:bold">Host:</span> Correct. The borrower-facing number is still the 10-year yield. If it keeps rising while tech stocks run, mortgage desks and local governments do not get much relief from a green equity screen.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is the tension to keep on the dashboard: risk assets can celebrate AI earnings power while the funding side still says capital is expensive. Borrowers feel the second signal first.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a clean fall Tuesday. The National Weather Service forecast for central Columbus shows sunny conditions, a high near 67, southeast wind around 3 miles per hour, and a near-zero precipitation signal.</p>
-<p><span style="font-weight:bold">Co-host:</span> Any commute issue?</p>
-<p><span style="font-weight:bold">Host:</span> Weather should not be the problem. Use a layer early, expect dry roads, and treat outdoor errands, school pickup and jobsite work as weather-friendly. Tonight stays clear and cool, so the bigger adjustment is temperature, not rain.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: first, whether the Supreme Court argument produces a clearer path for city climate-liability suits; second, whether Franklin County early voting shows line, mail or identification friction; third, whether Freddie lenders report ARM delivery or income-calculator defects after the October releases.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are the right triggers: court venue, county election operations and whether mortgage-system changes work on live files.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Tuesday, October 6th. Have a good morning, and keep today&#x27;s decisions tied to the newest verified operating fact.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Tuesday, October 06, 2026</title>
+    <description>Your Morning Brief for Tuesday, October 06, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-06_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-06_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-06_morning-brief.mp3" length="13290655" type="audio/mpeg"/>
@@ -955,78 +951,9 @@
     <guid isPermaLink="false">morning-brief-2026-10-06</guid>
   </item>
   <item>
-    <title>Morning Brief — Supreme Court Term, Columbus Waterlines, Fannie Pricing, and AI Task Force - October 5, 2026</title>
-    <description>The October 5 Morning Brief covers the Supreme Court&#x27;s new term, another U.S. Caribbean boat strike, a Columbus Blueprint and waterline contract, Fannie Mae&#x27;s credit-score pricing alignment, Mastercard agent-payment risk tools, Trump&#x27;s AI task force, compact markets, and dry Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: the Supreme Court opens a term that could shift climate-cost lawsuits and voting rules, Columbus weighs a multimillion-dollar water and stormwater contract, Fannie Mae&#x27;s credit-score pricing change is live, and Washington&#x27;s new AI task force tests voluntary oversight.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Monday, October 5th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with the Supreme Court, because the new term begins today with business, government and election stakes packed into the docket. AP says the justices start with a major climate case, then move through immigration, voting, gun rights and religious-rights disputes.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which case has the clearest financial consequence?</p>
-<p><span style="font-weight:bold">Host:</span> The climate case. Energy companies are trying to block lawsuits by cities and states that want them to pay for damage linked to climate change. The Boulder, Colorado case is the example AP highlights, and the amount at stake could reach billions across similar suits.</p>
-<p><span style="font-weight:bold">Co-host:</span> So a court ruling could decide whether those costs stay with local taxpayers or move toward the companies accused of contributing to the damage.</p>
-<p><span style="font-weight:bold">Host:</span> Right. The immediate question is legal venue and liability path, but the operating consequence is municipal finance. If local governments can keep these cases alive, insurers, bond buyers and utilities have to model more climate-litigation cost. If companies win early, the burden leans back toward public budgets and ratepayers.</p>
-<p><span style="font-weight:bold">Co-host:</span> What else should institutions watch in the term?</p>
-<p><span style="font-weight:bold">Host:</span> Voting. AP says the court will hear Arizona measures on proof of citizenship for state-form voter registration and regular voter-roll purges when citizenship cannot be confirmed. Arguments are set for December. That matters for state election offices, county administrators and campaigns planning turnout operations.</p>
-<p><span style="font-weight:bold">Co-host:</span> That makes today less about one ideology headline and more about who administers expensive, contested rules. A school district, a county board of elections and a city budget office could all feel the term differently.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. The takeaway is that this term could move costs and compliance duties more than it moves slogans. Cities, energy firms, states, schools and election officials all have workflows that may change after the opinions land.</p>
-<p><span style="font-weight:bold">Host:</span> The other national development is force and evidence. The U.S. military said it struck a suspected drug-smuggling boat in the Caribbean on Sunday, killing four people. AP reports the campaign has now killed at least 235 people in 70 strikes since September 2025.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the unresolved part?</p>
-<p><span style="font-weight:bold">Host:</span> Evidence and authority. AP says the military did not provide evidence that the vessel was carrying drugs. The administration says it is in armed conflict with cartels and is trying to extend operations with allied countries. The watch is whether Congress, courts or partner governments demand a clearer legal record before the campaign expands onto land.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, tonight&#x27;s council agenda has a concrete infrastructure item, not another abstract growth fight. Ordinance 2313-2026 would authorize Columbus Water and Power to contract with Danbert for the Blueprint Miller Kelton Kent and Fairwood permeable pavers and waterline improvements.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would that actually change on the ground?</p>
-<p><span style="font-weight:bold">Host:</span> The city says the project would build permeable pavement and storm sewers in the right of way on Bulen Avenue, Lilley Avenue, Berkeley Road and Bide-A-Wee Park Avenue. It also includes waterline relocation, pavement restoration and sidewalk restoration.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds like the kind of project residents experience as torn-up streets before they experience it as better infrastructure.</p>
-<p><span style="font-weight:bold">Host:</span> Exactly. The proposed contract is up to 12,600,862 dollars and 73 cents, plus 2,000 dollars for prevailing-wage services. The city says the work must be completed within 630 days after the notice to proceed, if the loan contingency and contract steps clear.</p>
-<p><span style="font-weight:bold">Co-host:</span> Why does this matter beyond one neighborhood construction zone?</p>
-<p><span style="font-weight:bold">Host:</span> Because it is a useful example of how Columbus is funding adaptation and basic utility work at the same time. Permeable pavement and storm sewers aim to manage runoff. Waterline relocation keeps old utility constraints from defeating the surface work. Residents should watch staging, detours, and whether the final design improves flooding and pavement conditions together.</p>
-<p><span style="font-weight:bold">Co-host:</span> The local accountability point is completion, then. A multimillion-dollar stormwater project should be judged by whether the streets drain better, sidewalks come back usable, and residents can tell what changed after construction.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. And tonight&#x27;s agenda lists it as a second-reading item, with minutes not yet finalized. The next useful fact is council action, then the notice-to-proceed date, because that starts the 630-day clock.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the operational change is pricing alignment across credit-score models. Fannie Mae announced September 30 that loan-level price adjustments are now aligned across Classic FICO and VantageScore 4.0, with the updated credit-score pricing applying October 1.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which workflow does that touch first?</p>
-<p><span style="font-weight:bold">Host:</span> Agency delivery and pricing. Whole loans purchased on or after October 1, and loans delivered into mortgage-backed securities with issue dates on or after October 1, use the aligned credit-score LLPA approach Fannie Mae described.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is this the same thing as the possible bi-merge credit-reporting change from yesterday?</p>
-<p><span style="font-weight:bold">Host:</span> No. Keep those separate. Bi-merge would change how many bureau reports are used for a loan file if formal guidance arrives. This Fannie Mae change is about price grids across score models that lenders already may use. It affects lock desk assumptions, secondary marketing, loan officer quoting, and quality-control checks around which score model produced the price.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the borrower consequence?</p>
-<p><span style="font-weight:bold">Host:</span> The promise is cleaner pricing parity when a lender uses VantageScore 4.0 instead of Classic FICO. The risk is operational confusion: a borrower may hear &quot;new score model&quot; while the lender still needs to confirm investor acceptance, delivery timing, and whether its pricing engine actually applied the correct LLPA table.</p>
-<p><span style="font-weight:bold">Host:</span> I am treating this as a dated specialist update, not a breaking story. It is five days old, but the effective date was October 1 and the operational consequence is current for locks and deliveries this week.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is useful because the error mode is mundane. If pricing, AUS output and delivery instructions disagree, the borrower does not see a policy memo. They see a changed quote, a delayed lock, or a file that needs a secondary-market exception after everyone thought the loan was priced.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> In the bank AI section, I updated the Mastercard row in the deployment ledger. The new item is agent-payment risk infrastructure: Mastercard said September 30 it is working with Skyfire on Know Your Agent technology so financial institutions and merchants can recognize trusted AI agents before approving transactions.</p>
-<p><span style="font-weight:bold">Co-host:</span> What task lane is that?</p>
-<p><span style="font-weight:bold">Host:</span> Consumer servicing, payments and compliance control. The task is authorization context for AI-initiated purchases. Mastercard&#x27;s claim is that payment intelligence plus agent identity can help issuers and merchants decide whether an agent-driven transaction is legitimate.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there a measured result?</p>
-<p><span style="font-weight:bold">Host:</span> None disclosed. The evidence rank is company claim. There is no public false-positive rate, fraud-loss change, disputed-transaction baseline, issuer adoption number or live volume. That limitation matters because recognizing an agent is not the same thing as proving the purchase matched the customer&#x27;s intent.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It changes authorization and dispute design. A card issuer may need to distinguish a human-initiated card payment, a customer-approved shopping agent, and an unexpected automated transaction before deciding whether to approve, decline or challenge it.</p>
-<p><span style="font-weight:bold">Co-host:</span> The control problem is narrower than generic AI governance, and it shows up at authorization speed, when a bank cannot convene a committee before deciding whether a transaction should clear.</p>
-<p><span style="font-weight:bold">Host:</span> Right. The specific control is agent identity tied to permission and spend context at the moment of authorization. The next evidence to watch is whether Mastercard or an issuing bank discloses live approval volume, fraud movement, or a dispute process for agent-made purchases.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, the fresh policy story is a new federal AI task force. AP reports President Trump named National Intelligence Director Jay Clayton to lead what he calls the Super Intelligence Force after last week&#x27;s White House meeting with AI executives.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does a task force clear the frontier bar, or is it just branding?</p>
-<p><span style="font-weight:bold">Host:</span> It clears the policy bar only because it could become the coordinating channel for federal expectations around frontier systems. AP says the group will reach out to consumers, public interest groups, religious organizations, critical infrastructure providers and AI companies, and will report to Trump and his chief of staff.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is measured versus claimed here?</p>
-<p><span style="font-weight:bold">Host:</span> Nothing technical is measured. There is no model benchmark, safety evaluation or binding rule yet. The checkable development is the personnel and reporting structure. The claim is that the group will protect public interests while keeping U.S. leadership in advanced AI.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would change if it gains teeth?</p>
-<p><span style="font-weight:bold">Host:</span> Labs and enterprise buyers would start watching task-force guidance the way they watch export controls, safety frameworks and procurement rules. The near-term limit is that voluntary self-policing does not tell a bank which model can handle customer data or what evidence examiners will accept.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is monitoring the task force as a policy signal for frontier-model procurement, gated by internal model-risk approval and any federal guidance that becomes more specific than outreach.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is a modest conclusion, but an important one. A named federal channel matters only when it turns speeches into dates, standards, reporting duties or procurement consequences.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets begin the week with the same split signal as Friday: softer jobs data helped equities, but bonds remain the test. TradingView&#x27;s CNBC TV18 summary says Asian equities rose Monday after the weak U.S. employment report reduced pressure for another Fed hike.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the practical market watch for borrowers and local governments?</p>
-<p><span style="font-weight:bold">Host:</span> Demand at the auctions. The report notes investors are looking to this week&#x27;s 10-year and 30-year auctions, with bond markets still under strain and the benchmark 10-year recently reaching its highest level since 2002. Mortgage desks and municipal borrowers need yields to hold relief, not just stocks.</p>
-<p><span style="font-weight:bold">Co-host:</span> Oil is still part of that, especially for households already trying to absorb higher insurance, food and financing costs?</p>
-<p><span style="font-weight:bold">Host:</span> Yes. Brent was near 102 dollars early Monday in that same market summary. If oil keeps inflation pressure alive, a soft jobs number may not be enough to give borrowers a clean rate break.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a dry and useful Monday. The National Weather Service county page shows no alerts for Franklin County over the next five days, and the point forecast around central Ohio has sun with temperatures near 70 and a cooler night in the low 40s.</p>
-<p><span style="font-weight:bold">Co-host:</span> So commute risk is low, but the morning layer still matters.</p>
-<p><span style="font-weight:bold">Host:</span> That&#x27;s the move. Plan for a cool start, a comfortable afternoon, and no weather-driven reason to change school, jobsite or errand plans. The next notable shift is later in the week, when the forecaster notes a cold front could bring showers and cooler conditions.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: first, whether the Supreme Court signals how far climate-liability suits can proceed after today&#x27;s opening case; second, whether Columbus advances the Miller Kelton contract and posts the notice-to-proceed date; third, whether the AI task force publishes standards rather than outreach language.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are clean triggers: court direction, local construction timing, and whether federal AI coordination becomes operational.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Monday, October 5th. Have a good morning, and keep the next decision tied to the newest verified fact.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Monday, October 05, 2026</title>
+    <description>Your Morning Brief for Monday, October 05, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-05_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-05_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-05_morning-brief.mp3" length="13497615" type="audio/mpeg"/>
@@ -1250,18 +1177,6 @@
     <itunes:duration>00:13:20</itunes:duration>
     <itunes:episode>20260917</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-17</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, September 16, 2026</title>
-    <description>Your Morning Brief for Wednesday, September 16, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-16_morning-brief-chapters.json" type="application/json+chapters"/>
-    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-16_morning-brief-transcript.html" type="text/html"/>
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-16_morning-brief.mp3" length="12845710" type="audio/mpeg"/>
-    <pubDate>Wed, 16 Sep 2026 07:50:22 -0400</pubDate>
-    <itunes:duration>00:13:21</itunes:duration>
-    <itunes:episode>20260916</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-16</guid>
   </item>
 </channel>
 </rss>
