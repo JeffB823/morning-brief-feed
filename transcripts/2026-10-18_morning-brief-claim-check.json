@@ -1,0 +1,127 @@
+{
+  "script": "2026-10-18_morning-brief-script.md",
+  "script_sha256": "3a9a2ea3a371054889de7c5561d8ba398f70c8c09a281455b1796d32b04d7e94",
+  "checked_at": "2026-10-18T03:07:01-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.columbusmarathon.com/race-day-details",
+      "characters": 5325
+    },
+    {
+      "url": "https://www.ttm.osu.edu/news/2026/10/10/campus-travel-cabs-impacts-october-17-18",
+      "characters": 3037
+    },
+    {
+      "url": "https://stockanalysis.com/stocks/fhn/transcripts/708905-q3-2026/",
+      "characters": 70371
+    },
+    {
+      "url": "https://realtywire.com/first-horizon-4-5-billion-mortgage-sale/",
+      "characters": 7974
+    },
+    {
+      "url": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+      "characters": 18323
+    },
+    {
+      "url": "https://api.weather.gov/gridpoints/ILN/85,81/forecast",
+      "characters": 7777
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/02d78e3dc4f1f75f8f8a5c327ba79008",
+      "error": "page body was only 16 characters",
+      "reason": "AP report opened through web research: Saturday events sought early voting and opposed Trump; local fetch returns a short block page."
+    },
+    {
+      "url": "https://apnews.com/article/296695e675eb0513edfe9b23be3b81c9",
+      "error": "page body was only 16 characters",
+      "reason": "AP report opened through web research: Highland Heights rally supported Ed Gallrein; local fetch returns a short block page."
+    },
+    {
+      "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-aml-investigations-agent-now-commercially-available",
+      "error": "curl exit 92: curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)",
+      "reason": "FIS release opened in web research, lines 50\u201370 verify the deployment and projections; local curl HTTP/2 fails."
+    }
+  ],
+  "claims_checked": 27,
+  "claims_supported": 15,
+  "claims_excepted": [
+    {
+      "claim": "Amalgamated",
+      "kind": "name",
+      "example": "FIS says Amalgamated analyzed its current workflows against the agent's expected abilities.",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "Amalgamated Bank",
+      "kind": "name",
+      "example": "banks, and that it is being deployed at design partner Amalgamated Bank.",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "Ed Gallrein",
+      "kind": "name",
+      "example": "AP reports he was there to bolster turnout, including for House candidate Ed Gallrein.",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "Election",
+      "kind": "name",
+      "example": "Election officials still have to process ballots, and a campaign's supporters may vote on different schedules.",
+      "reason": "False positive: generic election officials, not a proper name."
+    },
+    {
+      "claim": "Election Day November",
+      "kind": "name",
+      "example": "His appearance and the No Kings events are separate efforts, but both demonstrate the premium campaigns place on mobilization before Election Day, November third.",
+      "reason": "AP report identifies the November 3 general election; checker joined a generic phrase with the month."
+    },
+    {
+      "claim": "FIS",
+      "kind": "name",
+      "example": "On October fifteenth, FIS said its anti-money-laundering investigations agent became commercially available to U.S.",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "Highland Heights Kentucky",
+      "kind": "name",
+      "example": "On the same Saturday, President Trump rallied Republican candidates in Highland Heights, Kentucky.",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "No Kings",
+      "kind": "name",
+      "example": "His appearance and the No Kings events are separate efforts, but both demonstrate the premium campaigns place on mobilization before Election Day, November third.",
+      "reason": "AP nationwide report opened in web research identifies the No Kings network."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "The Associated Press reports that the network planned hundreds of events and framed them as nonpartisan, even though they grew out of opposition to President Trump.",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "Republican",
+      "kind": "name",
+      "example": "On the same Saturday, President Trump rallied Republican candidates in Highland Heights, Kentucky.",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "U.S",
+      "kind": "name",
+      "example": "On October fifteenth, FIS said its anti-money-laundering investigations agent became commercially available to U.S.",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "the No Kings",
+      "kind": "name",
+      "example": "Across the country Saturday, the No Kings network held events aimed at getting people to vote early in the midterm elections.",
+      "reason": "AP nationwide report opened in web research identifies the No Kings network."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

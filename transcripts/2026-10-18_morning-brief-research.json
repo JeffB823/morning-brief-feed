@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-18",
+  "cutoff": "2026-10-18T03:07:01-04:00 America/New_York",
+  "history_compared": [
+    "2026-10-11_morning-brief-script.md",
+    "2026-10-12_morning-brief-script.md",
+    "2026-10-13_morning-brief-script.md",
+    "2026-10-14_morning-brief-script.md",
+    "2026-10-15_morning-brief-script.md",
+    "2026-10-16_morning-brief-script.md",
+    "2026-10-17_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "no-kings",
+      "beat": "national",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://apnews.com/article/02d78e3dc4f1f75f8f8a5c327ba79008"
+      ],
+      "decision": "selected",
+      "rationale": "Rally attendance does not establish votes cast."
+    },
+    {
+      "id": "kentucky",
+      "beat": "national",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://apnews.com/article/296695e675eb0513edfe9b23be3b81c9"
+      ],
+      "decision": "selected",
+      "rationale": "Mobilization efforts compete; early voting does not establish outcome."
+    },
+    {
+      "id": "marathon",
+      "beat": "columbus",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-10",
+      "sources": [
+        "https://www.columbusmarathon.com/race-day-details",
+        "https://www.ttm.osu.edu/news/2026/10/10/campus-travel-cabs-impacts-october-17-18"
+      ],
+      "decision": "selected",
+      "rationale": "Use specific service suspension to plan today rather than general advance preparation."
+    },
+    {
+      "id": "first-horizon",
+      "beat": "home_lending",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "https://stockanalysis.com/stocks/fhn/transcripts/708905-q3-2026/",
+        "https://realtywire.com/first-horizon-4-5-billion-mortgage-sale/"
+      ],
+      "decision": "selected",
+      "rationale": "A realized loss can free capacity; settlement and reinvestment determine result."
+    },
+    {
+      "id": "fis",
+      "beat": "bank_ai",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-aml-investigations-agent-now-commercially-available"
+      ],
+      "decision": "selected",
+      "rationale": "Compare realized investigation quality and time, not projected savings alone."
+    },
+    {
+      "id": "deepseek",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      ],
+      "decision": "selected",
+      "rationale": "A stable API name can hide a changed model; test version-specific outputs."
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "decision": "selected",
+      "rationale": "Dress for cold start."
+    },
+    {
+      "id": "oregon",
+      "beat": "national",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://apnews.com/article/5cee41bcfd4264abab905b2b29991e99"
+      ],
+      "decision": "omitted",
+      "rationale": "Saturday survivor status is new, but competing national election stories selected."
+    },
+    {
+      "id": "beam",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://reflection.ai/blog/beam-is-available"
+      ],
+      "decision": "omitted",
+      "rationale": "Actual weights released October 16 after October 5 announcement; DeepSeek October 17 access/version update selected."
+    }
+  ],
+  "stories": [
+    {
+      "id": "no-kings",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://apnews.com/article/02d78e3dc4f1f75f8f8a5c327ba79008"
+      ],
+      "new_fact": "Nationwide events emphasized early voting.",
+      "new_takeaway": "Rally attendance does not establish votes cast.",
+      "why_now": "Saturday events occurred within 24 hours.",
+      "previous_coverage": "No equivalent October 11\u201317 segment.",
+      "uncertainty": "Future turnout and election outcomes unknown.",
+      "watch": "Official election participation data."
+    },
+    {
+      "id": "kentucky",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://apnews.com/article/296695e675eb0513edfe9b23be3b81c9"
+      ],
+      "new_fact": "President campaigned for Kentucky Republican candidates Saturday.",
+      "new_takeaway": "Mobilization efforts compete; early voting does not establish outcome.",
+      "why_now": "Saturday rally.",
+      "previous_coverage": "No equivalent rally segment in seven scripts.",
+      "uncertainty": "Impact on turnout unknown.",
+      "watch": "Certified election results."
+    },
+    {
+      "id": "marathon",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-10",
+      "sources": [
+        "https://www.columbusmarathon.com/race-day-details",
+        "https://www.ttm.osu.edu/news/2026/10/10/campus-travel-cabs-impacts-october-17-18"
+      ],
+      "new_fact": "Today race starts; OSU streets intermittently closed and CABS suspended 8:30\u20131.",
+      "new_takeaway": "Use specific service suspension to plan today rather than general advance preparation.",
+      "why_now": "Race and restrictions take effect today.",
+      "previous_coverage": "October 12 announced race and 7:30 start and general travel planning; today adds actual OSU suspension and closure window.",
+      "uncertainty": "Operational conditions may change.",
+      "watch": "OSU and organizer updates.",
+      "carryover": true
+    },
+    {
+      "id": "first-horizon",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "https://stockanalysis.com/stocks/fhn/transcripts/708905-q3-2026/",
+        "https://realtywire.com/first-horizon-4-5-billion-mortgage-sale/"
+      ],
+      "new_fact": "Bank disclosed agreement to sell about $4.5 billion of low-yield residential mortgages, with pretax loss.",
+      "new_takeaway": "A realized loss can free capacity; settlement and reinvestment determine result.",
+      "why_now": "Earlier October agreement newly disclosed Thursday and remains relevant to balance sheet planning.",
+      "previous_coverage": "No prior seven episodes segment; October 17 candidate rejected pending details.",
+      "uncertainty": "Settlement and earnings benefits not guaranteed.",
+      "watch": "Confirm early fourth quarter settlement.",
+      "date_exception": "Quiet Sunday lending beat; previously uncovered October 15 disclosure has specific ongoing balance-sheet consequences."
+    },
+    {
+      "id": "fis",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-10-15",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-aml-investigations-agent-now-commercially-available"
+      ],
+      "new_fact": "Commercial availability for U.S. banks; deployment underway at Amalgamated; projected time reductions.",
+      "new_takeaway": "Compare realized investigation quality and time, not projected savings alone.",
+      "why_now": "Availability and deployment newly disclosed this week.",
+      "previous_coverage": "No FIS or Amalgamated segment in previous seven episodes; September ledger had pilot.",
+      "uncertainty": "Metrics are estimates, not outcomes; no quality baseline disclosed.",
+      "watch": "Measured investigation quality and time at Amalgamated.",
+      "date_exception": "Quiet Sunday specialist beat; previously uncovered October 15 disclosure changes product availability and deployment status.",
+      "ledger_row_changed": "FIS / Amalgamated financial crime investigations: commercial availability and deployment underway, vendor claim with projections, no measured outcomes."
+    },
+    {
+      "id": "deepseek",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-17",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      ],
+      "new_fact": "Flash alias updated to 1017 and search API opened.",
+      "new_takeaway": "A stable API name can hide a changed model; test version-specific outputs.",
+      "why_now": "October 17 release.",
+      "previous_coverage": "No DeepSeek version segment in previous seven episodes.",
+      "uncertainty": "Provider quality claims not independently verified; no task-specific results disclosed.",
+      "watch": "Independent evaluations and behavior on representative tasks.",
+      "frontier_bar": "Agent/tool-use and access shift: search API available and model alias updated."
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+      ],
+      "new_fact": "NWS: frost then sunny, high 63.",
+      "new_takeaway": "Dress for cold start.",
+      "why_now": "Sunday forecast.",
+      "previous_coverage": "Prior episodes used earlier forecasts.",
+      "uncertainty": "Forecast may change.",
+      "watch": "NWS update."
+    }
+  ],
+  "length_exception": "Quiet Sunday: two specialist segments rely on previously uncovered dated disclosures; additional verified fresh reporting did not support a longer edition without repetition or padding.",
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "3a9a2ea3a371054889de7c5561d8ba398f70c8c09a281455b1796d32b04d7e94"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/02d78e3dc4f1f75f8f8a5c327ba79008",
+      "reason": "AP report opened through web research: Saturday events sought early voting and opposed Trump; local fetch returns a short block page."
+    },
+    {
+      "claim": "https://apnews.com/article/296695e675eb0513edfe9b23be3b81c9",
+      "reason": "AP report opened through web research: Highland Heights rally supported Ed Gallrein; local fetch returns a short block page."
+    },
+    {
+      "claim": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-aml-investigations-agent-now-commercially-available",
+      "reason": "FIS release opened in web research, lines 50\u201370 verify the deployment and projections; local curl HTTP/2 fails."
+    },
+    {
+      "claim": "Amalgamated",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "Amalgamated Bank",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "FIS",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "U.S",
+      "reason": "FIS primary release opened in web research names FIS, Amalgamated Bank, and U.S. banks."
+    },
+    {
+      "claim": "Ed Gallrein",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "Highland Heights Kentucky",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "President Trump",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "Republican",
+      "reason": "AP Kentucky rally report opened in web research identifies Trump, Gallrein, Republicans and Highland Heights, Kentucky."
+    },
+    {
+      "claim": "No Kings",
+      "reason": "AP nationwide report opened in web research identifies the No Kings network."
+    },
+    {
+      "claim": "the No Kings",
+      "reason": "AP nationwide report opened in web research identifies the No Kings network."
+    },
+    {
+      "claim": "Election",
+      "reason": "False positive: generic election officials, not a proper name."
+    },
+    {
+      "claim": "Election Day November",
+      "reason": "AP report identifies the November 3 general election; checker joined a generic phrase with the month."
+    }
+  ]
+}
