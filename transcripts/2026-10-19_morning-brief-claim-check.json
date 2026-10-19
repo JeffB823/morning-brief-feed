@@ -1,0 +1,134 @@
+{
+  "script": "2026-10-19_morning-brief-script.md",
+  "script_sha256": "9258295afa8b764361aefa383e1d7c5f16f14cb1c0da4ddad9c20d0ec435a22a",
+  "checked_at": "2026-10-19T08:58:10-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.boston25news.com/news/world/egypts-top-security/ND3A2UKJYU4ABOZAORY5NUYNAA/",
+      "characters": 7954
+    },
+    {
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+      "characters": 10134
+    },
+    {
+      "url": "https://www.aol.com/articles/us-resumes-intelligence-sharing-ukraine-135650000.html",
+      "characters": 5948
+    },
+    {
+      "url": "https://columbus.legistar.com/MeetingDetail.aspx?GUID=129F8AAD-E047-4255-86C5-102D40BB0A2C&ID=1455071&Options=info%7C&Search=",
+      "characters": 50031
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?GUID=FF2D6EF5-39D7-4997-AEFB-D5F1F14A2A8E&ID=8287408&Options=&Search=",
+      "characters": 2891
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?GUID=B22A996B-526A-4642-8EA3-C7FF1897B821&ID=8287409&Options=&Search=",
+      "characters": 3022
+    },
+    {
+      "url": "https://correspondent.onitymortgage.com/Resources/Announcements/flexiq-non-agency-updates",
+      "characters": 3726
+    },
+    {
+      "url": "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
+      "characters": 4782
+    },
+    {
+      "url": "https://api.github.com/repos/apple-aiml-research/ml-rsi-inference-bench/commits?per_page=1",
+      "characters": 3205
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3666
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
+      "error": "page body was only 16 characters",
+      "reason": "AP October 18 dispatch headline/summary retrieved through web search; full AP syndication by Michelle L. Price retrieved from the October 18 Washington Post result. Confirms fifteen-month East Potomac closure announcement and Monday hearing. curl receives a challenge, not article text."
+    },
+    {
+      "url": "https://www.washingtonpost.com/sports/2026/10/18/trump-east-potomac-golf-course/4db2dc32-cb0a-11f1-ac04-9f58578a68b4_story.html",
+      "error": "curl exit 92: curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)",
+      "reason": "The web-search result returned the full Michelle L. Price AP dispatch, dated October 18 at 8:24 p.m., including the scheduled Monday court hearing. curl has HTTP/2 error. This copy supports only the hearing timing in the short on-air item; no more than 25 derived words rely on it."
+    },
+    {
+      "url": "https://apnews.com/article/e16399534219907702867f41cf4955a1",
+      "error": "page body was only 16 characters",
+      "reason": "Full AP dispatch retrieved through web search, dated October 18 20:48:17 UTC. Text explicitly says Wichita police released driver without charges pending toxicology and a mechanical examination, and two people died. curl serves a challenge."
+    },
+    {
+      "url": "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d",
+      "error": "page body was only 16 characters",
+      "reason": "Full article opened in web during initial discovery and retrieved again as AP search result in recovery. October 18 text states Ukrainian energy-site strikes and quotes Zelenskyy saying sharing resumed. Reuters syndication separately confirms the intelligence statement. curl receives challenge."
+    },
+    {
+      "url": "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb",
+      "error": "page body was only 253 characters",
+      "reason": "Primary M&T 29-page Q3 presentation opened and read in web PDF extraction. Page index 19, slide numbered 20, says 20% reduction in call transfers and improved first-call resolution through better routing. Slide does not give comparison period/sample/absolute baseline/supplier. curl body is not usable for this HTML-only checker."
+    },
+    {
+      "url": "https://uk.marketscreener.com/news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-ce785cdad18ff424",
+      "error": "page body was only 294 characters",
+      "reason": "Reuters October 19 dispatch retrieved through web search, updated 06:04 BST. Text confirms Asian share weakness from AI funding concerns, support to futures/bonds from lower oil, and Brent $107.83. Script labels it an overnight snapshot; direct fetch is unavailable."
+    }
+  ],
+  "claims_checked": 34,
+  "claims_supported": 26,
+  "claims_excepted": [
+    {
+      "claim": "Asian",
+      "kind": "name",
+      "example": "stock futures and bonds, while Asian stocks faced concern about AI funding demands.",
+      "reason": "Reuters October 19 MarketScreener search result explicitly says Asian share markets mostly slipped and mentions AI funding worries. Geographic adjective here, not an invented organization."
+    },
+    {
+      "claim": "Brent",
+      "kind": "name",
+      "example": "Its early snapshot put Brent below a hundred and eight dollars a barrel.",
+      "reason": "Reuters October 19 result quotes Brent futures at $107.83; script rounds only to below $108 and states this is an overnight snapshot."
+    },
+    {
+      "claim": "East Potomac",
+      "kind": "name",
+      "example": "Three things to watch: today's court proceedings on the East Potomac redevelopment; the next posted action or agenda for the Ackley Place housing applications; and any M&T follow-up identifying the call-routing baseline and repeat-contact results.",
+      "reason": "AP original dispatch and full Washington Post AP syndication identify the East Potomac Golf Course. The closing reference abbreviates the same verified place."
+    },
+    {
+      "claim": "M&T",
+      "kind": "name",
+      "example": "M&T's slide does not provide enough information to reproduce that comparison, and it does not name the embedded AI supplier behind this result.",
+      "reason": "Verified issuer of the October 16 Q3 presentation; name is printed on slide 20 with the routing disclosure, read through web PDF extraction."
+    },
+    {
+      "claim": "M&T October",
+      "kind": "name",
+      "example": "M&T's October sixteenth earnings presentation reports a twenty percent reduction in call transfers through better customer routing, alongside improved first-call resolution.",
+      "reason": "Checker joins issuer name with following calendar month. These are not one proper noun. M&T and October 16 are separately verified from the primary earnings presentation and company release."
+    },
+    {
+      "claim": "Ukraine President Volodymyr Zelenskyy",
+      "kind": "name",
+      "example": "On Ukraine, President Volodymyr Zelenskyy said Sunday that U.S.",
+      "reason": "Checker spans the introductory topic and speaker name. AP spells the Ukrainian president Volodymyr Zelenskyy; Reuters spells the same person Volodymyr Zelenskiy. Both October 18 dispatches attribute the restoration statement to him."
+    },
+    {
+      "claim": "Washington East Potomac Golf Course",
+      "kind": "name",
+      "example": "President Trump announced Sunday that he wants to close Washington's East Potomac Golf Course for fifteen months of renovation.",
+      "reason": "Checker combines possessive Washington with course name. Full AP syndication explicitly places the East Potomac Golf Course in Washington and reports the fifteen-month renovation proposal."
+    },
+    {
+      "claim": "Wichita",
+      "kind": "name",
+      "example": "In Wichita, police said Sunday that the driver in Saturday's deadly youth-soccer-field crash was released without charges while investigators await toxicology and a mechanical examination.",
+      "reason": "AP October 18 dispatch is datelined Wichita, Kansas, and names Wichita police as the source for release and pending tests."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

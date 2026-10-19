@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-19",
+  "cutoff": "2026-10-19T08:56:28-04:00",
+  "status": "validated",
+  "history_compared": [
+    "2026-10-12_morning-brief-script.md",
+    "2026-10-13_morning-brief-script.md",
+    "2026-10-14_morning-brief-script.md",
+    "2026-10-15_morning-brief-script.md",
+    "2026-10-16_morning-brief-script.md",
+    "2026-10-17_morning-brief-script.md",
+    "2026-10-18_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "wichita",
+      "event_date": "2026-10-18",
+      "source": "https://apnews.com/article/e16399534219907702867f41cf4955a1",
+      "note": "Police released driver without charges pending toxicology and vehicle examination; Saturday crash killed two."
+    },
+    {
+      "id": "ukraine",
+      "event_date": "2026-10-18",
+      "source": "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d",
+      "note": "Zelenskyy says intelligence sharing resumed; compare Oct 17 sanctions segment."
+    },
+    {
+      "id": "columbus-marathon",
+      "event_date": "2026-10-18",
+      "source": "https://sports.yahoo.com/articles/won-2026-columbus-marathon-see-172858731.html",
+      "note": "Race result story; Yahoo returned 429, seek original or official results; compare Oct 18 closures."
+    },
+    {
+      "id": "onity-flexiq",
+      "event_date": "2026-10-12",
+      "source": "https://correspondent.onitymortgage.com/Resources/Announcements/flexiq-non-agency-updates",
+      "note": "New non-agency locks use revised guidelines; earlier locks retain prior guidelines. Dated specialist update, not fresh."
+    },
+    {
+      "id": "mt-bank-ai",
+      "event_date": "2026-10-16",
+      "source": "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb",
+      "note": "Earnings presentation reports 20% reduction in call transfers from routing; baseline and methodology not disclosed in slide. Check earlier coverage and ledger."
+    },
+    {
+      "id": "apple-inference-bench",
+      "event_date": "2026-10-16",
+      "source": "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
+      "note": "Apple benchmark tests model-serving support, optimization, and regression repair. Verify exact public release time and measured results; dated specialist update."
+    },
+    {
+      "id": "golf-course",
+      "event_date": "2026-10-18",
+      "source": "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
+      "note": "Trump announced a 15-month public golf course renovation amid court challenge; investigate details and operational implications."
+    },
+    {
+      "id": "egypt-saudi",
+      "event_date": "2026-10-18",
+      "source": "https://apnews.com/article/f7d499cb13525df2bc7eb318e0fc1404",
+      "note": "Egypt security body said it agreed to support Saudi Arabia against Houthi attacks; investigate details and continuity."
+    }
+  ],
+  "stories": [
+    {
+      "id": "east-potomac",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
+        "https://www.washingtonpost.com/sports/2026/10/18/trump-east-potomac-golf-course/4db2dc32-cb0a-11f1-ac04-9f58578a68b4_story.html"
+      ],
+      "new_fact": "Sunday closure announcement proposes 15-month renovation while litigation continues.",
+      "new_takeaway": "Public announcement and legal authorization are different scheduling evidence.",
+      "why_now": "New Sunday announcement, with Monday court proceedings.",
+      "previous_coverage": "No coverage in prior seven.",
+      "uncertainty": "Future closure and scope of authorized work remain contested; no hearing outcome claimed.",
+      "watch": "October 19 court proceeding and written orders"
+    },
+    {
+      "id": "egypt-saudi",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://www.boston25news.com/news/world/egypts-top-security/ND3A2UKJYU4ABOZAORY5NUYNAA/",
+        "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/"
+      ],
+      "new_fact": "Egypt National Defense Council agreed Sunday to support Saudi Arabia; assistance unspecified.",
+      "new_takeaway": "Distinguish support pledge from documented military deployment.",
+      "why_now": "Sunday changes coalition posture.",
+      "previous_coverage": "October 12 covered Riyadh airport disruption; new actor and authorization development, different takeaway.",
+      "uncertainty": "No force package inferred and no conclusion that transportation is safe.",
+      "watch": "Specific assistance mandate or deployment notice",
+      "carryover": true
+    },
+    {
+      "id": "wichita-investigation",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://apnews.com/article/e16399534219907702867f41cf4955a1"
+      ],
+      "new_fact": "Police said Sunday driver released without charges pending tests after Saturday crash killed two.",
+      "new_takeaway": "Release does not determine cause or intent.",
+      "why_now": "New investigative status Sunday.",
+      "previous_coverage": "Not covered in prior seven.",
+      "uncertainty": "Toxicology and vehicle examination pending; no speculation on intent.",
+      "watch": "Police report test results or charging decision"
+    },
+    {
+      "id": "ukraine-intelligence",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-18",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://www.aol.com/articles/us-resumes-intelligence-sharing-ukraine-135650000.html",
+        "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d"
+      ],
+      "new_fact": "Zelenskyy said Sunday U.S. intelligence sharing resumed; AP separately reports Sunday energy-site strikes.",
+      "new_takeaway": "Restored cooperation on one military function differs from diplomatic settlement.",
+      "why_now": "New Sunday statement.",
+      "previous_coverage": "October 13 diesel and October 17 sanctions discussion did not establish intelligence restoration.",
+      "uncertainty": "Speaker attribution preserved; interruption duration and restored scope not independently established.",
+      "watch": "Official scope or timing clarification",
+      "carryover": true
+    },
+    {
+      "id": "ackley-housing",
+      "beat": "columbus",
+      "classification": "routine",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "https://columbus.legistar.com/MeetingDetail.aspx?GUID=129F8AAD-E047-4255-86C5-102D40BB0A2C&ID=1455071&Options=info%7C&Search=",
+        "https://columbus.legistar.com/LegislationDetail.aspx?GUID=FF2D6EF5-39D7-4997-AEFB-D5F1F14A2A8E&ID=8287408&Options=&Search=",
+        "https://columbus.legistar.com/LegislationDetail.aspx?GUID=B22A996B-526A-4642-8EA3-C7FF1897B821&ID=8287409&Options=&Search="
+      ],
+      "new_fact": "Tentative October 19 agenda lists initial readings of rezoning and variance for 318 apartments at 2125 Ackley Place.",
+      "new_takeaway": "Site design, land-use designation and eventual construction are distinct decisions.",
+      "why_now": "Scheduled public process tonight; not counted toward four fresh events.",
+      "previous_coverage": "Saturday public land inventory omitted; this is a separate private proposal not previously covered.",
+      "uncertainty": "Individual details already show October 26 second reading; no final action is recorded. Explicitly tell listener to verify scheduling.",
+      "watch": "Posted action record or amended agenda",
+      "affected_parties": "Northeast Columbus residents and housing developers"
+    },
+    {
+      "id": "onity-flexiq",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-10-12",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://correspondent.onitymortgage.com/Resources/Announcements/flexiq-non-agency-updates"
+      ],
+      "new_fact": "New FlexIQ locks October 12 onward use updated guidelines; previous locks retain earlier guidelines.",
+      "new_takeaway": "Lock date selects rulebook before file review, avoiding wrong-version eligibility explanations.",
+      "why_now": "Current file-level boundary applies when reviewing pipeline this week.",
+      "previous_coverage": "Uncovered in prior seven; replaces two consecutive bank balance-sheet/servicing economics leads.",
+      "uncertainty": "Public notice does not enumerate thresholds; do not promise loan approval or specific score.",
+      "watch": "Updated matrix or investor clarification of lock-version treatment",
+      "date_exception": "Quiet Monday: one uncovered home-lending update within seven days, operationally relevant today; does not count as fresh.",
+      "workflow": "Correspondent non-agency full-doc, alt-doc and DSCR underwriting version selection"
+    },
+    {
+      "id": "mt-routing",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb"
+      ],
+      "new_fact": "M&T earnings slide 20 reports 20% reduction in call transfers and unquantified first-call resolution improvement through better routing.",
+      "new_takeaway": "Routing evaluation should pair transfers with repeat contacts and correct-resolver outcomes.",
+      "why_now": "Newly uncovered task metric relevant to current service investments.",
+      "previous_coverage": "M&T mortgage subservicing on October 17 was a different task. Prior banking lanes: index/internal productivity, integration engineering, TD mortgage, Starling transaction model, adoption counts, deepfake trial, AML.",
+      "uncertainty": "No comparison period, absolute baseline, sample, supplier name or independent replication on slide.",
+      "watch": "Named baseline and repeat-contact or resolution evidence",
+      "date_exception": "Quiet Monday: one previously uncovered bank AI disclosure from last seven days; not counted fresh.",
+      "ledger_row_changed": "M&T consumer service routing, new production task row with first recorded task metric.",
+      "evidence_rank": "earnings call / company earnings presentation",
+      "baseline": "Not disclosed: neither prior absolute transfer rate nor comparison period.",
+      "lane": 1
+    },
+    {
+      "id": "apple-rsi",
+      "beat": "frontier_ai",
+      "classification": "dated_update",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
+        "https://api.github.com/repos/apple-aiml-research/ml-rsi-inference-bench/commits?per_page=1"
+      ],
+      "new_fact": "Apple repository adds execution-verified inference-engine tasks; initial commit October 16 17:21:45 UTC.",
+      "new_takeaway": "Assess code patches using runtime correctness and performance, instead of plausible explanations.",
+      "why_now": "Previously uncovered evaluation method can inform engineering experiments now.",
+      "previous_coverage": "No overlap with agent website incident, model releases, citations or search alias updates in prior seven.",
+      "uncertainty": "No leaderboard score quoted or independently reproduced by this show; hardware/engine-specific tasks.",
+      "watch": "Reproducible task outcomes on buyers own hardware",
+      "date_exception": "Quiet Monday: one previously uncovered frontier specialist update from last seven days; does not count fresh.",
+      "frontier_bar": "benchmark or evaluation that changes how models are compared",
+      "measured_by": "Apple researchers: external verifier executes engine; task-specific pass/fail or measured speedup baseline; failed correctness earns no speedup credit.",
+      "bridge": "Isolated bank engineering experiment gated by local correctness/performance release tests."
+    },
+    {
+      "id": "overnight-markets",
+      "beat": "markets",
+      "classification": "routine",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "https://uk.marketscreener.com/news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-ce785cdad18ff424"
+      ],
+      "new_fact": "Reuters overnight snapshot: lower oil supports futures/bonds while AI funding worries affect Asian shares; Brent $107.83.",
+      "new_takeaway": "Quote time and physical transport costs are distinct from equity futures direction.",
+      "why_now": "Overnight market context before regular session.",
+      "previous_coverage": "Avoids Friday close repeated Saturday or Sunday broad-market commentary.",
+      "uncertainty": "Snapshot is not live price or completed Monday session.",
+      "watch": "Earnings financing and spending commentary"
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "NWS 4 a.m. point forecast: high 67, clear night low 41, morning frost before 9.",
+      "new_takeaway": "Removable layer for colder start and evening.",
+      "why_now": "Monday local forecast.",
+      "previous_coverage": "Sunday forecast not reused.",
+      "uncertainty": "Other provider gave 70; use primary specific NWS point forecast and preserve issue time.",
+      "watch": "Updated NWS local forecast"
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "9258295afa8b764361aefa383e1d7c5f16f14cb1c0da4ddad9c20d0ec435a22a",
+    "spoken_words": 1748,
+    "cohost_share": 0.2374,
+    "max_turn_words": 64,
+    "opening_preview_words": 45,
+    "notes": "Four independent Sunday developments; exactly two carryovers (Egypt and Ukraine) with distinct events and takeaways. Three quiet-day specialist updates allowed per explicit user instruction, unique beats. Cohost questions answered with limits rather than invented outcomes. Lending lock-version boundary and bank routing baseline checked. Exactly three closing items. CHAPTER production markers retained. No direct quotations. Analyst hypothetical examples are explicitly hypothetical.",
+    "source_fetch_notes": "Exceptions identify exact verified text and fetch limitations; they do not waive factual review. No source text was fabricated or inserted into the claim checker corpus."
+  },
+  "discovery_cutoff": "2026-10-19T01:41:28-04:00",
+  "candidate_discovery_order": "Eight independent candidates saved before tracker consultation in initial run; recovery added concrete Columbus council application and overnight Reuters markets.",
+  "seven_episode_comparison": {
+    "2026-10-12": "Riyadh transport disruption now followed by concrete Egyptian support decision, different operational takeaway; other facts/conclusions omitted.",
+    "2026-10-13": "Diesel legal path and Mashreq engineering pilot omitted; restored intelligence is a separately verified event.",
+    "2026-10-14": "Press access, voter day, FirstClose/Cotality, TD mortgage AI and Argon safety omitted.",
+    "2026-10-15": "Guard authority, transmission siting, BofA origination, Starling, Grok voice omitted.",
+    "2026-10-16": "Voucher ruling, campaign access, MPF escrow, BofA adoption, voice release omitted. Call-routing task provides a metric rather than repeating scale conclusion.",
+    "2026-10-17": "No sanctions-pause recap, public-land inventory or subservicing revenue repeat. M&T routing is a separate task disclosure.",
+    "2026-10-18": "Rallies, marathon closures, First Horizon sale, FIS AML and DeepSeek update omitted."
+  },
+  "source_word_limits_review": {
+    "national": "Each of four short items is under 100 spoken words; DC hearing detail uses fewer than 25 words of the WP AP syndication. No quotations.",
+    "local": "266 words across meeting agenda and two distinct primary legislation records, each capped at 200 derived words.",
+    "lending": "Public announcement facts and limitations account for under 200 words; additional copy is original hypothetical illustration explicitly identified.",
+    "bank_ai": "283-word segment: under 200 words derive from presentation facts and missing disclosures; original example and proposed evaluation distinguish analytic reasoning from reported outcomes.",
+    "frontier_ai": "290-word segment: under 200 words derive from README method; separate dated GitHub commit verifies date; analogy and local evaluation suggestion are original analysis.",
+    "markets_weather": "121 market words within 200 Reuters allowance; 50 weather words within 200 NWS allowance."
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
+      "reason": "AP October 18 dispatch headline/summary retrieved through web search; full AP syndication by Michelle L. Price retrieved from the October 18 Washington Post result. Confirms fifteen-month East Potomac closure announcement and Monday hearing. curl receives a challenge, not article text."
+    },
+    {
+      "claim": "https://www.washingtonpost.com/sports/2026/10/18/trump-east-potomac-golf-course/4db2dc32-cb0a-11f1-ac04-9f58578a68b4_story.html",
+      "reason": "The web-search result returned the full Michelle L. Price AP dispatch, dated October 18 at 8:24 p.m., including the scheduled Monday court hearing. curl has HTTP/2 error. This copy supports only the hearing timing in the short on-air item; no more than 25 derived words rely on it."
+    },
+    {
+      "claim": "https://apnews.com/article/e16399534219907702867f41cf4955a1",
+      "reason": "Full AP dispatch retrieved through web search, dated October 18 20:48:17 UTC. Text explicitly says Wichita police released driver without charges pending toxicology and a mechanical examination, and two people died. curl serves a challenge."
+    },
+    {
+      "claim": "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d",
+      "reason": "Full article opened in web during initial discovery and retrieved again as AP search result in recovery. October 18 text states Ukrainian energy-site strikes and quotes Zelenskyy saying sharing resumed. Reuters syndication separately confirms the intelligence statement. curl receives challenge."
+    },
+    {
+      "claim": "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb",
+      "reason": "Primary M&T 29-page Q3 presentation opened and read in web PDF extraction. Page index 19, slide numbered 20, says 20% reduction in call transfers and improved first-call resolution through better routing. Slide does not give comparison period/sample/absolute baseline/supplier. curl body is not usable for this HTML-only checker."
+    },
+    {
+      "claim": "https://uk.marketscreener.com/news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-ce785cdad18ff424",
+      "reason": "Reuters October 19 dispatch retrieved through web search, updated 06:04 BST. Text confirms Asian share weakness from AI funding concerns, support to futures/bonds from lower oil, and Brent $107.83. Script labels it an overnight snapshot; direct fetch is unavailable."
+    },
+    {
+      "claim": "Asian",
+      "reason": "Reuters October 19 MarketScreener search result explicitly says Asian share markets mostly slipped and mentions AI funding worries. Geographic adjective here, not an invented organization."
+    },
+    {
+      "claim": "Brent",
+      "reason": "Reuters October 19 result quotes Brent futures at $107.83; script rounds only to below $108 and states this is an overnight snapshot."
+    },
+    {
+      "claim": "East Potomac",
+      "reason": "AP original dispatch and full Washington Post AP syndication identify the East Potomac Golf Course. The closing reference abbreviates the same verified place."
+    },
+    {
+      "claim": "M&T",
+      "reason": "Verified issuer of the October 16 Q3 presentation; name is printed on slide 20 with the routing disclosure, read through web PDF extraction."
+    },
+    {
+      "claim": "M&T October",
+      "reason": "Checker joins issuer name with following calendar month. These are not one proper noun. M&T and October 16 are separately verified from the primary earnings presentation and company release."
+    },
+    {
+      "claim": "Ukraine President Volodymyr Zelenskyy",
+      "reason": "Checker spans the introductory topic and speaker name. AP spells the Ukrainian president Volodymyr Zelenskyy; Reuters spells the same person Volodymyr Zelenskiy. Both October 18 dispatches attribute the restoration statement to him."
+    },
+    {
+      "claim": "Washington East Potomac Golf Course",
+      "reason": "Checker combines possessive Washington with course name. Full AP syndication explicitly places the East Potomac Golf Course in Washington and reports the fifteen-month renovation proposal."
+    },
+    {
+      "claim": "Wichita",
+      "reason": "AP October 18 dispatch is datelined Wichita, Kansas, and names Wichita police as the source for release and pending tests."
+    }
+  ],
+  "implementation_map_review": {
+    "date": "2026-10-19",
+    "home_lending": "Reopened FHFA credit-scores page (updated Oct 2; source development dates Sep 9 and Sep 30 retained) and Fannie archives (Oct 7 retained); added Oct 12 Onity lock-version lead.",
+    "enterprise_ai": "Reopened Nubank June research as background with original dates preserved; Apple benchmark and M&T October 16 disclosure added as new research leads.",
+    "next_review": "2026-10-26"
+  }
+}
