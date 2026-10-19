@@ -16,49 +16,125 @@
       "id": "wichita",
       "event_date": "2026-10-18",
       "source": "https://apnews.com/article/e16399534219907702867f41cf4955a1",
-      "note": "Police released driver without charges pending toxicology and vehicle examination; Saturday crash killed two."
+      "note": "Police released driver without charges pending toxicology and vehicle examination; Saturday crash killed two.",
+      "decision": "selected",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://apnews.com/article/e16399534219907702867f41cf4955a1"
+      ],
+      "decision_reason": "New investigative status Sunday."
     },
     {
       "id": "ukraine",
       "event_date": "2026-10-18",
       "source": "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d",
-      "note": "Zelenskyy says intelligence sharing resumed; compare Oct 17 sanctions segment."
+      "note": "Zelenskyy says intelligence sharing resumed; compare Oct 17 sanctions segment.",
+      "decision": "selected",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://www.aol.com/articles/us-resumes-intelligence-sharing-ukraine-135650000.html",
+        "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d"
+      ],
+      "decision_reason": "New Sunday statement."
     },
     {
       "id": "columbus-marathon",
       "event_date": "2026-10-18",
       "source": "https://sports.yahoo.com/articles/won-2026-columbus-marathon-see-172858731.html",
-      "note": "Race result story; Yahoo returned 429, seek original or official results; compare Oct 18 closures."
+      "note": "Race result story; Yahoo returned 429, seek original or official results; compare Oct 18 closures.",
+      "decision": "omitted",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://sports.yahoo.com/articles/won-2026-columbus-marathon-see-172858731.html"
+      ],
+      "decision_reason": "Race travel already received a full Sunday segment; result page not reliably retrievable in discovery. Select a different local civic decision."
     },
     {
       "id": "onity-flexiq",
       "event_date": "2026-10-12",
       "source": "https://correspondent.onitymortgage.com/Resources/Announcements/flexiq-non-agency-updates",
-      "note": "New non-agency locks use revised guidelines; earlier locks retain prior guidelines. Dated specialist update, not fresh."
+      "note": "New non-agency locks use revised guidelines; earlier locks retain prior guidelines. Dated specialist update, not fresh.",
+      "decision": "selected",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "https://correspondent.onitymortgage.com/Resources/Announcements/flexiq-non-agency-updates"
+      ],
+      "decision_reason": "Current file-level boundary applies when reviewing pipeline this week."
     },
     {
       "id": "mt-bank-ai",
       "event_date": "2026-10-16",
       "source": "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb",
-      "note": "Earnings presentation reports 20% reduction in call transfers from routing; baseline and methodology not disclosed in slide. Check earlier coverage and ledger."
+      "note": "Earnings presentation reports 20% reduction in call transfers from routing; baseline and methodology not disclosed in slide. Check earlier coverage and ledger.",
+      "decision": "selected",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://ir.mtb.com/static-files/5e370b06-317f-4dd2-a3e9-9bccff37b8bb"
+      ],
+      "decision_reason": "Newly uncovered task metric relevant to current service investments."
     },
     {
       "id": "apple-inference-bench",
       "event_date": "2026-10-16",
       "source": "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
-      "note": "Apple benchmark tests model-serving support, optimization, and regression repair. Verify exact public release time and measured results; dated specialist update."
+      "note": "Apple benchmark tests model-serving support, optimization, and regression repair. Verify exact public release time and measured results; dated specialist update.",
+      "decision": "selected",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
+        "https://api.github.com/repos/apple-aiml-research/ml-rsi-inference-bench/commits?per_page=1"
+      ],
+      "decision_reason": "Previously uncovered evaluation method can inform engineering experiments now."
     },
     {
       "id": "golf-course",
       "event_date": "2026-10-18",
       "source": "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
-      "note": "Trump announced a 15-month public golf course renovation amid court challenge; investigate details and operational implications."
+      "note": "Trump announced a 15-month public golf course renovation amid court challenge; investigate details and operational implications.",
+      "decision": "selected",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://apnews.com/article/ef8daa134bb6c7c08fd528d98aa3e77f",
+        "https://www.washingtonpost.com/sports/2026/10/18/trump-east-potomac-golf-course/4db2dc32-cb0a-11f1-ac04-9f58578a68b4_story.html"
+      ],
+      "decision_reason": "New Sunday announcement, with Monday court proceedings."
     },
     {
       "id": "egypt-saudi",
       "event_date": "2026-10-18",
       "source": "https://apnews.com/article/f7d499cb13525df2bc7eb318e0fc1404",
-      "note": "Egypt security body said it agreed to support Saudi Arabia against Houthi attacks; investigate details and continuity."
+      "note": "Egypt security body said it agreed to support Saudi Arabia against Houthi attacks; investigate details and continuity.",
+      "decision": "selected",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "https://www.boston25news.com/news/world/egypts-top-security/ND3A2UKJYU4ABOZAORY5NUYNAA/",
+        "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/"
+      ],
+      "decision_reason": "Sunday changes coalition posture."
+    },
+    {
+      "id": "ackley-housing",
+      "decision": "selected",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-15",
+      "discovery_stage": "recovery after eight original independently discovered candidates",
+      "sources": [
+        "https://columbus.legistar.com/MeetingDetail.aspx?GUID=129F8AAD-E047-4255-86C5-102D40BB0A2C&ID=1455071&Options=info%7C&Search=",
+        "https://columbus.legistar.com/LegislationDetail.aspx?GUID=FF2D6EF5-39D7-4997-AEFB-D5F1F14A2A8E&ID=8287408&Options=&Search=",
+        "https://columbus.legistar.com/LegislationDetail.aspx?GUID=B22A996B-526A-4642-8EA3-C7FF1897B821&ID=8287409&Options=&Search="
+      ],
+      "decision_reason": "Concrete upcoming local civic process, used as routine not counted fresh; scheduling conflict disclosed."
+    },
+    {
+      "id": "overnight-markets",
+      "decision": "selected",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-19",
+      "discovery_stage": "recovery",
+      "sources": [
+        "https://uk.marketscreener.com/news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-ce785cdad18ff424"
+      ],
+      "decision_reason": "Compact overnight context with clear snapshot timing, not counted fresh."
     }
   ],
   "stories": [
