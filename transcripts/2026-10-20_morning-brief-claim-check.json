@@ -1,0 +1,119 @@
+{
+  "script": "2026-10-20_morning-brief-script.md",
+  "script_sha256": "efc7c5a76cb885184d19b3561933e5ef6724b552e5dbb128308293402d3e7957",
+  "checked_at": "2026-10-20T01:40:44-0400",
+  "sources_fetched": [
+    {
+      "url": "https://ir.huntington.com/news-presentations/press-releases/detail/1028/huntington-bank-introduces-the-1866-studio-an-ai-powered-small-business-operating-system-built-with-google-cloud",
+      "characters": 8640
+    },
+    {
+      "url": "https://www.santander.com/en/press-room/press-releases/2026/10/santander-builds-ai-capabilities-that-improve-performance-and-lower-costs-using-nvidia-ai-infrastructure",
+      "characters": 8065
+    },
+    {
+      "url": "https://ir.minimax.io/news-events/new-releases",
+      "characters": 4735
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3636
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/2a711025e7daf5ab8739c06542d78468",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a short bot-response to curl; the article was opened through the news index during the 01:25 cutoff and describes the October 19 hearing and judge\u2019s questions."
+    },
+    {
+      "url": "https://apnews.com/article/47534d721ac1328832ca46d9286ca833",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a short bot-response to curl; the article was opened through the news index during the 01:25 cutoff and supports only the signed order and its research direction."
+    },
+    {
+      "url": "https://capitalmarkets.fanniemae.com/mortgage-backed-securities/mbs-disclosure-enhancements-support-multiple-credit-score-models",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae served a short bot-response to curl; the primary page was opened during research and its effective-date and field list were checked against the page text."
+    }
+  ],
+  "claims_checked": 27,
+  "claims_supported": 15,
+  "claims_excepted": [
+    {
+      "claim": "AI-investment",
+      "kind": "name",
+      "example": "Markets begin Tuesday after Monday's regular session, with corporate results and AI-investment expectations in focus this week.",
+      "reason": "Generic hyphenated market descriptor, not a named entity or numerical factual assertion."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports the judge focused on tree cutting and on whether it showed the project was moving ahead despite the restraint.",
+      "reason": "Source attribution, not an independent factual assertion; both AP articles are cited and their temporary curl challenge is recorded."
+    },
+    {
+      "claim": "Columbus-based Huntington",
+      "kind": "name",
+      "example": "Columbus-based Huntington announced Sunday that small-business owners can sign up for early access to its 1866 Studio, an AI-powered service built with Google Cloud's Gemini platform.",
+      "reason": "Huntington\u2019s cited primary release identifies the institution and Columbus dateline; parser joins a descriptive adjective to the name."
+    },
+    {
+      "claim": "East Potomac",
+      "kind": "name",
+      "example": "Three things to watch: any written court clarification on East Potomac work; Huntington's first specific 1866 Studio workflow and availability terms; and Fannie Mae technical guidance or vendor updates on the new disclosure fields.",
+      "reason": "Project name appears in the cited AP hearing story, whose curl fetch was challenged and documented above."
+    },
+    {
+      "claim": "East Potomac Columbus-based Huntington",
+      "kind": "name",
+      "example": "Today, a judge presses the government on work at East Potomac, Columbus-based Huntington opens early access to a small-business AI service, and Fannie Mae changes mortgage-security data.",
+      "reason": "Parser incorrectly combines separate payoff-preview names; each is separately sourced above."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today, a judge presses the government on work at East Potomac, Columbus-based Huntington opens early access to a small-business AI service, and Fannie Mae changes mortgage-security data.",
+      "reason": "The cited primary Fannie Mae page is the source; its temporary curl challenge is documented above."
+    },
+    {
+      "claim": "Fannie Score Freddie Score",
+      "kind": "name",
+      "example": "The operational change affects the data investors and analytics teams receive after loans are pooled: the files add Fannie Score, Freddie Score, pricing-indicator and weighted-average fields alongside information on the score models used in pricing.",
+      "reason": "The cited primary Fannie Mae page lists the field names; its temporary curl challenge is documented above."
+    },
+    {
+      "claim": "October-issued",
+      "kind": "name",
+      "example": "Fannie Mae began adding multiple-credit-score fields to its single-family mortgage-backed-security disclosure files for October-issued securities on October nineteenth.",
+      "reason": "The cited primary Fannie Mae page describes October 2026 issued securities; parser treats a hyphenated adjective as a name."
+    },
+    {
+      "claim": "PoolTalk",
+      "kind": "name",
+      "example": "An investor downloading a PoolTalk file, a capital-markets team comparing pools, or a vendor mapping the feed needs to recognize the new attributes rather than misread them as missing data or an unexpected pricing anomaly.",
+      "reason": "The cited primary Fannie Mae page names PoolTalk; its temporary curl challenge is documented above."
+    },
+    {
+      "claim": "Separately the White House",
+      "kind": "name",
+      "example": "Separately, the White House announced an order intended to expand federal research into women's health across life stages.",
+      "reason": "The cited AP story reports the White House order; this parser-derived phrase is not a separate claim."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "A federal judge on Monday questioned the Trump administration's account of work at Washington's East Potomac golf course while a court order temporarily blocks redevelopment.",
+      "reason": "Name appears in the cited AP hearing story, whose curl fetch was challenged and documented above."
+    },
+    {
+      "claim": "Washington East Potomac",
+      "kind": "name",
+      "example": "A federal judge on Monday questioned the Trump administration's account of work at Washington's East Potomac golf course while a court order temporarily blocks redevelopment.",
+      "reason": "Place and project name appear in the cited AP hearing story, whose curl fetch was challenged and documented above."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
