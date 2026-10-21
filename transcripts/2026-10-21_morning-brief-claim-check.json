@@ -1,0 +1,90 @@
+{
+  "script": "2026-10-21_morning-brief-script.md",
+  "script_sha256": "d9685477d634676c91140dc2344e356ee2bfdf492b0c775461fe9ec5aa9e95a0",
+  "checked_at": "2026-10-21T01:42:53-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.justice.gov/opa/pr/justice-department-announces-innovative-whistleblower-rewards-program-combat-fraud",
+      "characters": 8487
+    },
+    {
+      "url": "https://theprint.in/world/us-envoy-witkoff-to-meet-putin-trump-presses-kyiv-to-settle/3077316/",
+      "characters": 10320
+    },
+    {
+      "url": "https://www.cbsnews.com/news/shooting-mosque-columbus-ohio/",
+      "characters": 4072
+    },
+    {
+      "url": "https://www.starlingbank.com/news/starling-backs-uk-sovereign-cloud/",
+      "characters": 7030
+    },
+    {
+      "url": "https://www.domyn.com/",
+      "characters": 15350
+    },
+    {
+      "url": "https://tsnmedia.org/domyn-edge-open-model/",
+      "characters": 8548
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3724
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/b8bdc95faac71fe4df096954ef033bce",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a 16-character bot response to curl; the independently accessible CBS/AP account cited alongside it confirms police said the fatal shooting was adjacent to, not an attack on, the mosque."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/servicing-policy-communications?page=0&sf28744490=1",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae served a 16-character bot response to curl; the primary page was opened during research and its October 14 index entry names SVC-2026-06, fee exhibits, and 1099-C exceptions."
+    }
+  ],
+  "claims_checked": 36,
+  "claims_supported": 30,
+  "claims_excepted": [
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today, the Justice Department changes when a fraud tipster might be paid, Columbus police clarify a fatal incident near a mosque, and Fannie Mae updates servicing controls.",
+      "reason": "Primary source attribution; the Fannie communications index is cited and its temporary curl challenge is documented above."
+    },
+    {
+      "claim": "Fannie Mae Servicing Guide Announcement SVC",
+      "kind": "name",
+      "example": "Fannie Mae's Servicing Guide Announcement SVC twenty twenty-six dash zero six updates allowable foreclosure and bankruptcy attorney-fee exhibits, along with exceptions to Internal Revenue Service Form ten ninety-nine C reporting.",
+      "reason": "Parser truncates the spoken announcement title. The cited primary index identifies Announcement SVC-2026-06 and its subjects."
+    },
+    {
+      "claim": "Internal Revenue Service Form",
+      "kind": "name",
+      "example": "Fannie Mae's Servicing Guide Announcement SVC twenty twenty-six dash zero six updates allowable foreclosure and bankruptcy attorney-fee exhibits, along with exceptions to Internal Revenue Service Form ten ninety-nine C reporting.",
+      "reason": "Parser truncates the spoken Form 1099-C name. The cited Fannie primary index explicitly names IRS Form 1099-C reporting exceptions."
+    },
+    {
+      "claim": "Separately Reuters",
+      "kind": "name",
+      "example": "Separately, Reuters reports that U.S., Ukrainian, Norwegian, Finnish and other representatives met in Oslo Tuesday, and that envoy Steve Witkoff is scheduled to meet Vladimir Putin on Wednesday.",
+      "reason": "Reuters is the cited reporting attribution, not a separate factual assertion."
+    },
+    {
+      "claim": "U.S Ukrainian Norwegian Finnish",
+      "kind": "name",
+      "example": "Separately, Reuters reports that U.S., Ukrainian, Norwegian, Finnish and other representatives met in Oslo Tuesday, and that envoy Steve Witkoff is scheduled to meet Vladimir Putin on Wednesday.",
+      "reason": "Parser incorrectly combines national adjectives in a cited Reuters sentence; the reporting source describes the Oslo participants."
+    },
+    {
+      "claim": "Ukraine-talk",
+      "kind": "name",
+      "example": "Three things to watch: the Justice Department's published WHIP terms and first charging decisions; Wednesday's Witkoff meeting for a concrete Ukraine-talk format; and Starling's first fraud-detection validation result ahead of its planned early-twenty-twenty-seven launch.",
+      "reason": "Hyphenated descriptive phrase in the final watch item, not a named entity; the underlying meeting is cited Reuters reporting."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

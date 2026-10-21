@@ -1,27 +1,33 @@
-# Story Tracker — updated 2026-10-20
+# Story Tracker — updated 2026-10-21
 
 Only active stories likely to develop within five days.
 
-## East Potomac redevelopment litigation
-- Last verified development: October 19 federal hearing questioned whether tree cutting showed redevelopment work while a court order blocks the project.
-- Last takeaway: Evidence of activity and the written restraint’s scope determine what may proceed; a closure timetable does not.
-- Source: https://apnews.com/article/2a711025e7daf5ab8739c06542d78468
-- Revisit trigger: Written order, compliance filing, or clarified permitted-work scope by October 25; omit if no action changes.
+## DOJ Fraud Whistleblower Incentive Program
+- Last verified development: October 20 DOJ announced WHIP, with $10,000 to $30,000 awards for qualifying information leading to criminal charges in specified fraud areas.
+- Last takeaway: Early award timing makes intake, corroboration and charging discretion the practical unknowns.
+- Source: https://www.justice.gov/opa/pr/justice-department-announces-innovative-whistleblower-rewards-program-combat-fraud
+- Revisit trigger: Published program terms, first charging decision, payment disclosure, or covered-agency implementation detail by October 26.
 
-## Huntington 1866 Studio early access
-- Last verified development: October 19 Huntington announced early-access registration for its Gemini-based small-business service.
-- Last takeaway: A broad AI operating-system claim becomes useful only with a defined workflow, completion result and human-handoff evidence.
-- Source: https://ir.huntington.com/news-presentations/press-releases/detail/1028/huntington-bank-introduces-the-1866-studio-an-ai-powered-small-business-operating-system-built-with-google-cloud
-- Revisit trigger: General availability, named task scope, pricing, or task-quality disclosure by October 25.
+## Oslo Ukraine talks
+- Last verified development: October 20 Oslo discussions preceded a planned October 21 Witkoff-Putin meeting, according to Reuters reporting.
+- Last takeaway: A negotiating format and security sequencing matter more than claims of diplomatic progress.
+- Source: https://theprint.in/world/us-envoy-witkoff-to-meet-putin-trump-presses-kyiv-to-settle/3077316/
+- Revisit trigger: Confirmed trilateral format, publicly stated security terms, support decision, sanctions action, or meeting outcome by October 26.
 
-## Fannie Mae multiple-score MBS disclosures
-- Last verified development: October 19 effective date for new score-related fields in October-issued single-family MBS disclosure files.
-- Last takeaway: Investor-data mapping is separate from a borrower eligibility change.
-- Source: https://capitalmarkets.fanniemae.com/mortgage-backed-securities/mbs-disclosure-enhancements-support-multiple-credit-score-models
-- Revisit trigger: Technical file clarification, vendor mapping release, or investor notice by October 25.
+## Columbus Northeast Side shooting investigation
+- Last verified development: October 20 police clarification said the October 19 fatal shooting occurred adjacent to, not at or targeting, a mosque.
+- Last takeaway: Corrected location and motive information should guide public-safety response, not early social-media descriptions.
+- Source: https://www.cbsnews.com/news/shooting-mosque-columbus-ohio/
+- Revisit trigger: Police announcement on suspects, motive, charges, or a public safety notice by October 26.
 
-## Santander AI Lab model evaluation
-- Last verified development: October 19 Santander described experimental customer-service and specialized-model cost/quality claims under a new NVIDIA framework.
-- Last takeaway: Model routing needs task-level error and escalation results, not cost claims alone.
-- Source: https://www.santander.com/en/press-room/press-releases/2026/10/santander-builds-ai-capabilities-that-improve-performance-and-lower-costs-using-nvidia-ai-infrastructure
-- Revisit trigger: Production scope, evaluation design, or independently auditable quality measure by October 25.
+## Starling sovereign-cloud model plan
+- Last verified development: October 21 recheck retained planned early-2027 production, beginning with fraud detection and then Starling Assistant; no task outcome metric disclosed.
+- Last takeaway: Data residency and cloud concentration are architecture choices, not proof of fraud-model performance.
+- Source: https://www.starlingbank.com/news/starling-backs-uk-sovereign-cloud/
+- Revisit trigger: Named pilot, production date, fraud validation metric, false-positive outcome, or assistant task result by October 26.
+
+## Domyn Edge staged release
+- Last verified development: October 20 Domyn began staged access to Edge checkpoints, recipes and tools, with post-training materials expected into November.
+- Last takeaway: Intermediate checkpoints broaden adaptation options without establishing reliability on regulated workflows.
+- Source: https://tsnmedia.org/domyn-edge-open-model/
+- Revisit trigger: New checkpoint, paper methodology, benchmark scores with named comparators, or independent evaluation by October 26.
