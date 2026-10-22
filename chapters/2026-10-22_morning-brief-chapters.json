@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.55
+    },
+    {
+      "title": "National",
+      "start": 34.55,
+      "end": 156.2
+    },
+    {
+      "title": "Central Ohio",
+      "start": 156.2,
+      "end": 280.65
+    },
+    {
+      "title": "Home Lending",
+      "start": 280.65,
+      "end": 429.85
+    },
+    {
+      "title": "AI in Banking",
+      "start": 429.85,
+      "end": 583.75
+    },
+    {
+      "title": "Frontier AI",
+      "start": 583.75,
+      "end": 737.75
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 737.75,
+      "end": 784.35
+    },
+    {
+      "title": "What to Watch",
+      "start": 784.35,
+      "end": 807.2
+    }
+  ]
+}
