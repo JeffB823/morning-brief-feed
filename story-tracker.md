@@ -1,33 +1,33 @@
-# Story Tracker — updated 2026-10-21
+# Story Tracker — updated 2026-10-22
 
 Only active stories likely to develop within five days.
 
-## DOJ Fraud Whistleblower Incentive Program
-- Last verified development: October 20 DOJ announced WHIP, with $10,000 to $30,000 awards for qualifying information leading to criminal charges in specified fraud areas.
-- Last takeaway: Early award timing makes intake, corroboration and charging discretion the practical unknowns.
-- Source: https://www.justice.gov/opa/pr/justice-department-announces-innovative-whistleblower-rewards-program-combat-fraud
-- Revisit trigger: Published program terms, first charging decision, payment disclosure, or covered-agency implementation detail by October 26.
+## Ohio EdChoice appellate ruling
+- Last verified development: October 22 the 10th District Court of Appeals affirmed a ruling that EdChoice, as structured and funded, is unconstitutional; the program remains in operation while an appeal is expected.
+- Last takeaway: A live appellate ruling is not an immediate family-eligibility change; the next filing determines the operating calendar.
+- Source: https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516
+- Revisit trigger: Stay request, Ohio Supreme Court appeal, revised program rule, or enrollment guidance by October 27.
 
-## Oslo Ukraine talks
-- Last verified development: October 20 Oslo discussions preceded a planned October 21 Witkoff-Putin meeting, according to Reuters reporting.
-- Last takeaway: A negotiating format and security sequencing matter more than claims of diplomatic progress.
-- Source: https://theprint.in/world/us-envoy-witkoff-to-meet-putin-trump-presses-kyiv-to-settle/3077316/
-- Revisit trigger: Confirmed trilateral format, publicly stated security terms, support decision, sanctions action, or meeting outcome by October 26.
+## Canada industrial-support response
+- Last verified development: October 21 Canada announced a CA$8.7 billion plan for Ontario steel, autos and critical minerals amid unresolved U.S. tariff conflict.
+- Last takeaway: Capacity support does not resolve tariff exposure; sourcing and capital plans need a documented trade assumption.
+- Source: https://apnews.com/article/canada-ontario-carney-ford-trump-tariffs-a9b923802d5e2d5a37f0e213db91ef56
+- Revisit trigger: Written negotiation restart, tariff-schedule revision, or plant-specific sourcing decision by October 27.
 
-## Columbus Northeast Side shooting investigation
-- Last verified development: October 20 police clarification said the October 19 fatal shooting occurred adjacent to, not at or targeting, a mosque.
-- Last takeaway: Corrected location and motive information should guide public-safety response, not early social-media descriptions.
-- Source: https://www.cbsnews.com/news/shooting-mosque-columbus-ohio/
-- Revisit trigger: Police announcement on suspects, motive, charges, or a public safety notice by October 26.
+## UAD 3.6 mortgage transition
+- Last verified development: FHA remains in optional UAD 3.6 delivery, with the GSE mandatory transition scheduled for November 2.
+- Last takeaway: The critical risk is data mapping and appraisal-exception routing, not a changed borrower eligibility rule.
+- Source: https://www.hud.gov/hud-partners/single-family-fha-info
+- Revisit trigger: GSE or vendor exception guidance, contingency notice, or November 2 transition result.
 
-## Starling sovereign-cloud model plan
-- Last verified development: October 21 recheck retained planned early-2027 production, beginning with fraud detection and then Starling Assistant; no task outcome metric disclosed.
-- Last takeaway: Data residency and cloud concentration are architecture choices, not proof of fraud-model performance.
-- Source: https://www.starlingbank.com/news/starling-backs-uk-sovereign-cloud/
-- Revisit trigger: Named pilot, production date, fraud validation metric, false-positive outcome, or assistant task result by October 26.
+## Bank of Ireland chargeback and scam AI
+- Last verified development: October 21 Bank of Ireland said its AI assesses about 2.9 million transactions daily and more than four in five chargeback cases close within three days.
+- Last takeaway: Production volume and closure timing need error, reversal and escalation baselines before they become a service-quality case.
+- Source: https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/
+- Revisit trigger: Prior-time comparison, false-positive, rework, customer outcome or independent review by October 27.
 
-## Domyn Edge staged release
-- Last verified development: October 20 Domyn began staged access to Edge checkpoints, recipes and tools, with post-training materials expected into November.
-- Last takeaway: Intermediate checkpoints broaden adaptation options without establishing reliability on regulated workflows.
-- Source: https://tsnmedia.org/domyn-edge-open-model/
-- Revisit trigger: New checkpoint, paper methodology, benchmark scores with named comparators, or independent evaluation by October 26.
+## Mistral Voxtral 3 voice-agent stack
+- Last verified development: October 20 Mistral released Voxtral 3 realtime speech components and a voice-agent SDK.
+- Last takeaway: A faster integrated voice stack is a prototyping change, not proof of correct financial actions.
+- Source: https://mistral.ai/news/voxtral-3/
+- Revisit trigger: Independent contact-center evaluation, action-selection error data, or named financial-services production deployment by October 27.

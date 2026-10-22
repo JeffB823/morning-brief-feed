@@ -1,0 +1,107 @@
+{
+  "script": "2026-10-22_morning-brief-script.md",
+  "script_sha256": "bbb001a62fa5cf1abe859a2330db09884a7c1eea8c0955e470fa6c3e9e067530",
+  "checked_at": "2026-10-22T01:44:17-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.hud.gov/hud-partners/single-family-fha-info",
+      "characters": 296650
+    },
+    {
+      "url": "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/",
+      "characters": 7240
+    },
+    {
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "characters": 23337
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3769
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/canada-ontario-carney-ford-trump-tariffs-a9b923802d5e2d5a37f0e213db91ef56",
+      "error": "page body was only 16 characters",
+      "reason": "AP may serve a bot-response to curl. The full article was opened during research and supports only the stated Canadian plan, tariff history, unresolved talks and reported industry-support amounts."
+    },
+    {
+      "url": "https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516",
+      "error": "page body was only 16 characters",
+      "reason": "AP may serve a bot-response to curl. The full article was opened during research and supports the October 22 appellate ruling, its scope and continued operation pending appeal."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae serves a short bot-response to curl. The primary policy index was opened during research; HUD's accessible primary page separately confirms the UAD 3.6 optional phase and the November 2 GSE transition."
+    }
+  ],
+  "claims_checked": 43,
+  "claims_supported": 33,
+  "claims_excepted": [
+    {
+      "claim": "Canada",
+      "kind": "name",
+      "example": "Today, Ohio's voucher case changes the education-policy calendar, Canada answers trade pressure with industrial support, and mortgage teams face an appraisal-format deadline.",
+      "reason": "Named country in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Canadian",
+      "kind": "name",
+      "example": "dollars of Canadian goods, prompting retaliation.",
+      "reason": "Adjectival form in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Canadian-dollar",
+      "kind": "name",
+      "example": "Canada's prime minister and Ontario's premier announced a Canadian-dollar 8.7 billion plan Wednesday for steelmakers, automakers and critical-mineral development.",
+      "reason": "Hyphenated currency description from the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Why does the distinction between a ruling and an immediate program shutdown matter for Central Ohio schools and parents?",
+      "reason": "Geographic description of the local audience, not a separate sourced assertion."
+    },
+    {
+      "claim": "District Court of Appeals",
+      "kind": "name",
+      "example": "In Columbus, a three-judge panel of Ohio's 10 District Court of Appeals ruled Thursday that the EdChoice private-school voucher program, as presently structured and funded, violates the state constitution's requirement for a thorough and efficient system of common schools.",
+      "reason": "Parser truncates the full 10th District Court of Appeals name; the cited AP report identifies the court."
+    },
+    {
+      "claim": "EdChoice",
+      "kind": "name",
+      "example": "In Columbus, a three-judge panel of Ohio's 10 District Court of Appeals ruled Thursday that the EdChoice private-school voucher program, as presently structured and funded, violates the state constitution's requirement for a thorough and efficient system of common schools.",
+      "reason": "Program name in the cited AP appellate-court report; its curl response is documented above."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "Today, Ohio's voucher case changes the education-policy calendar, Canada answers trade pressure with industrial support, and mortgage teams face an appraisal-format deadline.",
+      "reason": "Named state in the cited AP appellate-court report; its curl response is documented above."
+    },
+    {
+      "claim": "Ohio Supreme Court",
+      "kind": "name",
+      "example": "For Columbus-area public districts, the near-term question is whether the state seeks a stay, appeals to the Ohio Supreme Court, or proposes a fix addressing the court's reasoning.",
+      "reason": "The cited AP report identifies the expected appeal path; its curl response is documented above."
+    },
+    {
+      "claim": "Ontario",
+      "kind": "name",
+      "example": "Canada's prime minister and Ontario's premier announced a Canadian-dollar 8.7 billion plan Wednesday for steelmakers, automakers and critical-mineral development.",
+      "reason": "Province named in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Prime Minister Mark Carney",
+      "kind": "name",
+      "example": "Prime Minister Mark Carney said he spoke with President Trump but gave no indication of a breakthrough.",
+      "reason": "Named official in the cited AP trade report; its curl response is documented above."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

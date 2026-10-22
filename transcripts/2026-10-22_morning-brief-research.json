@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-22",
+  "cutoff": "2026-10-22T02:45:00-04:00",
+  "status": "draft",
+  "history_compared": [
+    "2026-10-15_morning-brief-script.md",
+    "2026-10-16_morning-brief-script.md",
+    "2026-10-17_morning-brief-script.md",
+    "2026-10-18_morning-brief-script.md",
+    "2026-10-19_morning-brief-script.md",
+    "2026-10-20_morning-brief-script.md",
+    "2026-10-21_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "canada-industrial-plan",
+      "event_date": "2026-10-21",
+      "publication_date": "2026-10-21",
+      "sources": [
+        "https://apnews.com/article/canada-ontario-carney-ford-trump-tariffs-a9b923802d5e2d5a37f0e213db91ef56"
+      ],
+      "decision": "selected",
+      "decision_reason": "Fresh announced industrial-support plan with a direct cross-border manufacturing consequence."
+    },
+    {
+      "id": "ohio-edchoice-appeal",
+      "event_date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "sources": [
+        "https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516"
+      ],
+      "decision": "selected",
+      "decision_reason": "New Central Ohio appellate decision, with a clear distinction between legal ruling and immediate program operations."
+    },
+    {
+      "id": "uad-36-transition",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "https://www.hud.gov/hud-partners/single-family-fha-info",
+        "https://singlefamily.fanniemae.com/selling-policy-communications"
+      ],
+      "decision": "selected",
+      "decision_reason": "Operationally imminent implementation background; not counted as fresh because the source notice is older."
+    },
+    {
+      "id": "bank-of-ireland-ai",
+      "event_date": "2026-10-21",
+      "publication_date": "2026-10-21",
+      "sources": [
+        "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/"
+      ],
+      "decision": "selected",
+      "decision_reason": "Fresh production disclosure identifies precise banking tasks and operating-volume claims."
+    },
+    {
+      "id": "mistral-voxtral-3",
+      "event_date": "2026-10-20",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "https://mistral.ai/news/voxtral-3/"
+      ],
+      "decision": "selected",
+      "decision_reason": "New voice-agent capability change with stated latency, language and independent-benchmark methodology."
+    },
+    {
+      "id": "emirates-nbd-sovereign-ai",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "https://www.emiratesnbd.com/en/media-center/emirates-nbd-becomes-first-mena-bank-to-harness"
+      ],
+      "decision": "omitted",
+      "decision_reason": "Fresh enterprise announcement, but Bank of Ireland offers clearer production task metrics and avoids repeating the prior sovereign-cloud takeaway."
+    },
+    {
+      "id": "freddie-multifamily-bulletin",
+      "event_date": "2026-10-20",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "https://mf.freddiemac.com/news/2026/20261020-october-20-guide-bulletin"
+      ],
+      "decision": "omitted",
+      "decision_reason": "Fresh but multifamily-focused; UAD 3.6 gives a more useful home-lending workflow for this episode."
+    },
+    {
+      "id": "columbus-public-land-inventory",
+      "event_date": "2026-10-16",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/16/ohio-public-land-space-housing-development-plans"
+      ],
+      "decision": "omitted",
+      "decision_reason": "Previously covered October 17 and has no new verified development."
+    }
+  ],
+  "stories": [
+    {
+      "id": "canada-industrial-plan",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-21",
+      "publication_date": "2026-10-21",
+      "sources": [
+        "https://apnews.com/article/canada-ontario-carney-ford-trump-tariffs-a9b923802d5e2d5a37f0e213db91ef56"
+      ],
+      "new_fact": "Canada announced a CA$8.7 billion support plan for steel, autos and critical minerals amid unresolved U.S. tariff conflict.",
+      "new_takeaway": "Industrial support helps firms plan around prolonged uncertainty but does not settle tariff exposure or sourcing decisions.",
+      "why_now": "The plan and renewed political dispute were announced October 21.",
+      "previous_coverage": "No Canada trade-support segment appeared in the prior seven scripts.",
+      "uncertainty": "No negotiated trade breakthrough or immediate consumer-price change is asserted.",
+      "watch": "A written resumption of negotiations, tariff schedule change, or plant-specific sourcing announcement."
+    },
+    {
+      "id": "ohio-edchoice-appeal",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "sources": [
+        "https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516"
+      ],
+      "new_fact": "Ohio's 10th District Court of Appeals affirmed the lower-court conclusion that EdChoice as presently structured and funded is unconstitutional, without immediately halting the program.",
+      "new_takeaway": "Central Ohio families and districts need to separate a live appellate decision from an immediate eligibility change.",
+      "why_now": "The appellate ruling is reported Thursday, October 22.",
+      "previous_coverage": "The October 15 article was not selected in the prior seven scripts; this is a new court action rather than a recap.",
+      "uncertainty": "The state may appeal and no final implementation order is assumed.",
+      "watch": "A stay request, Ohio Supreme Court appeal, or program-rule revision."
+    },
+    {
+      "id": "uad-36-transition",
+      "beat": "home_lending",
+      "classification": "routine",
+      "event_date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "https://www.hud.gov/hud-partners/single-family-fha-info",
+        "https://singlefamily.fanniemae.com/selling-policy-communications"
+      ],
+      "new_fact": "FHA's optional UAD 3.6 delivery period is live and the GSE mandatory transition is scheduled for November 2.",
+      "new_takeaway": "The implementation risk is appraisal-data interoperability and exception handling, not a new borrower-eligibility rule.",
+      "why_now": "The mandatory date is less than two weeks away; the older notices are explicitly used as background implementation evidence.",
+      "previous_coverage": "No prior compared episode led with the UAD appraisal-format transition.",
+      "uncertainty": "GSE and vendor exception handling may be clarified closer to the mandatory date.",
+      "watch": "Updated implementation guidance, vendor release notes, and post-transition exception notices.",
+      "workflow": "New-conventional-loan appraisal intake, validation, correction and resubmission."
+    },
+    {
+      "id": "bank-of-ireland-ai",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-21",
+      "publication_date": "2026-10-21",
+      "sources": [
+        "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/"
+      ],
+      "new_fact": "Bank of Ireland says production scam detection assesses about 2.9 million daily transactions and over four in five chargeback cases close within three days.",
+      "new_takeaway": "A production metric becomes decision-useful only with its prior baseline, error, rework and customer outcome measures.",
+      "why_now": "The bank disclosed the operating scope and service-level claim on October 21.",
+      "previous_coverage": "No Bank of Ireland deployment appeared in the prior seven scripts; it changes a new ledger row and rotates away from yesterday's announced sovereign-cloud design.",
+      "uncertainty": "The bank did not disclose prior closure time, case mix, reversal rate, false-positive rate, rework or customer-satisfaction baseline.",
+      "watch": "A comparable before-and-after service metric with error and escalation results.",
+      "ledger_row_changed": "Bank of Ireland \u2014 new production rows for chargeback handling and scam detection, with the first disclosed daily transaction scope and chargeback closure claim.",
+      "evidence_rank": "company claim",
+      "lane": "1 and 2"
+    },
+    {
+      "id": "mistral-voxtral-3",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-20",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "https://mistral.ai/news/voxtral-3/"
+      ],
+      "new_fact": "Mistral released Voxtral 3, including realtime transcription, text-to-speech and a voice-agent SDK that joins speech, reasoning and tool calls in a streaming pipeline.",
+      "new_takeaway": "A packaged voice-agent stack changes prototyping speed, but latency and speech-quality results do not establish accurate or authorized banking actions.",
+      "why_now": "The primary release is dated October 20.",
+      "previous_coverage": "No Voxtral 3 coverage in the prior seven; its voice-agent workflow differs from yesterday's open-checkpoint story.",
+      "uncertainty": "Sub-500ms latency and under-one-second turn claims are provider-reported; a word-error benchmark does not measure correct financial action selection.",
+      "watch": "Independent contact-center evaluation, action-selection error measurement, and production customer deployment evidence.",
+      "frontier_bar": "agent or tool-use advance",
+      "measured_by": "Mistral product claims; Mistral cites Artificial Analysis word-error methodology, while its own pronunciation and quality evaluations are separately labeled.",
+      "bridge": "A regulated bank could first use Voxtral 3 in a contained service-assist pilot, gated by task-level accuracy and authorization testing before it reaches accounts or payment tools."
+    },
+    {
+      "id": "weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "sources": [
+        "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
+      ],
+      "new_fact": "Columbus forecast: clear, near 40 for the early commute, mostly sunny and low sixties by early afternoon.",
+      "new_takeaway": "Dress for a large morning-to-afternoon temperature change.",
+      "why_now": "Daily local service information.",
+      "previous_coverage": "Routine daily forecast.",
+      "uncertainty": "Forecast timing and temperatures can update.",
+      "watch": "Current NWS point forecast."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Independent discovery of eight candidates preceded consultation of the active tracker. Four selected stories have genuine October 20-22 developments; UAD 3.6 is clearly marked older implementation background and does not count toward freshness. Facts and takeaways were compared against the seven prior scripts. The national, Columbus, Bank of Ireland and Voxtral segments have distinct facts and conclusions; the home-lending lead is a concrete appraisal workflow rather than a rate recap. AI evidence ranks and limitations are stated on air.",
+    "script_sha256": "bbb001a62fa5cf1abe859a2330db09884a7c1eea8c0955e470fa6c3e9e067530"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/canada-ontario-carney-ford-trump-tariffs-a9b923802d5e2d5a37f0e213db91ef56",
+      "reason": "AP may serve a bot-response to curl. The full article was opened during research and supports only the stated Canadian plan, tariff history, unresolved talks and reported industry-support amounts."
+    },
+    {
+      "claim": "https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516",
+      "reason": "AP may serve a bot-response to curl. The full article was opened during research and supports the October 22 appellate ruling, its scope and continued operation pending appeal."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "reason": "Fannie Mae serves a short bot-response to curl. The primary policy index was opened during research; HUD's accessible primary page separately confirms the UAD 3.6 optional phase and the November 2 GSE transition."
+    },
+    {
+      "claim": "Canada",
+      "reason": "Named country in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Canadian",
+      "reason": "Adjectival form in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Canadian-dollar",
+      "reason": "Hyphenated currency description from the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Geographic description of the local audience, not a separate sourced assertion."
+    },
+    {
+      "claim": "District Court of Appeals",
+      "reason": "Parser truncates the full 10th District Court of Appeals name; the cited AP report identifies the court."
+    },
+    {
+      "claim": "EdChoice",
+      "reason": "Program name in the cited AP appellate-court report; its curl response is documented above."
+    },
+    {
+      "claim": "Ohio",
+      "reason": "Named state in the cited AP appellate-court report; its curl response is documented above."
+    },
+    {
+      "claim": "Ohio Supreme Court",
+      "reason": "The cited AP report identifies the expected appeal path; its curl response is documented above."
+    },
+    {
+      "claim": "Ontario",
+      "reason": "Province named in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Prime Minister Mark Carney",
+      "reason": "Named official in the cited AP trade report; its curl response is documented above."
+    },
+    {
+      "claim": "Canada\u2019s",
+      "reason": "Parser-derived possessive geography from the cited AP article, not a distinct unsupported entity."
+    },
+    {
+      "claim": "U.S.",
+      "reason": "Country abbreviation appears in the cited AP trade report; this is an attribution/parser exception if curl cannot fetch AP."
+    },
+    {
+      "claim": "UAD",
+      "reason": "Acronym is supported by HUD and Fannie primary implementation pages; parser may not retain the expanded source title."
+    },
+    {
+      "claim": "GSE",
+      "reason": "Generic abbreviation for Fannie Mae and Freddie Mac used in the cited implementation sources."
+    },
+    {
+      "claim": "Bank of Ireland",
+      "reason": "Named institution appears in its cited primary production disclosure."
+    },
+    {
+      "claim": "Mistral",
+      "reason": "Named provider appears in its cited primary Voxtral 3 release."
+    }
+  ]
+}
