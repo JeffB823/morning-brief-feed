@@ -1,0 +1,159 @@
+{
+  "script": "2026-10-23_morning-brief-script.md",
+  "script_sha256": "0ef978cb5068475c38be5c14d80d11b0421e601f9abc7584972ef3fe1a72e984",
+  "checked_at": "2026-10-23T01:38:45-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.aol.ca/articles/us-banks-detect-unauthorized-ai-091700000.html",
+      "characters": 4839
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3574
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/de2aec0076776539cd206f91d39d0236",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a short bot response to curl; the article was opened in research and supports only the October 22 campaign dispute and public positions described."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/applications-technology/loan-delivery-release-notes",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae served a short bot response to curl; the primary release notes were opened in research and support the October 23 cipher deadline and affected connection environments."
+    },
+    {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI served an empty response to curl; the primary security case was opened in research and supports the stated roles for Calif, Wiz and PHP maintainers."
+    }
+  ],
+  "claims_checked": 29,
+  "claims_supported": 9,
+  "claims_excepted": [
+    {
+      "claim": "AI Reuters",
+      "kind": "name",
+      "example": "In banking AI, Reuters reported Thursday that major United States banks are detecting unauthorized third-party AI agents operating inside customer accounts.",
+      "reason": "Parser combines the segment label with the source name; Reuters is the attributed reporting source."
+    },
+    {
+      "claim": "Amy Acton",
+      "kind": "name",
+      "example": "The Associated Press reported Thursday that Governor Mike DeWine condemned a television and online advertisement from Vivek Ramaswamy's campaign that uses remarks from Amy Acton's estranged mother.",
+      "reason": "Named in the cited AP campaign report."
+    },
+    {
+      "claim": "Bank of Ireland",
+      "kind": "name",
+      "example": "What is the actual task in this story, and why is it different from yesterday's Bank of Ireland chargeback workflow?",
+      "reason": "Prior-episode comparison reference, not a claim about today\u2019s story."
+    },
+    {
+      "claim": "Calif",
+      "kind": "name",
+      "example": "OpenAI says Calif identified a critical flaw using GPT five point six Sol, while Wiz independently discovered and reported both vulnerabilities, and PHP maintainers led the fixes and release.",
+      "reason": "Named in the cited OpenAI primary security case."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Until one of those occurs, this is a Central Ohio political context story, not an instruction to alter a school, housing or business plan.",
+      "reason": "Geographic audience description."
+    },
+    {
+      "claim": "DeWine",
+      "kind": "name",
+      "example": "DeWine's intervention is a public attempt to set a boundary; Trump's response is a competing signal.",
+      "reason": "Short form for Governor Mike DeWine, named in the cited AP report."
+    },
+    {
+      "claim": "EdChoice",
+      "kind": "name",
+      "example": "The published dispute concerns campaign communications; it does not announce a change to EdChoice, a Columbus city service, or a state filing deadline.",
+      "reason": "A prior local-story comparison, not a claim that its rule changed today."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Today, a Fannie Mae technology deadline can interrupt loan delivery, Ohio's governor is breaking with his party's candidate over a campaign ad, banks are finding outside AI agents in customer accounts, and a security case shows what agent-assisted discovery changes for software teams.",
+      "reason": "Named in the cited primary release notes."
+    },
+    {
+      "claim": "GPT",
+      "kind": "name",
+      "example": "OpenAI says Calif identified a critical flaw using GPT five point six Sol, while Wiz independently discovered and reported both vulnerabilities, and PHP maintainers led the fixes and release.",
+      "reason": "Model family name in the cited OpenAI case."
+    },
+    {
+      "claim": "Governor Mike DeWine",
+      "kind": "name",
+      "example": "The Associated Press reported Thursday that Governor Mike DeWine condemned a television and online advertisement from Vivek Ramaswamy's campaign that uses remarks from Amy Acton's estranged mother.",
+      "reason": "Named in the cited AP campaign report."
+    },
+    {
+      "claim": "Morgan Stanley Bank of America JPMorgan and Wells Fargo",
+      "kind": "name",
+      "example": "The report names Morgan Stanley, Bank of America, JPMorgan and Wells Fargo.",
+      "reason": "Named in the cited Reuters report."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "Today, a Fannie Mae technology deadline can interrupt loan delivery, Ohio's governor is breaking with his party's candidate over a campaign ad, banks are finding outside AI agents in customer accounts, and a security case shows what agent-assisted discovery changes for software teams.",
+      "reason": "Named-state context in the cited AP report."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published a security case on October twenty-first describing its Patch the Planet effort around critical vulnerabilities in PHP.",
+      "reason": "Publisher of the cited primary security case."
+    },
+    {
+      "claim": "PHP",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published a security case on October twenty-first describing its Patch the Planet effort around critical vulnerabilities in PHP.",
+      "reason": "Named in the cited OpenAI primary security case."
+    },
+    {
+      "claim": "Patch the Planet",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published a security case on October twenty-first describing its Patch the Planet effort around critical vulnerabilities in PHP.",
+      "reason": "Title of the cited OpenAI security effort."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "President Trump publicly defended the ad.",
+      "reason": "Named in the cited AP campaign report."
+    },
+    {
+      "claim": "Republican",
+      "kind": "name",
+      "example": "A national policy story with a direct Ohio connection is the intensifying dispute inside the Republican campaign for governor.",
+      "reason": "Political-party descriptor in the cited AP campaign report."
+    },
+    {
+      "claim": "United States",
+      "kind": "name",
+      "example": "In banking AI, Reuters reported Thursday that major United States banks are detecting unauthorized third-party AI agents operating inside customer accounts.",
+      "reason": "Country descriptor in the cited Reuters report."
+    },
+    {
+      "claim": "Vivek Ramaswamy",
+      "kind": "name",
+      "example": "The Associated Press reported Thursday that Governor Mike DeWine condemned a television and online advertisement from Vivek Ramaswamy's campaign that uses remarks from Amy Acton's estranged mother.",
+      "reason": "Named in the cited AP campaign report."
+    },
+    {
+      "claim": "Wiz",
+      "kind": "name",
+      "example": "OpenAI says Calif identified a critical flaw using GPT five point six Sol, while Wiz independently discovered and reported both vulnerabilities, and PHP maintainers led the fixes and release.",
+      "reason": "Named in the cited OpenAI primary security case."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
