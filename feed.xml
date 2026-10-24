@@ -27,6 +27,67 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Canada Tariff Changes, an Ohio Campaign Stop, and Faster AI Decisions — October 24, 2026</title>
+    <description>Saturday’s Morning Brief explains a new Canada tariff proclamation, an Ohio campaign event, multifamily lending rule changes, an in-country bank AI deployment, and OpenAI’s Decisions API.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> A new Canada tariff proclamation sets an October 30 import deadline; Ohio’s Senate and governor races get a high-profile campaign stop today; and three AI stories sharpen a single question: where can a fast model decide, and where must a person still own the consequence?</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. It’s Saturday, October 24, 2026. This is your Morning Brief, researched through 6:35 a.m. Eastern time.</p>
+<h3 style="margin-top:1.5em">National Policy</h3>
+<p><span style="font-weight:bold">Host:</span> The White House issued a new proclamation Friday that changes which Canadian motor-vehicle-related products face the additional 50 percent duty. The practical date is October 30 at 12:01 a.m. Eastern, when the revised tariff schedule applies to goods entered for consumption or withdrawn from warehouse. That is a customs and supply-chain calendar, not an immediate price change at every dealership.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why should a household or a Columbus manufacturer care about a document that mostly sounds like tariff code?</p>
+<p><span style="font-weight:bold">Host:</span> Because importers must classify covered parts and vehicles before the effective date, then decide whether to accelerate, delay or reprice orders. The proclamation removes the added duty for some listed Canadian products and retains it for others. A supplier cannot safely plan from the headline alone; it needs the annex and its specific tariff classification.</p>
+<p><span style="font-weight:bold">Host:</span> The administration says the changes still offset what it calls Canadian discrimination against U.S. commerce. Canada’s response, any implementation notice from Customs and Border Protection, and the annex details remain the variables. The policy has a seven-day runway, which is short for a distributor with freight already moving but long enough to expose which contracts contain tariff pass-through language.</p>
+<p><span style="font-weight:bold">Co-host:</span> So the signal is not “cars will cost more next week”; it is that procurement teams have a dated classification task before October 30?</p>
+<p><span style="font-weight:bold">Host:</span> That is the useful interpretation. For markets, the next evidence is whether suppliers describe a specific exposure, inventory decision or pricing adjustment. Until then, it is a policy change with a known effective time, not a measured inflation result.</p>
+<p><span style="font-weight:bold">Co-host:</span> And it is worth asking a more basic question before reacting to any tariff headline: which shipment, product code and contract is actually in scope? A retailer may sell a finished vehicle, a repair shop may buy a component, and a manufacturer may source an input under different classifications. The public proclamation starts the analysis; it does not finish a company’s landed-cost calculation.</p>
+<p><span style="font-weight:bold">Host:</span> One other fresh national technology disclosure matters because it puts a concrete boundary around increasingly capable agents. OpenAI said Friday it has strengthened containment for frontier-model training after internal red-team agents found software vulnerabilities and configuration weaknesses in isolated test infrastructure. It says the research environments now run without live-internet access and that high-compute red-teaming is part of its safety case. That is a company disclosure, not an independent audit; the next question is how outside evaluators test the claims.</p>
+<h3 style="margin-top:1.5em">Central Ohio</h3>
+<p><span style="font-weight:bold">Host:</span> In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton. The Associated Press frames the visit as part of a larger push into closely watched midterm races. It is a live political event, distinct from this week’s dispute over one campaign advertisement and distinct from an enacted state policy.</p>
+<p><span style="font-weight:bold">Co-host:</span> Cleveland is not Columbus. What is the Central Ohio consequence beyond another rally?</p>
+<p><span style="font-weight:bold">Host:</span> Statewide campaigns draw money, volunteers and attention through the same Ohio media and policy environment that reaches Columbus. But residents should separate campaign promises from an administrative action: a speech does not alter an agency program, a tax rule or a school enrollment process. The next checkable move is a filing, a budget proposal or a published implementation plan.</p>
+<p><span style="font-weight:bold">Host:</span> That distinction matters in a high-spending race. Institutions can monitor proposals and prepare questions, but they should not tell customers, employees or families that an operating rule changed until the responsible public body actually changes it. Watch whether the candidates attach a concrete Ohio policy commitment to today’s event, rather than treating visibility as implementation.</p>
+<p><span style="font-weight:bold">Co-host:</span> That is a helpful discipline: record what was promised, then wait for the officeholder, legislature or agency that can make it real.</p>
+<p><span style="font-weight:bold">Co-host:</span> It also keeps a local listener from confusing political intensity with administrative certainty. Campaigns can change expectations for taxes, schools, utilities or employers, but a planning team needs the text, the authority and the implementation date. Those are the pieces that turn an election argument into a decision someone must execute.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> The home-lending operational change is Freddie Mac Multifamily’s October 20 Guide Bulletin. It updates Forward Commitment requirements, certain insurance requirements and interest-rate-cap requirements for seller-servicers. This is not a fresh single-family rate story. It changes the rulebook used by lenders arranging or servicing multifamily financing, where documentation and deal terms must match the current Guide.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should a multifamily lending team do differently on Monday morning?</p>
+<p><span style="font-weight:bold">Host:</span> Pull the bulletin’s update spreadsheet and chapter redlines into the pipeline review. A Forward Commitment, insurance package or rate-cap structure that was acceptable under the prior text may need a revised checklist, counsel review or borrower communication. Freddie Mac has not said in the announcement that every existing deal changes; teams need the detailed effective provisions before touching an executed commitment.</p>
+<p><span style="font-weight:bold">Host:</span> That limitation is important. The public bulletin names the three categories but is not a borrower-rate forecast and does not quantify affected loans. The better operating question is whether any deal scheduled for underwriting, closing or servicing transition relies on the superseded wording. Freddie Mac’s next Guide clarification, and the effective dates inside the detailed bulletin, are the items to watch.</p>
+<p><span style="font-weight:bold">Co-host:</span> This is a reminder that rate-cap language and insurance terms can be workflow risk even when Treasury yields barely move.</p>
+<p><span style="font-weight:bold">Host:</span> Right. The borrower consequence is indirect but real: a late documentation correction can delay certainty on a property transaction. Loan teams should distinguish a Guide change from a broad change in eligibility, and reserve rate talk for a real movement in rate pricing.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> In banking AI, Emirates NBD announced October 19 that it will deploy OpenAI GPT models using in-country inference infrastructure in the United Arab Emirates. The named tasks are digital customer engagement, advanced risk and compliance analytics, knowledge-intensive workflow automation, employee productivity and financial-crime monitoring. The ledger change is a new announced deployment in the compliance-and-risk lane, not proof of a finished production result.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is meaningfully different from a bank saying it has bought another enterprise AI tool?</p>
+<p><span style="font-weight:bold">Host:</span> The changed constraint is location of inference. Emirates NBD says models can connect to internal systems, APIs and enterprise data while processing stays in-country. For a large bank, that can expand the vendor architecture it can evaluate when data-residency rules previously eliminated an option before task testing began. It does not settle whether any specific model is accurate enough for a risk or customer decision.</p>
+<p><span style="font-weight:bold">Host:</span> Evidence rank here is company claim. Emirates NBD gives no baseline for response quality, fraud detection, false positives, staff time, customer outcomes or production volume. It also does not identify which of the named functions is live first. Those omissions matter because a broad deployment statement is not a controlled comparison against people or the prior system.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does sovereign infrastructure remove the control problem, then?</p>
+<p><span style="font-weight:bold">Host:</span> No. It changes a deployment boundary, not the decision standard. A bank could first use it for internal knowledge retrieval or a tightly bounded customer-routing task, then test accuracy and escalation performance on its own cases. The next useful disclosure would name one workflow, its human fallback and a before-and-after outcome measure.</p>
+<p><span style="font-weight:bold">Host:</span> That makes this an architecture story more than an automation victory lap. Data residency may let a bank start evaluation; measured task performance decides whether it should scale.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> At the frontier, OpenAI made its Decisions API generally available on October 22 with GPT-6 Luna. The product is built for bounded calls inside an application: classify an input, choose from predefined options, or score it. OpenAI says it can handle text, images and structured inputs, and says it is up to ten times faster than using GPT-6 Luna through the Responses API for those decisions.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is that a new intelligence claim, or mostly a packaging and latency change?</p>
+<p><span style="font-weight:bold">Host:</span> Mostly a workflow and access change. It clears the agent-and-tool-use bar because it creates a lower-latency path for a narrow branching decision, not because OpenAI published a general reasoning benchmark.</p>
+<p><span style="font-weight:bold">Host:</span> The evidence is mixed and needs labels. OpenAI’s speed statement is a lab claim. Customer examples are customer disclosures: Box says its evaluation found about five-times-faster routing on 30 certificate-of-insurance cases with the same accuracy as the Responses API; Datadog says it saw forty-times-faster p95 with comparable accuracy in a remediation-action risk check. Those are use-case reports, not an independent bank evaluation.</p>
+<p><span style="font-weight:bold">Co-host:</span> What limitation would matter most if a regulated firm tried this in a live workflow?</p>
+<p><span style="font-weight:bold">Host:</span> A fast bounded answer can still select the wrong branch. The API returns a probability, choice or score from options the developer supplies; it does not make the business rule correct or absorb the consequence of an irreversible action. The sensible bank entry point is offline evaluation of routing or document triage, gated by local error analysis before it can trigger a customer or payment action.</p>
+<p><span style="font-weight:bold">Co-host:</span> Put differently, speed can make a weak decision arrive sooner. A team should compare the new route against its existing rule, measure which cases get escalated and look at the mistakes by customer impact, not just average latency. If the routing answer changes a payment, credit decision or fraud hold, the threshold should be much higher than for sorting an internal queue.</p>
+<h3 style="margin-top:1.5em">Markets and Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Markets closed Friday still sorting policy risk from company fundamentals. The Canada proclamation gives importers a calendar date, but it does not by itself say how much any company will pay or pass through. Mortgage teams should keep borrower conversations tied to current lender pricing and the actual lock, rather than translating a tariff headline into a rate forecast.</p>
+<p><span style="font-weight:bold">Co-host:</span> And for Central Ohio this Saturday?</p>
+<p><span style="font-weight:bold">Host:</span> Check the National Weather Service forecast before heading out. Weekend plans around the Circleville Pumpkin Show, about an hour south of Columbus, deserve a fresh look at timing and road conditions rather than a stale overnight forecast. The practical rule is simple: use the latest point forecast before the drive.</p>
+<h3 style="margin-top:1.5em">What to Watch</h3>
+<p><span style="font-weight:bold">Co-host:</span> Three things to watch: Customs guidance or supplier disclosures ahead of the October 30 Canada tariff change; a concrete Ohio policy commitment from today’s Cleveland event; and a bank pilot that reports routing-error or escalation results for a bounded AI decision.</p>
+<p><span style="font-weight:bold">Host:</span> Thanks for listening to your Saturday Morning Brief. Take care.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-24_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-24_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-24_morning-brief.mp3" length="12404961" type="audio/mpeg"/>
+    <pubDate>Sat, 24 Oct 2026 06:19:15 -0400</pubDate>
+    <itunes:duration>00:12:53</itunes:duration>
+    <itunes:episode>20261024</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-24</guid>
+  </item>
+  <item>
     <title>Morning Brief — Fannie Mae’s Security Deadline, Ohio’s Campaign Fallout, and AI Agent Boundaries — October 23, 2026</title>
     <description>Friday’s Morning Brief covers a Fannie Mae connection-security deadline, the practical consequences of Ohio campaign fallout, banks detecting unauthorized AI agents, and OpenAI’s reported agent-assisted vulnerability work.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -688,80 +749,9 @@
     <guid isPermaLink="false">morning-brief-2026-10-14</guid>
   </item>
   <item>
-    <title>Morning Brief — Russian Diesel Fight, VA Refi Delivery, Mashreq AI, and Meta Muse - October 13, 2026</title>
-    <description>The October 13 Morning Brief covers the Trump-Putin diesel deal and sanctions dispute, Columbus Pizza Expo&#x27;s small-business signal, MPF&#x27;s VA refinance delivery change, Mashreq&#x27;s IBM Bob integration-engineering pilot, Meta Muse Wonder, oil-led markets, and record-warm Columbus weather.</description>
-    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
-<p><span style="font-weight:bold">Host:</span> Today: a Russian diesel deal tests sanctions law before fuel politics hits voters, a VA refinance delivery rule changes lender execution this morning, Mashreq puts agentic AI into integration engineering, and Meta’s new Muse Wonder models force buyers to separate frontier claims from usable workflow evidence.</p>
-<p><span style="font-weight:bold">Host:</span> Good morning. This is your Morning Brief for Tuesday, October 13th, 2026.</p>
-<h3 style="margin-top:1.5em">National</h3>
-<p><span style="font-weight:bold">Host:</span> Start nationally with President Trump’s Russian diesel deal. AP reports the president announced a plan last week to import Russian diesel to ease high pump prices, and congressional critics in both parties are now questioning whether that violates the U.S. ban on Russian energy imports.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is this mainly a foreign-policy fight, or does it hit household economics?</p>
-<p><span style="font-weight:bold">Host:</span> Both. The political appeal is obvious: diesel prices feed through farms, freight, construction, delivery routes and grocery costs. But AP notes Congress banned Russian energy products after the 2022 invasion of Ukraine, with any lift tied to withdrawal and acceptance by Ukraine.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the operational issue is not just whether diesel gets cheaper.</p>
-<p><span style="font-weight:bold">Host:</span> Right. Fuel buyers, refiners and banks need legal clarity before treating Russian cargo as ordinary supply. AP also says newer Russian-sanctions provisions are scheduled to take effect October 18, which makes the next few days a compliance and diplomacy test.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would change the story quickly?</p>
-<p><span style="font-weight:bold">Host:</span> Treasury or State guidance, a formal waiver theory, court action, or a congressional move to force the issue. The uncertainty is whether the administration can turn a price-relief announcement into lawful shipments without weakening the sanctions architecture it just signed.</p>
-<p><span style="font-weight:bold">Co-host:</span> The useful takeaway is that price relief can collide with sanctions plumbing. If the legal route is unclear, the market may price headlines before supply chains can safely act.</p>
-<p><span style="font-weight:bold">Host:</span> There is also a timing problem. If the administration waits until the October 18 sanctions date to explain the route, companies may either freeze decisions or build contingency plans around a policy that could change under pressure.</p>
-<h3 style="margin-top:1.5em">Columbus</h3>
-<p><span style="font-weight:bold">Host:</span> In Columbus, the fresh local signal is small-business traffic downtown. NBC4 reported that Pizza Expo Columbus wrapped Monday at the Greater Columbus Convention Center, drawing about 3,000 pizza shop owners and cooks plus about 2,000 pizza fans.</p>
-<p><span style="font-weight:bold">Co-host:</span> That sounds lighter than courts and diesel. Why include it?</p>
-<p><span style="font-weight:bold">Host:</span> Because it is a practical local-economy story. A food-service trade show brings suppliers, operators, would-be owners and visitors into the convention district. For Columbus, that is hotel, restaurant, parking and supplier activity, not just a quirky event.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should a local listener take from it?</p>
-<p><span style="font-weight:bold">Host:</span> The operator takeaway is networking and input costs. Shops use events like this to compare equipment, ingredients, menus and labor-saving ideas. Consumers may just see slices, but owners are looking at margins, throughput and whether a new vendor can make a busy kitchen more reliable.</p>
-<p><span style="font-weight:bold">Co-host:</span> Is there a next step?</p>
-<p><span style="font-weight:bold">Host:</span> Organizers told NBC4 they plan to continue the Columbus Pizza Expo in 2027. Watch whether it becomes a repeat convention-calendar asset, because recurring specialty shows help downtown businesses plan staffing and inventory instead of guessing around one-off crowds.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is useful: not every local story needs a crisis. Sometimes the signal is whether Columbus can keep turning niche industries into repeat downtown demand.</p>
-<h3 style="margin-top:1.5em">Home Lending</h3>
-<p><span style="font-weight:bold">Host:</span> In home lending, the lead is an MPF Program delivery change effective today. Beginning October 13, all VA refinance loans delivered through the Mortgage Partnership Finance Program must use the new Govt 30 YR VA Refinance subproduct and its corresponding VA refinance delivery commitment pricing grid.</p>
-<p><span style="font-weight:bold">Co-host:</span> Which workflow feels that first?</p>
-<p><span style="font-weight:bold">Host:</span> Secondary marketing and lock desks. A VA refinance that used to ride a broader government-loan delivery path now needs the specific subproduct and pricing grid when the lender sells through MPF. The affected file is not every VA loan; it is VA refinance delivery through this program.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the consequence if a lender misses it?</p>
-<p><span style="font-weight:bold">Host:</span> Pricing, commitment and post-closing defects. If the delivery team uses the wrong subproduct, the file can need correction after the borrower has already locked or closed. That creates margin noise for the lender and avoidable uncertainty for the veteran borrower.</p>
-<p><span style="font-weight:bold">Co-host:</span> Does this change VA eligibility?</p>
-<p><span style="font-weight:bold">Host:</span> No. It changes execution, not the borrower’s benefit. The borrower consequence is indirect: cleaner delivery routing helps the lender honor pricing and move the loan through sale without a preventable exception.</p>
-<p><span style="font-weight:bold">Host:</span> The watch item is narrow. MPF posted the effective date after the Columbus Day funding pause, so lenders should confirm pipeline reports, product mappings, pricing screens and training language before today’s VA refi commitments get touched.</p>
-<p><span style="font-weight:bold">Co-host:</span> That is a better lending story than a rate recap. The decision is not whether rates moved; it is whether the shop’s delivery setup matches the investor’s live rule.</p>
-<p><span style="font-weight:bold">Host:</span> It also gives managers a clean audit question: can the team pull every active VA refinance, see which channel it is using, and prove the commitment path matches the new MPF subproduct before the file reaches delivery?</p>
-<p><span style="font-weight:bold">Co-host:</span> That is the file-level test. If the report cannot answer it quickly, the problem is not training language; it is pipeline visibility.</p>
-<h3 style="margin-top:1.5em">AI in Banking</h3>
-<p><span style="font-weight:bold">Host:</span> For AI in Banking, I added Mashreq to the ledger as a pilot row in software engineering and internal productivity. IBM announced Monday that Mashreq is piloting IBM Bob for integration engineering across digital banking, payments and enterprise systems.</p>
-<p><span style="font-weight:bold">Co-host:</span> What task is the AI doing?</p>
-<p><span style="font-weight:bold">Host:</span> Integration design, planning, development support, code review and production troubleshooting. IBM says Mashreq’s platform supports digital banking, instant payments, cross-border transactions and API ecosystems, so the task sits close to systems that cannot tolerate sloppy changes.</p>
-<p><span style="font-weight:bold">Co-host:</span> Do we have a real metric or just a vendor claim?</p>
-<p><span style="font-weight:bold">Host:</span> We have a company-and-vendor-reported pilot metric. IBM says design and troubleshooting activities that previously took two to three hours were completed within minutes, with up to a 60 to 70 percent reduction in time spent. It also says a secure gateway manages about 4,000 AI-agent requests per month.</p>
-<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
-<p><span style="font-weight:bold">Host:</span> It changes release capacity for integration teams, especially where payment systems, APIs and country-specific platforms create recurring design and debugging work.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the limitation?</p>
-<p><span style="font-weight:bold">Host:</span> The evidence is not an independent test. We do not get defect rates, outage reduction, security findings, customer-impact measures or regulator acceptance. The control that matters here is whether agent suggestions are checked against architecture standards before they reach production.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the buyer question is whether faster design also means safer deployment.</p>
-<p><span style="font-weight:bold">Host:</span> Yes. The pilot is more useful than a generic copilot announcement because it names the workflow and a baseline. But the next evidence needs quality: fewer escaped defects, faster incident resolution, or cleaner audit trails, not just minutes saved in a pilot.</p>
-<h3 style="margin-top:1.5em">Frontier AI</h3>
-<p><span style="font-weight:bold">Host:</span> On the frontier, Meta launched Muse Wonder and Muse Wonder Full on Monday. Meta says these are its most capable models to date, built for agentic tasks such as navigating an insurance claim, understanding a lease, handling finance questions and building working apps.</p>
-<p><span style="font-weight:bold">Co-host:</span> What clears the frontier bar?</p>
-<p><span style="font-weight:bold">Host:</span> Capability and access. Meta says Muse Wonder is available now through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers. The practical shift is that Meta is moving from catch-up talk to a closed frontier model people can actually try in defined channels.</p>
-<p><span style="font-weight:bold">Co-host:</span> What was measured versus claimed?</p>
-<p><span style="font-weight:bold">Host:</span> Meta reports state-of-the-art performance on agentic tasks and points to active memory and active focus. Those are lab claims until third parties reproduce workflow results. Axios also framed the launch as Meta’s attempt to compete with OpenAI, Anthropic and Google at the frontier.</p>
-<p><span style="font-weight:bold">Co-host:</span> What limitation should buyers hear first?</p>
-<p><span style="font-weight:bold">Host:</span> Meta says a full report with additional safety evaluations will be available soon. That means the release arrives before the complete public safety packet. Also, Wonder Full is not broadly available through the API, and the models are not open weights in the old Llama sense.</p>
-<p><span style="font-weight:bold">Host:</span> For a regulated bank, the earliest plausible use is internal coding or document-work pilots, gated by private-data controls, model-risk review and a decision on whether active memory is allowed for the workflow.</p>
-<p><span style="font-weight:bold">Co-host:</span> The useful point is that Meta may be back in the frontier race, but procurement still has to ask which version is available, what it costs to run, what it remembers, and whether independent tests match the demo.</p>
-<h3 style="margin-top:1.5em">Markets</h3>
-<p><span style="font-weight:bold">Host:</span> Markets were mixed Monday as oil pressure returned. Reuters reporting carried by several outlets said oil touched its highest level in about two weeks, chip stocks fell, and investors looked ahead to bank earnings, inflation data and retail sales later this week.</p>
-<p><span style="font-weight:bold">Co-host:</span> What is the borrower-facing signal?</p>
-<p><span style="font-weight:bold">Host:</span> Oil and yields. The Treasury cash market was closed for the holiday, but energy prices can still reset inflation expectations. For mortgage desks and local finance teams, a stronger Dow does not matter much if oil and rate pressure keep the monthly-payment math tight.</p>
-<p><span style="font-weight:bold">Co-host:</span> And bank earnings start today?</p>
-<p><span style="font-weight:bold">Host:</span> Yes. JPMorgan, Goldman Sachs, Wells Fargo and Citigroup are in focus today, with Bank of America and Morgan Stanley following Wednesday. The useful question is whether trading strength and net interest income mask weaker loan demand or rising consumer stress.</p>
-<p><span style="font-weight:bold">Co-host:</span> So the market screen is oil, breadth, bank credit commentary and Wednesday’s CPI, not just whether the S&amp;P hovers near a record.</p>
-<p><span style="font-weight:bold">Co-host:</span> For borrowers, that means one good equity headline does not cancel a tougher rate sheet. If bank executives sound cautious about consumers, lenders should listen even before the next application survey lands.</p>
-<h3 style="margin-top:1.5em">Weather</h3>
-<p><span style="font-weight:bold">Host:</span> Columbus gets a very warm Tuesday. The current forecast shows partly cloudy conditions early, a high near 87, and a chance that the temperature breaks the old record high for the date, with Wednesday turning cooler and bringing a couple of showers.</p>
-<p><span style="font-weight:bold">Co-host:</span> What should people change today?</p>
-<p><span style="font-weight:bold">Host:</span> Treat this like a late-summer day, not normal mid-October. Hydrate for outdoor work or practice, expect warmer classrooms and job sites, and use today for dry errands before Wednesday’s shower chance. The commute issue is heat and glare more than storms.</p>
-<p><span style="font-weight:bold">Host:</span> Three watch items: first, whether Treasury or Congress clarifies the legal path for Russian diesel before the October 18 sanctions date; second, whether MPF lenders report VA refinance delivery defects after today’s subproduct switch; third, whether Meta publishes the promised Muse Wonder safety evaluations.</p>
-<p><span style="font-weight:bold">Co-host:</span> Those are concrete triggers: sanctions authority, lender execution quality and whether frontier claims get a fuller evidence file.</p>
-<p><span style="font-weight:bold">Host:</span> That is your Morning Brief for Tuesday, October 13th. Have a good morning, and let today’s operating facts set the pace.</p>
-</div>]]></content:encoded>
+    <title>Morning Brief — Tuesday, October 13, 2026</title>
+    <description>Your Morning Brief for Tuesday, October 13, 2026. National news, Columbus local, home lending, and AI.</description>
+
     <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-13_morning-brief-chapters.json" type="application/json+chapters"/>
     <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-13_morning-brief-transcript.html" type="text/html"/>
     <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-13_morning-brief.mp3" length="12574463" type="audio/mpeg"/>
@@ -997,18 +987,6 @@
     <itunes:duration>00:12:49</itunes:duration>
     <itunes:episode>20260924</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-24</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Wednesday, September 23, 2026</title>
-    <description>Your Morning Brief for Wednesday, September 23, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-23_morning-brief-chapters.json" type="application/json+chapters"/>
-    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-23_morning-brief-transcript.html" type="text/html"/>
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-23_morning-brief.mp3" length="12996478" type="audio/mpeg"/>
-    <pubDate>Wed, 23 Sep 2026 06:31:02 -0400</pubDate>
-    <itunes:duration>00:13:30</itunes:duration>
-    <itunes:episode>20260923</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-23</guid>
   </item>
 </channel>
 </rss>
