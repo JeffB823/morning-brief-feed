@@ -1,33 +1,33 @@
-# Story Tracker — updated 2026-10-23
+# Story Tracker — updated 2026-10-24
 
-Only active stories likely to develop within five days.
+Only active stories likely to move within five days.
 
-## Ohio campaign-ad dispute
-- Last verified development: October 22 Governor Mike DeWine publicly condemned Vivek Ramaswamy’s campaign advertisement while President Trump defended it.
-- Last takeaway: Campaign conflict is not an operating change; use a formal state action, rule, budget or court order before changing an institutional decision.
-- Source: https://apnews.com/article/de2aec0076776539cd206f91d39d0236
-- Revisit trigger: Advertisement revision or withdrawal, campaign-finance change, or a documented policy commitment by October 28.
+## Canada motor-vehicle tariff scope
+- Last verified development: October 23 White House proclamation changed which listed Canadian products remain subject to the additional 50 percent duty, effective October 30 at 12:01 a.m. Eastern.
+- Last takeaway: The near-term task is tariff classification and contract exposure, not a blanket consumer-price conclusion.
+- Source: https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/
+- Revisit trigger: CBP implementation guidance, annex correction, Canadian response or a supplier’s specific pricing/inventory disclosure by October 30.
 
-## Ohio EdChoice appellate ruling
-- Last verified development: October 22 the 10th District Court of Appeals affirmed a ruling that EdChoice, as structured and funded, is unconstitutional; the program remains in operation while an appeal is expected.
-- Last takeaway: A live appellate ruling is not an immediate family-eligibility change; the next filing determines the operating calendar.
-- Source: https://apnews.com/article/universal-school-vouchers-lawsuit-ohio-edchoice-unconstitutional-b63d98b59e705f04a7d2afbef330b516
-- Revisit trigger: Stay request, Ohio Supreme Court appeal, revised program rule, or enrollment guidance by October 28.
+## Ohio statewide campaign commitments
+- Last verified development: October 24 Barack Obama is scheduled to campaign in Cleveland with Sherrod Brown and Amy Acton.
+- Last takeaway: Campaign events are not operating changes; planning should wait for a proposal, filing, appropriation or agency implementation text.
+- Source: https://apnews.com/article/barack-obama-sherrod-brown-ohio-amy-acton-0e69a49ca3597418c6f9e3b131600f4e
+- Revisit trigger: A concrete policy commitment, campaign-finance filing, legislative proposal or official implementation document by October 29.
 
-## Fannie Mae cipher deadline
-- Last verified development: October 23 is Fannie Mae’s deadline to confirm current supported encryption ciphers for common lender validation and production connections.
-- Last takeaway: The risk is delivery connectivity and technical ownership, not an underwriting or borrower-eligibility change.
-- Source: https://singlefamily.fanniemae.com/applications-technology/loan-delivery-release-notes
-- Revisit trigger: Service notice, outage report, or vendor-specific remediation guidance by October 28.
+## Freddie Mac Multifamily Guide changes
+- Last verified development: October 20 Freddie Mac announced Multifamily Guide changes for Forward Commitments, certain insurance requirements and interest-rate-cap requirements.
+- Last takeaway: Seller-servicers need the detailed redlines and effective dates before changing an existing deal’s documentation.
+- Source: https://mf.freddiemac.com/news/2026/20261020-october-20-guide-bulletin
+- Revisit trigger: Detailed effective-date clarification, redline interpretation or lender implementation notice by October 29.
 
-## Customer-account third-party agents
-- Last verified development: Reuters reported October 22 that major banks are detecting unauthorized third-party AI agents operating in customer accounts.
-- Last takeaway: Read-only access and action authority must be evaluated separately, with attribution and scope controls for sensitive actions.
-- Source: https://www.aol.ca/articles/us-banks-detect-unauthorized-ai-091700000.html
-- Revisit trigger: Bank, regulator or independent disclosure of permission scope, detection quality, customer harm or remediation by October 28.
+## Emirates NBD in-country inference deployment
+- Last verified development: October 19 Emirates NBD announced planned OpenAI GPT-model deployment on UAE in-country inference infrastructure.
+- Last takeaway: Residency may clear an architecture constraint, but a named workflow and measured outcome are still missing.
+- Source: https://www.emiratesnbd.com/en/media-center/emirates-nbd-becomes-first-mena-bank-to-harness
+- Revisit trigger: First production workflow, human fallback, accuracy, fraud, service or productivity baseline by October 29.
 
-## Bank of Ireland chargeback and scam AI
-- Last verified development: October 21 Bank of Ireland said its AI assesses about 2.9 million transactions daily and more than four in five chargeback cases close within three days.
-- Last takeaway: Production volume and closure timing need error, reversal and escalation baselines before they become a service-quality case.
-- Source: https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/
-- Revisit trigger: Prior-time comparison, false-positive, rework, customer outcome or independent review by October 28.
+## OpenAI Decisions API availability
+- Last verified development: October 22 OpenAI made its Decisions API generally available with GPT-6 Luna for bounded probability, choice and score calls.
+- Last takeaway: Faster routing lowers test cost but cannot validate an action rule or replace local error analysis.
+- Source: https://openai.com/index/decisions-api/
+- Revisit trigger: Independent evaluation or regulated-firm pilot reporting routing errors, escalations and decision outcomes by October 29.

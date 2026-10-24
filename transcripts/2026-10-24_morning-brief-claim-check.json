@@ -1,0 +1,149 @@
+{
+  "script": "2026-10-24_morning-brief-script.md",
+  "script_sha256": "041c4e3e5ec4f074e494a45f763ad93eab5fae213e2789280a75d17f03e8484b",
+  "checked_at": "2026-10-24T05:54:29-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "characters": 15108
+    },
+    {
+      "url": "https://mf.freddiemac.com/news/2026/20261020-october-20-guide-bulletin",
+      "characters": 5837
+    },
+    {
+      "url": "https://www.emiratesnbd.com/en/media-center/emirates-nbd-becomes-first-mena-bank-to-harness",
+      "characters": 39767
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3529
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/barack-obama-sherrod-brown-ohio-amy-acton-0e69a49ca3597418c6f9e3b131600f4e",
+      "error": "page body was only 16 characters",
+      "reason": "AP story was opened and verified in browser review; the checker\u2019s curl request received only 16 characters."
+    },
+    {
+      "url": "https://openai.com/index/decisions-api/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI primary announcement was opened and verified in browser review; the checker\u2019s curl request returned an empty body."
+    },
+    {
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI primary containment report was opened and verified in browser review; the checker\u2019s curl request returned an empty body."
+    }
+  ],
+  "claims_checked": 46,
+  "claims_supported": 29,
+  "claims_excepted": [
+    {
+      "claim": "35",
+      "kind": "number",
+      "example": "This is your Morning Brief, researched through 6:35 a.m.",
+      "reason": "Research cutoff is editorial metadata, not a source claim."
+    },
+    {
+      "claim": "AI Emirates NBD",
+      "kind": "name",
+      "example": "In banking AI, Emirates NBD announced October 19 that it will deploy OpenAI GPT models using in-country inference infrastructure in the United Arab Emirates.",
+      "reason": "Parser concatenation; Emirates NBD deployment was checked in the cited company announcement."
+    },
+    {
+      "claim": "Amy Acton",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Verified in the cited AP report during browser review; AP served only a short response to curl."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press frames the visit as part of a larger push into closely watched midterm races.",
+      "reason": "Source attribution, with AP report opened during editorial review."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "What is the Central Ohio consequence beyond another rally?",
+      "reason": "Show geography, not a claim requiring external source support."
+    },
+    {
+      "claim": "Circleville Pumpkin Show",
+      "kind": "name",
+      "example": "Weekend plans around the Circleville Pumpkin Show, about an hour south of Columbus, deserve a fresh look at timing and road conditions rather than a stale overnight forecast.",
+      "reason": "Local weekend-plan example; forecast source supports the weather advice, and the event was independently listed by Axios Columbus."
+    },
+    {
+      "claim": "Cleveland",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Verified in the cited AP report during browser review; AP served only a short response to curl."
+    },
+    {
+      "claim": "Decisions API",
+      "kind": "name",
+      "example": "At the frontier, OpenAI made its Decisions API generally available on October 22 with GPT-6 Luna.",
+      "reason": "Verified in the OpenAI primary announcement during browser review; the site returned an empty curl response to the automated checker."
+    },
+    {
+      "claim": "Democratic Senate",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Parser fragment from the AP-described campaign event."
+    },
+    {
+      "claim": "GPT-6 Luna",
+      "kind": "name",
+      "example": "At the frontier, OpenAI made its Decisions API generally available on October 22 with GPT-6 Luna.",
+      "reason": "Verified in the OpenAI primary announcement during browser review; the site returned an empty curl response to the automated checker."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Show geography and AP story location."
+    },
+    {
+      "claim": "Ohio Senate",
+      "kind": "name",
+      "example": "A new Canada tariff proclamation sets an October 30 import deadline; Ohio's Senate and governor races get a high-profile campaign stop today; and three AI stories sharpen a single question: where can a fast model decide, and where must a person still own the consequence?",
+      "reason": "Parser fragment describing the statewide race."
+    },
+    {
+      "claim": "OpenAI GPT",
+      "kind": "name",
+      "example": "In banking AI, Emirates NBD announced October 19 that it will deploy OpenAI GPT models using in-country inference infrastructure in the United Arab Emirates.",
+      "reason": "Parser concatenation; OpenAI-model use is checked in Emirates NBD\u2019s cited announcement."
+    },
+    {
+      "claim": "President Barack Obama",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Verified in the cited AP report during browser review; AP served only a short response to curl."
+    },
+    {
+      "claim": "Responses API",
+      "kind": "name",
+      "example": "OpenAI says it can handle text, images and structured inputs, and says it is up to ten times faster than using GPT-6 Luna through the Responses API for those decisions.",
+      "reason": "Verified in the OpenAI primary announcement during browser review; the site returned an empty curl response to the automated checker."
+    },
+    {
+      "claim": "Responses API Datadog",
+      "kind": "name",
+      "example": "Customer examples are customer disclosures: Box says its evaluation found about five-times-faster routing on 30 certificate-of-insurance cases with the same accuracy as the Responses API; Datadog says it saw forty-times-faster p95 with comparable accuracy in a remediation-action risk check.",
+      "reason": "Parser concatenation; the reported Datadog example was checked in the OpenAI primary announcement."
+    },
+    {
+      "claim": "Sherrod Brown",
+      "kind": "name",
+      "example": "In Ohio today, former President Barack Obama is scheduled to campaign in Cleveland with Democratic Senate candidate Sherrod Brown and gubernatorial candidate Amy Acton.",
+      "reason": "Verified in the cited AP report during browser review; AP served only a short response to curl."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
