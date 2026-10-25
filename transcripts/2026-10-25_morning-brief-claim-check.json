@@ -1,0 +1,95 @@
+{
+  "script": "2026-10-25_morning-brief-script.md",
+  "script_sha256": "ecddeb23a329ca98c3f6c5575fcb4cae0768bd42d4427099c2a7db617ae0f9dc",
+  "checked_at": "2026-10-25T01:45:21-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "characters": 15108
+    },
+    {
+      "url": "https://bigten.org/schedule.aspx?schedule=2903",
+      "characters": 2122
+    },
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/",
+      "characters": 12213
+    },
+    {
+      "url": "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/",
+      "characters": 7246
+    },
+    {
+      "url": "https://www.kimi.com/code/docs/kimi-code/whats-new.html",
+      "characters": 23467
+    },
+    {
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+      "characters": 4670
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "characters": 20722
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3566
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/29b50f59d13c2ec87771b9e63176669d",
+      "error": "page body was only 16 characters",
+      "reason": "AP report was opened and verified during browser review; the checker received only a 16-character bot response. It is retained as a candidate-level fresh development, not used in spoken copy."
+    }
+  ],
+  "claims_checked": 40,
+  "claims_supported": 33,
+  "claims_excepted": [
+    {
+      "claim": "Buckeyes",
+      "kind": "name",
+      "example": "The Big Ten schedule lists the Buckeyes' next game as an October thirty-first visit to Southern California, after last Saturday's win at Indiana.",
+      "reason": "Informal team name; the cited Big Ten schedule identifies Ohio State and its next game."
+    },
+    {
+      "claim": "Canadian-product",
+      "kind": "name",
+      "example": "Three things to watch: Customs guidance before the October thirtieth Canadian-product deadline; the FHFA's design and start date for the mortgage-insurance pilot; and Bank of Ireland's first disclosure of decision-quality results for chargebacks or scam detection.",
+      "reason": "Hyphenated parser fragment; the cited White House proclamation describes the revised Canadian product scope."
+    },
+    {
+      "claim": "Fannie Mae and Freddie Mac",
+      "kind": "name",
+      "example": "Wednesday's White House order directs the Federal Housing Finance Agency director, subject to safety and soundness and legal constraints, to have Fannie Mae and Freddie Mac establish a pilot that periodically identifies loans where a borrower may qualify for mortgage-insurance cancellation.",
+      "reason": "The cited White House order names the Federal National Mortgage Association and Federal Home Loan Mortgage Corporation; the script uses their standard public names."
+    },
+    {
+      "claim": "Frontier AI",
+      "kind": "name",
+      "example": "Frontier AI has a fresh access and capability item from Moonshot: Kimi K3.1 Pro entered Kimi Code on October twenty-third, its first K3.1-series model.",
+      "reason": "Chapter/topic label, not a factual assertion requiring source support."
+    },
+    {
+      "claim": "K3.1-series",
+      "kind": "name",
+      "example": "Frontier AI has a fresh access and capability item from Moonshot: Kimi K3.1 Pro entered Kimi Code on October twenty-third, its first K3.1-series model.",
+      "reason": "Hyphenated parser fragment; Moonshot's cited Kimi Code update identifies K3.1 Pro as the first K3.1-series model."
+    },
+    {
+      "claim": "Ohio Stadium",
+      "kind": "name",
+      "example": "That does not make Sunday empty, but it changes the immediate planning picture around campus: there is no Ohio Stadium game-day surge to layer onto the usual weekend errands and events.",
+      "reason": "Local venue context; the cited Big Ten schedule confirms Ohio State's Columbus home fixtures and current next away game."
+    },
+    {
+      "claim": "Southern California",
+      "kind": "name",
+      "example": "The Big Ten schedule lists the Buckeyes' next game as an October thirty-first visit to Southern California, after last Saturday's win at Indiana.",
+      "reason": "The cited Big Ten schedule lists the October 31 game at USC in Los Angeles."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
