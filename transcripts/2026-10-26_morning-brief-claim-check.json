@@ -1,0 +1,108 @@
+{
+  "script": "2026-10-26_morning-brief-script.md",
+  "script_sha256": "0b1c5e581cbb9b07389487afaaba7882ff3b15172adc135a763df268dfdd86c7",
+  "checked_at": "2026-10-26T01:46:46-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.columbuscrew.com/news/crew-coverage-pres-by-medical-mutual-courtois-incredible-win-over-toronto-fc",
+      "characters": 9502
+    },
+    {
+      "url": "https://www.columbuscrew.com/news/match-guide-crew-vs-toronto-fc",
+      "characters": 8156
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501%3A31-15-17",
+      "characters": 3010
+    },
+    {
+      "url": "https://codes.ohio.gov/assets/laws/administrative-code/authenticated/1501/31/15/1501%2431-15-16_20260706.pdf",
+      "characters": 110552
+    },
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/",
+      "characters": 12213
+    },
+    {
+      "url": "https://www.santander.com/en/press-room/press-releases/2026/10/santander-builds-ai-capabilities-that-improve-performance-and-lower-costs-using-nvidia-ai-infrastructure",
+      "characters": 8072
+    },
+    {
+      "url": "https://www.anthropic.com/news?subjects=announcements",
+      "characters": 15452
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885",
+      "error": "page body was only 16 characters",
+      "reason": "AP's automated response was a 16-character shell; the article was opened in browser search at cutoff and its reported October 25 diplomatic statements were used narrowly."
+    },
+    {
+      "url": "https://apnews.com/article/7fc70f244e14a16e55450cf8b89d4651",
+      "error": "page body was only 16 characters",
+      "reason": "AP's automated response was a 16-character shell; the article was opened in browser search at cutoff to verify the scheduled week-ahead calendar."
+    }
+  ],
+  "claims_checked": 33,
+  "claims_supported": 24,
+  "claims_excepted": [
+    {
+      "claim": "AI Lab and NVIDIA",
+      "kind": "name",
+      "example": "In banking AI, the ledger changes with Santander's October nineteenth disclosure about its AI Lab and NVIDIA collaboration.",
+      "reason": "The cited Santander release names Santander AI Lab and NVIDIA; the checker failed its joined-name matching."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Central Ohio also has a smaller operational reminder today: the state's youth rabbit and youth pheasant-and-chukar seasons run through Sunday, under rules that limit the activity to sunrise-to-sunset hours and set daily bag limits.",
+      "reason": "This is show geography and not a claim about a source; the underlying Ohio hunting-rule details are cited separately."
+    },
+    {
+      "claim": "Fannie Mae and Freddie Mac",
+      "kind": "name",
+      "example": "Home lending's dated operational update remains the White House order from Wednesday directing the Federal Housing Finance Agency director, subject to legal and safety-and-soundness constraints, to have Fannie Mae and Freddie Mac establish a pilot for identifying some loans where a borrower may qualify for mortgage-insurance cancellation.",
+      "reason": "The cited White House order names both enterprises; the checker did not match the rendered government-page text, which was source-checked manually."
+    },
+    {
+      "claim": "Iran",
+      "kind": "name",
+      "example": "Today, Iran says messages are still reaching Washington, the Crew have put a late-season result on the table, and mortgage servicers have a proposed new borrower-identification workflow to watch.",
+      "reason": "The only Iran statement in the script is sourced to the AP report above, which was browser-verified but cannot be fetched by the checker."
+    },
+    {
+      "claim": "Iran and the United States",
+      "kind": "name",
+      "example": "Three things to watch: whether Iran and the United States announce a concrete diplomatic step; the Crew's final home-match traffic and match guide for Saturday; and the FHFA and enterprises' first terms for the mortgage-insurance pilot.",
+      "reason": "The watch item is a restatement of the browser-verified AP diplomatic-channel report above."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Monday plans should start with the latest National Weather Service forecast, especially for commute timing and the temperature swing between morning and evening.",
+      "reason": "The script gives no weather fact or forecast; it only directs listeners to the official current forecast."
+    },
+    {
+      "claim": "Tehran",
+      "kind": "name",
+      "example": "The most immediate national development is narrow but important: Iran said Sunday that messages are still being passed to the United States and that Tehran remains open to diplomacy, while President Trump said there would not be a strike that day.",
+      "reason": "The script's Tehran reference is confined to the browser-verified AP report above."
+    },
+    {
+      "claim": "Washington the Crew",
+      "kind": "name",
+      "example": "Today, Iran says messages are still reaching Washington, the Crew have put a late-season result on the table, and mortgage servicers have a proposed new borrower-identification workflow to watch.",
+      "reason": "This parser-created cross-clause phrase joins two separate sourced opening-preview topics and is not a distinct factual assertion."
+    },
+    {
+      "claim": "and the FHFA",
+      "kind": "name",
+      "example": "Three things to watch: whether Iran and the United States announce a concrete diplomatic step; the Crew's final home-match traffic and match guide for Saturday; and the FHFA and enterprises' first terms for the mortgage-insurance pilot.",
+      "reason": "This parser-created partial phrase refers to the cited White House order; it is not a distinct claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

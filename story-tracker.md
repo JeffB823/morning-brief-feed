@@ -1,27 +1,33 @@
-# Story Tracker — updated 2026-10-25
+# Story Tracker — updated 2026-10-26
 
 Only active stories likely to move within five days.
 
-## Canada motor-vehicle tariff scope
-- Last verified development: October 23 White House proclamation revised the scope of listed Canadian products subject to additional duties, effective October 30 at 12:01 a.m. Eastern.
-- Last takeaway: Import classification, country-of-origin records, and contract pass-through determine exposure before anyone can credibly estimate consumer prices.
-- Source: https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/
-- Revisit trigger: CBP implementation guidance, annex correction, Canadian response, or named supplier price/inventory disclosure by October 30.
+## Iran diplomatic channel
+- Last verified development: October 25 AP reported Iran says messages are still reaching the United States and Tehran remains open to diplomacy; Trump said there would not be a strike that day.
+- Last takeaway: Communication is a de-escalation signal, not a settlement or evidence that physical supply risk has eased.
+- Source: https://apnews.com/article/4779a3deeb1a23f59414164532d5c885
+- Revisit trigger: Announced talks, verified reduction in attacks, or revised official travel/shipping guidance.
+
+## Columbus Crew postseason position
+- Last verified development: October 24 Columbus beat Toronto FC 4-2; the club reported the win put the Crew in the final Eastern Conference postseason position.
+- Last takeaway: Saturday's final home match carries a playoff-race crowd and operations angle, but the position is not secured.
+- Source: https://www.columbuscrew.com/news/crew-coverage-pres-by-medical-mutual-courtois-incredible-win-over-toronto-fc
+- Revisit trigger: Final standings, postseason confirmation, or October 31 match/traffic guidance.
 
 ## Enterprise mortgage-insurance cancellation pilot
-- Last verified development: October 22 White House order directed the FHFA director, subject to authority and safety-and-soundness determinations, to have Fannie Mae and Freddie Mac establish a pilot for proactive mortgage-insurance cancellation on mortgages made after the pilot is established.
-- Last takeaway: It is a prospective servicer and eligibility workflow, not an immediate cancellation entitlement or a change to every existing mortgage.
+- Last verified development: October 22 White House order directed the FHFA director, subject to authority and safety-and-soundness determinations, to have Fannie Mae and Freddie Mac establish a prospective pilot.
+- Last takeaway: Treat this as a future servicer-identification workflow until terms set eligibility, valuation, notices, and disputes.
 - Source: https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/
-- Revisit trigger: FHFA or enterprise pilot terms covering effective date, eligibility, valuation confidence, borrower notices, disputes, and servicing transmission.
+- Revisit trigger: FHFA or enterprise pilot terms, effective date, and servicing instructions.
 
-## Bank of Ireland chargeback and scam AI
-- Last verified development: October 21 Bank of Ireland disclosed production AI support for card-dispute chargebacks and scam-detection transaction assessment, with stated scale figures but no quality baseline.
-- Last takeaway: Case speed and daily volume are not enough to judge chargeback or scam-decision quality without reversal, false-positive, human-override, complaint, or loss outcomes.
-- Source: https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/
-- Revisit trigger: A measured outcome release, earnings disclosure, customer-impact metric, or human-escalation rate by October 30.
+## Santander AI Lab customer-service experiment
+- Last verified development: October 19 Santander reported a specialized-model experimental customer-service use case with claimed better conversation quality and more-than-half lower costs.
+- Last takeaway: Per-interaction serving cost is not an end-to-end customer outcome without task, quality, and human-review baselines.
+- Source: https://www.santander.com/en/press-room/press-releases/2026/10/santander-builds-ai-capabilities-that-improve-performance-and-lower-costs-using-nvidia-ai-infrastructure
+- Revisit trigger: Defined task set, independent evaluation, full workflow cost, quality, escalation, or production rollout disclosure.
 
-## Kimi K3.1 Pro long-context access
-- Last verified development: October 23 Moonshot made Kimi K3.1 Pro available in Kimi Code; Vercel listed standard and high-speed versions in AI Gateway.
-- Last takeaway: A one-million-token context claim changes test design but does not establish finance-workflow reliability, citation accuracy, or safe tool use.
-- Sources: https://www.kimi.com/code/docs/kimi-code/whats-new.html ; https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway
-- Revisit trigger: Independent evaluation, model card, pricing/access revision, or a reproducible long-horizon reliability result by October 30.
+## Anthropic evaluator-access arrangement
+- Last verified development: October 21 Anthropic said it would give employee-like access to METR and was discussing other evaluator access.
+- Last takeaway: Access is not evidence until scope, methodology, and publication terms make results inspectable.
+- Source: https://www.anthropic.com/news?subjects=announcements
+- Revisit trigger: METR scope, methodology, publication commitment, or completed independent result.
