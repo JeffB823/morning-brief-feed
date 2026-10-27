@@ -1,0 +1,165 @@
+{
+  "script": "2026-10-27_morning-brief-script.md",
+  "script_sha256": "081fca4797b5e186c948db1169df6d279dac0f3531c2d2b37fef3c5bd2b196b1",
+  "checked_at": "2026-10-27T01:44:23-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/politics-government/2026-10-26/early-voting-in-2026-midterm-surpasses-all-of-2022-in-franklin-county-with-one-week-left?_amp=true",
+      "characters": 8134
+    },
+    {
+      "url": "https://www.fhfa.gov/data/hpi?lctg=5c777920a41e4f76a8235705&stream=business",
+      "characters": 8048
+    },
+    {
+      "url": "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
+      "characters": 1023876
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms/archive",
+      "characters": 8886
+    },
+    {
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/10/bank-of-america--blackstone--citi-and-morgan-stanley-announce-la.html",
+      "characters": 27543
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/63c17a3eadc9ed232fbd897afbd29b9d",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character automated shell to curl; the full report was opened and checked in browser at cutoff."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s page was browser-opened and checked at cutoff, but curl returned an empty response."
+    },
+    {
+      "url": "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-991eeb23f8acd1e84b11de9b35278681",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character automated shell to curl; the full report was opened and checked in browser at cutoff."
+    }
+  ],
+  "claims_checked": 49,
+  "claims_supported": 30,
+  "claims_excepted": [
+    {
+      "claim": "4.0",
+      "kind": "number",
+      "example": "It also reports fifty-point-three percent on Terminal-Bench 4.0 at maximum effort, versus a published twenty-one-point-five percent for GPT-5.6 Terra.",
+      "reason": "Part of the cited OpenAI browser-verified Terminal-Bench 4.0 label; parser treats the version suffix as a separate number."
+    },
+    {
+      "claim": "AI-capacity",
+      "kind": "name",
+      "example": "Until then, the responsible takeaway is narrow: banks are becoming part of the AI-capacity supply chain, and credit teams need a model of that chain before treating it as routine technology business.",
+      "reason": "Generic hyphenated description of the cited financing structure; parser does not normalize it."
+    },
+    {
+      "claim": "AI-compute",
+      "kind": "name",
+      "example": "The Fed begins a consequential meeting today, Franklin County has already passed its entire 2022 early in-person vote total, and four major banks have unveiled an AI-compute financing structure.",
+      "reason": "Generic hyphenated description of the cited financing structure; parser does not normalize it."
+    },
+    {
+      "claim": "Agents Last Exam",
+      "kind": "name",
+      "example": "OpenAI reports a fifteen-percentage-point gain over GPT-5.6 Terra on Agents' Last Exam at medium reasoning effort, at about one-third the cost.",
+      "reason": "Cited OpenAI benchmark name verified in browser; direct fetch was empty."
+    },
+    {
+      "claim": "Banking AI",
+      "kind": "name",
+      "example": "Banking AI has a fresh financing-and-infrastructure disclosure rather than a chatbot claim.",
+      "reason": "Section description, not a separate factual assertion."
+    },
+    {
+      "claim": "Chair Kevin Warsh",
+      "kind": "name",
+      "example": "The decision is Wednesday; what matters for mortgage pricing is the combination of the statement, Chair Kevin Warsh's explanation, Treasury yields and lenders' rate sheets afterward.",
+      "reason": "Cited AP browser-verified report identifies the chair; direct fetch was blocked."
+    },
+    {
+      "claim": "ChatGPT Work Codex and the API",
+      "kind": "name",
+      "example": "GPT-6.1 Terra became available Monday in ChatGPT Work, Codex and the API.",
+      "reason": "Cited OpenAI browser-verified availability statement; parser joined multiple availability terms."
+    },
+    {
+      "claim": "Eastern and the Federal Reserve Wednesday",
+      "kind": "name",
+      "example": "Three things to watch: Franklin County's mail-ballot request deadline and updated early-vote guidance today; the FHFA's August house-price release at nine Eastern; and the Federal Reserve's Wednesday statement and rate-market reaction.",
+      "reason": "Parser-created cross-clause phrase joining separate watch items."
+    },
+    {
+      "claim": "Frontier AI",
+      "kind": "name",
+      "example": "Frontier AI has a new model-and-access change from OpenAI.",
+      "reason": "Section description, not a separate factual assertion."
+    },
+    {
+      "claim": "GPT-5.6 Terra",
+      "kind": "name",
+      "example": "OpenAI reports a fifteen-percentage-point gain over GPT-5.6 Terra on Agents' Last Exam at medium reasoning effort, at about one-third the cost.",
+      "reason": "Cited OpenAI browser-verified model comparison; direct fetch was empty."
+    },
+    {
+      "claim": "GPT-5.6 Terra and GPT-6.1 Sol",
+      "kind": "name",
+      "example": "OpenAI says it combines visual reasoning with computer use and costs half as much in standard API pricing as GPT-5.6 Terra and GPT-6.1 Sol.",
+      "reason": "Cited OpenAI browser-verified comparison; parser joined two model names."
+    },
+    {
+      "claim": "GPT-6.1 Terra",
+      "kind": "name",
+      "example": "GPT-6.1 Terra became available Monday in ChatGPT Work, Codex and the API.",
+      "reason": "Cited OpenAI browser-verified release name; direct fetch was empty."
+    },
+    {
+      "claim": "Justice Department",
+      "kind": "name",
+      "example": "The Justice Department asked Washington state on Monday to set aside ballots from more than four hundred people it alleges registered without citizenship, pending confirmation of eligibility.",
+      "reason": "The cited AP browser-verified report identifies the department; direct fetch was blocked."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Columbus weather stays practical today: check the latest National Weather Service forecast before a commute, voting trip or outdoor shift, especially for precipitation timing and the gap between morning and evening temperatures.",
+      "reason": "The script supplies no weather fact, only directs listeners to the official current forecast."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "Frontier AI has a new model-and-access change from OpenAI.",
+      "reason": "Cited primary publisher of the Terra release; direct fetch was empty."
+    },
+    {
+      "claim": "Terminal-Bench",
+      "kind": "name",
+      "example": "It also reports fifty-point-three percent on Terminal-Bench 4.0 at maximum effort, versus a published twenty-one-point-five percent for GPT-5.6 Terra.",
+      "reason": "Cited OpenAI browser-verified benchmark name; direct fetch was empty."
+    },
+    {
+      "claim": "Terra",
+      "kind": "name",
+      "example": "What does Terra claim to do that its predecessor could not do as economically?",
+      "reason": "Short form of cited GPT-6.1 Terra model name."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "The decision is Wednesday; what matters for mortgage pricing is the combination of the statement, Chair Kevin Warsh's explanation, Treasury yields and lenders' rate sheets afterward.",
+      "reason": "Generic market reference in the cited AP Fed-meeting context."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "Washington's new election dispute is the national story with the clearest institutional consequence.",
+      "reason": "The cited AP browser-verified report concerns Washington state; direct fetch was blocked."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
