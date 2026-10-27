@@ -1,7 +1,7 @@
 {
   "script": "2026-10-27_morning-brief-script.md",
-  "script_sha256": "081fca4797b5e186c948db1169df6d279dac0f3531c2d2b37fef3c5bd2b196b1",
-  "checked_at": "2026-10-27T01:49:34-0400",
+  "script_sha256": "e1204f5380cb06a6bebf2263c659d1df0e327b906d1f392c32241e8e4635c733",
+  "checked_at": "2026-10-27T01:50:43-0400",
   "sources_fetched": [
     {
       "url": "https://www.wosu.org/politics-government/2026-10-26/early-voting-in-2026-midterm-surpasses-all-of-2022-in-franklin-county-with-one-week-left?_amp=true",
@@ -42,8 +42,8 @@
       "reason": "AP returned a 16-character automated shell to curl; the full report was opened and checked in browser at cutoff."
     }
   ],
-  "claims_checked": 49,
-  "claims_supported": 30,
+  "claims_checked": 47,
+  "claims_supported": 28,
   "claims_excepted": [
     {
       "claim": "4.0",
