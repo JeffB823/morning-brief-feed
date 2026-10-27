@@ -9,37 +9,37 @@
     {
       "title": "National News",
       "start": 29.625,
-      "end": 163.125
+      "end": 134.65
     },
     {
       "title": "Columbus",
-      "start": 163.125,
-      "end": 275.3
+      "start": 134.65,
+      "end": 246.825
     },
     {
       "title": "Home Lending",
-      "start": 275.3,
-      "end": 421.275
+      "start": 246.825,
+      "end": 392.8
     },
     {
       "title": "AI in Banking",
-      "start": 421.275,
-      "end": 574.6
+      "start": 392.8,
+      "end": 522.65
     },
     {
       "title": "Frontier AI",
-      "start": 574.6,
-      "end": 738.7
+      "start": 522.65,
+      "end": 686.75
     },
     {
       "title": "Markets and Weather",
-      "start": 738.7,
-      "end": 811.1
+      "start": 686.75,
+      "end": 739.9
     },
     {
       "title": "What to Watch",
-      "start": 811.1,
-      "end": 829.125
+      "start": 739.9,
+      "end": 757.925
     }
   ]
 }
