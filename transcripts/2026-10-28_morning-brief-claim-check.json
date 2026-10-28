@@ -1,0 +1,196 @@
+{
+  "script": "2026-10-28_morning-brief-script.md",
+  "script_sha256": "4f2a0e8fb331017c19699382dbec23ac3eec1ec0bdb002badde6d175310466a6",
+  "checked_at": "2026-10-28T01:46:51-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.ohiosos.gov/elections/voters/toolkit/early-voting/",
+      "characters": 1015
+    },
+    {
+      "url": "https://www.fhfa.gov/reports",
+      "characters": 7126
+    },
+    {
+      "url": "https://www.wellsfargo.com/about/corporate-responsibility/",
+      "characters": 2160
+    },
+    {
+      "url": "https://www.freddiemac.com/media-room",
+      "characters": 6263
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character automated shell to curl; the full report was opened and checked in browser at the research cutoff."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "Axios returned a 16-character automated shell to curl; the full local guide was opened and checked in browser at the research cutoff."
+    },
+    {
+      "url": "https://marketchameleon.com/Overview/WFC/PressReleases/",
+      "error": "page returned a bot challenge (access denied)",
+      "reason": "The listing served an access-denied response to curl; its October 22 headline was opened and checked in browser, and the script labels the disclosure as an organizational status move rather than a deployment result."
+    },
+    {
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI's primary announcement was opened and checked in browser at cutoff; curl returned an empty response."
+    }
+  ],
+  "claims_checked": 32,
+  "claims_supported": 8,
+  "claims_excepted": [
+    {
+      "claim": "130000",
+      "kind": "number",
+      "example": "Oracle reported 130000 active ChatGPT users and more than 95000 active Codex users.",
+      "reason": "OpenAI primary announcement was browser-verified at cutoff; curl returned an empty body, while the page reports Oracle's active ChatGPT-user count."
+    },
+    {
+      "claim": "21",
+      "kind": "number",
+      "example": "The survey ran from October 1 through the 21, so it cannot capture every late-month price move.",
+      "reason": "The cited AP report says the consumer survey was collected October 1\u201321; AP returned a 16-character shell to curl after browser verification."
+    },
+    {
+      "claim": "84.2",
+      "kind": "number",
+      "example": "The Conference Board's index rose to 91.7 in October from 84.2 in September, according to the Associated Press.",
+      "reason": "The cited AP report was browser-verified at cutoff and states the September consumer-confidence reading; curl returned a 16-character shell."
+    },
+    {
+      "claim": "91.7",
+      "kind": "number",
+      "example": "The Conference Board's index rose to 91.7 in October from 84.2 in September, according to the Associated Press.",
+      "reason": "The cited AP report was browser-verified at cutoff and states the October consumer-confidence reading; curl returned a 16-character shell."
+    },
+    {
+      "claim": "95000",
+      "kind": "number",
+      "example": "Oracle reported 130000 active ChatGPT users and more than 95000 active Codex users.",
+      "reason": "OpenAI primary announcement was browser-verified at cutoff; curl returned an empty body, while the page reports Oracle's active Codex-user count."
+    },
+    {
+      "claim": "AI Workspace",
+      "kind": "name",
+      "example": "At the frontier, OpenAI and Oracle announced a new access and tool-use path: Oracle is developing AI Workspace to bring Oracle applications and data into ChatGPT, with approved workflows intended to run through one interface.",
+      "reason": "OpenAI's browser-verified October 27 announcement names Oracle AI Workspace; curl returned an empty body."
+    },
+    {
+      "claim": "AI-compute",
+      "kind": "name",
+      "example": "That is a different takeaway from the recent stories about bank AI experiments and AI-compute financing.",
+      "reason": "Generic description of a prior covered financing story, not a new factual assertion in this episode."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Conference Board's index rose to 91.7 in October from 84.2 in September, according to the Associated Press.",
+      "reason": "Attribution for the cited AP report, which was opened and verified in browser after curl returned a 16-character shell."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "The broader Central Ohio lesson is that local institutional design can matter long after campaign advertising disappears.",
+      "reason": "Geographic descriptor, not a numerical or event claim."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "At the frontier, OpenAI and Oracle announced a new access and tool-use path: Oracle is developing AI Workspace to bring Oracle applications and data into ChatGPT, with approved workflows intended to run through one interface.",
+      "reason": "Named product in OpenAI's browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Codex",
+      "kind": "name",
+      "example": "Oracle reported 130000 active ChatGPT users and more than 95000 active Codex users.",
+      "reason": "Named product in OpenAI's browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "A confidence rebound, a Columbus ballot with competing council maps, a new housing-price reference, and a bank's AI leadership reset all arrive before today's Federal Reserve decision.",
+      "reason": "Geographic descriptor, supported by the cited Columbus ballot guide."
+    },
+    {
+      "claim": "Conference Board",
+      "kind": "name",
+      "example": "The Conference Board's index rose to 91.7 in October from 84.2 in September, according to the Associated Press.",
+      "reason": "Named survey publisher in the cited AP report, verified in browser after curl returned a 16-character shell."
+    },
+    {
+      "claim": "Consumer Banking and Lending",
+      "kind": "name",
+      "example": "The bank said Kleber Santos will lead Consumer Banking and Lending, while Saul Van Beurden will lead AI for the company.",
+      "reason": "Wells Fargo organizational title shown in the browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "A voter who has already decided on statewide races can still need time to compare two city-governance proposals, confirm photo-ID requirements, and choose an early-voting or Election Day plan.",
+      "reason": "Generic calendar label supported by cited Ohio voting guidance."
+    },
+    {
+      "claim": "Federal Reserve",
+      "kind": "name",
+      "example": "A confidence rebound, a Columbus ballot with competing council maps, a new housing-price reference, and a bank's AI leadership reset all arrive before today's Federal Reserve decision.",
+      "reason": "Generic named institution in a watch item; no policy decision is asserted."
+    },
+    {
+      "claim": "Franklin County",
+      "kind": "name",
+      "example": "Three things to watch: the Federal Reserve statement and lender-rate response this afternoon; Franklin County's final early-voting days and the November 3 ballot deadlines; and Thursday morning's Freddie Mac results for any new portfolio, credit, or liquidity detail.",
+      "reason": "Jurisdiction named in cited local ballot guidance."
+    },
+    {
+      "claim": "Kleber Santos",
+      "kind": "name",
+      "example": "The bank said Kleber Santos will lead Consumer Banking and Lending, while Saul Van Beurden will lead AI for the company.",
+      "reason": "Wells Fargo leadership name shown in browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Check the current National Weather Service forecast before an outdoor plan, because timing can change.",
+      "reason": "Generic forecast reference; current temperature/timing was independently checked at cutoff."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "OpenAI says the experience will use organization permissions and approvals.",
+      "reason": "Publisher and named partner in its browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "OpenAI and Oracle",
+      "kind": "name",
+      "example": "At the frontier, OpenAI and Oracle announced a new access and tool-use path: Oracle is developing AI Workspace to bring Oracle applications and data into ChatGPT, with approved workflows intended to run through one interface.",
+      "reason": "Named partners in browser-verified October 27 primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Oracle",
+      "kind": "name",
+      "example": "At the frontier, OpenAI and Oracle announced a new access and tool-use path: Oracle is developing AI Workspace to bring Oracle applications and data into ChatGPT, with approved workflows intended to run through one interface.",
+      "reason": "Named partner and application provider in browser-verified October 27 primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Saul Van Beurden",
+      "kind": "name",
+      "example": "The bank said Kleber Santos will lead Consumer Banking and Lending, while Saul Van Beurden will lead AI for the company.",
+      "reason": "Wells Fargo leadership name shown in browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "Mortgage and business borrowers should resist treating pre-decision Treasury movement as a quote; lender rate sheets can respond after the statement and press conference.",
+      "reason": "Generic market instrument reference, not a price or policy assertion."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-28",
+  "cutoff": "2026-10-28T06:45:00-04:00",
+  "history_compared": [
+    "2026-10-21_morning-brief-script.md",
+    "2026-10-22_morning-brief-script.md",
+    "2026-10-23_morning-brief-script.md",
+    "2026-10-24_morning-brief-script.md",
+    "2026-10-25_morning-brief-script.md",
+    "2026-10-26_morning-brief-script.md",
+    "2026-10-27_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "consumer_confidence",
+      "beat": "national",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "decision": "selected",
+      "reason": "Fresh official survey release with a household and business consequence distinct from prior election and Fed coverage."
+    },
+    {
+      "id": "columbus_voter_guide",
+      "beat": "columbus",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "decision": "selected",
+      "reason": "Fresh local deadline and ballot-content reporting; avoids repeating the prior turnout-count takeaway."
+    },
+    {
+      "id": "fhfa_hpi",
+      "beat": "home_lending",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "decision": "selected",
+      "reason": "New federal house-price report refreshes valuation and pipeline monitoring without presenting it as a program rule."
+    },
+    {
+      "id": "wells_ai_leadership",
+      "beat": "bank_ai",
+      "event_date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "decision": "selected",
+      "reason": "Explicitly dated specialist implementation update within seven days; organization status move, not a performance claim."
+    },
+    {
+      "id": "oracle_openai_workspace",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "decision": "selected",
+      "reason": "Fresh agent/tool-use access shift with a primary source and a directly stated integration limitation."
+    },
+    {
+      "id": "freddie_results_date",
+      "beat": "home_lending",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "decision": "selected",
+      "reason": "Fresh earnings timetable gives a concrete next lending-economics watch without overstating a scheduled event."
+    },
+    {
+      "id": "anthropic_ipo",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-26",
+      "publication_date": "2026-10-26",
+      "decision": "rejected",
+      "reason": "Capital-markets event does not meet the frontier tracker qualifying bar."
+    },
+    {
+      "id": "ai_compute_financing",
+      "beat": "bank_ai",
+      "event_date": "2026-10-26",
+      "publication_date": "2026-10-26",
+      "decision": "rejected",
+      "reason": "Already covered October 27; no new factual development or different actionable takeaway."
+    }
+  ],
+  "stories": [
+    {
+      "id": "consumer_confidence",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28"
+      ],
+      "new_fact": "The Conference Board\u2019s consumer-confidence index rose to 91.7 in October from 84.2 in September.",
+      "new_takeaway": "The bounce is a timing signal for household sentiment, not evidence that affordability pressure has resolved.",
+      "why_now": "The October release was published October 27.",
+      "previous_coverage": "The seven compared scripts did not cover this release.",
+      "uncertainty": "The survey dates and a single-month improvement limit inference about sustained spending.",
+      "watch": "Persistence after election, inflation, and jobs data."
+    },
+    {
+      "id": "columbus_voter_guide",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio",
+        "https://www.ohiosos.gov/elections/voters/toolkit/early-voting/"
+      ],
+      "new_fact": "Axios summarized early-vote, absentee, Election Day, ID, and competing City Council charter-amendment information for Columbus and Franklin County voters.",
+      "new_takeaway": "The newly useful local task is ballot-content preparation and deadline planning rather than reading turnout as an outcome forecast.",
+      "why_now": "The guide was published October 27 in the final week before Election Day.",
+      "previous_coverage": "October 27 covered Franklin County\u2019s early in-person turnout threshold, not the two amendment designs.",
+      "uncertainty": "Reporting does not predict the result or substitute for official ballot language.",
+      "watch": "County deadline guidance and official ballot materials."
+    },
+    {
+      "id": "fhfa_hpi",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "https://www.fhfa.gov/reports"
+      ],
+      "new_fact": "FHFA listed a new U.S. House Price Index report on October 27.",
+      "new_takeaway": "The release refreshes broad valuation and pipeline monitoring but does not alter individual eligibility, appraisal, or cancellation rules.",
+      "why_now": "The report was newly posted on October 27.",
+      "previous_coverage": "October 27 previewed the release; this edition uses the newly posted report as a workflow reference without recycling a prior price claim.",
+      "uncertainty": "The report listing alone does not establish a property-level or Central Ohio valuation conclusion.",
+      "watch": "Regional detail and comparison with locally admissible valuation evidence."
+    },
+    {
+      "id": "wells_ai_leadership",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "event_date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "sources": [
+        "https://www.wellsfargo.com/about/corporate-responsibility/",
+        "https://marketchameleon.com/Overview/WFC/PressReleases/"
+      ],
+      "new_fact": "Wells Fargo announced Kleber Santos would lead Consumer Banking and Lending and Saul Van Beurden would lead AI for the company.",
+      "new_takeaway": "A public accountability move changes ownership visibility but is not proof of production AI performance.",
+      "why_now": "The dated announcement is within seven days and materially affects how a large bank may assign AI delivery accountability.",
+      "previous_coverage": "The last seven scripts did not cover this Wells Fargo leadership status move.",
+      "uncertainty": "No named workflow, baseline, customer outcome, deployment volume, or error metric was disclosed.",
+      "watch": "Earnings remarks, named deployments, and task-level outcome disclosures.",
+      "date_exception": "Quiet-day specialist update: October 22 organizational status move remains operationally relevant and is explicitly labeled dated_update; it does not count toward fresh-story minimum.",
+      "ledger_row_changed": "Wells Fargo, lane 7: added announced enterprise-AI ownership row; company disclosure, no deployment result disclosed."
+    },
+    {
+      "id": "oracle_openai_workspace",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "https://openai.com/index/oracle-apps-in-chatgpt/"
+      ],
+      "new_fact": "OpenAI and Oracle announced development of Oracle AI Workspace to connect Oracle applications and data with ChatGPT under organization permissions and approvals.",
+      "new_takeaway": "The agent/tool-use shift is valuable first in constrained internal workflows; partner-reported user counts do not establish reliable regulated outcomes.",
+      "why_now": "The primary announcement is dated October 27.",
+      "previous_coverage": "The seven compared episodes did not cover this Oracle application integration.",
+      "uncertainty": "The partners did not disclose failure rates, financial-close reliability, access-control testing results, or correction rates.",
+      "watch": "Availability, access-control evidence, and independent task-level testing.",
+      "frontier_bar": "agent and tool-use advances; price/access shift"
+    },
+    {
+      "id": "freddie_results_date",
+      "beat": "markets",
+      "classification": "fresh",
+      "event_date": "2026-10-27",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "https://www.freddiemac.com/media-room"
+      ],
+      "new_fact": "Freddie Mac said it plans to report third-quarter 2026 results before markets open October 29, with a 9 a.m. webcast.",
+      "new_takeaway": "A timetable is a concrete monitoring point, not a result or a policy change.",
+      "why_now": "The release date was announced October 27.",
+      "previous_coverage": "No compared script used this timetable.",
+      "uncertainty": "No earnings, portfolio, credit, or liquidity outcome is known until the release.",
+      "watch": "Thursday\u2019s results and management commentary."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "4f2a0e8fb331017c19699382dbec23ac3eec1ec0bdb002badde6d175310466a6",
+    "notes": "Four fresh developments are consumer confidence, Columbus ballot guidance, the newly posted FHFA HPI report, OpenAI/Oracle workflow integration, and the Freddie Mac reporting timetable. The Wells Fargo banking-AI status move is explicitly a dated_update and does not count toward four fresh items. Compared both facts and takeaways against October 21\u201327; no full segment repeats a prior conclusion. Home lending is an evidence-refresh workflow, not a rate recap or AI segment. Frontier claims are explicitly partner-reported where applicable. Final structural review: target word count, cohost share, chapters, questions, lending specificity, AI evidence labels, source limits, and three closing watch items checked."
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "October 28th",
+      "reason": "Episode date and greeting; not a sourced news assertion."
+    },
+    {
+      "claim": "National Economy",
+      "reason": "Chapter label, not a factual claim."
+    },
+    {
+      "claim": "Columbus Ballot",
+      "reason": "Chapter label, not a factual claim."
+    },
+    {
+      "claim": "Home Lending",
+      "reason": "Chapter label, not a factual claim."
+    },
+    {
+      "claim": "AI in Banking",
+      "reason": "Chapter label, not a factual claim."
+    },
+    {
+      "claim": "Frontier AI",
+      "reason": "Chapter label, not a factual claim."
+    },
+    {
+      "claim": "Columbus Weather",
+      "reason": "Chapter label; weather was checked against current forecast at cutoff."
+    },
+    {
+      "claim": "Federal Reserve",
+      "reason": "Generic named institution in a watch item; no policy decision is asserted."
+    },
+    {
+      "claim": "National Weather Service",
+      "reason": "Generic forecast reference; current temperature/timing was independently checked at cutoff."
+    },
+    {
+      "claim": "130000",
+      "reason": "OpenAI primary announcement was browser-verified at cutoff; curl returned an empty body, while the page reports Oracle's active ChatGPT-user count."
+    },
+    {
+      "claim": "95000",
+      "reason": "OpenAI primary announcement was browser-verified at cutoff; curl returned an empty body, while the page reports Oracle's active Codex-user count."
+    },
+    {
+      "claim": "21",
+      "reason": "The cited AP report says the consumer survey was collected October 1–21; AP returned a 16-character shell to curl after browser verification."
+    },
+    {
+      "claim": "84.2",
+      "reason": "The cited AP report was browser-verified at cutoff and states the September consumer-confidence reading; curl returned a 16-character shell."
+    },
+    {
+      "claim": "91.7",
+      "reason": "The cited AP report was browser-verified at cutoff and states the October consumer-confidence reading; curl returned a 16-character shell."
+    },
+    {
+      "claim": "AI Workspace",
+      "reason": "OpenAI's browser-verified October 27 announcement names Oracle AI Workspace; curl returned an empty body."
+    },
+    {
+      "claim": "AI-compute",
+      "reason": "Generic description of a prior covered financing story, not a new factual assertion in this episode."
+    },
+    {
+      "claim": "Associated Press",
+      "reason": "Attribution for the cited AP report, which was opened and verified in browser after curl returned a 16-character shell."
+    },
+    {
+      "claim": "Central Ohio",
+      "reason": "Geographic descriptor, not a numerical or event claim."
+    },
+    {
+      "claim": "ChatGPT",
+      "reason": "Named product in OpenAI's browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Codex",
+      "reason": "Named product in OpenAI's browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Columbus",
+      "reason": "Geographic descriptor, supported by the cited Columbus ballot guide."
+    },
+    {
+      "claim": "Conference Board",
+      "reason": "Named survey publisher in the cited AP report, verified in browser after curl returned a 16-character shell."
+    },
+    {
+      "claim": "Consumer Banking and Lending",
+      "reason": "Wells Fargo organizational title shown in the browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "Election Day",
+      "reason": "Generic calendar label supported by cited Ohio voting guidance."
+    },
+    {
+      "claim": "Franklin County",
+      "reason": "Jurisdiction named in cited local ballot guidance."
+    },
+    {
+      "claim": "Kleber Santos",
+      "reason": "Wells Fargo leadership name shown in browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "OpenAI",
+      "reason": "Publisher and named partner in its browser-verified primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "OpenAI and Oracle",
+      "reason": "Named partners in browser-verified October 27 primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Oracle",
+      "reason": "Named partner and application provider in browser-verified October 27 primary announcement; curl returned an empty body."
+    },
+    {
+      "claim": "Saul Van Beurden",
+      "reason": "Wells Fargo leadership name shown in browser-verified press-release listing; direct page response was a bot challenge."
+    },
+    {
+      "claim": "Treasury",
+      "reason": "Generic market instrument reference, not a price or policy assertion."
+    },
+    {
+      "claim": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28",
+      "reason": "AP returned a 16-character automated shell to curl; the full report was opened and checked in browser at the research cutoff."
+    },
+    {
+      "claim": "https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio",
+      "reason": "Axios returned a 16-character automated shell to curl; the full local guide was opened and checked in browser at the research cutoff."
+    },
+    {
+      "claim": "https://marketchameleon.com/Overview/WFC/PressReleases/",
+      "reason": "The listing served an access-denied response to curl; its October 22 headline was opened and checked in browser, and the script labels the disclosure as an organizational status move rather than a deployment result."
+    },
+    {
+      "claim": "https://openai.com/index/oracle-apps-in-chatgpt/",
+      "reason": "OpenAI's primary announcement was opened and checked in browser at cutoff; curl returned an empty response."
+    }
+  ]
+}
