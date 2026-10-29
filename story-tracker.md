@@ -1,30 +1,30 @@
-# Story Tracker — updated 2026-10-28
+# Story Tracker — updated 2026-10-29
 
 Only active stories likely to move within five days.
 
 ## Federal Reserve October decision
-- Last verified development: The policy decision, statement, and press conference are due October 28.
-- Last takeaway: Treat pre-decision market movement as conditional; the statement and explanation can change lender-rate expectations even without a surprise policy action.
-- Source: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
-- Revisit trigger: Statement, vote, chair remarks, Treasury reaction, and lender-rate sheets.
+- Last verified development: October 28 statement held the federal-funds target at 3.75–4 percent, 10–2; Cook and Hammack preferred a quarter-point rise.
+- Last takeaway: The hold preserves the current policy setting while the dissent makes the next inflation and employment data more decision-relevant.
+- Source: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+- Revisit trigger: Post-decision market reaction, next inflation/employment readings, or December materials.
 
-## Columbus council charter amendments
-- Last verified development: October 27 Axios summarized Issue 8 and Issue 9, competing amendments that would change how City Council seats are elected.
-- Last takeaway: The immediate local need is ballot-content and deadline preparation, not a turnout forecast.
-- Source: https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio
-- Revisit trigger: Official ballot guidance, early-voting-hours change, Election Day, or certified result.
+## Columbus Public Safety Week
+- Last verified development: The city lists a Southside Trunk or Treat October 29 and a Marion Franklin cleanup October 31.
+- Last takeaway: Use the scheduled events as resident contact points, not as evidence of safety outcomes.
+- Source: https://www.columbus.gov/Government/City-Council/Programs-Initiatives/Public-Safety-Week?lang_update=639178055576765046
+- Revisit trigger: Participation data, city follow-up, or Saturday cleanup updates.
 
-## FHFA house-price report
-- Last verified development: FHFA listed a new U.S. House Price Index report on October 27.
-- Last takeaway: It refreshes broad valuation and pipeline monitoring, not property-level underwriting or eligibility.
-- Source: https://www.fhfa.gov/reports
-- Revisit trigger: Regional detail, local comparison, or enterprise valuation-policy action.
+## Freddie Mac distressed-loan sale and data release
+- Last verified development: October 28 releases announced auction sale of 25 delinquent loans and additional MBS history on the Freddie Score.
+- Last takeaway: Separate servicing-transfer handling from new analytic inputs; neither changes broad underwriting rules.
+- Source: https://www.freddiemac.com/media-room
+- Revisit trigger: Transfer detail, servicing requirements, field documentation, or third-quarter results.
 
-## Wells Fargo AI accountability
-- Last verified development: October 22 Wells Fargo said Saul Van Beurden will lead AI for the company while Kleber Santos leads Consumer Banking and Lending.
-- Last takeaway: This is a public ownership signal, not a verified AI workflow outcome.
-- Source: https://marketchameleon.com/Overview/WFC/PressReleases/
-- Revisit trigger: Named deployment, outcome metric, earnings detail, or specific control disclosure.
+## Anthropic GSA access agreement
+- Last verified development: Anthropic announced October 27 a GSA agreement and stated 40 percent discount on specified government offerings.
+- Last takeaway: This is a price/access and vendor-comparison change, not proof of a regulated production workflow.
+- Source: https://www.anthropic.com/news
+- Revisit trigger: Deployable terms, named agency workflow, task results, or independent evaluation.
 
 ## Oracle applications in ChatGPT
 - Last verified development: OpenAI and Oracle announced October 27 that Oracle AI Workspace is being developed to connect Oracle applications and data with ChatGPT.

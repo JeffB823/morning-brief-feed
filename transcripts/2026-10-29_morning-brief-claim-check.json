@@ -1,0 +1,121 @@
+{
+  "script": "2026-10-29_morning-brief-script.md",
+  "script_sha256": "023e1131e211a73a34d4c2ee6bb524efd6ae51c1815d9a7767ef50a11358d643",
+  "checked_at": "2026-10-29T01:43:52-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "characters": 9807
+    },
+    {
+      "url": "https://www.freddiemac.com/media-room",
+      "characters": 6227
+    },
+    {
+      "url": "https://capitalmarkets.freddiemac.com/mbs/product-announcements",
+      "characters": 26459
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "characters": 15524
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://www.columbus.gov/Government/City-Council/Programs-Initiatives/Public-Safety-Week?lang_update=639178055576765046",
+      "error": "page body was only 274 characters",
+      "reason": "The City page was opened in search results during this run and supplied the dated schedule, but curl returned a short page body."
+    }
+  ],
+  "claims_checked": 30,
+  "claims_supported": 16,
+  "claims_excepted": [
+    {
+      "claim": "AI-access",
+      "kind": "name",
+      "example": "We'll also separate a new government AI-access agreement from evidence that a bank workflow actually works.",
+      "reason": "Generic hyphenated description of the cited access agreement; the parser retains the compound as a name."
+    },
+    {
+      "claim": "City Council Public Safety Week",
+      "kind": "name",
+      "example": "City Council's Public Safety Week has a Southside Trunk or Treat scheduled tonight from five to eight at Family Missionary Baptist Church on Oakwood Avenue.",
+      "reason": "The cited City page is the official schedule, but its direct fetch was too short for the checker."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "The Federal Reserve held rates but revealed two votes for a hike, Freddie Mac made a small distressed-loan sale and widened a data record, and Columbus has a practical Southside event tonight.",
+      "reason": "Local place name used in show context, not a separate factual assertion."
+    },
+    {
+      "claim": "Family Missionary Baptist Church",
+      "kind": "name",
+      "example": "City Council's Public Safety Week has a Southside Trunk or Treat scheduled tonight from five to eight at Family Missionary Baptist Church on Oakwood Avenue.",
+      "reason": "Venue appears on the browser-verified City schedule; direct fetch was too short."
+    },
+    {
+      "claim": "Fed December",
+      "kind": "name",
+      "example": "Three things to watch: Freddie Mac's third-quarter remarks this morning for new credit or liquidity detail; the next inflation and labor evidence that could alter the Fed's December debate; and Saturday's Southside community cleanup for any city update on Public Safety Week participation.",
+      "reason": "Parser-created phrase joining a generic Federal Reserve reference and the calendar month in a watch item."
+    },
+    {
+      "claim": "Federal Open Market Committee Wednesday",
+      "kind": "name",
+      "example": "The biggest national development is the Federal Open Market Committee's Wednesday decision to keep its federal-funds target range at three and three-quarters to four percent.",
+      "reason": "Parser-created joined phrase; the primary Federal Reserve statement supports the decision and release date."
+    },
+    {
+      "claim": "Government and the API",
+      "kind": "name",
+      "example": "Anthropic's October twenty-seventh agreement with the General Services Administration gives government partners a stated forty-percent discount on Claude Enterprise, Claude for Government, and the API.",
+      "reason": "Parser-created joined phrase; Anthropic's cited announcement lists its government and API offerings."
+    },
+    {
+      "claim": "Marion Franklin Recreation Center",
+      "kind": "name",
+      "example": "Its next scheduled item is a community cleanup Saturday morning at Marion Franklin Recreation Center.",
+      "reason": "Venue appears on the browser-verified City schedule; direct fetch was too short."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Keep it practical: use the current National Weather Service forecast before an early commute or tonight's outdoor Trunk or Treat.",
+      "reason": "Generic reference directing listeners to the current official forecast; no weather fact is asserted."
+    },
+    {
+      "claim": "Oakwood Avenue",
+      "kind": "name",
+      "example": "City Council's Public Safety Week has a Southside Trunk or Treat scheduled tonight from five to eight at Family Missionary Baptist Church on Oakwood Avenue.",
+      "reason": "Venue address appears on the browser-verified City schedule; direct fetch was too short."
+    },
+    {
+      "claim": "Public Safety Week",
+      "kind": "name",
+      "example": "Three things to watch: Freddie Mac's third-quarter remarks this morning for new credit or liquidity detail; the next inflation and labor evidence that could alter the Fed's December debate; and Saturday's Southside community cleanup for any city update on Public Safety Week participation.",
+      "reason": "Official program title on the cited City schedule; direct fetch was too short."
+    },
+    {
+      "claim": "Southside",
+      "kind": "name",
+      "example": "The Federal Reserve held rates but revealed two votes for a hike, Freddie Mac made a small distressed-loan sale and widened a data record, and Columbus has a practical Southside event tonight.",
+      "reason": "Geographic description from the browser-verified City schedule; direct fetch was too short."
+    },
+    {
+      "claim": "Southside Trunk",
+      "kind": "name",
+      "example": "City Council's Public Safety Week has a Southside Trunk or Treat scheduled tonight from five to eight at Family Missionary Baptist Church on Oakwood Avenue.",
+      "reason": "Parser-created fragment of the event title on the browser-verified City schedule."
+    },
+    {
+      "claim": "Trunk",
+      "kind": "name",
+      "example": "Keep it practical: use the current National Weather Service forecast before an early commute or tonight's outdoor Trunk or Treat.",
+      "reason": "Parser-created fragment of the official event title, not a standalone claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
