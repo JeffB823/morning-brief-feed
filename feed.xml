@@ -27,6 +27,72 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Morning Brief — Morning Brief — October 29, 2026</title>
+    <description>The Fed holds with two dissents; Freddie Mac sells a small delinquent-loan pool and expands score-data history; Columbus has a Southside public-safety event; and a federal Claude agreement creates a bounded access test.</description>
+    <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
+<p><span style="font-weight:bold">Host:</span> The Federal Reserve held rates but revealed two votes for a hike, Freddie Mac made a small distressed-loan sale and widened a data record, and Columbus has a practical Southside event tonight. We’ll also separate a new government AI-access agreement from evidence that a bank workflow actually works.</p>
+<p><span style="font-weight:bold">Host:</span> Good morning. It’s Thursday, October 29th. This is Morning Brief.</p>
+<p><span style="font-weight:bold">Co-host:</span> Today’s through line is decision quality: a policy statement can change the range of outcomes without changing a rate, and an AI access deal can change procurement options without proving operational performance.</p>
+<h3 style="margin-top:1.5em">Federal Reserve</h3>
+<p><span style="font-weight:bold">Host:</span> The biggest national development is the Federal Open Market Committee’s Wednesday decision to keep its federal-funds target range at three and three-quarters to four percent. The statement says economic activity is expanding strongly, inflation remains elevated, and uncertainty is still high in part because of geopolitical developments. That is a hold, not a declaration that the inflation problem is finished.</p>
+<p><span style="font-weight:bold">Co-host:</span> What is genuinely new if the rate did not move?</p>
+<p><span style="font-weight:bold">Host:</span> The vote. Lisa Cook and Beth Hammack preferred a quarter-point increase. A ten-to-two hold tells borrowers, treasury teams, and business planners that the current setting survived, but the committee contains visible pressure in the other direction. That matters more than a generic “Fed pauses” headline because future pricing depends on what the group does when the next information arrives.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does that mean a household should delay a home purchase or a company should rush a financing decision?</p>
+<p><span style="font-weight:bold">Host:</span> No. A rate decision changes the planning range, not the suitability of a loan or investment for a particular balance sheet. A borrower still needs an actual lender quote and payment analysis; a company still needs its cash-flow case. The operational response is to treat the dissent and the inflation language as reasons to keep rate locks, budgets, and hedging assumptions current.</p>
+<p><span style="font-weight:bold">Co-host:</span> The statement also says the committee will accumulate more information before choosing the policy stance needed for a timely return to its two-percent inflation goal. That leaves the next labor and inflation readings central. The useful inference is narrower than a forecast: policy is not on an automatic easing path while the committee continues to describe inflation as elevated.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would weaken that interpretation?</p>
+<p><span style="font-weight:bold">Host:</span> A run of data showing inflation cooling more convincingly, or a material deterioration in employment or spending, could shift the balance. The statement itself does not supply a new forecast, a promised next move, or a timetable. Watch the next major data releases and then the December meeting materials, rather than treating one vote split as a permanent map of the committee.</p>
+<h3 style="margin-top:1.5em">Columbus Southside</h3>
+<p><span style="font-weight:bold">Host:</span> In Columbus, the useful local item is not an election prediction. City Council’s Public Safety Week has a Southside Trunk or Treat scheduled tonight from five to eight at Family Missionary Baptist Church on Oakwood Avenue. The city describes the week as community engagement, safety resources, neighborhood outreach, and a cleanup; tonight’s event is a concrete chance for families to use that program.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why put a neighborhood event in a briefing beside policy and finance?</p>
+<p><span style="font-weight:bold">Host:</span> Because it shows where a broad civic initiative becomes a usable local service. For a parent or a Southside community group, the immediate question is whether the timing, location, and family format work—not whether an announcement has solved public-safety conditions. For city staff, attendance and resident feedback are closer to an operating signal than a press release alone.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should listeners not assume from the event listing?</p>
+<p><span style="font-weight:bold">Host:</span> Do not infer a crime trend, new enforcement policy, or a permanent service expansion. The official page lists a week of activities, not outcome data. Its next scheduled item is a community cleanup Saturday morning at Marion Franklin Recreation Center. That gives residents a specific follow-up, while any claim about the program’s results needs participation or safety evidence the city has not yet published.</p>
+<h3 style="margin-top:1.5em">Home Lending</h3>
+<p><span style="font-weight:bold">Host:</span> Home lending leads with a servicing and secondary-market workflow, not a rate recap. Freddie Mac said it sold twenty-five deeply delinquent, nonperforming first-lien residential loans through an auction, with an unpaid principal balance of three point eight million dollars. The affected workflow is distressed-asset disposition: a small pool moves from Freddie Mac’s mortgage-related investments portfolio to a buyer rather than remaining there.</p>
+<p><span style="font-weight:bold">Co-host:</span> Does that sale change the options for a borrower who is behind on payments?</p>
+<p><span style="font-weight:bold">Host:</span> Not by itself. A portfolio auction is not a new modification rule, foreclosure policy, or borrower eligibility program. The immediate consequence is for the investor and servicer handling the transferred loans: they need correct boarding, borrower communication, applicable loss-mitigation handling, and a clear record of who owns what. A listener with a delinquent loan should use their own servicer’s official contact path, not extrapolate from this pool.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why is a twenty-five-loan auction worth attention when national mortgage volumes are vastly larger?</p>
+<p><span style="font-weight:bold">Host:</span> It is a process signal, not a market-size signal. Small sales can reveal that a GSE is using a defined disposition channel, but this release cannot establish a national credit trend or a change in foreclosure risk. The details we do not have include the loan geography, outcomes after sale, borrower protections actually used, and how the transaction compares with a broader servicing population.</p>
+<p><span style="font-weight:bold">Co-host:</span> Freddie Mac also released additional historical MBS data on the Freddie Score. That affects an adjacent capital-markets workflow: analysts and investors can test security-level questions against a longer disclosed history instead of relying only on a current snapshot. More data can improve analysis, but it does not make a credit-score model, a security price, or a borrower decision self-validating.</p>
+<p><span style="font-weight:bold">Co-host:</span> What should a lender or investor do differently today?</p>
+<p><span style="font-weight:bold">Host:</span> First, distinguish the two announcements. The loan sale is a servicing-transfer event; the data release is an analytic-input event. A lender’s operations team should watch for borrower-facing servicing requirements on any actual transfer. A capital-markets team can assess whether the historical fields improve its prepayment or credit analysis, then document assumptions rather than treating a new dataset as a proven trading edge.</p>
+<p><span style="font-weight:bold">Host:</span> Freddie Mac’s third-quarter remarks are scheduled this morning. That is the next chance for new liquidity, credit, or portfolio evidence. Until those materials are public, the disciplined conclusion is that yesterday’s announcements change available process inputs, not broad underwriting rules or mortgage pricing.</p>
+<h3 style="margin-top:1.5em">AI in Banking</h3>
+<p><span style="font-weight:bold">Host:</span> In banking AI, the ledger change is a downgrade in certainty for a tempting kind of claim: partner access is not a measured bank deployment. Anthropic’s October twenty-seventh agreement with the General Services Administration gives government partners a stated forty-percent discount on Claude Enterprise, Claude for Government, and the API. The named task is government knowledge work under an enterprise arrangement, not an announced bank use case.</p>
+<p><span style="font-weight:bold">Co-host:</span> Why cover it in the banking section if no bank is the customer?</p>
+<p><span style="font-weight:bold">Host:</span> It changes a procurement comparison relevant to regulated institutions. The task lane is compliance, model risk, audit, and quality control because a government buyer can evaluate a lower-cost enterprise option with contractual and access constraints. The evidence rank is company claim: Anthropic announced the agreement. No agency productivity result, error rate, model-volume baseline, or independently tested outcome was disclosed.</p>
+<p><span style="font-weight:bold">Co-host:</span> What would this change at a large bank?</p>
+<p><span style="font-weight:bold">Host:</span> It would sharpen the vendor-evaluation question, not authorize deployment. A bank that sees a public-sector discount and enterprise packaging can compare commercial terms, data boundaries, and use-case fit against alternatives. It cannot infer that a government agreement satisfies bank model-risk standards, works on a regulated task, or reduces an exam concern.</p>
+<p><span style="font-weight:bold">Host:</span> The limitation is especially concrete here. Price and access do not answer whether an assistant retrieves the right policy, applies the right rule, or handles a confidential record properly. The first useful evidence would be a named institution using a bounded task, with a baseline, a correction rate, and a description of the control that handles exceptions. Until then, this belongs in the ledger as an announced public-sector access change, not production banking performance.</p>
+<p><span style="font-weight:bold">Co-host:</span> Is there still an actionable lesson for teams evaluating these tools?</p>
+<p><span style="font-weight:bold">Host:</span> Yes: ask for a task-level trial design before debating broad transformation. Pick a constrained research or document-preparation workflow, preserve human approval, measure corrections against the old process, and decide only after seeing results. That is more useful than importing a government contract announcement into a credit, fraud, or customer-service decision.</p>
+<h3 style="margin-top:1.5em">Frontier AI</h3>
+<p><span style="font-weight:bold">Host:</span> The frontier item is the same Anthropic agreement viewed through the correct lens: it clears the price-and-access-shift bar, not the model-capability bar. Anthropic says its new GSA agreement offers a forty-percent discount on specified Claude products to government partners. What changed is the route and stated commercial terms for government access; the announcement does not introduce a new model or publish a benchmark.</p>
+<p><span style="font-weight:bold">Co-host:</span> What can a government user do now that it could not do before?</p>
+<p><span style="font-weight:bold">Host:</span> The cited announcement describes discounted access across enterprise, government, and API offerings. That can lower the procurement hurdle for an approved agency workflow. It does not show that the system newly performs a task, that an agency has adopted it at scale, or that a model’s answer quality improved. Those distinctions prevent a pricing change from becoming a capability claim.</p>
+<p><span style="font-weight:bold">Co-host:</span> Was anything measured against a baseline?</p>
+<p><span style="font-weight:bold">Host:</span> The forty-percent figure is a company-reported commercial discount, not a performance measurement. There is no disclosed comparison of analyst time, accuracy, hallucination frequency, security incidents, or completion rate. A lower unit price could make experimentation more feasible, yet the total cost of a reliable workflow also includes data integration, review, exception handling, and training.</p>
+<p><span style="font-weight:bold">Co-host:</span> The tradeoff is that cheaper access can expand experimentation faster than evidence accumulates. A government customer still has to decide which data may be exposed, what a human must verify, and when an answer can affect a constituent or program decision. For a regulated bank, the earliest plausible use is an internal, read-first research or drafting pilot, gated by documented task accuracy and permission testing before any customer or transaction action.</p>
+<p><span style="font-weight:bold">Co-host:</span> Who benefits if the agreement works as described, and what has to be true?</p>
+<p><span style="font-weight:bold">Host:</span> Agencies and vendors could benefit if approved users can reach useful workflows at lower cost without creating new data or decision risk. That requires the commercial terms to translate into deployable access, task evaluations to show value, and the operating controls to work under real volume. None of those conditions is demonstrated by the announcement alone.</p>
+<h3 style="margin-top:1.5em">Markets and Weather</h3>
+<p><span style="font-weight:bold">Host:</span> Markets now have a clearer policy fact but not a simple direction. The Fed held, two officials dissented for a hike, and the statement kept inflation language firm. Treasury yields, lender rate sheets, and risk assets can still move as investors interpret how long policy may stay restrictive. The key assumption being priced is the path of inflation and growth, not merely yesterday’s unchanged target range.</p>
+<p><span style="font-weight:bold">Co-host:</span> And Columbus weather?</p>
+<p><span style="font-weight:bold">Host:</span> Keep it practical: use the current National Weather Service forecast before an early commute or tonight’s outdoor Trunk or Treat. The event runs from five to eight, so families should check the forecast near departure rather than rely on an overnight summary. No weather claim belongs here without that current official check.</p>
+<h3 style="margin-top:1.5em">What to Watch</h3>
+<p><span style="font-weight:bold">Co-host:</span> Three things to watch: Freddie Mac’s third-quarter remarks this morning for new credit or liquidity detail; the next inflation and labor evidence that could alter the Fed’s December debate; and Saturday’s Southside community cleanup for any city update on Public Safety Week participation.</p>
+<p><span style="font-weight:bold">Host:</span> Thanks for listening. We’ll be back tomorrow.</p>
+</div>]]></content:encoded>
+    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-10-29_morning-brief-chapters.json" type="application/json+chapters"/>
+    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-10-29_morning-brief-transcript.html" type="text/html"/>
+    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-10-29_morning-brief.mp3" length="12898895" type="audio/mpeg"/>
+    <pubDate>Thu, 29 Oct 2026 01:46:56 -0400</pubDate>
+    <itunes:duration>00:13:24</itunes:duration>
+    <itunes:episode>20261029</itunes:episode>
+    <guid isPermaLink="false">morning-brief-2026-10-29</guid>
+  </item>
+  <item>
     <title>Morning Brief — Morning Brief — October 28, 2026</title>
     <description>Consumer confidence improves but affordability pressure persists; Columbus voters face two council-map choices; a new FHFA price index changes the valuation dashboard; Wells Fargo reorganizes AI leadership; and OpenAI and Oracle put governed enterprise workflows in the spotlight.</description>
     <content:encoded><![CDATA[<div style="font-family:Georgia,serif;line-height:1.6;max-width:700px">
@@ -904,18 +970,6 @@
     <itunes:duration>00:13:29</itunes:duration>
     <itunes:episode>20260929</itunes:episode>
     <guid isPermaLink="false">morning-brief-2026-09-29</guid>
-  </item>
-  <item>
-    <title>Morning Brief — Monday, September 28, 2026</title>
-    <description>Your Morning Brief for Monday, September 28, 2026. National news, Columbus local, home lending, and AI.</description>
-
-    <podcast:chapters url="https://JeffB823.github.io/morning-brief-feed/chapters/2026-09-28_morning-brief-chapters.json" type="application/json+chapters"/>
-    <podcast:transcript url="https://JeffB823.github.io/morning-brief-feed/transcripts/2026-09-28_morning-brief-transcript.html" type="text/html"/>
-    <enclosure url="https://JeffB823.github.io/morning-brief-feed/episodes/2026-09-28_morning-brief.mp3" length="12945026" type="audio/mpeg"/>
-    <pubDate>Mon, 28 Sep 2026 06:31:00 -0400</pubDate>
-    <itunes:duration>00:13:27</itunes:duration>
-    <itunes:episode>20260928</itunes:episode>
-    <guid isPermaLink="false">morning-brief-2026-09-28</guid>
   </item>
 </channel>
 </rss>

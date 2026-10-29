@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 42.075
+    },
+    {
+      "title": "Federal Reserve",
+      "start": 42.075,
+      "end": 177.85
+    },
+    {
+      "title": "Columbus Southside",
+      "start": 177.85,
+      "end": 264.9
+    },
+    {
+      "title": "Home Lending",
+      "start": 264.9,
+      "end": 439.225
+    },
+    {
+      "title": "AI in Banking",
+      "start": 439.225,
+      "end": 587.475
+    },
+    {
+      "title": "Frontier AI",
+      "start": 587.475,
+      "end": 731.825
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 731.825,
+      "end": 783.325
+    },
+    {
+      "title": "What to Watch",
+      "start": 783.325,
+      "end": 804.475
+    }
+  ]
+}
