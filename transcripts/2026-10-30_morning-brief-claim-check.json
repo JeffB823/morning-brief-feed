@@ -1,0 +1,153 @@
+{
+  "script": "2026-10-30_morning-brief-script.md",
+  "script_sha256": "6a1e39a3b97bbd83be6c5a67aca73a3cdca4151732ba3180ffe68021b5ea9ae3",
+  "checked_at": "2026-10-30T06:24:54-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.napier.ai/post/world-check-on-demand-payment-screening",
+      "characters": 12698
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-luna-october-28-2026-addendum/respecting-warnings",
+      "characters": 20877
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-20714065e59fe13db0e53c711a3ca390",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s article was opened and read in the browser during this run, including the subpoena dates, requested records, November 4 appearance, and Homeland Security Investigations letter; the claim checker\u2019s curl request returned a 16-character shell."
+    },
+    {
+      "url": "https://apnews.com/article/8f9ab7443eee801608c8058e4a77e862",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s Wendy\u2019s report was opened through search during this run and supplied the company, Dublin location, offer, valuation, and committee facts; the checker\u2019s curl request returned a 16-character shell."
+    },
+    {
+      "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-sells-38-million-non-performing-loans",
+      "error": "page body was only 300 characters",
+      "reason": "The Freddie Mac primary release was opened in the browser during this run and supplied the loan count, balance, servicer, settlement timing, Texas concentration, delinquency, and loss-mitigation obligations; curl received only a short site shell."
+    }
+  ],
+  "claims_checked": 36,
+  "claims_supported": 17,
+  "claims_excepted": [
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reports that federal subpoenas sent October twenty-first and twenty-fourth require Los Angeles County election employees to appear in court on November fourth, the day after the election.",
+      "reason": "Attribution for the browser-verified AP reporting on the California subpoenas and Wendy\u2019s proposal."
+    },
+    {
+      "claim": "California",
+      "kind": "name",
+      "example": "The national development is a Justice Department escalation in California election oversight.",
+      "reason": "Geographic context in the browser-verified AP subpoena report."
+    },
+    {
+      "claim": "Central Ohio Wendy",
+      "kind": "name",
+      "example": "In Central Ohio, Wendy's confirmed it received an unsolicited proposal from a group led by Trian Fund Management to take the Dublin-based restaurant company private.",
+      "reason": "Parser-created phrase joining the show\u2019s regional label and Wendy\u2019s; underlying facts are browser-verified in AP reporting."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Why is that more than a stock-market story for Columbus?",
+      "reason": "Show-locality context, not a standalone factual assertion."
+    },
+    {
+      "claim": "Dublin",
+      "kind": "name",
+      "example": "Federal subpoenas have put local election offices under new pressure, Wendy's board in Dublin has a take-private offer to examine, and Freddie Mac has moved a small pool of delinquent loans toward a new owner.",
+      "reason": "Wendy\u2019s headquarters location in the browser-verified AP report."
+    },
+    {
+      "claim": "Dublin-based",
+      "kind": "name",
+      "example": "In Central Ohio, Wendy's confirmed it received an unsolicited proposal from a group led by Trian Fund Management to take the Dublin-based restaurant company private.",
+      "reason": "Parser variant of the browser-verified Wendy\u2019s Dublin headquarters description."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Federal subpoenas have put local election offices under new pressure, Wendy's board in Dublin has a take-private offer to examine, and Freddie Mac has moved a small pool of delinquent loans toward a new owner.",
+      "reason": "Primary Freddie Mac release was browser-verified; curl returned only a short shell."
+    },
+    {
+      "claim": "Freddie Mac December",
+      "kind": "name",
+      "example": "Three things to watch: November fourth court appearances connected to the Los Angeles County election subpoenas; Wendy's next filing or committee statement on the take-private proposal; and Freddie Mac's December settlement for the delinquent-loan sale.",
+      "reason": "Parser-created phrase combining the verified issuer name and its stated expected December settlement."
+    },
+    {
+      "claim": "Halloween",
+      "kind": "name",
+      "example": "It cools into the fifties in the evening, so a jacket makes sense for Halloween plans after sunset.",
+      "reason": "Calendar-context reference, not a factual assertion about an event or weather condition."
+    },
+    {
+      "claim": "Homeland Security Investigations",
+      "kind": "name",
+      "example": "We know the dates, the requested subject matter, and that the accompanying letter describes a Homeland Security Investigations criminal inquiry.",
+      "reason": "Named in the accompanying-letter description in the browser-verified AP subpoena report."
+    },
+    {
+      "claim": "Justice Department",
+      "kind": "name",
+      "example": "The national development is a Justice Department escalation in California election oversight.",
+      "reason": "Named actor in the browser-verified AP subpoena report."
+    },
+    {
+      "claim": "Los Angeles County",
+      "kind": "name",
+      "example": "The Associated Press reports that federal subpoenas sent October twenty-first and twenty-fourth require Los Angeles County election employees to appear in court on November fourth, the day after the election.",
+      "reason": "Named election jurisdiction in the browser-verified AP subpoena report."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "The National Weather Service hourly forecast calls for sunshine through the afternoon, a high near sixty-nine, light winds, and no precipitation in the daytime forecast.",
+      "reason": "The cited api.weather.gov hourly forecast was fetched at 03:51 Eastern and supports the weather facts."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "Why should an Ohio listener care about subpoenas issued in California?",
+      "reason": "Show audience geography, not a separate reported fact."
+    },
+    {
+      "claim": "Selene Finance",
+      "kind": "name",
+      "example": "The pool is serviced by Selene Finance and is expected to settle in December.",
+      "reason": "Named servicer in the browser-verified Freddie Mac primary release."
+    },
+    {
+      "claim": "Texas",
+      "kind": "name",
+      "example": "Do not assume this small Texas pool describes a national delinquency trend.",
+      "reason": "Geographic concentration stated in the browser-verified Freddie Mac primary release."
+    },
+    {
+      "claim": "Trian Fund Management",
+      "kind": "name",
+      "example": "In Central Ohio, Wendy's confirmed it received an unsolicited proposal from a group led by Trian Fund Management to take the Dublin-based restaurant company private.",
+      "reason": "Named offer leader in the browser-verified AP report."
+    },
+    {
+      "claim": "Wendy",
+      "kind": "name",
+      "example": "Federal subpoenas have put local election offices under new pressure, Wendy's board in Dublin has a take-private offer to examine, and Freddie Mac has moved a small pool of delinquent loans toward a new owner.",
+      "reason": "Parser stem of the Wendy\u2019s company name, supported by the browser-verified AP report."
+    },
+    {
+      "claim": "the November",
+      "kind": "name",
+      "example": "Watch the November fourth appearances and any court filing that states a concrete legal theory rather than another broad accusation.",
+      "reason": "Parser-created calendar fragment from the verified November 4 court appearance."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

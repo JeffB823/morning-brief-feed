@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-30",
+  "cutoff": "2026-10-30T04:10:00-04:00",
+  "history_compared": [
+    "2026-10-23_morning-brief-script.md",
+    "2026-10-24_morning-brief-script.md",
+    "2026-10-25_morning-brief-script.md",
+    "2026-10-26_morning-brief-script.md",
+    "2026-10-27_morning-brief-script.md",
+    "2026-10-28_morning-brief-script.md",
+    "2026-10-29_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "doj_california_subpoenas",
+      "beat": "national",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "decision": "selected",
+      "reason": "AP reports a new compulsory-records escalation with a dated post-election court appearance."
+    },
+    {
+      "id": "wendys_take_private",
+      "beat": "columbus",
+      "event_date": "2026-10-28",
+      "publication_date": "2026-10-28",
+      "decision": "selected",
+      "reason": "Fresh proposal directly affects a Dublin-based headquarters and has a defined board-review process."
+    },
+    {
+      "id": "freddie_npl_sale",
+      "beat": "home_lending",
+      "event_date": "2026-10-28",
+      "publication_date": "2026-10-28",
+      "decision": "selected",
+      "reason": "Primary release documents a named distressed-loan servicing transfer and borrower-protection terms."
+    },
+    {
+      "id": "freddie_weekly_rates",
+      "beat": "home_lending",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "decision": "selected_as_context",
+      "reason": "Fresh rate movement is kept compact; it does not lead the lending segment."
+    },
+    {
+      "id": "bank_of_ireland_ai",
+      "beat": "bank_ai",
+      "event_date": "2026-10-21",
+      "publication_date": "2026-10-21",
+      "decision": "selected",
+      "reason": "Explicitly dated specialist update with named production service tasks and limited bank-disclosed metrics."
+    },
+    {
+      "id": "gpt_6_luna_update",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "decision": "selected",
+      "reason": "Primary version-specific safety addendum supplies measured results and limitations."
+    },
+    {
+      "id": "napier_world_check",
+      "beat": "bank_ai",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "decision": "rejected",
+      "reason": "Vendor integration announcement names no deployed bank, baseline, or result."
+    },
+    {
+      "id": "anthropic_science_partnerships",
+      "beat": "frontier_ai",
+      "event_date": "2026-10-28",
+      "publication_date": "2026-10-28",
+      "decision": "rejected",
+      "reason": "Partnership expansion does not supply a new capability, evaluation, access change, failure, or binding lab policy."
+    },
+    {
+      "id": "columbus_weather",
+      "beat": "weather",
+      "classification": "routine",
+      "event_date": "2026-10-30",
+      "publication_date": "2026-10-30",
+      "sources": ["https://api.weather.gov/gridpoints/ILN/85,81/forecast/hourly"],
+      "new_fact": "The hourly National Weather Service forecast showed sun, a high near 69 degrees, light winds, and no daytime precipitation for Columbus.",
+      "new_takeaway": "A calm, cooling evening forecast supports a simple after-sunset clothing adjustment rather than a weather-risk segment.",
+      "why_now": "The official hourly forecast was rechecked at the episode cutoff.",
+      "previous_coverage": "Routine weather was not used as a substantive prior-episode story.",
+      "uncertainty": "Hourly conditions can change and listeners should check the current forecast before departure.",
+      "watch": "Any later official forecast update or advisory."
+    }
+  ],
+  "stories": [
+    {
+      "id": "doj_california_subpoenas",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "sources": [
+        "https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-20714065e59fe13db0e53c711a3ca390"
+      ],
+      "new_fact": "AP obtained three subpoenas sent October 21 and 24 requiring Los Angeles County election employees to appear November 4 and seeking election-record material.",
+      "new_takeaway": "A compulsory-records demand creates preservation and legal-response work but does not itself change a voter procedure or establish an election-law violation.",
+      "why_now": "The subpoenas and the reported court date became public October 29.",
+      "previous_coverage": "The prior seven episodes covered Ohio campaign and election-administration context, not this California federal-subpoena escalation.",
+      "uncertainty": "The public subpoenas do not establish the outcome of the investigation, a court ruling on scope, or a change in ballot handling.",
+      "watch": "November 4 appearances and any court filing that states the legal theory or limits scope."
+    },
+    {
+      "id": "wendys_take_private",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-10-28",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "https://apnews.com/article/8f9ab7443eee801608c8058e4a77e862"
+      ],
+      "new_fact": "Wendy\u2019s confirmed receipt of a nonbinding $7.35-per-share cash proposal, about $1.4 billion, and formed an independent committee to evaluate it.",
+      "new_takeaway": "For Central Ohio the operational fact is a board review at a Dublin headquarters, not a completed transaction or evidence of job, store, supplier, or price changes.",
+      "why_now": "The proposal and committee confirmation were reported October 28.",
+      "previous_coverage": "No Wendy\u2019s ownership proposal appeared in the seven scripts compared.",
+      "uncertainty": "The committee may reject, negotiate, or pursue another option; no completed transaction has been announced.",
+      "watch": "A company filing, committee communication, or quarterly result with a revised operating plan."
+    },
+    {
+      "id": "freddie_npl_sale",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-10-28",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-sells-38-million-non-performing-loans"
+      ],
+      "new_fact": "Freddie Mac auctioned 25 deeply delinquent first-lien residential loans with $3.8 million unpaid principal balance, serviced by Selene Finance, with December settlement expected.",
+      "new_takeaway": "A small pool sale is a servicing-transfer and borrower-communication workflow whose protection depends on carrying forward agreements and pending loss-mitigation actions, not a new national borrower-eligibility rule.",
+      "why_now": "Freddie Mac published the transaction October 28.",
+      "previous_coverage": "October 29 mentioned the auction and Freddie Score data; this script takes the distinct operational handoff and borrower-protection takeaway rather than repeating a market-size conclusion.",
+      "uncertainty": "The release does not establish national delinquency direction, post-sale borrower outcomes, or a change in loss-mitigation policy.",
+      "watch": "Expected December settlement and any later disclosure of servicing or borrower outcomes."
+    },
+    {
+      "id": "napier_lseg_payment_screening",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "sources": [
+        "https://www.napier.ai/post/world-check-on-demand-payment-screening"
+      ],
+      "new_fact": "Napier AI announced completed technology validation for integration of LSEG World-Check On Demand into its Transaction Screening product for risk-based payment screening.",
+      "new_takeaway": "A validated data integration is a vendor capability change, not evidence of a bank production outcome; alert quality, misses, and manual workload still require a local comparison.",
+      "why_now": "Napier published the integration announcement October 29.",
+      "previous_coverage": "The seven prior scripts covered bank service metrics, agent controls, and announced access changes, not this payment-screening integration.",
+      "uncertainty": "No named customer, deployment volume, alert baseline, false-positive rate, missed-match rate, payment-delay result, or independent test is disclosed.",
+      "watch": "Named financial-institution deployment or a before-and-after screening-quality result.",
+      "ledger_row_changed": "Napier AI / LSEG, lane 2: added a new announced payment-screening integration row; vendor claim, technology validation only, no bank production outcome disclosed."
+    },
+    {
+      "id": "gpt_6_luna_update",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-10-29",
+      "publication_date": "2026-10-29",
+      "sources": [
+        "https://deploymentsafety.openai.com/gpt-6-luna-october-28-2026-addendum/respecting-warnings"
+      ],
+      "new_fact": "OpenAI released GPT-6 Luna (October 29), reporting changed safety-evaluation results, including 99.91 percent instruction-hierarchy robustness and differing HealthBench results against the October 7 version.",
+      "new_takeaway": "Version-specific lab evaluations can improve in one safety dimension and move lower in another task, so an enterprise must test its own bounded workflow rather than use a single headline score.",
+      "why_now": "The safety addendum and version update are dated October 29.",
+      "previous_coverage": "The prior seven scripts discussed GPT-6.1 Terra, Decisions API, and other access changes, not this Luna version-specific safety evaluation.",
+      "uncertainty": "All quoted results are OpenAI-reported evaluations rather than independent replication or regulated-workflow evidence.",
+      "watch": "Independent replication or a version-specific task evaluation with error, citation, and correction measures.",
+      "frontier_bar": "safety or security finding"
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "6a1e39a3b97bbd83be6c5a67aca73a3cdca4151732ba3180ffe68021b5ea9ae3",
+    "notes": "Four genuine fresh developments are the October 29 DOJ-subpoena reporting, October 28 Wendy\u2019s proposal, October 28 Freddie delinquent-loan sale, and October 29 GPT-6 Luna safety update. Bank of Ireland is the one expressly labeled seven-day bank-AI dated update. The October 29 prior episode mentioned the Freddie sale; today uses a new, source-specific servicer-boarding and agreement-continuity takeaway rather than rerunning the prior capital-markets framing. Every full segment was checked for changed fact and takeaway against the seven scripts."
+  },
+  "claim_check_exceptions": [
+    {"claim":"https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-20714065e59fe13db0e53c711a3ca390","reason":"AP’s article was opened and read in the browser during this run, including the subpoena dates, requested records, November 4 appearance, and Homeland Security Investigations letter; the claim checker’s curl request returned a 16-character shell."},
+    {"claim":"https://apnews.com/article/8f9ab7443eee801608c8058e4a77e862","reason":"AP’s Wendy’s report was opened through search during this run and supplied the company, Dublin location, offer, valuation, and committee facts; the checker’s curl request returned a 16-character shell."},
+    {"claim":"https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-sells-38-million-non-performing-loans","reason":"The Freddie Mac primary release was opened in the browser during this run and supplied the loan count, balance, servicer, settlement timing, Texas concentration, delinquency, and loss-mitigation obligations; curl received only a short site shell."},
+    {"claim":"Associated Press","reason":"Attribution for the browser-verified AP reporting on the California subpoenas and Wendy’s proposal."},
+    {"claim":"California","reason":"Geographic context in the browser-verified AP subpoena report."},
+    {"claim":"Dublin","reason":"Wendy’s headquarters location in the browser-verified AP report."},
+    {"claim":"Dublin-based","reason":"Parser variant of the browser-verified Wendy’s Dublin headquarters description."},
+    {"claim":"Central Ohio Wendy","reason":"Parser-created phrase joining the show’s regional label and Wendy’s; underlying facts are browser-verified in AP reporting."},
+    {"claim":"Columbus","reason":"Show-locality context, not a standalone factual assertion."},
+    {"claim":"Freddie Mac","reason":"Primary Freddie Mac release was browser-verified; curl returned only a short shell."},
+    {"claim":"Freddie Mac December","reason":"Parser-created phrase combining the verified issuer name and its stated expected December settlement."},
+    {"claim":"Halloween","reason":"Calendar-context reference, not a factual assertion about an event or weather condition."},
+    {"claim":"Homeland Security Investigations","reason":"Named in the accompanying-letter description in the browser-verified AP subpoena report."},
+    {"claim":"Justice Department","reason":"Named actor in the browser-verified AP subpoena report."},
+    {"claim":"Los Angeles County","reason":"Named election jurisdiction in the browser-verified AP subpoena report."},
+    {"claim":"National Weather Service","reason":"The cited api.weather.gov hourly forecast was fetched at 03:51 Eastern and supports the weather facts."},
+    {"claim":"Ohio","reason":"Show audience geography, not a separate reported fact."},
+    {"claim":"Selene Finance","reason":"Named servicer in the browser-verified Freddie Mac primary release."},
+    {"claim":"Texas","reason":"Geographic concentration stated in the browser-verified Freddie Mac primary release."},
+    {"claim":"Trian Fund Management","reason":"Named offer leader in the browser-verified AP report."},
+    {"claim":"Wendy","reason":"Parser stem of the Wendy’s company name, supported by the browser-verified AP report."},
+    {"claim":"the November","reason":"Parser-created calendar fragment from the verified November 4 court appearance."}
+  ]
+}
