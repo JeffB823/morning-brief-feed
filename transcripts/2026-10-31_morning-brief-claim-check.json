@@ -1,0 +1,132 @@
+{
+  "script": "2026-10-31_morning-brief-script.md",
+  "script_sha256": "aad7e7e231ead6e5467ca1ab3c24b9e2676a4aa145b95d7fc91b043bc35388a3",
+  "checked_at": "2026-10-31T01:42:48-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/perspectives/jim-whitlinger/freddie-mac-cfo-discusses-third-quarter-2026-financial-and-business",
+      "characters": 21448
+    },
+    {
+      "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/10/ai-agents-at-banco-sabadell",
+      "characters": 8393
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "characters": 11983
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s October 30 election report was opened and read in the browser during this run; it supports the early-vote comparisons and Sunday-rally rescheduling, while curl returned a 16-character shell."
+    },
+    {
+      "url": "https://apnews.com/article/daylight-saving-time-senate-trump-f9e065a6f5a3187731ea794b353c3a4f",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s October 29 report was opened and read in the browser during this run; it supports the pending Senate status and Sunday clock change, while curl returned a 16-character shell."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/13/trick-or-treat-halloween-when-date-calendar-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "Axios Columbus was opened through search during this run and supplied the municipality-specific Halloween schedule; curl returned a 16-character shell."
+    },
+    {
+      "url": "https://www.columbus.gov/Government/City-Council/Programs-Initiatives/Public-Safety-Week?lang_update=639178055576765046",
+      "error": "page body was only 274 characters",
+      "reason": "The City of Columbus event page was opened through search during this run and supplied the Marion Franklin cleanup time; curl returned a short page shell."
+    }
+  ],
+  "claims_checked": 31,
+  "claims_supported": 17,
+  "claims_excepted": [
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus notes that the regional planning guidance often moves trick-or-treating when Halloween falls on a weekend, but many places kept it on Halloween this year.",
+      "reason": "Attribution for the browser-verified Columbus Halloween calendar."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Central Ohio's actionable local item is tonight's split Halloween schedule.",
+      "reason": "Show audience geography, not a distinct reported claim."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today, early voting is reshaping the final campaign weekend, Columbus households need a concrete Halloween plan, and Freddie Mac's new results show lending liquidity and credit reserves.",
+      "reason": "Show-locality context and browser-verified local schedule reference."
+    },
+    {
+      "claim": "Columbus and Grove City",
+      "kind": "name",
+      "example": "Columbus and Grove City list trick-or-treating from six to eight p.m.",
+      "reason": "Municipality names and hours were browser-verified in the Axios Columbus calendar."
+    },
+    {
+      "claim": "Columbus-area",
+      "kind": "name",
+      "example": "What should a Columbus-area family or local shop do with that information beyond buying candy?",
+      "reason": "Audience geography, not a separate reported assertion."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "The next evidence is official state and county reporting through Election Day, then any documented issue with access, tabulation, or a court order.",
+      "reason": "Calendar reference for official reporting, not a claim about an election outcome."
+    },
+    {
+      "claim": "Halloween",
+      "kind": "name",
+      "example": "Today, early voting is reshaping the final campaign weekend, Columbus households need a concrete Halloween plan, and Freddie Mac's new results show lending liquidity and credit reserves.",
+      "reason": "Calendar-context reference; local schedule was browser-verified."
+    },
+    {
+      "claim": "House-passed",
+      "kind": "name",
+      "example": "Daylight saving time ends early Sunday, and the Senate is unlikely to act this year on the House-passed bill that would make daylight saving time permanent, according to the Associated Press.",
+      "reason": "The browser-verified AP report identifies the bill as House-passed."
+    },
+    {
+      "claim": "Iowa Kansas",
+      "kind": "name",
+      "example": "Why should a listener outside Iowa, Kansas, or Texas care about a campaign-scheduling decision?",
+      "reason": "Parser-created phrase from the browser-verified AP rally report."
+    },
+    {
+      "claim": "Iowa and Kansas",
+      "kind": "name",
+      "example": "President Trump rescheduled Sunday rallies in Iowa and Kansas after briefly canceling them.",
+      "reason": "The browser-verified AP report identifies the rescheduled Sunday rally states."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "None of those moves changes an Ohio voter's procedure.",
+      "reason": "Show audience geography, not a separate reported assertion."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "President Trump rescheduled Sunday rallies in Iowa and Kansas after briefly canceling them.",
+      "reason": "Named in the browser-verified AP rally report."
+    },
+    {
+      "claim": "Texas",
+      "kind": "name",
+      "example": "The Associated Press reports that early voting is running more than thirty percent above the last midterm at this point in several competitive states, while Texas had more than six point three million early ballots as of Wednesday, compared with four point two million at the same point four years ago.",
+      "reason": "The browser-verified AP election report supplies the early-vote figure."
+    },
+    {
+      "claim": "and the Senate",
+      "kind": "name",
+      "example": "Daylight saving time ends early Sunday, and the Senate is unlikely to act this year on the House-passed bill that would make daylight saving time permanent, according to the Associated Press.",
+      "reason": "Parser-created fragment; the browser-verified AP report supports Senate status."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

@@ -1,30 +1,30 @@
-# Story Tracker — updated 2026-10-30
+# Story Tracker — updated 2026-10-31
 
 Only active stories likely to move within five days.
 
-## California election subpoenas
-- Last verified development: AP reported October 29 that subpoenas sent to Los Angeles County election employees require November 4 appearances and seek records tied to federal voter-roll inquiries.
-- Last takeaway: A compulsory records demand creates administrative and legal work; it does not itself revise a voter procedure or prove a violation.
-- Source: https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-20714065e59fe13db0e53c711a3ca390
-- Revisit trigger: November 4 appearance, court filing, scope ruling, or election-office instruction.
+## Early voting and final-weekend campaigns
+- Last verified development: AP reported October 30 that early voting is more than 30% above the comparable prior-midterm point in several competitive states and that Trump rescheduled Iowa and Kansas rallies for Sunday.
+- Last takeaway: Higher early-vote counts alter campaign allocation but do not establish vote choice, final turnout, or a changed local voting procedure.
+- Source: https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48
+- Revisit trigger: official Election Day instructions, state/county turnout reports, court orders, or documented access/tabulation issues.
 
-## Wendy’s take-private proposal
-- Last verified development: Wendy’s confirmed October 28 receipt of a nonbinding $7.35-per-share proposal, about $1.4 billion, and an independent board committee review.
-- Last takeaway: For Dublin and Central Ohio, it is a preliminary governance process, not a completed deal or proof of employment, store, supplier, or price changes.
-- Source: https://apnews.com/article/8f9ab7443eee801608c8058e4a77e862
-- Revisit trigger: SEC filing, committee statement, deal terms, rejection, or quarterly operating update.
+## Daylight saving time legislation
+- Last verified development: AP reported October 29 that the Senate is unlikely to act this year on the House-passed permanent-daylight-saving bill before clocks fall back early November 1.
+- Last takeaway: The current operational obligation is the scheduled time change; public pressure and House passage do not change the clock rule.
+- Source: https://apnews.com/article/daylight-saving-time-senate-trump-f9e065a6f5a3187731ea794b353c3a4f
+- Revisit trigger: Senate scheduling, a floor vote, enacted legislation, or official implementation guidance.
 
-## Freddie Mac distressed-loan sale
-- Last verified development: Freddie Mac announced October 28 auction of 25 deeply delinquent first-lien loans with $3.8 million unpaid principal balance, expected to settle in December.
-- Last takeaway: The key work is accurate servicing transfer, borrower communication, and continuity of existing loss-mitigation agreements rather than a broad underwriting change.
-- Source: https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-sells-38-million-non-performing-loans
-- Revisit trigger: December settlement or new borrower-outcome, servicer, or transfer-requirement detail.
+## Freddie Mac credit-score adoption
+- Last verified development: Freddie Mac’s October 29 Q3 disclosure says 6% of acquired loans were assessed with VantageScore 4.0 for pricing after all-seller availability began in September.
+- Last takeaway: The score-model option changes eligible delivery and pricing workflow, not an automatic approval, savings, or portfolio-performance conclusion.
+- Source: https://www.freddiemac.com/perspectives/jim-whitlinger/freddie-mac-cfo-discusses-third-quarter-2026-financial-and-business
+- Revisit trigger: updated adoption, pricing, borrower-outcome, loss, or delivery-exception evidence.
 
-## GPT-6 Luna October 29 update
-- Last verified development: OpenAI published an October 29 GPT-6 Luna update and lab-reported safety and robustness evaluation addendum.
-- Last takeaway: Compare a version across the full task set; improved safety metrics do not make every measured workflow dimension better.
-- Source: https://deploymentsafety.openai.com/gpt-6-luna-october-28-2026-addendum/respecting-warnings
-- Revisit trigger: independent replication, new system-card evidence, or version-specific task outcome.
+## Gemini 4 Carbon access
+- Last verified development: Google announced Gemini 4 Carbon on October 28, reporting an Artificial Analysis Intelligence Index score of 59 and initial access only for trusted cyber defenders.
+- Last takeaway: A reported frontier score can inform a future evaluation shortlist but does not make a model generally available or prove a regulated workflow outcome.
+- Source: https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/
+- Revisit trigger: access expansion, independent evaluation, or a task-specific production result.
 
 ## Federal Reserve October decision
 - Last verified development: October 28 statement held the federal-funds target at 3.75–4 percent, 10–2; Cook and Hammack preferred a quarter-point rise.
