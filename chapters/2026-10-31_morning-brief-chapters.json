@@ -1,0 +1,50 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.775
+    },
+    {
+      "title": "National Voting",
+      "start": 35.775,
+      "end": 158.775
+    },
+    {
+      "title": "Clock Change",
+      "start": 158.775,
+      "end": 218.775
+    },
+    {
+      "title": "Columbus Halloween",
+      "start": 218.775,
+      "end": 307.725
+    },
+    {
+      "title": "Home Lending",
+      "start": 307.725,
+      "end": 462.95
+    },
+    {
+      "title": "AI in Banking",
+      "start": 462.95,
+      "end": 606.375
+    },
+    {
+      "title": "Frontier AI",
+      "start": 606.375,
+      "end": 761.35
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 761.35,
+      "end": 779.65
+    },
+    {
+      "title": "Watch Next",
+      "start": 779.65,
+      "end": 803.75
+    }
+  ]
+}
