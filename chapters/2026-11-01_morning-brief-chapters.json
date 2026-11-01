@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.375
+    },
+    {
+      "title": "Election Eve",
+      "start": 34.375,
+      "end": 176.825
+    },
+    {
+      "title": "Columbus Voting",
+      "start": 176.825,
+      "end": 313.0
+    },
+    {
+      "title": "Home Lending",
+      "start": 313.0,
+      "end": 450.875
+    },
+    {
+      "title": "AI in Banking",
+      "start": 450.875,
+      "end": 596.575
+    },
+    {
+      "title": "Frontier AI",
+      "start": 596.575,
+      "end": 710.5
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 710.5,
+      "end": 763.15
+    },
+    {
+      "title": "Watch Next",
+      "start": 763.15,
+      "end": 783.125
+    }
+  ]
+}
