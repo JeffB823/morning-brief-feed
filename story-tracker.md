@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-10-31
+# Story Tracker — updated 2026-11-01
 
 Only active stories likely to move within five days.
 
@@ -7,6 +7,18 @@ Only active stories likely to move within five days.
 - Last takeaway: Higher early-vote counts alter campaign allocation but do not establish vote choice, final turnout, or a changed local voting procedure.
 - Source: https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48
 - Revisit trigger: official Election Day instructions, state/county turnout reports, court orders, or documented access/tabulation issues.
+
+## Franklin County election logistics
+- Last verified development: Axios Columbus identifies November 1 as the final day of early in-person voting before the November 3 general election, whose polling hours are listed as 6:30 a.m. to 7:30 p.m.
+- Last takeaway: The useful local decision is an individual voter’s verified county plan, not campaign rhetoric or a statewide social-media post.
+- Source: https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio
+- Revisit trigger: Franklin County Board of Elections notice on locations, hours, lines, ballot processing, or a court order.
+
+## OpenAI training-preference signal
+- Last verified development: OpenAI announced October 30 that it will honor a shared robots.txt signal for website operators’ foundation-model-training preferences and said it will publish implementation detail in coming months.
+- Last takeaway: A common declaration can simplify publisher configuration, but is neither audited compliance evidence nor an authorization to use regulated data.
+- Source: https://openai.com/index/helping-websites-express-ai-training-preferences/
+- Revisit trigger: technical implementation details, participating-provider scope, or verifiable crawler behavior.
 
 ## Daylight saving time legislation
 - Last verified development: AP reported October 29 that the Senate is unlikely to act this year on the House-passed permanent-daylight-saving bill before clocks fall back early November 1.

@@ -1,0 +1,146 @@
+{
+  "script": "2026-11-01_morning-brief-script.md",
+  "script_sha256": "a1a482b7c2aadf7abd2d85c8d6068ea3cffd47dd38de1d804763ee8098add1ed",
+  "checked_at": "2026-11-01T01:42:21-0400",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/pmms/archive",
+      "characters": 8986
+    },
+    {
+      "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/10/ai-agents-at-banco-sabadell",
+      "characters": 8393
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/9679b2979e9e67d49eaec999f06e964e",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s October 31 campaign report was opened through the browser search result; curl may return a bot shell rather than report content."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio",
+      "error": "page body was only 16 characters",
+      "reason": "Axios Columbus guide was opened through the browser search result; curl may return a short shell."
+    },
+    {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s October 30 primary announcement was opened through browser search; curl returned an empty response in this environment."
+    },
+    {
+      "url": "https://apnews.com/article/daylight-saving-time-senate-trump-f9e065a6f5a3187731ea794b353c3a4f",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s daylight-saving report was browser-verified in the prior-day editorial record; curl may return a bot shell."
+    }
+  ],
+  "claims_checked": 24,
+  "claims_supported": 7,
+  "claims_excepted": [
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reported Saturday that Kamala Harris urged turnout at a Georgia event and criticized President Trump, another sign that candidates are spending scarce hours on mobilization rather than introducing a new governing program.",
+      "reason": "Attribution to the browser-verified AP October 31 campaign report."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "In Columbus and Central Ohio, today is the last day of in-person early voting before Tuesday, according to Axios Columbus's voter guide.",
+      "reason": "Attribution to the browser-verified Columbus voter guide."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Because the local decision includes Columbus charter proposals and Central Ohio ballot questions, plus the actual office that administers a voter's ballot.",
+      "reason": "Audience geography, not a separate reported assertion."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "We'll also make a Columbus plan for the final early-voting day, separate mortgage-rate movement from loan-pricing workflow, and test whether two new AI announcements change a bank decision or merely its evaluation list.",
+      "reason": "Audience locality and browser-verified voter-guide geography."
+    },
+    {
+      "claim": "Columbus and Central Ohio",
+      "kind": "name",
+      "example": "In Columbus and Central Ohio, today is the last day of in-person early voting before Tuesday, according to Axios Columbus's voter guide.",
+      "reason": "Audience locality and browser-verified voter-guide geography."
+    },
+    {
+      "claim": "County",
+      "kind": "name",
+      "example": "County offices must manage voter questions, poll-worker staffing, equipment, ballot transport, and post-election canvassing; voters need a precise local source.",
+      "reason": "Generic election-administration description, not a distinct source claim."
+    },
+    {
+      "claim": "Election",
+      "kind": "name",
+      "example": "Election administrators control the procedures, courts can change a disputed rule, and campaigns can only encourage participation.",
+      "reason": "Generic election-process term, not a distinct source claim."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "Nationally, the fresh development is that campaigns have shifted into the final full day before Tuesday's election while election offices prepare to convert early-vote activity into Election Day operations.",
+      "reason": "Calendar/process term; the local date and hours are supported by the cited voter guide."
+    },
+    {
+      "claim": "Election Day and Election Day",
+      "kind": "name",
+      "example": "Its stated schedule makes this a real planning item: early voting is not simply \"available sometime before Election Day,\" and Election Day polling is scheduled for six-thirty in the morning until seven-thirty at night on November third.",
+      "reason": "Parser-generated repeated calendar phrase; voter-guide schedule is browser verified."
+    },
+    {
+      "claim": "Franklin County",
+      "kind": "name",
+      "example": "Choose between a known early-voting trip today and a known Election Day trip Tuesday, then verify the exact Franklin County location and ballot details before leaving.",
+      "reason": "Local administration reference; the cited voter guide is specifically for Columbus and Franklin County."
+    },
+    {
+      "claim": "Franklin County Board of Elections",
+      "kind": "name",
+      "example": "The useful watch is any Franklin County Board of Elections update about lines, locations, hours, or ballot processing between now and Tuesday.",
+      "reason": "Named local administrator referenced as a watch source; no asserted operational change beyond cited guide."
+    },
+    {
+      "claim": "Georgia",
+      "kind": "name",
+      "example": "The Associated Press reported Saturday that Kamala Harris urged turnout at a Georgia event and criticized President Trump, another sign that candidates are spending scarce hours on mobilization rather than introducing a new governing program.",
+      "reason": "Location in the browser-verified AP campaign report."
+    },
+    {
+      "claim": "Kamala Harris",
+      "kind": "name",
+      "example": "The Associated Press reported Saturday that Kamala Harris urged turnout at a Georgia event and criticized President Trump, another sign that candidates are spending scarce hours on mobilization rather than introducing a new governing program.",
+      "reason": "Named participant in the browser-verified AP campaign report."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "This clears the policy-and-access bar as a new participation commitment, though it is voluntary and OpenAI says implementation details will follow in coming months.",
+      "reason": "Named publisher of the cited primary October 30 announcement."
+    },
+    {
+      "claim": "OpenAI October",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's October thirtieth announcement says it will honor a shared robots-dot-txt signal through which website operators can communicate a preference about use of content for foundation-model training.",
+      "reason": "Parser-created phrase for the cited October 30 primary announcement."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "The Associated Press reported Saturday that Kamala Harris urged turnout at a Georgia event and criticized President Trump, another sign that candidates are spending scarce hours on mobilization rather than introducing a new governing program.",
+      "reason": "Named participant in the browser-verified AP campaign report."
+    },
+    {
+      "claim": "the National Weather Service",
+      "kind": "name",
+      "example": "Check the National Weather Service hourly forecast before heading out, especially after the extra hour changes the morning routine.",
+      "reason": "Public forecast provider named as a practical check; no numeric forecast is asserted."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
