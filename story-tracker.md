@@ -1,45 +1,33 @@
-# Story Tracker — updated 2026-11-01
+# Story Tracker — updated 2026-11-02
 
 Only active stories likely to move within five days.
 
-## Early voting and final-weekend campaigns
-- Last verified development: AP reported October 30 that early voting is more than 30% above the comparable prior-midterm point in several competitive states and that Trump rescheduled Iowa and Kansas rallies for Sunday.
-- Last takeaway: Higher early-vote counts alter campaign allocation but do not establish vote choice, final turnout, or a changed local voting procedure.
-- Source: https://apnews.com/article/trump-rallies-kansas-iowa-midterms-31b7ebe427306d192115e9282eabce48
-- Revisit trigger: official Election Day instructions, state/county turnout reports, court orders, or documented access/tabulation issues.
+## Election Day logistics
+- Last verified development: AP reported November 1 campaign activity in Iowa and Kansas while local election offices prepared for the November 3 midterm election.
+- Last takeaway: Campaign events are not voting instructions; households and employers need official county logistics and verified court orders.
+- Source: https://apnews.com/article/d66c92d2c171cf4dc434078c64cf2cd1
+- Revisit trigger: Franklin County or state election-office notice, documented access/tabulation issue, court order, or verified results.
 
-## Franklin County election logistics
-- Last verified development: Axios Columbus identifies November 1 as the final day of early in-person voting before the November 3 general election, whose polling hours are listed as 6:30 a.m. to 7:30 p.m.
-- Last takeaway: The useful local decision is an individual voter’s verified county plan, not campaign rhetoric or a statewide social-media post.
-- Source: https://www.axios.com/local/columbus/2026/10/27/2026-election-voter-guide-candidates-issues-franklin-county-ohio
-- Revisit trigger: Franklin County Board of Elections notice on locations, hours, lines, ballot processing, or a court order.
+## Columbus Council record
+- Last verified development: Columbus City Council has a regular meeting scheduled for 5 p.m. on November 2 in Council Chambers.
+- Last takeaway: Posted agendas are participation windows, while enacted text and city guidance determine any operational change.
+- Source: https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources/City-Council-Meeting-Calendar/Council-Meeting-110226
+- Revisit trigger: Adopted ordinance, budget, or service action with a stated local implementation date.
 
-## OpenAI training-preference signal
-- Last verified development: OpenAI announced October 30 that it will honor a shared robots.txt signal for website operators’ foundation-model-training preferences and said it will publish implementation detail in coming months.
-- Last takeaway: A common declaration can simplify publisher configuration, but is neither audited compliance evidence nor an authorization to use regulated data.
-- Source: https://openai.com/index/helping-websites-express-ai-training-preferences/
-- Revisit trigger: technical implementation details, participating-provider scope, or verifiable crawler behavior.
+## UAD 3.6 appraisal delivery
+- Last verified development: The joint GSE UAD 3.6 mandate became effective November 2 for new production appraisal reports; previously submitted UAD 2.6 reports retain a transition revision path.
+- Last takeaway: The immediate lending risk is appraisal-data delivery readiness, not a universal valuation or eligibility change.
+- Source: https://sf.freddiemac.com/docs/pdf/uad_joint_announcement_nov_2024.pdf
+- Revisit trigger: GSE implementation notice, lender delivery exception, published defect/backlog evidence, or vendor readiness update.
 
-## Daylight saving time legislation
-- Last verified development: AP reported October 29 that the Senate is unlikely to act this year on the House-passed permanent-daylight-saving bill before clocks fall back early November 1.
-- Last takeaway: The current operational obligation is the scheduled time change; public pressure and House passage do not change the clock rule.
-- Source: https://apnews.com/article/daylight-saving-time-senate-trump-f9e065a6f5a3187731ea794b353c3a4f
-- Revisit trigger: Senate scheduling, a floor vote, enacted legislation, or official implementation guidance.
+## Natural Direct payment authority
+- Last verified development: Natural announced general availability of Direct on October 29 for agent-initiated ACH, wire, and real-time payments.
+- Last takeaway: A payment rail changes the bounded-authority test; it does not establish bank production safety, cost savings, or error control.
+- Source: https://www.natural.com/blog
+- Revisit trigger: Named financial-institution deployment with payment exception, error, fraud, recovery, or review-time evidence.
 
-## Freddie Mac credit-score adoption
-- Last verified development: Freddie Mac’s October 29 Q3 disclosure says 6% of acquired loans were assessed with VantageScore 4.0 for pricing after all-seller availability began in September.
-- Last takeaway: The score-model option changes eligible delivery and pricing workflow, not an automatic approval, savings, or portfolio-performance conclusion.
-- Source: https://www.freddiemac.com/perspectives/jim-whitlinger/freddie-mac-cfo-discusses-third-quarter-2026-financial-and-business
-- Revisit trigger: updated adoption, pricing, borrower-outcome, loss, or delivery-exception evidence.
-
-## Gemini 4 Carbon access
-- Last verified development: Google announced Gemini 4 Carbon on October 28, reporting an Artificial Analysis Intelligence Index score of 59 and initial access only for trusted cyber defenders.
-- Last takeaway: A reported frontier score can inform a future evaluation shortlist but does not make a model generally available or prove a regulated workflow outcome.
-- Source: https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/
-- Revisit trigger: access expansion, independent evaluation, or a task-specific production result.
-
-## Federal Reserve October decision
-- Last verified development: October 28 statement held the federal-funds target at 3.75–4 percent, 10–2; Cook and Hammack preferred a quarter-point rise.
-- Last takeaway: The hold preserves the setting while the dissent makes incoming inflation and employment data more decision-relevant.
-- Source: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
-- Revisit trigger: market reaction, next inflation/employment readings, or December materials.
+## OpenAI Model Spec update
+- Last verified development: OpenAI listed an updated Model Spec on October 29, describing its stated behavioral values for more capable systems.
+- Last takeaway: A public specification can be translated into evaluation cases but is not an independent model-performance or safety result.
+- Source: https://openai.com/news/
+- Revisit trigger: Version delta, published evaluation method, external audit, or observed test result against the specification.

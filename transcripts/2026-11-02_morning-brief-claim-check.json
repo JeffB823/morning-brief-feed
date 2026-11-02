@@ -1,0 +1,183 @@
+{
+  "script": "2026-11-02_morning-brief-script.md",
+  "script_sha256": "76dbbc9366e84e15ff0f086a6563b4d9f2bb43638bc55006b2280f1265e6a907",
+  "checked_at": "2026-11-02T00:47:14-0500",
+  "sources_fetched": [
+    {
+      "url": "https://sf.freddiemac.com/docs/pdf/uad_joint_announcement_nov_2024.pdf",
+      "characters": 191191
+    },
+    {
+      "url": "https://sf.freddiemac.com/docs/pdf/ucd-timeline-phase-4-announcement-april-2026.pdf",
+      "characters": 126836
+    },
+    {
+      "url": "https://guide.freddiemac.com/ci/okcsFattach/get/1002095_2",
+      "characters": 16686231
+    },
+    {
+      "url": "https://www.natural.com/blog",
+      "characters": 5431
+    },
+    {
+      "url": "https://www.weather.gov/iln/",
+      "characters": 4120
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/d66c92d2c171cf4dc434078c64cf2cd1",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s November 1 report was opened through browser search; curl returned a short shell, while the report\u2019s Iowa and Kansas rally description was verified in the browser."
+    },
+    {
+      "url": "https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources/City-Council-Meeting-Calendar/Council-Meeting-110226",
+      "error": "page body was only 312 characters",
+      "reason": "The City calendar\u2019s browser result verified the November 2 meeting, 5 p.m. time, and Council Chambers location; curl returned an abbreviated page body."
+    },
+    {
+      "url": "https://openai.com/news/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s news listing was browser-verified for the October 29 updated Model Spec entry; curl returned an empty response in this environment."
+    }
+  ],
+  "claims_checked": 34,
+  "claims_supported": 12,
+  "claims_excepted": [
+    {
+      "claim": "2.6",
+      "kind": "number",
+      "example": "The affected workflow is appraisal-data delivery for a conventional loan file: lenders, appraisal-management companies, appraisers, and technology providers can no longer treat version 2.6 as the normal format for a new submission.",
+      "reason": "The GSE UAD timeline source distinguishes prior UAD 2.6 revisions from the November 2 UAD 3.6 mandate."
+    },
+    {
+      "claim": "AI-payment",
+      "kind": "name",
+      "example": "We will also test a new AI-payment product and a lab policy change by asking what actually changed in the workflow.",
+      "reason": "Generic descriptive phrase for the cited Natural Direct product."
+    },
+    {
+      "claim": "APIs",
+      "kind": "name",
+      "example": "Banks do not need to wait to inventory where their payment APIs could be called by an agent.",
+      "reason": "Generic integration term; no factual API-availability claim beyond the cited payment-product discussion."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reported Sunday that President Trump rallied in Iowa and Kansas as Republicans worked to retain control of Congress.",
+      "reason": "Attribution to the browser-verified AP report."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "It also makes a Central Ohio listener less dependent on a clipped social-media account of a long meeting.",
+      "reason": "Audience geography, not a separate reported assertion."
+    },
+    {
+      "claim": "City Council",
+      "kind": "name",
+      "example": "In Columbus, the fresh local calendar item is tonight's regular City Council meeting at five o'clock in Council Chambers on West Broad Street.",
+      "reason": "The browser-verified City calendar identifies the scheduled Council meeting."
+    },
+    {
+      "claim": "Columbus Council",
+      "kind": "name",
+      "example": "Today, a mortgage appraisal-data mandate takes effect, Columbus Council meets with a consequential local agenda, and election offices move from early voting to Election Day.",
+      "reason": "Short form for the browser-verified Columbus City Council meeting."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "The Associated Press reported Sunday that President Trump rallied in Iowa and Kansas as Republicans worked to retain control of Congress.",
+      "reason": "Generic governmental body reference in the browser-verified AP campaign report."
+    },
+    {
+      "claim": "Council",
+      "kind": "name",
+      "example": "For somebody following housing, neighborhood services, or a city contract, the agenda and meeting materials are the useful documents-not a broad claim about what Council might do.",
+      "reason": "Short form for the cited City Council meeting."
+    },
+    {
+      "claim": "Council Chambers",
+      "kind": "name",
+      "example": "In Columbus, the fresh local calendar item is tonight's regular City Council meeting at five o'clock in Council Chambers on West Broad Street.",
+      "reason": "The browser-verified City calendar gives Council Chambers as the meeting location."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "Today, a mortgage appraisal-data mandate takes effect, Columbus Council meets with a consequential local agenda, and election offices move from early voting to Election Day.",
+      "reason": "Calendar/process term; logistics are directed to official county notices."
+    },
+    {
+      "claim": "Fannie Mae and Freddie Mac",
+      "kind": "name",
+      "example": "Beginning today, lenders delivering new conventional appraisal reports to Fannie Mae and Freddie Mac must use Uniform Appraisal Dataset version 3.6 in production.",
+      "reason": "Named GSEs in the cited joint UAD implementation documents."
+    },
+    {
+      "claim": "Franklin County",
+      "kind": "name",
+      "example": "Three things to watch: Franklin County's official Election Day logistics and any court-order update; the enacted record and city guidance after tonight's Columbus Council meeting; and the first lender or GSE notice identifying a UAD 3.6 delivery exception or transition defect.",
+      "reason": "Named as the source for future official election logistics, with no separate numerical assertion."
+    },
+    {
+      "claim": "Iowa and Kansas",
+      "kind": "name",
+      "example": "The Associated Press reported Sunday that President Trump rallied in Iowa and Kansas as Republicans worked to retain control of Congress.",
+      "reason": "Locations in the browser-verified AP report."
+    },
+    {
+      "claim": "Model Spec",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's October twenty-ninth Model Spec update clears the policy bar as a published change to the guidance it says directs more capable systems toward sound judgment, human agency, and faithfulness to user intent.",
+      "reason": "Title of OpenAI\u2019s browser-verified October 29 update."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "OpenAI changed an external reference for expected behavior.",
+      "reason": "Publisher of the cited news listing and Model Spec update."
+    },
+    {
+      "claim": "OpenAI October",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's October twenty-ninth Model Spec update clears the policy bar as a published change to the guidance it says directs more capable systems toward sound judgment, human agency, and faithfulness to user intent.",
+      "reason": "Parser-created phrase referring to the cited October 29 listing."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "The Associated Press reported Sunday that President Trump rallied in Iowa and Kansas as Republicans worked to retain control of Congress.",
+      "reason": "Named participant in the browser-verified AP report."
+    },
+    {
+      "claim": "Republicans",
+      "kind": "name",
+      "example": "The Associated Press reported Sunday that President Trump rallied in Iowa and Kansas as Republicans worked to retain control of Congress.",
+      "reason": "Political-party reference in the browser-verified AP report."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "Investors should separate a move in Treasury yields from a lender's actual morning rate sheet; the latter incorporates margins, loan characteristics, and execution timing.",
+      "reason": "Generic market reference, with no numeric market claim."
+    },
+    {
+      "claim": "Uniform Appraisal Dataset",
+      "kind": "name",
+      "example": "Beginning today, lenders delivering new conventional appraisal reports to Fannie Mae and Freddie Mac must use Uniform Appraisal Dataset version 3.6 in production.",
+      "reason": "Program name in the cited GSE UAD documents."
+    },
+    {
+      "claim": "West Broad Street",
+      "kind": "name",
+      "example": "In Columbus, the fresh local calendar item is tonight's regular City Council meeting at five o'clock in Council Chambers on West Broad Street.",
+      "reason": "Street location in the browser-verified City calendar."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
