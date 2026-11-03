@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.5
+    },
+    {
+      "title": "Election-Day Operations",
+      "start": 35.5,
+      "end": 181.9
+    },
+    {
+      "title": "Columbus Ballot",
+      "start": 181.9,
+      "end": 301.175
+    },
+    {
+      "title": "Home Lending",
+      "start": 301.175,
+      "end": 444.775
+    },
+    {
+      "title": "AI in Banking",
+      "start": 444.775,
+      "end": 596.65
+    },
+    {
+      "title": "Frontier AI",
+      "start": 596.65,
+      "end": 745.175
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 745.175,
+      "end": 796.5
+    },
+    {
+      "title": "Watch Next",
+      "start": 796.5,
+      "end": 816.725
+    }
+  ]
+}
