@@ -1,0 +1,91 @@
+{
+  "script": "2026-11-03_morning-brief-script.md",
+  "script_sha256": "21f256a4ef7e286ea67803656d033297c2c52f58e155fe0fabbbe2d03e704065",
+  "checked_at": "2026-11-03T00:42:49-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.ohiosos.gov/elections",
+      "characters": 1015
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=360CAB14-342C-478C-B962-D7C3694A31F3&ID=8185883",
+      "characters": 8844
+    },
+    {
+      "url": "https://correspondent.onitymortgage.com/resources/announcements",
+      "characters": 4292
+    },
+    {
+      "url": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-launches-hsbcnio-digital-banking-solution-for-businesses",
+      "characters": 9410
+    },
+    {
+      "url": "https://www.about.hsbc.com.hk/news-and-media",
+      "characters": 77493
+    },
+    {
+      "url": "https://www.weather.gov/iln/",
+      "characters": 4120
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/ba3037eed7bd816cc084bb1c4a2e6ccf",
+      "error": "page body was only 16 characters",
+      "reason": "The AP Election Day report was verified in browser search; direct curl provides an abbreviated shell in this environment."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/08/20/columbus-city-council-reform-november-election",
+      "error": "page body was only 16 characters",
+      "reason": "Axios local reporting was browser-verified for the two Council-election designs; curl can return an abbreviated page."
+    },
+    {
+      "url": "https://openai.com/index/lifeval/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s LifeVal primary publication was browser-verified for its November 2 date, everyday-task scope, and 3,995-person survey; curl returned an empty response in this environment."
+    }
+  ],
+  "claims_checked": 28,
+  "claims_supported": 22,
+  "claims_excepted": [
+    {
+      "claim": "3995",
+      "kind": "number",
+      "example": "OpenAI says it drew task areas from American and multinational time-use studies and a survey of 3995 respondents.",
+      "reason": "OpenAI\u2019s primary LifeVal page states its survey included 3,995 respondents."
+    },
+    {
+      "claim": "AI-control",
+      "kind": "name",
+      "example": "Why place the limitation on the connection rather than repeat a generic AI-control list?",
+      "reason": "Generic phrase about controls, not a separately asserted product or organization."
+    },
+    {
+      "claim": "American",
+      "kind": "name",
+      "example": "OpenAI says it drew task areas from American and multinational time-use studies and a survey of 3995 respondents.",
+      "reason": "Descriptor in the cited OpenAI statement about American Time Use Survey task sourcing."
+    },
+    {
+      "claim": "Election Day",
+      "kind": "name",
+      "example": "Election Day puts Ohio voting logistics in focus, while a mortgage correspondent turns on a new pricing workflow.",
+      "reason": "Calendar and process term verified by cited official Ohio and Franklin County election sources."
+    },
+    {
+      "claim": "LifeVal",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published LifeVal on November 2, an evaluation intended to measure progress on everyday personal-assistant tasks.",
+      "reason": "Title of the cited OpenAI primary publication."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "We will also examine HSBC's client-controlled AI banking connection and an OpenAI evaluation built around everyday tasks-separating usable changes from claims that still need proof.",
+      "reason": "Publisher of the cited LifeVal primary publication."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

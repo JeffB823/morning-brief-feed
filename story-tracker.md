@@ -1,33 +1,33 @@
-# Story Tracker — updated 2026-11-02
+# Story Tracker — updated 2026-11-03
 
 Only active stories likely to move within five days.
 
-## Election Day logistics
-- Last verified development: AP reported November 1 campaign activity in Iowa and Kansas while local election offices prepared for the November 3 midterm election.
-- Last takeaway: Campaign events are not voting instructions; households and employers need official county logistics and verified court orders.
-- Source: https://apnews.com/article/d66c92d2c171cf4dc434078c64cf2cd1
-- Revisit trigger: Franklin County or state election-office notice, documented access/tabulation issue, court order, or verified results.
+## Ohio election administration
+- Last verified development: Election Day is November 3; Ohio and Franklin County election pages direct voters to official polling and election information, while AP reports heightened attention to poll monitoring and staggered results.
+- Last takeaway: Voters need county-specific logistics; unofficial returns and campaign claims do not certify outcomes.
+- Source: https://www.ohiosos.gov/elections
+- Revisit trigger: Official access or tabulation notice, court order, unofficial county result, or certified outcome.
 
-## Columbus Council record
-- Last verified development: Columbus City Council has a regular meeting scheduled for 5 p.m. on November 2 in Council Chambers.
-- Last takeaway: Posted agendas are participation windows, while enacted text and city guidance determine any operational change.
-- Source: https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources/City-Council-Meeting-Calendar/Council-Meeting-110226
-- Revisit trigger: Adopted ordinance, budget, or service action with a stated local implementation date.
+## Columbus council-election structure
+- Last verified development: Columbus voters decide ballot issues concerning a district-based Council-election structure on November 3.
+- Last takeaway: Official ballot text and post-election implementation steps matter more than reform slogans.
+- Source: https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=360CAB14-342C-478C-B962-D7C3694A31F3&ID=8185883
+- Revisit trigger: Official result, enacted charter transition schedule, districting action, or election-administration guidance.
 
-## UAD 3.6 appraisal delivery
-- Last verified development: The joint GSE UAD 3.6 mandate became effective November 2 for new production appraisal reports; previously submitted UAD 2.6 reports retain a transition revision path.
-- Last takeaway: The immediate lending risk is appraisal-data delivery readiness, not a universal valuation or eligibility change.
-- Source: https://sf.freddiemac.com/docs/pdf/uad_joint_announcement_nov_2024.pdf
-- Revisit trigger: GSE implementation notice, lender delivery exception, published defect/backlog evidence, or vendor readiness update.
+## Onity Polly pricing workflow
+- Last verified development: Onity’s correspondent product-and-pricing-engine transition to Polly became effective November 2 in TPO Connect.
+- Last takeaway: The change affects loan-level pricing and lock workflow, not a borrower’s automatic rate or approval.
+- Source: https://correspondent.onitymortgage.com/resources/announcements
+- Revisit trigger: Documented lock, pricing, or product-selection exception; updated correspondent procedure; or disclosed conversion result.
 
-## Natural Direct payment authority
-- Last verified development: Natural announced general availability of Direct on October 29 for agent-initiated ACH, wire, and real-time payments.
-- Last takeaway: A payment rail changes the bounded-authority test; it does not establish bank production safety, cost savings, or error control.
-- Source: https://www.natural.com/blog
-- Revisit trigger: Named financial-institution deployment with payment exception, error, fraud, recovery, or review-time evidence.
+## HSBCnio client connection
+- Last verified development: HSBC announced HSBCnio on November 2 as a connected transaction-banking and AI-tools workflow for corporate and institutional clients.
+- Last takeaway: The access design is notable, but no named client result or entitlement-quality metric establishes autonomous execution or savings.
+- Source: https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-launches-hsbcnio-digital-banking-solution-for-businesses
+- Revisit trigger: Named client, bounded production task, permission-test result, exception metric, or independent evidence.
 
-## OpenAI Model Spec update
-- Last verified development: OpenAI listed an updated Model Spec on October 29, describing its stated behavioral values for more capable systems.
-- Last takeaway: A public specification can be translated into evaluation cases but is not an independent model-performance or safety result.
-- Source: https://openai.com/news/
-- Revisit trigger: Version delta, published evaluation method, external audit, or observed test result against the specification.
+## OpenAI LifeVal evaluation
+- Last verified development: OpenAI published LifeVal on November 2 as an evaluation for everyday personal-assistant tasks.
+- Last takeaway: An everyday-task score is a useful direction for testing agents but not proof of performance in regulated, consequential workflows.
+- Source: https://openai.com/index/lifeval/
+- Revisit trigger: Public task methodology, independent replication, evaluation update, or evidence connecting scores to real task outcomes.
