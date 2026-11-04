@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.625
+    },
+    {
+      "title": "Ohio Results",
+      "start": 34.625,
+      "end": 186.9
+    },
+    {
+      "title": "Columbus Council Vote",
+      "start": 186.9,
+      "end": 303.95
+    },
+    {
+      "title": "Home Lending",
+      "start": 303.95,
+      "end": 454.2
+    },
+    {
+      "title": "AI in Banking",
+      "start": 454.2,
+      "end": 594.2
+    },
+    {
+      "title": "Frontier AI",
+      "start": 594.2,
+      "end": 739.575
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 739.575,
+      "end": 788.45
+    },
+    {
+      "title": "Watch Next",
+      "start": 788.45,
+      "end": 806.95
+    }
+  ]
+}
