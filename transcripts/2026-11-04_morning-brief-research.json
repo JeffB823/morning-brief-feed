@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-04",
+  "cutoff": "2026-11-04T07:10:00-05:00",
+  "history_compared": [
+    "2026-10-28_morning-brief-script.md",
+    "2026-10-29_morning-brief-script.md",
+    "2026-10-30_morning-brief-script.md",
+    "2026-10-31_morning-brief-script.md",
+    "2026-11-01_morning-brief-script.md",
+    "2026-11-02_morning-brief-script.md",
+    "2026-11-03_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "ohio_calls",
+      "beat": "national",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "decision": "selected",
+      "reason": "Fresh AP calls move coverage from Election Day logistics to projected outcomes and certification."
+    },
+    {
+      "id": "columbus_issues",
+      "beat": "columbus",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "decision": "selected",
+      "reason": "Unofficial results change the local takeaway from ballot interpretation to implementation."
+    },
+    {
+      "id": "upstart_q3",
+      "beat": "home_lending",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "decision": "selected",
+      "reason": "A company earnings release provides a specific secured-lending unit-economics change, distinct from recent pricing and appraisal workflow coverage."
+    },
+    {
+      "id": "mashreq_fraud",
+      "beat": "bank_ai",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "decision": "selected",
+      "reason": "Named bank and named fraud-investigation deployment; no results are inferred beyond the announcement."
+    },
+    {
+      "id": "grid_protectors",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-02",
+      "publication_date": "2026-11-02",
+      "decision": "selected",
+      "reason": "Previously uncovered OpenAI utility program is a fresh infrastructure-constraint development, not a repeat of LifeVal."
+    },
+    {
+      "id": "freddie_calendar",
+      "beat": "home_lending",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "decision": "rejected",
+      "reason": "Debt funding calendar does not offer a more useful loan workflow than Upstart\u2019s disclosed secured-product economics."
+    },
+    {
+      "id": "crowdstrike_dreadnode",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "decision": "rejected",
+      "reason": "AI-security testing acquisition is relevant but the OpenAI utility program has clearer power-system implications."
+    },
+    {
+      "id": "election_house_control",
+      "beat": "national",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "decision": "rejected",
+      "reason": "National control remained developing at the cutoff; use only as bounded context, not a full segment."
+    },
+    {
+      "id": "markets_weather",
+      "beat": "markets_weather",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "decision": "selected_routine",
+      "reason": "Compact decision aid only; does not count toward freshness."
+    }
+  ],
+  "stories": [
+    {
+      "id": "ohio_calls",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "sources": [
+        "https://apnews.com/article/abb72413eadd4fe4a6e98965d4a66e6f",
+        "https://apnews.com/article/72209f23c091478f87db1abde4ff6e60",
+        "https://www.ohiosos.gov/elections"
+      ],
+      "new_fact": "AP called Ohio's Senate special election for Sherrod Brown and its governor's race for Amy Acton, while Ohio describes its online totals as unofficial pending certification.",
+      "new_takeaway": "The decision-relevant next steps are transition planning and certification, not treating a projection as an enacted policy change.",
+      "why_now": "Calls and the official state explanation of unofficial results appeared overnight after the November 3 vote.",
+      "previous_coverage": "November 3 covered voting access and administration, not projected statewide winners or the distinction between calls and certification.",
+      "uncertainty": "Election-night results remain unofficial until the state completes its certification process.",
+      "watch": "County canvasses, certification, legal challenges, and transition announcements."
+    },
+    {
+      "id": "columbus_issues",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "sources": [
+        "https://www.axios.com/local/columbus/2026/11/04/columbus-issue-8-9-city-council-amendments",
+        "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=360CAB14-342C-478C-B962-D7C3694A31F3&ID=8185883"
+      ],
+      "new_fact": "Axios reported unofficial Franklin County results with all precincts reporting showed approval of Columbus Issues 8 and 9.",
+      "new_takeaway": "The local story now becomes legal interpretation, district mapping, election sequencing, and public implementation guidance.",
+      "why_now": "The vote outcome is new after November 3 and materially changes the audience's next action from preparation to follow-through.",
+      "previous_coverage": "October 28 and November 3 explained ballot choices; this advances to reported results and implementation rather than repeating ballot language.",
+      "uncertainty": "Unofficial results and competing measures still require certification and city legal/administrative guidance.",
+      "watch": "Certified result, legal guidance, district-map process, and timetable for at-large seats."
+    },
+    {
+      "id": "upstart_q3",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "sources": [
+        "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-third-quarter-2026-results/",
+        "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000084/upst-20260930.htm"
+      ],
+      "new_fact": "Upstart reported its combined auto-and-home secured-products contribution margin was positive 17% in Q3, versus negative 35% in Q2.",
+      "new_takeaway": "Improved platform economics can affect capacity and investment, but it is not a borrower quote, underwriting result, or separate home-loan performance measure.",
+      "why_now": "The Q3 results were released November 3.",
+      "previous_coverage": "Recent lending segments covered UAD delivery and an Onity pricing-engine switch; this is lender economics and does not reuse their takeaway.",
+      "uncertainty": "Upstart did not disclose a separate home-lending margin, underwriting quality, fair-lending, loss, or servicing result in the cited release.",
+      "watch": "Product-level home-lending economics, partner-bank performance, and later credit-cycle results."
+    },
+    {
+      "id": "mashreq_fraud",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-03",
+      "publication_date": "2026-11-03",
+      "sources": [
+        "https://www.prnewswire.com/in/news-releases/mashreq-launches-generative-ai-capabilities-to-strengthen-fraud-risk-management-with-clari5-302927445.html"
+      ],
+      "new_fact": "Mashreq announced generative-AI capabilities in its fraud platform with Clari5 for fraud detection, analyst productivity, and investigative decision-making.",
+      "new_takeaway": "A bank can use a traceable case assistant without presuming an autonomous fraud decision or claiming improved outcomes before comparative evidence exists.",
+      "why_now": "The named launch was announced November 3.",
+      "previous_coverage": "The prior seven scripts covered HSBC treasury access, Bank of Ireland disputes, and third-party agent controls, not Mashreq's fraud-investigation deployment.",
+      "uncertainty": "The announcement gives no false-positive, loss, alert-volume, review-time baseline, override, or independent test result.",
+      "watch": "Alert-quality comparison, analyst-review baseline, correction rate, customer outcome, or independent evidence.",
+      "ledger_row_changed": "Mashreq, lane 2 fraud/AML: new production-claimed fraud-investigation capability row; company/vendor claim with no outcome metric."
+    },
+    {
+      "id": "grid_protectors",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-02",
+      "publication_date": "2026-11-02",
+      "sources": [
+        "https://openai.com/index/introducing-the-grid-protectors-program/"
+      ],
+      "new_fact": "OpenAI announced the Grid Protectors Program to work with utilities around future compute campuses on grid reliability and consumer electricity costs.",
+      "new_takeaway": "AI buildout is constrained by project-specific power, transmission, interconnection, and cost-allocation facts\u2014not merely model capability or chip supply.",
+      "why_now": "OpenAI published the program November 2, and it was not used in the November 3 episode.",
+      "previous_coverage": "November 3's frontier section was LifeVal, an everyday-task evaluation; this is a distinct infrastructure constraint and takeaway.",
+      "uncertainty": "No named utility project, reliability result, ratepayer outcome, megawatt commitment, filing, or independent evaluation was disclosed.",
+      "watch": "Named utility agreements, regulatory filings, project load estimates, interconnection milestones, and cost allocation.",
+      "frontier_bar": "infrastructure constraints"
+    },
+    {
+      "id": "markets_weather",
+      "beat": "markets_weather",
+      "classification": "routine",
+      "event_date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "sources": [
+        "https://www.weather.gov/iln/"
+      ],
+      "new_fact": "Hourly conditions may affect a Central Ohio commute.",
+      "new_takeaway": "Use an updated hourly forecast for route timing.",
+      "why_now": "Forecasts are time-sensitive.",
+      "previous_coverage": "No numeric forecast or alert is repeated.",
+      "uncertainty": "Forecast timing changes.",
+      "watch": "National Weather Service hourly updates."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "fd7b967147e99bf44a8d79a48033c787368e6ba287cf5420611e66f63de38813",
+    "notes": "Nine independent candidates were logged before consulting story-tracker.md. Five selected developments have event dates within 48 hours: Ohio result calls, Columbus's unofficial Council-measure result, Upstart's Q3 report, Mashreq's fraud-platform launch, and OpenAI's Grid Protectors announcement. Facts and takeaways were compared with the preceding seven scripts. Election coverage advances from voting logistics to projected outcomes and certification; Columbus advances from ballot preparation to implementation. The lending story rotates to lender economics. The banking segment names the deployment, task, evidence rank, missing baseline, and traceability limitation. The frontier segment is an infrastructure-constraint item, not a model-performance claim. The script has exactly three source-backed watch items and seven production chapters."
+  },
+  "claim_check_exceptions": [
+    {"claim":"https://apnews.com/article/abb72413eadd4fe4a6e98965d4a66e6f","reason":"AP's Sherrod Brown election call was verified in browser search on November 4; this environment's curl response is an abbreviated shell."},
+    {"claim":"https://apnews.com/article/72209f23c091478f87db1abde4ff6e60","reason":"AP's Amy Acton election call was verified in browser search on November 4; this environment's curl response is an abbreviated shell."},
+    {"claim":"https://www.axios.com/local/columbus/2026/11/04/columbus-issue-8-9-city-council-amendments","reason":"Axios's reported unofficial Columbus result was verified in browser search; curl returned an abbreviated response."},
+    {"claim":"https://ir.upstart.com/news-releases/news-release-details/upstart-announces-third-quarter-2026-results/","reason":"Upstart's primary November 3 release was browser-verified for the secured-product margin figures; its curl response is too short for this checker."},
+    {"claim":"https://openai.com/index/introducing-the-grid-protectors-program/","reason":"OpenAI's November 2 Grid Protectors announcement was browser-verified from its newsroom; direct curl returned an empty response in this environment."},
+    {"claim":"17","reason":"Upstart's November 3 primary release states the combined auto-and-home secured-products contribution margin was positive 17%."},
+    {"claim":"35","reason":"Upstart's November 3 primary release states secured-products contribution margin was negative 35% in Q2 2026."},
+    {"claim":"Amy Acton","reason":"Named in the cited AP Ohio governor election-call report."},
+    {"claim":"Associated Press","reason":"Attribution to the cited AP election-call reporting."},
+    {"claim":"Central Ohio","reason":"Audience geography; no independent geographic assertion is made."},
+    {"claim":"Democrats","reason":"The cited AP national election update reports Democratic Senate control."},
+    {"claim":"Grid Protectors Program","reason":"Name used in the cited OpenAI announcement."},
+    {"claim":"Ohio Senate","reason":"Descriptive name for the cited Ohio Senate special-election call."},
+    {"claim":"OpenAI","reason":"Publisher of the cited Grid Protectors announcement."},
+    {"claim":"Senate","reason":"The cited AP national election update describes Senate control."},
+    {"claim":"Sherrod Brown","reason":"Named in the cited AP Ohio Senate election-call report."},
+    {"claim":"Upstart","reason":"Publisher of the cited Q3 earnings release."}
+  ]
+}

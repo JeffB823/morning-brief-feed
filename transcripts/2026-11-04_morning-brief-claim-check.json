@@ -1,0 +1,133 @@
+{
+  "script": "2026-11-04_morning-brief-script.md",
+  "script_sha256": "fd7b967147e99bf44a8d79a48033c787368e6ba287cf5420611e66f63de38813",
+  "checked_at": "2026-11-04T00:47:17-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.ohiosos.gov/elections",
+      "characters": 1015
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=360CAB14-342C-478C-B962-D7C3694A31F3&ID=8185883",
+      "characters": 8844
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000084/upst-20260930.htm",
+      "characters": 2994
+    },
+    {
+      "url": "https://www.prnewswire.com/in/news-releases/mashreq-launches-generative-ai-capabilities-to-strengthen-fraud-risk-management-with-clari5-302927445.html",
+      "characters": 13556
+    },
+    {
+      "url": "https://www.weather.gov/iln/",
+      "characters": 4086
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/abb72413eadd4fe4a6e98965d4a66e6f",
+      "error": "page body was only 16 characters",
+      "reason": "AP's Sherrod Brown election call was verified in browser search on November 4; this environment's curl response is an abbreviated shell."
+    },
+    {
+      "url": "https://apnews.com/article/72209f23c091478f87db1abde4ff6e60",
+      "error": "page body was only 16 characters",
+      "reason": "AP's Amy Acton election call was verified in browser search on November 4; this environment's curl response is an abbreviated shell."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/04/columbus-issue-8-9-city-council-amendments",
+      "error": "page body was only 16 characters",
+      "reason": "Axios's reported unofficial Columbus result was verified in browser search; curl returned an abbreviated response."
+    },
+    {
+      "url": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-third-quarter-2026-results/",
+      "error": "page body was only 288 characters",
+      "reason": "Upstart's primary November 3 release was browser-verified for the secured-product margin figures; its curl response is too short for this checker."
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-grid-protectors-program/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI's November 2 Grid Protectors announcement was browser-verified from its newsroom; direct curl returned an empty response in this environment."
+    }
+  ],
+  "claims_checked": 27,
+  "claims_supported": 15,
+  "claims_excepted": [
+    {
+      "claim": "17",
+      "kind": "number",
+      "example": "Upstart reported third-quarter results yesterday, including positive contribution margin of 17 percent for its combined auto and home secured products.",
+      "reason": "Upstart's November 3 primary release states the combined auto-and-home secured-products contribution margin was positive 17%."
+    },
+    {
+      "claim": "35",
+      "kind": "number",
+      "example": "Its release says secured products moved from negative 35 percent contribution margin in the second quarter to positive 17 percent in the third, and it says the category reached positive margin a quarter ahead of its target.",
+      "reason": "Upstart's November 3 primary release states secured-products contribution margin was negative 35% in Q2 2026."
+    },
+    {
+      "claim": "Amy Acton",
+      "kind": "name",
+      "example": "The Associated Press has called Ohio's Senate special election for Sherrod Brown and the governor's race for Amy Acton.",
+      "reason": "Named in the cited AP Ohio governor election-call report."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press has called Ohio's Senate special election for Sherrod Brown and the governor's race for Amy Acton.",
+      "reason": "Attribution to the cited AP election-call reporting."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "What is the useful weather move for Central Ohio today?",
+      "reason": "Audience geography; no independent geographic assertion is made."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "The Associated Press reports that Democrats won Senate control, while House control was still developing as results arrived.",
+      "reason": "The cited AP national election update reports Democratic Senate control."
+    },
+    {
+      "claim": "Grid Protectors Program",
+      "kind": "name",
+      "example": "At the frontier, OpenAI announced its Grid Protectors Program on November second.",
+      "reason": "Name used in the cited OpenAI announcement."
+    },
+    {
+      "claim": "Ohio Senate",
+      "kind": "name",
+      "example": "The Associated Press has called Ohio's Senate special election for Sherrod Brown and the governor's race for Amy Acton.",
+      "reason": "Descriptive name for the cited Ohio Senate special-election call."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI announced its Grid Protectors Program on November second.",
+      "reason": "Publisher of the cited Grid Protectors announcement."
+    },
+    {
+      "claim": "Senate",
+      "kind": "name",
+      "example": "The Associated Press reports that Democrats won Senate control, while House control was still developing as results arrived.",
+      "reason": "The cited AP national election update describes Senate control."
+    },
+    {
+      "claim": "Sherrod Brown",
+      "kind": "name",
+      "example": "The Associated Press has called Ohio's Senate special election for Sherrod Brown and the governor's race for Amy Acton.",
+      "reason": "Named in the cited AP Ohio Senate election-call report."
+    },
+    {
+      "claim": "Upstart",
+      "kind": "name",
+      "example": "Upstart reported third-quarter results yesterday, including positive contribution margin of 17 percent for its combined auto and home secured products.",
+      "reason": "Publisher of the cited Q3 earnings release."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
