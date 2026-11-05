@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-05",
+  "cutoff": "2026-11-05T07:35:00-05:00",
+  "history_compared": [
+    "2026-10-29_morning-brief-script.md",
+    "2026-10-30_morning-brief-script.md",
+    "2026-10-31_morning-brief-script.md",
+    "2026-11-01_morning-brief-script.md",
+    "2026-11-02_morning-brief-script.md",
+    "2026-11-03_morning-brief-script.md",
+    "2026-11-04_morning-brief-script.md"
+  ],
+  "candidates": [
+    {"id":"ap_voter_poll","beat":"national","event_date":"2026-11-05","publication_date":"2026-11-05","decision":"selected","reason":"New AP Voter Poll evidence advances post-election coverage from race calls to the affordability signal and its administrative limits."},
+    {"id":"zone_in_hearing","beat":"columbus","event_date":"2026-11-05","publication_date":"2026-11-05","decision":"selected","reason":"Tonight's hearing is a concrete public-input step after the comment period, distinct from yesterday's Council-election result."},
+    {"id":"fannie_manual_matrix","beat":"home_lending","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"selected","reason":"A dated manual-underwriting eligibility and implementation change rotates coverage to underwriting rules."},
+    {"id":"td_agent_restriction","beat":"bank_ai","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"selected","reason":"Named bank action restricts authenticated third-party personal-agent access; it is an operational control change, not a repeated deployment claim."},
+    {"id":"daybreak_govcloud","beat":"frontier_ai","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"selected","reason":"Fresh primary-source access expansion has a bounded security workflow and explicit approval limitation."},
+    {"id":"fannie_guide_general","beat":"home_lending","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"rejected","reason":"Used only as corroborating context because the manual-underwriting letter has the clearer affected workflow and effective date."},
+    {"id":"columbus_council_results","beat":"columbus","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"rejected","reason":"Covered substantively November 4; no verified new implementation fact at cutoff."},
+    {"id":"openai_pierre_acquisition","beat":"frontier_ai","event_date":"2026-11-04","publication_date":"2026-11-04","decision":"rejected","reason":"Acquisition announcement offers no disclosed task result or specific regulated-workflow implication superior to Daybreak access."},
+    {"id":"markets_weather","beat":"markets_weather","event_date":"2026-11-05","publication_date":"2026-11-05","decision":"selected_routine","reason":"Compact decision aid only; it does not count toward the freshness requirement."}
+  ],
+  "stories": [
+    {
+      "id":"ap_voter_poll","beat":"national","classification":"fresh","event_date":"2026-11-05","publication_date":"2026-11-05",
+      "sources":["https://apnews.com/article/f8dbe8800549340c8a75d956302c126b"],
+      "new_fact":"AP reported that its Voter Poll of more than 100,000 voters identified high prices and affordability as central to the midterm outcome.",
+      "new_takeaway":"A voter-cost signal increases accountability pressure but is not an enacted affordability policy or an interest-rate forecast.",
+      "why_now":"This is new post-election evidence published November 5, after the November 4 edition focused on result calls and certification.",
+      "previous_coverage":"November 4 covered Ohio calls and certification mechanics; it did not cover AP Voter Poll issue evidence or its limited operational interpretation.",
+      "uncertainty":"Polling describes voter views and cannot determine the policy package, timing, or economic effect of the next Congress or state government.",
+      "watch":"Leadership, committee, budget, agency, and regulatory documents that specify a mechanism, cost, and timetable."
+    },
+    {
+      "id":"zone_in_hearing","beat":"columbus","classification":"fresh","event_date":"2026-11-05","publication_date":"2026-11-05",
+      "sources":["https://www.ahaco.org/events/zone-in-public-hearing"],
+      "new_fact":"Columbus Council's third Zone In Phase II hearing is scheduled for November 5 at 6 p.m. to summarize feedback after the 60-day comment period ended October 24.",
+      "new_takeaway":"The useful local action is to assess draft maps and rules that affect a specific place while revisions remain possible, not to treat a hearing as a permit or final zoning outcome.",
+      "why_now":"The hearing is today and creates a new public-input milestone within the current planning process.",
+      "previous_coverage":"November 4 covered Council-election charter results; this is a separate housing-and-development rulemaking process with a different decision point.",
+      "uncertainty":"The notice does not establish final proposal language, map revisions, Council approval, or outcomes for any parcel.",
+      "watch":"Feedback summary, revised language and maps, final Council proposal date, and any parcel-specific implementation documents."
+    },
+    {
+      "id":"fannie_manual_matrix","beat":"home_lending","classification":"fresh","event_date":"2026-11-04","publication_date":"2026-11-04",
+      "sources":["https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility","https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-10-selling-guide-updates"],
+      "new_fact":"Fannie Mae's Lender Letter LL-2026-09 revises the manual-underwriting Eligibility Matrix for loans sold on or after February 22, 2027, including aligned score requirements and consistent score and reserve requirements for specified transactions.",
+      "new_takeaway":"The immediate work is lender policy, system, training, and QC implementation; the notice is not a universal borrower-approval or pricing promise.",
+      "why_now":"Fannie published the lender letter and companion Selling Guide update November 4.",
+      "previous_coverage":"Recent lending coverage used appraisal delivery, pricing-engine, servicing, and lender-economics stories; this is a new underwriting/eligibility rotation with a future implementation date.",
+      "uncertainty":"The public summaries do not establish any individual loan result; detailed matrix provisions, lender overlays, investor path, and transaction dates remain decisive.",
+      "watch":"Detailed matrix provisions, lender notices, test results, and the February 22, 2027 sold-to-Fannie effective date."
+    },
+    {
+      "id":"td_agent_restriction","beat":"bank_ai","classification":"fresh","event_date":"2026-11-04","publication_date":"2026-11-04",
+      "sources":["https://stories.td.com/us/en/article/ai-agents-and-your-banking-what-you-need-to-know"],
+      "new_fact":"TD Bank U.S. says it is introducing measures to help temporarily restrict certain third-party personal AI agents from directly accessing banking information where client authentication is required, while API-based data sharing with certain third parties is unaffected.",
+      "new_takeaway":"Agentic-banking implementation can advance through an access restriction: banks need a sharper boundary between approved permissions and agent access at a login boundary.",
+      "why_now":"TD published the named access-control decision November 4.",
+      "previous_coverage":"The prior seven episodes covered fraud assistance, treasury data access, and vendor tooling, not TD's temporary personal-agent restriction at authenticated access.",
+      "uncertainty":"TD discloses no attack count, loss prevention, false-positive rate, implementation timeline, or future authorization standard.",
+      "watch":"TD's future access policy, permission model, customer authorization evidence, exceptions, and independent security or fraud evidence.",
+      "ledger_row_changed":"TD Bank U.S., lane 8 access control/model risk: new announced authenticated personal-agent restriction; customer disclosure with no outcome metric."
+    },
+    {
+      "id":"daybreak_govcloud","beat":"frontier_ai","classification":"fresh","event_date":"2026-11-04","publication_date":"2026-11-04",
+      "sources":["https://openai.com/index/daybreak-red-aws-govcloud/"],
+      "new_fact":"OpenAI made Daybreak Red, including GPT-5.6 Cyber for approved customers, available in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "new_takeaway":"A new government-cloud route can change where eligible defenders use a frontier cyber model without proving a benchmark gain, a completed remediation result, or general access.",
+      "why_now":"The access expansion was announced November 4.",
+      "previous_coverage":"November 4 covered OpenAI's Grid Protectors infrastructure program; Daybreak is a distinct security access route and workflow boundary.",
+      "uncertainty":"The announcement gives no comparative vulnerability-find rate, false-positive rate, patch-quality result, misuse outcome, or independent test.",
+      "watch":"Independent evaluation, eligibility changes, misuse evidence, and customer results on validation and remediation quality.",
+      "frontier_bar":"price and access shift"
+    },
+    {
+      "id":"markets_weather","beat":"markets_weather","classification":"routine","event_date":"2026-11-05","publication_date":"2026-11-05",
+      "sources":["https://www.weather.gov/iln/"],
+      "new_fact":"The hourly Columbus forecast is decision-relevant for the commute and the evening hearing.",
+      "new_takeaway":"Use current route-time conditions rather than an overnight weather summary.",
+      "why_now":"Weather timing is time-sensitive.",
+      "previous_coverage":"No numeric forecast or alert is repeated.",
+      "uncertainty":"Forecast timing and conditions can change.",
+      "watch":"National Weather Service hourly updates."
+    }
+  ],
+  "ai_banking_card":{"institution_and_task":"TD Bank U.S.; restriction of certain third-party personal AI-agent access to authenticated banking information","lane":"8 - compliance, model risk, audit, and QC","ledger_row_changed":"New TD Bank U.S. access-control row","status":"announced","evidence_rank":"customer disclosure","disclosed_metric_and_baseline":"none disclosed","large_bank_change":"Separate permitted API data sharing from an agent reaching an authenticated login boundary and record authority evidence.","limitation":"No attack, loss-prevention, false-positive, or reopening-timeline evidence is disclosed.","next_dated_event":"No date announced; revisit on a future TD access policy or tested authorization disclosure."},
+  "frontier_ai_card":{"item_and_primary_source":"OpenAI Daybreak Red on AWS GovCloud, November 4 product announcement","qualifying_bar":"price and access shift","what_is_new":"Approved users can seek Daybreak Red access through AWS GovCloud (US-East) and Amazon Bedrock.","new_capability":"Eligible government defenders can use the model in that particular cloud environment for authorized vulnerability work.","measurement":"OpenAI states intended use and access controls; no measured performance baseline is disclosed.","tradeoff_or_limit":"Eligibility, monitoring, and human review are essential; access does not show a patch-quality or exploit-validation result.","who_and_condition":"Government defenders benefit only if approval, practitioner review, and real task validation produce usable findings.","bridge":"A regulated bank could first use an analogous tool in a scoped internal security evaluation, gated by access controls and human review before remediation or production action."},
+  "editorial_review":{"sources_checked":true,"event_dates_checked":true,"novelty_checked":true,"cohost_answers_checked":true,"lending_workflow_checked":true,"ai_evidence_checked":true,"three_watch_items_checked":true,"source_word_limits_checked":true,"chapters_checked":true,"script_sha256":"1f74301b1926bb2123a601ff5800ccbc768e7c4889622d1c1f0ceffa39ee4566","notes":"Nine candidates were logged before consulting story-tracker.md. Five selected developments have original event dates within 48 hours: AP Voter Poll reporting, the Zone In hearing, Fannie manual-underwriting changes, TD's authenticated-agent restriction, and Daybreak Red GovCloud availability. The election story advances from results to issue evidence, and Columbus advances from Council-election implementation to a separate zoning hearing. Home lending rotates to underwriting/eligibility. The TD segment records a specific lane-eight operational boundary and discloses its evidence limitation. Daybreak clears an access bar, not a performance bar. The script has seven production chapters, exactly three closing watch items, 1,775 spoken words, and substantive cohost questions with answers."},
+  "claim_check_exceptions":[
+    {"claim":"https://apnews.com/article/f8dbe8800549340c8a75d956302c126b","reason":"AP Voter Poll reporting was verified in browser search on November 5; this environment's direct fetch returned only an abbreviated shell."},
+    {"claim":"https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility","reason":"Fannie Mae's primary lender-letter page was browser-verified on November 5 for its November 4 date and February 22, 2027 effective date; direct fetch returned an abbreviated shell."},
+    {"claim":"https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-10-selling-guide-updates","reason":"Fannie Mae's primary Selling Guide page was browser-verified on November 5 for VantageScore 4.0 and DU Version 12.1 language; direct fetch returned an abbreviated shell."},
+    {"claim":"https://openai.com/index/daybreak-red-aws-govcloud/","reason":"OpenAI's primary Daybreak Red page was browser-verified on November 5; direct curl returned an empty response in this environment."},
+    {"claim":"12.1","reason":"Fannie Mae's November 4 Selling Guide announcement names DU Version 12.1."},
+    {"claim":"2027","reason":"Fannie Mae's November 4 manual-underwriting letter sets February 22, 2027 for loans sold to Fannie Mae."},
+    {"claim":"35","reason":"Editorial research cutoff time recorded for this episode; it is not a factual story claim."},
+    {"claim":"4.0","reason":"Fannie Mae's November 4 Selling Guide announcement names VantageScore 4.0."},
+    {"claim":"5.6","reason":"OpenAI's November 4 Daybreak Red announcement names GPT-5.6 Cyber."},
+    {"claim":"AWS","reason":"OpenAI's Daybreak Red announcement names AWS GovCloud and Amazon Bedrock."},
+    {"claim":"AWS GovCloud","reason":"OpenAI's primary announcement identifies AWS GovCloud (US-East) as the new availability route."},
+    {"claim":"Amazon Bedrock","reason":"OpenAI's primary announcement identifies Amazon Bedrock as the service path."},
+    {"claim":"Associated Press Voter Poll","reason":"Attribution to the cited AP November 5 report describing its Voter Poll."},
+    {"claim":"Congress","reason":"Generic institutional reference, not a claimed legislative result."},
+    {"claim":"DU Version","reason":"Fannie Mae's November 4 Selling Guide announcement uses this product name."},
+    {"claim":"Daybreak","reason":"OpenAI's cited primary announcement uses the Daybreak product name."},
+    {"claim":"Daybreak Red","reason":"OpenAI's cited primary announcement uses the Daybreak Red product name."},
+    {"claim":"Eligibility Matrix","reason":"Fannie Mae's November 4 lender letter names the manual-underwriting Eligibility Matrix."},
+    {"claim":"Fannie","reason":"Shorthand for the cited Fannie Mae primary source."},
+    {"claim":"Fannie Mae","reason":"Publisher and subject of the two cited primary policy announcements."},
+    {"claim":"Fannie Mae November","reason":"Reference to Fannie Mae's cited November 4 lender letter."},
+    {"claim":"Fannie-eligible","reason":"Descriptive reference to loan files sold to Fannie Mae under the cited letter."},
+    {"claim":"GPT-5.6 Cyber","reason":"OpenAI's November 4 Daybreak Red announcement names GPT-5.6 Cyber."},
+    {"claim":"OpenAI","reason":"Publisher of the cited Daybreak Red announcement."},
+    {"claim":"Republican","reason":"The cited AP Voter Poll report attributes the midterm losses to the Republican Party."},
+    {"claim":"Selling Guide","reason":"Fannie Mae's cited announcement is titled Selling Guide Updates."},
+    {"claim":"Treasury","reason":"Generic market-reference sentence; no treasury-yield level or direction is asserted."},
+    {"claim":"VantageScore","reason":"Fannie Mae's November 4 Selling Guide announcement names VantageScore 4.0."},
+    {"claim":"the Columbus","reason":"Audience-geography wording, not a factual claim requiring an external source."}
+  ]
+}

@@ -1,33 +1,33 @@
-# Story Tracker — updated 2026-11-04
+# Story Tracker — updated 2026-11-05
 
 Only active stories likely to move within five days.
 
 ## Ohio election certification and transition
-- Last verified development: AP called Ohio's Senate special election for Sherrod Brown and its governor race for Amy Acton on November 4; Ohio says online results remain unofficial until certification.
-- Last takeaway: Projected outcomes change transition planning, but certification and legal process determine the formal record.
-- Source: https://www.ohiosos.gov/elections
-- Revisit trigger: County canvass, certification notice, legal challenge, or concrete transition action.
+- Last verified development: AP Voter Poll reporting published November 5 identified high prices and affordability as central to the midterm outcome; Ohio's reported results remain subject to formal certification.
+- Last takeaway: Post-election affordability pressure is not an enacted policy; the usable next evidence is an actual governing document.
+- Source: https://apnews.com/article/f8dbe8800549340c8a75d956302c126b
+- Revisit trigger: County canvass, certification notice, leadership/committee decision, budget, rule, or concrete transition action.
 
-## Columbus Council-election implementation
-- Last verified development: Axios reported unofficial Franklin County results with all precincts reporting approved both Issues 8 and 9 on November 4.
-- Last takeaway: The next real decision points are certification, legal interpretation, district mapping, election sequencing, and city guidance.
-- Source: https://www.axios.com/local/columbus/2026/11/04/columbus-issue-8-9-city-council-amendments
-- Revisit trigger: Certified result, city legal guidance, district-map action, or at-large-seat timetable.
+## Columbus Zone In Phase II
+- Last verified development: A November 5 public hearing will summarize feedback after the sixty-day Zone In Phase II comment period closed October 24, before a final proposal goes to Council.
+- Last takeaway: The practical local decision point is draft map and text review while revisions are still possible, not an assumption that a hearing approves a project.
+- Source: https://www.ahaco.org/events/zone-in-public-hearing
+- Revisit trigger: Feedback summary, revised draft or maps, final Council proposal, or parcel-specific implementation material.
 
-## Upstart secured-lending economics
-- Last verified development: Upstart reported November 3 that combined auto-and-home secured contribution margin was positive 17% in Q3, compared with negative 35% in Q2.
-- Last takeaway: Improved platform economics is not a borrower quote, separate home-loan result, or proof of underwriting quality.
-- Source: https://ir.upstart.com/news-releases/news-release-details/upstart-announces-third-quarter-2026-results/
-- Revisit trigger: Separate home-product economics, partner-bank result, underwriting-quality disclosure, or credit-cycle performance.
+## Fannie Mae manual-underwriting matrix
+- Last verified development: Fannie Mae issued Lender Letter LL-2026-09 November 4 for loans sold on or after February 22, 2027, with revised manual-underwriting eligibility matrix requirements.
+- Last takeaway: The immediate work is lender policy, training, system, and QC implementation; it is not a universal borrower approval or pricing change.
+- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility
+- Revisit trigger: Detailed matrix provisions, lender implementation notices, testing evidence, or February 22 effective-date guidance.
 
-## Mashreq fraud-platform AI
-- Last verified development: Mashreq announced November 3 generative-AI capabilities in its fraud platform with Clari5.
-- Last takeaway: A named fraud-investigation capability is not a demonstrated alert-quality, loss, or analyst-productivity result.
-- Source: https://www.prnewswire.com/in/news-releases/mashreq-launches-generative-ai-capabilities-to-strengthen-fraud-risk-management-with-clari5-302927445.html
-- Revisit trigger: Alert-quality benchmark, review-time baseline, correction or override data, loss outcome, or independent test.
+## TD Bank U.S. agent-access restriction
+- Last verified development: TD said November 4 it is introducing measures to temporarily restrict certain third-party personal AI agents from directly accessing banking information where client authentication is required.
+- Last takeaway: A bank's important AI implementation change can be a boundary on authority, not a productivity claim.
+- Source: https://stories.td.com/us/en/article/ai-agents-and-your-banking-what-you-need-to-know
+- Revisit trigger: New authorization design, permission model, exception process, independent security evidence, or reopened access.
 
-## OpenAI Grid Protectors Program
-- Last verified development: OpenAI announced November 2 a utility-facing program concerning future compute campuses, grid reliability, and consumer electricity costs.
-- Last takeaway: Compute expansion needs project-specific power and cost-allocation evidence, not just an AI-company planning announcement.
-- Source: https://openai.com/index/introducing-the-grid-protectors-program/
-- Revisit trigger: Named utility agreement, regulatory filing, load estimate, interconnection milestone, or cost-allocation disclosure.
+## Daybreak Red AWS GovCloud availability
+- Last verified development: OpenAI announced November 4 that approved customers can access Daybreak Red through Amazon Bedrock in AWS GovCloud (US-East) for authorized cyber work.
+- Last takeaway: This changes an access route, not the evidence on real vulnerability discovery or remediation quality.
+- Source: https://openai.com/index/daybreak-red-aws-govcloud/
+- Revisit trigger: Independent testing, eligibility change, customer deployment evidence, published misuse results, or measured validation/remediation outcome.

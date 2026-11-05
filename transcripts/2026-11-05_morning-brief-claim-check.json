@@ -1,0 +1,198 @@
+{
+  "script": "2026-11-05_morning-brief-script.md",
+  "script_sha256": "1f74301b1926bb2123a601ff5800ccbc768e7c4889622d1c1f0ceffa39ee4566",
+  "checked_at": "2026-11-05T00:44:48-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.ahaco.org/events/zone-in-public-hearing",
+      "characters": 4555
+    },
+    {
+      "url": "https://stories.td.com/us/en/article/ai-agents-and-your-banking-what-you-need-to-know",
+      "characters": 6472
+    },
+    {
+      "url": "https://www.weather.gov/iln/",
+      "characters": 4086
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/f8dbe8800549340c8a75d956302c126b",
+      "error": "page body was only 16 characters",
+      "reason": "AP Voter Poll reporting was verified in browser search on November 5; this environment's direct fetch returned only an abbreviated shell."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae's primary lender-letter page was browser-verified on November 5 for its November 4 date and February 22, 2027 effective date; direct fetch returned an abbreviated shell."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-10-selling-guide-updates",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae's primary Selling Guide page was browser-verified on November 5 for VantageScore 4.0 and DU Version 12.1 language; direct fetch returned an abbreviated shell."
+    },
+    {
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI's primary Daybreak Red page was browser-verified on November 5; direct curl returned an empty response in this environment."
+    }
+  ],
+  "claims_checked": 40,
+  "claims_supported": 15,
+  "claims_excepted": [
+    {
+      "claim": "12.1",
+      "kind": "number",
+      "example": "The Selling Guide update says VantageScore 4.0 use extends to manually underwritten loans as well as DU Version 12.1 casefiles, while the lender letter speaks to manual-underwriting eligibility details.",
+      "reason": "Fannie Mae's November 4 Selling Guide announcement names DU Version 12.1."
+    },
+    {
+      "claim": "2027",
+      "kind": "number",
+      "example": "Fannie Mae's November fourth lender letter revises its manual-underwriting Eligibility Matrix for loans sold to Fannie on or after February twenty-second, 2027.",
+      "reason": "Fannie Mae's November 4 manual-underwriting letter sets February 22, 2027 for loans sold to Fannie Mae."
+    },
+    {
+      "claim": "35",
+      "kind": "number",
+      "example": "This is Morning Brief, researched through 7:35 a.m.",
+      "reason": "Editorial research cutoff time recorded for this episode; it is not a factual story claim."
+    },
+    {
+      "claim": "4.0",
+      "kind": "number",
+      "example": "The Selling Guide update says VantageScore 4.0 use extends to manually underwritten loans as well as DU Version 12.1 casefiles, while the lender letter speaks to manual-underwriting eligibility details.",
+      "reason": "Fannie Mae's November 4 Selling Guide announcement names VantageScore 4.0."
+    },
+    {
+      "claim": "5.6",
+      "kind": "number",
+      "example": "The stated capability is GPT-5.6 Cyber for authorized vulnerability research, exploit validation, and security testing inside government teams' existing AWS environment.",
+      "reason": "OpenAI's November 4 Daybreak Red announcement names GPT-5.6 Cyber."
+    },
+    {
+      "claim": "AWS",
+      "kind": "name",
+      "example": "The stated capability is GPT-5.6 Cyber for authorized vulnerability research, exploit validation, and security testing inside government teams' existing AWS environment.",
+      "reason": "OpenAI's Daybreak Red announcement names AWS GovCloud and Amazon Bedrock."
+    },
+    {
+      "claim": "AWS GovCloud",
+      "kind": "name",
+      "example": "On November fourth, OpenAI made Daybreak Red available through AWS GovCloud in the U.S.",
+      "reason": "OpenAI's primary announcement identifies AWS GovCloud (US-East) as the new availability route."
+    },
+    {
+      "claim": "Amazon Bedrock",
+      "kind": "name",
+      "example": "The new part is availability in AWS GovCloud through Amazon Bedrock, subject to both Daybreak approval and AWS provisioning.",
+      "reason": "OpenAI's primary announcement identifies Amazon Bedrock as the service path."
+    },
+    {
+      "claim": "Associated Press Voter Poll",
+      "kind": "name",
+      "example": "The Associated Press's Voter Poll, based on more than one hundred thousand voters, reports that high prices and affordability were central to the Republican losses.",
+      "reason": "Attribution to the cited AP November 5 report describing its Voter Poll."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "That does not enact a federal affordability program, but it changes the pressure on the incoming Congress and state leaders to show which costs they can affect.",
+      "reason": "Generic institutional reference, not a claimed legislative result."
+    },
+    {
+      "claim": "DU Version",
+      "kind": "name",
+      "example": "The Selling Guide update says VantageScore 4.0 use extends to manually underwritten loans as well as DU Version 12.1 casefiles, while the lender letter speaks to manual-underwriting eligibility details.",
+      "reason": "Fannie Mae's November 4 Selling Guide announcement uses this product name."
+    },
+    {
+      "claim": "Daybreak",
+      "kind": "name",
+      "example": "The new part is availability in AWS GovCloud through Amazon Bedrock, subject to both Daybreak approval and AWS provisioning.",
+      "reason": "OpenAI's cited primary announcement uses the Daybreak product name."
+    },
+    {
+      "claim": "Daybreak Red",
+      "kind": "name",
+      "example": "On November fourth, OpenAI made Daybreak Red available through AWS GovCloud in the U.S.",
+      "reason": "OpenAI's cited primary announcement uses the Daybreak Red product name."
+    },
+    {
+      "claim": "Eligibility Matrix",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth lender letter revises its manual-underwriting Eligibility Matrix for loans sold to Fannie on or after February twenty-second, 2027.",
+      "reason": "Fannie Mae's November 4 lender letter names the manual-underwriting Eligibility Matrix."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth lender letter revises its manual-underwriting Eligibility Matrix for loans sold to Fannie on or after February twenty-second, 2027.",
+      "reason": "Shorthand for the cited Fannie Mae primary source."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Fannie Mae's manual-underwriting matrix gives lenders a February implementation date, Columbus residents can weigh in on zoning tonight, and TD has drawn a line around personal AI agents accessing authenticated accounts.",
+      "reason": "Publisher and subject of the two cited primary policy announcements."
+    },
+    {
+      "claim": "Fannie Mae November",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth lender letter revises its manual-underwriting Eligibility Matrix for loans sold to Fannie on or after February twenty-second, 2027.",
+      "reason": "Reference to Fannie Mae's cited November 4 lender letter."
+    },
+    {
+      "claim": "Fannie-eligible",
+      "kind": "name",
+      "example": "A lender that manually underwrites Fannie-eligible files needs to map the new matrix to its overlays, product setup, underwriting job aids, training, and pre-purchase review before the sold-to-Fannie date.",
+      "reason": "Descriptive reference to loan files sold to Fannie Mae under the cited letter."
+    },
+    {
+      "claim": "GPT-5.6 Cyber",
+      "kind": "name",
+      "example": "The stated capability is GPT-5.6 Cyber for authorized vulnerability research, exploit validation, and security testing inside government teams' existing AWS environment.",
+      "reason": "OpenAI's November 4 Daybreak Red announcement names GPT-5.6 Cyber."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "On November fourth, OpenAI made Daybreak Red available through AWS GovCloud in the U.S.",
+      "reason": "Publisher of the cited Daybreak Red announcement."
+    },
+    {
+      "claim": "Republican",
+      "kind": "name",
+      "example": "The Associated Press's Voter Poll, based on more than one hundred thousand voters, reports that high prices and affordability were central to the Republican losses.",
+      "reason": "The cited AP Voter Poll report attributes the midterm losses to the Republican Party."
+    },
+    {
+      "claim": "Selling Guide",
+      "kind": "name",
+      "example": "Why mention the separate Selling Guide announcement on the same day?",
+      "reason": "Fannie Mae's cited announcement is titled Selling Guide Updates."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "Markets need a compact reminder after an election: a Treasury move or a political interpretation is not a mortgage quote.",
+      "reason": "Generic market-reference sentence; no treasury-yield level or direction is asserted."
+    },
+    {
+      "claim": "VantageScore",
+      "kind": "name",
+      "example": "The Selling Guide update says VantageScore 4.0 use extends to manually underwritten loans as well as DU Version 12.1 casefiles, while the lender letter speaks to manual-underwriting eligibility details.",
+      "reason": "Fannie Mae's November 4 Selling Guide announcement names VantageScore 4.0."
+    },
+    {
+      "claim": "the Columbus",
+      "kind": "name",
+      "example": "And the Columbus weather decision?",
+      "reason": "Audience-geography wording, not a factual claim requiring an external source."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
