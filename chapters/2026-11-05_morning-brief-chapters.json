@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 38.05
+    },
+    {
+      "title": "Voter Cost Signal",
+      "start": 38.05,
+      "end": 164.725
+    },
+    {
+      "title": "Columbus Zone In",
+      "start": 164.725,
+      "end": 278.15
+    },
+    {
+      "title": "Home Lending",
+      "start": 278.15,
+      "end": 433.225
+    },
+    {
+      "title": "AI in Banking",
+      "start": 433.225,
+      "end": 557.375
+    },
+    {
+      "title": "Frontier AI",
+      "start": 557.375,
+      "end": 707.425
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 707.425,
+      "end": 759.475
+    },
+    {
+      "title": "What to Watch",
+      "start": 759.475,
+      "end": 784.175
+    }
+  ]
+}
