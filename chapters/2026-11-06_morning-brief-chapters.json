@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 33.9
+    },
+    {
+      "title": "National Data-Center Shift",
+      "start": 33.9,
+      "end": 161.275
+    },
+    {
+      "title": "Central Ohio Ballots",
+      "start": 161.275,
+      "end": 274.325
+    },
+    {
+      "title": "Home Lending",
+      "start": 274.325,
+      "end": 431.25
+    },
+    {
+      "title": "AI in Banking",
+      "start": 431.25,
+      "end": 568.175
+    },
+    {
+      "title": "Frontier AI",
+      "start": 568.175,
+      "end": 727.175
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 727.175,
+      "end": 765.6
+    },
+    {
+      "title": "Watch Next",
+      "start": 765.6,
+      "end": 785.925
+    }
+  ]
+}
