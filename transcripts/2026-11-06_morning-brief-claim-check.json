@@ -1,0 +1,180 @@
+{
+  "script": "2026-11-06_morning-brief-script.md",
+  "script_sha256": "8cbe2a254f8c38fa1c5859f57e54082874f67b9a67d7a622cea2a8a63eed1253",
+  "checked_at": "2026-11-06T00:48:04-0500",
+  "sources_fetched": [
+    {
+      "url": "https://arxiv.org/abs/2611.06116",
+      "characters": 5624
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10890
+    },
+    {
+      "url": "https://www.weather.gov/iln/",
+      "characters": 4086
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/data-centers-artificial-intelligence-texas-tech-trump-63b33be8884d867d3ac831040d683a2c",
+      "error": "page body was only 16 characters",
+      "reason": "AP article was opened and verified in browser on November 6; direct retrieval may return an abbreviated shell."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/05/ohio-data-center-election",
+      "error": "page body was only 16 characters",
+      "reason": "Axios article was opened and verified in browser on November 6; any abbreviated direct response is documented by the claim checker."
+    },
+    {
+      "url": "https://guide.freddiemac.com/app/guide/bulletin/2026-15",
+      "error": "page body was only 10 characters",
+      "reason": "Freddie Mac Bulletin 2026-15 primary text was opened through its linked Guide document on November 6; the publisher\u2019s delivery may require browser rendering."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI primary announcement was opened and verified in browser on November 6; direct curl can return an empty page in this environment."
+    }
+  ],
+  "claims_checked": 33,
+  "claims_supported": 11,
+  "claims_excepted": [
+    {
+      "claim": "28",
+      "kind": "number",
+      "example": "Grove City's Issue 28 passed and requires a referendum for large developments using substantial water or land.",
+      "reason": "Grove City Issue 28 identifier is stated in the browser-verified Axios report."
+    },
+    {
+      "claim": "5.6",
+      "kind": "number",
+      "example": "OpenAI reports a forty-eight point five percent score on ExploitGym, compared with thirty-two point one percent for GPT-5.6 Cyber.",
+      "reason": "GPT-5.6 Cyber is the prior-version name in OpenAI\u2019s browser-verified release."
+    },
+    {
+      "claim": "50",
+      "kind": "number",
+      "example": "This is Morning Brief, researched through 7:50 a.m.",
+      "reason": "The minute component in the editorial cutoff is not a reported story claim."
+    },
+    {
+      "claim": "API and Codex",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-6 Cyber on November fifth to a select group of approved Daybreak Red customers through the API and Codex.",
+      "reason": "OpenAI\u2019s release states the initial availability channel."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports that five communities voted on data-center-related issues.",
+      "reason": "Attribution to the cited Axios Columbus report."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Central Ohio supplies a concrete version of that story.",
+      "reason": "Geographic audience reference; the cited Axios report lists the local communities."
+    },
+    {
+      "claim": "Critical",
+      "kind": "name",
+      "example": "OpenAI says the model is trained to find and validate exploitable vulnerabilities while staying within a researcher's authorized scope, and classifies it as Critical for cybersecurity capability under its Preparedness Framework.",
+      "reason": "OpenAI labels GPT-6 Cyber Critical under its Preparedness Framework in the cited release."
+    },
+    {
+      "claim": "Daybreak Red",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-6 Cyber on November fifth to a select group of approved Daybreak Red customers through the API and Codex.",
+      "reason": "OpenAI\u2019s cited release identifies the approved access program."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "The Associated Press reports that candidates who ran against data-center expansion helped Democrats flip governors' offices in several data-center states, including Ohio.",
+      "reason": "The cited AP report attributes relevant election wins to Democrats."
+    },
+    {
+      "claim": "EdgeConneX",
+      "kind": "name",
+      "example": "Ashville voters overturned a resolution allowing an EdgeConneX facility.",
+      "reason": "The cited Axios report identifies the Ashville facility as EdgeConneX."
+    },
+    {
+      "claim": "ExploitGym",
+      "kind": "name",
+      "example": "OpenAI reports a forty-eight point five percent score on ExploitGym, compared with thirty-two point one percent for GPT-5.6 Cyber.",
+      "reason": "OpenAI\u2019s cited release names ExploitGym and reports the comparison."
+    },
+    {
+      "claim": "Firefox",
+      "kind": "name",
+      "example": "OpenAI also says its researchers used it to reproduce vulnerabilities and develop exploits in Linux and to identify high-severity Firefox vulnerabilities; Mozilla has released fixes for many of those findings.",
+      "reason": "OpenAI\u2019s cited release reports Firefox findings and Mozilla fixes."
+    },
+    {
+      "claim": "Freddie Mac Bulletin",
+      "kind": "name",
+      "example": "Freddie Mac's Bulletin 2026-15 reclassifies a mortgage used to buy out a co-owner's equity from cash-out refinance to no-cash-out refinance, renames it an equity-buyout refinance, and broadens eligibility to the loan-to-value ratios, underwriting requirements, and affordable programs available for no-cash-out transactions.",
+      "reason": "The cited Freddie Mac primary bulletin identifies the issuing organization and bulletin."
+    },
+    {
+      "claim": "GPT-5.6 Cyber",
+      "kind": "name",
+      "example": "OpenAI reports a forty-eight point five percent score on ExploitGym, compared with thirty-two point one percent for GPT-5.6 Cyber.",
+      "reason": "OpenAI\u2019s cited release gives GPT-5.6 Cyber as the comparison model."
+    },
+    {
+      "claim": "GPT-6 Cyber",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-6 Cyber on November fifth to a select group of approved Daybreak Red customers through the API and Codex.",
+      "reason": "OpenAI\u2019s cited release is titled GPT-6 Cyber and documents the rollout."
+    },
+    {
+      "claim": "Granville Pataskala and Sunbury",
+      "kind": "name",
+      "example": "Granville, Pataskala, and Sunbury approved restrictions on data centers using twenty-five megawatts or more.",
+      "reason": "The browser-verified Axios report names these communities and the restriction threshold."
+    },
+    {
+      "claim": "Grove City Issue",
+      "kind": "name",
+      "example": "Grove City's Issue 28 passed and requires a referendum for large developments using substantial water or land.",
+      "reason": "The cited Axios report identifies Grove City\u2019s Issue 28."
+    },
+    {
+      "claim": "Linux",
+      "kind": "name",
+      "example": "OpenAI also says its researchers used it to reproduce vulnerabilities and develop exploits in Linux and to identify high-severity Firefox vulnerabilities; Mozilla has released fixes for many of those findings.",
+      "reason": "OpenAI\u2019s cited release reports its Linux vulnerability research."
+    },
+    {
+      "claim": "Mozilla",
+      "kind": "name",
+      "example": "OpenAI also says its researchers used it to reproduce vulnerabilities and develop exploits in Linux and to identify high-severity Firefox vulnerabilities; Mozilla has released fixes for many of those findings.",
+      "reason": "OpenAI\u2019s cited release identifies Mozilla as having released fixes for many findings."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-6 Cyber on November fifth to a select group of approved Daybreak Red customers through the API and Codex.",
+      "reason": "Publisher and named source of the cited GPT-6 Cyber announcement."
+    },
+    {
+      "claim": "OpenAI GPT-6 Cyber",
+      "kind": "name",
+      "example": "We'll also examine what OpenAI's GPT-6 Cyber measured-and where authorization limits still matter.",
+      "reason": "Combined publisher and product name from OpenAI\u2019s cited primary release."
+    },
+    {
+      "claim": "Preparedness Framework",
+      "kind": "name",
+      "example": "OpenAI says the model is trained to find and validate exploitable vulnerabilities while staying within a researcher's authorized scope, and classifies it as Critical for cybersecurity capability under its Preparedness Framework.",
+      "reason": "OpenAI names its Preparedness Framework in the cited release."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

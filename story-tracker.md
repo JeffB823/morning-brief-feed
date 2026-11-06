@@ -1,33 +1,33 @@
-# Story Tracker — updated 2026-11-05
+# Story Tracker — updated 2026-11-06
 
 Only active stories likely to move within five days.
 
-## Ohio election certification and transition
-- Last verified development: AP Voter Poll reporting published November 5 identified high prices and affordability as central to the midterm outcome; Ohio's reported results remain subject to formal certification.
-- Last takeaway: Post-election affordability pressure is not an enacted policy; the usable next evidence is an actual governing document.
-- Source: https://apnews.com/article/f8dbe8800549340c8a75d956302c126b
-- Revisit trigger: County canvass, certification notice, leadership/committee decision, budget, rule, or concrete transition action.
+## Data-center siting after the election
+- Last verified development: AP reported November 6 that election outcomes heightened political scrutiny of data-center development in states including Ohio, while Central Ohio communities adopted several local restrictions or referendum requirements.
+- Last takeaway: Project finance needs to treat municipal rules, utility terms, permits, and community consent as concrete development conditions, not infer a universal ban from election rhetoric.
+- Source: https://apnews.com/article/data-centers-artificial-intelligence-texas-tech-trump-63b33be8884d867d3ac831040d683a2c
+- Revisit trigger: Certified local results, ordinance text, new state bill, utility tariff, project revision, permit condition, or litigation.
 
-## Columbus Zone In Phase II
-- Last verified development: A November 5 public hearing will summarize feedback after the sixty-day Zone In Phase II comment period closed October 24, before a final proposal goes to Council.
-- Last takeaway: The practical local decision point is draft map and text review while revisions are still possible, not an assumption that a hearing approves a project.
-- Source: https://www.ahaco.org/events/zone-in-public-hearing
-- Revisit trigger: Feedback summary, revised draft or maps, final Council proposal, or parcel-specific implementation material.
+## Central Ohio data-center ballot implementation
+- Last verified development: Axios reported November 5 that Grove City adopted a referendum requirement for certain large developments and Granville, Pataskala, and Sunbury approved restrictions involving data centers at or above 25 megawatts.
+- Last takeaway: The decision point has moved to each municipality’s certified language, process, scope, and project-specific application.
+- Source: https://www.axios.com/local/columbus/2026/11/05/ohio-data-center-election
+- Revisit trigger: Certification, implementing ordinance, developer filing or revision, municipal guidance, or court action.
 
-## Fannie Mae manual-underwriting matrix
-- Last verified development: Fannie Mae issued Lender Letter LL-2026-09 November 4 for loans sold on or after February 22, 2027, with revised manual-underwriting eligibility matrix requirements.
-- Last takeaway: The immediate work is lender policy, training, system, and QC implementation; it is not a universal borrower approval or pricing change.
-- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility
-- Revisit trigger: Detailed matrix provisions, lender implementation notices, testing evidence, or February 22 effective-date guidance.
+## Freddie Mac equity-buyout refinance change
+- Last verified development: Bulletin 2026-15, issued November 4, reclassifies co-owner equity-buyout refinances from cash-out to no-cash-out and changes eligibility, documentation, and delivery requirements.
+- Last takeaway: The current work is accurate file classification, ownership documentation, product selection, pricing, and delivery—not a blanket approval promise.
+- Source: https://guide.freddiemac.com/app/guide/bulletin/2026-15
+- Revisit trigger: Lender overlays, pricing implementation, delivery notices, exception patterns, or a Guide clarification.
 
-## TD Bank U.S. agent-access restriction
-- Last verified development: TD said November 4 it is introducing measures to temporarily restrict certain third-party personal AI agents from directly accessing banking information where client authentication is required.
-- Last takeaway: A bank's important AI implementation change can be a boundary on authority, not a productivity claim.
-- Source: https://stories.td.com/us/en/article/ai-agents-and-your-banking-what-you-need-to-know
-- Revisit trigger: New authorization design, permission model, exception process, independent security evidence, or reopened access.
+## Bank-agent harness conduct evidence
+- Last verified development: A November 4 pre-registered paper found that five system harnesses materially changed conduct outcomes for fixed open-weight models in simulated retail-bank cases, with action-trace scoring.
+- Last takeaway: A model-risk evaluation should test the complete model-harness pair and executed actions, not just conversational output.
+- Source: https://arxiv.org/abs/2611.06116
+- Revisit trigger: Independent replication, named-bank controlled trial, production exception data, or action-log audit result.
 
-## Daybreak Red AWS GovCloud availability
-- Last verified development: OpenAI announced November 4 that approved customers can access Daybreak Red through Amazon Bedrock in AWS GovCloud (US-East) for authorized cyber work.
-- Last takeaway: This changes an access route, not the evidence on real vulnerability discovery or remediation quality.
-- Source: https://openai.com/index/daybreak-red-aws-govcloud/
-- Revisit trigger: Independent testing, eligibility change, customer deployment evidence, published misuse results, or measured validation/remediation outcome.
+## GPT-6 Cyber restricted rollout
+- Last verified development: OpenAI released GPT-6 Cyber on November 5 to selected approved Daybreak Red customers and reported version-specific exploit and scope-adherence evaluations.
+- Last takeaway: Better cyber-agent benchmark results must be considered together with authorization boundaries, human verification, and real remediation evidence.
+- Source: https://openai.com/index/introducing-gpt-6-cyber/
+- Revisit trigger: Independent replication, access expansion, false-positive or patch-quality results, safeguards evidence, or customer deployment outcome.
