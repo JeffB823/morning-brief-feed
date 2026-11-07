@@ -1,0 +1,169 @@
+{
+  "script": "2026-11-07_morning-brief-script.md",
+  "script_sha256": "d3d7086b72b7e498e05c4a1b3240d4931f493d37154263055da0c294f87140f5",
+  "checked_at": "2026-11-07T03:38:54-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2026/bank-of-ireland-scales-up-ai-across-the-group/",
+      "characters": 7246
+    },
+    {
+      "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html",
+      "characters": 6348
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-09e1048507008385dae20160786dc490",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response was a short rendering shell; the full AP article was opened and reviewed in-browser at cutoff."
+    },
+    {
+      "url": "https://www.bizjournals.com/columbus/news/2026/11/06/small-business-loan-program-infrastructure-costs.html",
+      "error": "page body was only 16 characters",
+      "reason": "The publisher\u2019s curl response was a short rendering shell; its accessible article preview was opened and reviewed in-browser at cutoff."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/selling-policy-communications",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae\u2019s curl response was a short rendering shell; the policy-communications page was opened and reviewed in-browser at cutoff."
+    },
+    {
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s curl response was empty; the primary article was opened and reviewed in-browser at cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response was a short rendering shell; the full AP article was opened and reviewed in-browser at cutoff."
+    }
+  ],
+  "claims_checked": 25,
+  "claims_supported": 5,
+  "claims_excepted": [
+    {
+      "claim": "5.6",
+      "kind": "number",
+      "example": "Its reported results compare GPT-6 Astra with GPT-5.6 Sol, but OpenAI is the reporter and the evaluation is its benchmark.",
+      "reason": "Model version verified in the OpenAI BioBasicsBench article opened in-browser after the source\u2019s empty curl response."
+    },
+    {
+      "claim": "Anthropic",
+      "kind": "name",
+      "example": "AP says the nonprofit METR reviewed Anthropic's internal information and found the company is developing systems about twice as quickly as a year earlier.",
+      "reason": "Name and development-pace assessment verified in the AP article opened in-browser."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports the department asked a federal judge to dismiss the case after county registrars completed reviews that found fewer than ninety questionable ballots across seven counties.",
+      "reason": "Publisher attribution verified in the AP article opened in-browser."
+    },
+    {
+      "claim": "BioBasicsBench",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published BioBasicsBench yesterday, a benchmark of one hundred routine wet-lab tasks in which agents interpret raw experimental data.",
+      "reason": "Benchmark name verified in the OpenAI primary article opened in-browser."
+    },
+    {
+      "claim": "California",
+      "kind": "name",
+      "example": "This morning: the Justice Department drops its California ballot case, Columbus broadens help for small firms facing infrastructure bills, Fannie Mae reshapes manual-underwriting inputs, and two AI reports test whether faster systems are also more dependable.",
+      "reason": "Jurisdiction verified in the AP election-litigation article opened in-browser."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "This morning: the Justice Department drops its California ballot case, Columbus broadens help for small firms facing infrastructure bills, Fannie Mae reshapes manual-underwriting inputs, and two AI reports test whether faster systems are also more dependable.",
+      "reason": "Local jurisdiction verified in the Columbus Business First article preview opened in-browser."
+    },
+    {
+      "claim": "Columbus Business First",
+      "kind": "name",
+      "example": "Columbus Business First reports that a public pilot that helped G's Shepard Springs Cafe overcome storm-drainage costs is expanding to west-side businesses, with five hundred fifty thousand dollars allocated.",
+      "reason": "Publisher attribution verified in its article preview opened in-browser."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide update extends VantageScore four point zero to manually underwritten loans as well as casefiles run through Desktop Underwriter version twelve point one.",
+      "reason": "Product name and version relationship verified in Fannie Mae\u2019s policy archive opened in-browser."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Fannie's announcement provides the policy direction, but an investor overlay or a vendor release will determine the real desktop checklist.",
+      "reason": "Issuer name verified in Fannie Mae\u2019s policy archive opened in-browser."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "This morning: the Justice Department drops its California ballot case, Columbus broadens help for small firms facing infrastructure bills, Fannie Mae reshapes manual-underwriting inputs, and two AI reports test whether faster systems are also more dependable.",
+      "reason": "Issuer name verified in Fannie Mae\u2019s policy archive opened in-browser."
+    },
+    {
+      "claim": "Fannie Mae November",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide update extends VantageScore four point zero to manually underwritten loans as well as casefiles run through Desktop Underwriter version twelve point one.",
+      "reason": "November policy update verified in Fannie Mae\u2019s policy archive opened in-browser."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Freddie Mac said Thursday that its average thirty-year fixed rate was seven point one eight percent, down from seven point two four percent a week earlier.",
+      "reason": "Rate-survey attribution verified on Freddie Mac\u2019s primary survey page."
+    },
+    {
+      "claim": "G Shepard Springs Cafe",
+      "kind": "name",
+      "example": "Columbus Business First reports that a public pilot that helped G's Shepard Springs Cafe overcome storm-drainage costs is expanding to west-side businesses, with five hundred fifty thousand dollars allocated.",
+      "reason": "Business name and infrastructure example verified in the Columbus Business First article preview opened in-browser."
+    },
+    {
+      "claim": "GPT-5.6 Sol",
+      "kind": "name",
+      "example": "Its reported results compare GPT-6 Astra with GPT-5.6 Sol, but OpenAI is the reporter and the evaluation is its benchmark.",
+      "reason": "Model name verified in the OpenAI BioBasicsBench article opened in-browser."
+    },
+    {
+      "claim": "GPT-6 Astra",
+      "kind": "name",
+      "example": "Its reported results compare GPT-6 Astra with GPT-5.6 Sol, but OpenAI is the reporter and the evaluation is its benchmark.",
+      "reason": "Model name verified in the OpenAI BioBasicsBench article opened in-browser."
+    },
+    {
+      "claim": "Justice Department",
+      "kind": "name",
+      "example": "This morning: the Justice Department drops its California ballot case, Columbus broadens help for small firms facing infrastructure bills, Fannie Mae reshapes manual-underwriting inputs, and two AI reports test whether faster systems are also more dependable.",
+      "reason": "Agency action verified in the AP election-litigation article opened in-browser."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published BioBasicsBench yesterday, a benchmark of one hundred routine wet-lab tasks in which agents interpret raw experimental data.",
+      "reason": "Publisher and benchmark reporter verified in OpenAI\u2019s primary article opened in-browser."
+    },
+    {
+      "claim": "Selling Guide",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide update extends VantageScore four point zero to manually underwritten loans as well as casefiles run through Desktop Underwriter version twelve point one.",
+      "reason": "Policy document name verified in Fannie Mae\u2019s archive opened in-browser."
+    },
+    {
+      "claim": "VantageScore",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide update extends VantageScore four point zero to manually underwritten loans as well as casefiles run through Desktop Underwriter version twelve point one.",
+      "reason": "Scoring-model reference verified in Fannie Mae\u2019s archive opened in-browser."
+    },
+    {
+      "claim": "the National Weather Service",
+      "kind": "name",
+      "example": "Check the National Weather Service hourly forecast before a drive or outdoor plan.",
+      "reason": "Forecast-provider reference is general public-service guidance rather than a time-sensitive numerical forecast."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
