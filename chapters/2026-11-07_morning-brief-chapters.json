@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 36.525
+    },
+    {
+      "title": "California Election Case",
+      "start": 36.525,
+      "end": 135.825
+    },
+    {
+      "title": "Columbus Small Business Finance",
+      "start": 135.825,
+      "end": 241.85
+    },
+    {
+      "title": "Home Lending",
+      "start": 241.85,
+      "end": 371.55
+    },
+    {
+      "title": "AI in Banking",
+      "start": 371.55,
+      "end": 560.575
+    },
+    {
+      "title": "Frontier AI",
+      "start": 560.575,
+      "end": 746.95
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 746.95,
+      "end": 812.425
+    },
+    {
+      "title": "Watch Next",
+      "start": 812.425,
+      "end": 833.775
+    }
+  ]
+}
