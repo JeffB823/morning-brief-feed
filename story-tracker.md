@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-11-07
+# Story Tracker — updated 2026-11-08
 
 Only active stories likely to move within five days.
 
@@ -37,3 +37,15 @@ Only active stories likely to move within five days.
 - Last takeaway: A benchmark built around ambiguous evidence deserves task-level error analysis and external replication before it is treated as a real-world reliability result.
 - Source: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/
 - Revisit trigger: Independent reproduction, task-level error breakdown, expert-review outcome, access change, or real-lab evaluation.
+
+## Ohio official canvass
+- Last verified development: Ohio’s Secretary of State says county boards may begin the November 3 official canvass on November 8 and must complete it no later than November 24.
+- Last takeaway: Initial results are moving into reconciliation and certification; county records, not election-night screenshots, govern final local outcomes.
+- Source: https://www.ohiosos.gov/office/media-center/categories/week-in-review/week-in-review-2026-11-06
+- Revisit trigger: County certification, close-race dispute, audit notice, recount threshold, or statewide certification.
+
+## BMO card-resolution agent assist
+- Last verified development: BMO described November 6 an employee-reviewed assistant for credit-card transaction calls, with a stated 12–14 minute current-call baseline and targets for eligible work.
+- Last takeaway: The investment case depends on actual correct-resolution, exception and customer-outcome evidence, not its announced automation target.
+- Source: https://ai.bmo.com/our-stories/bmo-applies-agentic-ai-to-make-credit-card-transaction-resolution-faster-and-simpler/
+- Revisit trigger: Production volume, realized handling-time comparison, refund error, complaint, escalation, or independent assessment.

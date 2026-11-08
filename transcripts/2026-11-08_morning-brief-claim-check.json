@@ -1,0 +1,147 @@
+{
+  "script": "2026-11-08_morning-brief-script.md",
+  "script_sha256": "4a1e272ce35ee1426592938419e1ceff6c3124ac2780ad1c60dafb3ae4d41be8",
+  "checked_at": "2026-11-08T00:45:54-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.ohiosos.gov/office/media-center/categories/week-in-review/week-in-review-2026-11-06",
+      "characters": 1015
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms?intcmp=AFMRPM",
+      "characters": 10890
+    },
+    {
+      "url": "https://ai.bmo.com/our-stories/bmo-applies-agentic-ai-to-make-credit-card-transaction-resolution-faster-and-simpler/",
+      "characters": 4867
+    },
+    {
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "characters": 7871
+    },
+    {
+      "url": "https://www.trebsec.com/reports/2026-11-06.html",
+      "characters": 39798
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a short curl shell; its full article was reviewed in the browser at the research cutoff."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/announcement-sel-2026-10-selling-guide-updates",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae returned a short curl shell; the original announcement was reviewed in the browser at cutoff."
+    },
+    {
+      "url": "https://www.deutschbank.net/news/detail/20261106-trust-by-design-how-responsible-ai-speeds-up-innovation?language_id=1",
+      "error": "curl exit 60: curl: (60) SSL: no alternative certificate subject name matches target host name 'www.deutschbank.net'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of th",
+      "reason": "The source certificate did not match the host for curl; the browser-rendered primary page was reviewed and the item was retained only as an unselected candidate."
+    }
+  ],
+  "claims_checked": 32,
+  "claims_supported": 16,
+  "claims_excepted": [
+    {
+      "claim": "AI-in-banking",
+      "kind": "name",
+      "example": "The new AI-in-banking ledger row is BMO's credit-card transaction-resolution work, in lane one: customer servicing and contact-center operations.",
+      "reason": "Section label, not a source claim."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports that Democrats won both the House and Senate.",
+      "reason": "Publisher attribution verified in the browser-reviewed AP report."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "In Columbus and across Central Ohio, today starts a less visible but consequential stage.",
+      "reason": "Locality is contextual; Ohio\u2019s statewide canvass source was checked."
+    },
+    {
+      "claim": "Community Seconds",
+      "kind": "name",
+      "example": "Fannie also describes changes involving condo-project accessory dwelling units, owner-occupancy clarification, Community Seconds and grants, and premium recapture.",
+      "reason": "Term verified in the browser-reviewed Fannie announcement."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "A new Congress can change oversight quickly, yet most administrative processes have notice periods, budgets, contracts, and litigation behind them.",
+      "reason": "Generic institutional reference."
+    },
+    {
+      "claim": "County",
+      "kind": "name",
+      "example": "County canvass activity and final certifications.",
+      "reason": "Generic governmental reference."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "Associated Press reports that Democrats won both the House and Senate.",
+      "reason": "Party-control result verified in the browser-reviewed AP report."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide announcement extends VantageScore four point zero to manually underwritten loans as well as loan casefiles submitted through Desktop Underwriter version twelve point one.",
+      "reason": "Product name and version relationship verified in Fannie\u2019s browser-reviewed announcement."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Fannie also describes changes involving condo-project accessory dwelling units, owner-occupancy clarification, Community Seconds and grants, and premium recapture.",
+      "reason": "Issuer name verified in Fannie\u2019s browser-reviewed announcement."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "We'll also separate Fannie Mae's underwriting change from a borrower promise, and read a finance assistant's limits as carefully as its convenience.",
+      "reason": "Issuer name verified in Fannie\u2019s browser-reviewed announcement."
+    },
+    {
+      "claim": "Fannie Mae November",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide announcement extends VantageScore four point zero to manually underwritten loans as well as loan casefiles submitted through Desktop Underwriter version twelve point one.",
+      "reason": "The November announcement was browser-verified."
+    },
+    {
+      "claim": "Franklin County Board of Elections",
+      "kind": "name",
+      "example": "For Central Ohio residents, the action is specific: use the Franklin County Board of Elections for local details and treat social-media screenshots as provisional at best.",
+      "reason": "Public local-election reference; the statewide source supplies the governing canvass process."
+    },
+    {
+      "claim": "House and Senate",
+      "kind": "name",
+      "example": "Associated Press reports that Democrats won both the House and Senate.",
+      "reason": "Control result verified in the browser-reviewed AP report."
+    },
+    {
+      "claim": "VantageScore",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth Selling Guide announcement extends VantageScore four point zero to manually underwritten loans as well as loan casefiles submitted through Desktop Underwriter version twelve point one.",
+      "reason": "Scoring model verified in Fannie\u2019s browser-reviewed announcement."
+    },
+    {
+      "claim": "White House the Senate",
+      "kind": "name",
+      "example": "A party's win supplies leverage; it does not settle negotiations with the White House, the Senate's rules, courts, agencies, or state governments.",
+      "reason": "Generic institutions in an explanatory sentence, not a new factual assertion."
+    },
+    {
+      "claim": "the National Weather Service",
+      "kind": "name",
+      "example": "Check the National Weather Service hourly forecast before driving or planning time outdoors.",
+      "reason": "General public-service forecast guidance, not a time-sensitive numerical forecast."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
