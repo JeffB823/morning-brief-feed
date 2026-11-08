@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 33.975
+    },
+    {
+      "title": "Congressional Transition",
+      "start": 33.975,
+      "end": 141.075
+    },
+    {
+      "title": "Ohio Canvass Begins",
+      "start": 141.075,
+      "end": 262.6
+    },
+    {
+      "title": "Home Lending",
+      "start": 262.6,
+      "end": 412.125
+    },
+    {
+      "title": "AI in Banking",
+      "start": 412.125,
+      "end": 558.45
+    },
+    {
+      "title": "Frontier AI",
+      "start": 558.45,
+      "end": 697.675
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 697.675,
+      "end": 739.175
+    },
+    {
+      "title": "Watch Next",
+      "start": 739.175,
+      "end": 761.55
+    }
+  ]
+}
