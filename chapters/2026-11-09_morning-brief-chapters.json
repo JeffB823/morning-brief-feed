@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.55
+    },
+    {
+      "title": "Iran Talks Signal",
+      "start": 35.55,
+      "end": 173.65
+    },
+    {
+      "title": "Columbus Courthouse",
+      "start": 173.65,
+      "end": 298.925
+    },
+    {
+      "title": "Home Lending",
+      "start": 298.925,
+      "end": 461.95
+    },
+    {
+      "title": "AI in Banking",
+      "start": 461.95,
+      "end": 621.225
+    },
+    {
+      "title": "Frontier AI",
+      "start": 621.225,
+      "end": 731.675
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 731.675,
+      "end": 785.725
+    },
+    {
+      "title": "Watch Next",
+      "start": 785.725,
+      "end": 808.45
+    }
+  ]
+}
