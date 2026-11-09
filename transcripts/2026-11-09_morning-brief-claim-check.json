@@ -1,0 +1,116 @@
+{
+  "script": "2026-11-09_morning-brief-script.md",
+  "script_sha256": "bb073a1ed91fbb57c4abc991c85ef9e220bb2b8f2cf54b84f4cd94350e0ae3d5",
+  "checked_at": "2026-11-09T06:18:26-0500",
+  "sources_fetched": [
+    {
+      "url": "https://bestof614.com/news/columbus-council-hearing-municipal-courthouse-nov-9/",
+      "characters": 7264
+    },
+    {
+      "url": "https://columbus.legistar.com/Calendar.aspx",
+      "characters": 1981
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10890
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/banks-ban-ai-accounts-over-065000689.html",
+      "characters": 12050
+    },
+    {
+      "url": "https://community.openai.com/t/gpt-live-1-1-is-rolling-out-with-new-voices-and-better-accents/1406704",
+      "characters": 8046
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 66783
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/iran-war-rubio-vance-trump-midterm-election-f7b507b55634985d6013d36265b3fbc0",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a short curl shell; its full article was reviewed in the browser at the recorded research cutoff."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/media/40731/display",
+      "error": "page body was only 16 characters",
+      "reason": "The UAD PDF returned a short curl shell; the timetable was reviewed in the browser at the recorded research cutoff."
+    }
+  ],
+  "claims_checked": 27,
+  "claims_supported": 16,
+  "claims_excepted": [
+    {
+      "claim": "3.6",
+      "kind": "number",
+      "example": "The joint Fannie Mae and Freddie Mac UAD 3.6 timetable says lenders must use UAD 3.6 for all new appraisal submissions on or after November second.",
+      "reason": "The exact UAD version was verified in the browser-reviewed GSE timetable."
+    },
+    {
+      "claim": "AI-agent",
+      "kind": "name",
+      "example": "Three things to watch: whether today's Qatar meeting produces written Iran-negotiation terms or a shipping change; whether Columbus identifies a courthouse funding scope or capital schedule; and whether banks publish a tested authorization model and outcome data for AI-agent account access.",
+      "reason": "Generic compound description of the cited account-access reporting, not a distinct named entity."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports Secretary of State Marco Rubio said Sunday that talks with Iran are not near a breakthrough, while President Trump said renewed large-scale strikes were unlikely if negotiations made progress toward what he called a strong agreement.",
+      "reason": "Publisher attribution is verified in the cited AP article."
+    },
+    {
+      "claim": "Fannie Mae and Freddie Mac UAD",
+      "kind": "name",
+      "example": "The joint Fannie Mae and Freddie Mac UAD 3.6 timetable says lenders must use UAD 3.6 for all new appraisal submissions on or after November second.",
+      "reason": "The cited joint GSE timetable identifies both enterprises and the Uniform Appraisal Dataset transition."
+    },
+    {
+      "claim": "Iran",
+      "kind": "name",
+      "example": "We'll also separate a diplomatic signal on Iran from a settlement and an AI demo from an operating result.",
+      "reason": "Country name and diplomacy context are supported by the cited AP report."
+    },
+    {
+      "claim": "Iran-negotiation",
+      "kind": "name",
+      "example": "Three things to watch: whether today's Qatar meeting produces written Iran-negotiation terms or a shipping change; whether Columbus identifies a courthouse funding scope or capital schedule; and whether banks publish a tested authorization model and outcome data for AI-agent account access.",
+      "reason": "Generic compound description of the cited diplomacy report, not a distinct named entity."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "Associated Press reports Secretary of State Marco Rubio said Sunday that talks with Iran are not near a breakthrough, while President Trump said renewed large-scale strikes were unlikely if negotiations made progress toward what he called a strong agreement.",
+      "reason": "The cited AP article reports the president\u2019s statement and meeting schedule."
+    },
+    {
+      "claim": "Qatar",
+      "kind": "name",
+      "example": "The president is scheduled to meet Qatar's prime minister today.",
+      "reason": "The cited AP report names Qatar\u2019s prime minister and mediation role."
+    },
+    {
+      "claim": "Rubio",
+      "kind": "name",
+      "example": "Rubio defended the war as necessary despite its unpopularity, while the administration faces pressure over energy costs.",
+      "reason": "The cited AP article reports Secretary Rubio\u2019s statements."
+    },
+    {
+      "claim": "Secretary of State Marco Rubio",
+      "kind": "name",
+      "example": "Associated Press reports Secretary of State Marco Rubio said Sunday that talks with Iran are not near a breakthrough, while President Trump said renewed large-scale strikes were unlikely if negotiations made progress toward what he called a strong agreement.",
+      "reason": "The cited AP article identifies and reports Secretary Rubio."
+    },
+    {
+      "claim": "UAD",
+      "kind": "name",
+      "example": "The joint Fannie Mae and Freddie Mac UAD 3.6 timetable says lenders must use UAD 3.6 for all new appraisal submissions on or after November second.",
+      "reason": "The cited GSE timetable identifies the Uniform Appraisal Dataset transition."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
