@@ -1,0 +1,155 @@
+{
+  "script": "2026-11-10_morning-brief-script.md",
+  "script_sha256": "e3966cb62b1d2bc0c831780e08f1a9795a3487b7fbbc24fed4a25a3311f729b4",
+  "checked_at": "2026-11-10T00:43:59-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/pmms?intcmp=AFMRPM",
+      "characters": 10890
+    },
+    {
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html",
+      "characters": 6348
+    },
+    {
+      "url": "https://www.amlintelligence.com/2026/11/news-occ-issues-new-ai-framework-for-large-us-banks/",
+      "characters": 7117
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/49f273e626ca4bab0e5a2d32e4943014",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response is a short access shell; browser search result was opened and checked for the November 10 Abu Dhabi/G7 reporting before drafting."
+    },
+    {
+      "url": "https://www.columbus.gov/Business-Development/Building-Zoning-Services/Boards-and-Commissions/Historic-Preservation-Design-Review-Boards-Commissions-Panels/Big-Darby-Accord-Advisory-Panel",
+      "error": "page body was only 370 characters",
+      "reason": "The city page is a short schedule page below the claim-check character threshold; browser result was reviewed for the November 10 1:30 p.m. listing."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility",
+      "error": "page body was only 16 characters",
+      "reason": "Fannie Mae returns a short bot/access shell to curl; the browser result was reviewed for the November 4 letter, effective sale date, and matrix changes."
+    },
+    {
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s page returned an empty curl shell; the browser result was reviewed and the spoken copy limits claims to the provider-described workflow and missing independent baseline."
+    },
+    {
+      "url": "https://new.streetinsider.com/Reuters/Banks%2C%2Binvestors%2Bgrow%2Bwary%2Bof%2BAI%2Bdebt%2C%2Bspooked%2Bby%2Bmarket%C2%A0selloff/27310388.html",
+      "error": "page body was only 16 characters",
+      "reason": "Reuters syndication page returned a short curl shell; browser search result was reviewed for the November 9 credit-market reporting."
+    }
+  ],
+  "claims_checked": 27,
+  "claims_supported": 10,
+  "claims_excepted": [
+    {
+      "claim": "AI-related",
+      "kind": "name",
+      "example": "Markets will parse the Ukraine talks alongside this week's inflation data and renewed scrutiny of AI-related debt.",
+      "reason": "This is a descriptive phrase for the Reuters report cited in the markets story, not a standalone numerical claim."
+    },
+    {
+      "claim": "Abu Dhabi",
+      "kind": "name",
+      "example": "Nationally, the fresh development is that U.S.-mediated talks involving Russia and Ukraine are getting underway in Abu Dhabi as G7 leaders gather in Paris.",
+      "reason": "Location and talks are verified in the browser-reviewed AP report cited in the national story."
+    },
+    {
+      "claim": "Because Central Ohio",
+      "kind": "name",
+      "example": "Because Central Ohio's high-growth areas have to reconcile housing and commercial demand with roads, water, sewer, and watershed limits.",
+      "reason": "Contextual transition, with the scheduled city panel and Big Darby location verified on the cited city page."
+    },
+    {
+      "claim": "Big Darby",
+      "kind": "name",
+      "example": "The city's schedule places the meeting in the planning process for the western growth area associated with the Big Darby watershed.",
+      "reason": "The named panel and meeting listing were verified on the cited city schedule page."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "Why connect that to the current Central Ohio growth debate rather than treat it as procedural trivia?",
+      "reason": "Geographic context; the cited City of Columbus schedule is the specific local basis."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today, Ukraine talks move from a diplomatic headline to questions about security commitments, Columbus weighs land-use advice, and the OCC gives bank examiners a new way to assess AI.",
+      "reason": "The city schedule was browser-reviewed and supports the named local meeting."
+    },
+    {
+      "claim": "Columbus the Big Darby Accord Advisory Panel",
+      "kind": "name",
+      "example": "In Columbus, the Big Darby Accord Advisory Panel meets at one-thirty this afternoon.",
+      "reason": "The named panel and meeting date/time were verified on the cited city schedule page."
+    },
+    {
+      "claim": "Eligibility Matrix",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth lender letter revises the Eligibility Matrix for manually underwritten loans sold on or after February twenty-second, twenty twenty-seven.",
+      "reason": "Fannie Mae\u2019s browser-reviewed letter names the Eligibility Matrix and its manual-underwriting changes."
+    },
+    {
+      "claim": "Fannie Mae November",
+      "kind": "name",
+      "example": "Fannie Mae's November fourth lender letter revises the Eligibility Matrix for manually underwritten loans sold on or after February twenty-second, twenty twenty-seven.",
+      "reason": "The browser-reviewed Fannie Mae letter is dated November 4 and supports the stated operational update."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For Columbus weather, check the National Weather Service hourly forecast before commuting or scheduling outdoor work.",
+      "reason": "Weather advice is intentionally non-numeric and directs listeners to the live hourly forecast, which updates continuously."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "OpenAI is the reporter, and the announcement does not provide an independent comparison of design quality, safety, rework, cost, or delivery time against a human-only baseline.",
+      "reason": "The frontier segment expressly identifies OpenAI as the provider and does not turn its announcement into an independent result."
+    },
+    {
+      "claim": "OpenAI November",
+      "kind": "name",
+      "example": "At the frontier, today's dated update is OpenAI's November third account of work with engineering teams designing physical products.",
+      "reason": "The browser-reviewed source is dated November 3 and supports the provider-described engineering workflow."
+    },
+    {
+      "claim": "Paris",
+      "kind": "name",
+      "example": "Nationally, the fresh development is that U.S.-mediated talks involving Russia and Ukraine are getting underway in Abu Dhabi as G7 leaders gather in Paris.",
+      "reason": "The browser-reviewed AP report places the G7 gathering in Paris."
+    },
+    {
+      "claim": "Russia and Ukraine",
+      "kind": "name",
+      "example": "Nationally, the fresh development is that U.S.-mediated talks involving Russia and Ukraine are getting underway in Abu Dhabi as G7 leaders gather in Paris.",
+      "reason": "The browser-reviewed AP report supports the talks\u2019 parties."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "Associated Press reports that the agenda includes defense and security assistance, a sensitive issue because the Trump administration has reduced assistance and European governments are pressing for a durable security arrangement.",
+      "reason": "The browser-reviewed AP report attributes reduced U.S. assistance to the Trump administration."
+    },
+    {
+      "claim": "U.S.-mediated",
+      "kind": "name",
+      "example": "Nationally, the fresh development is that U.S.-mediated talks involving Russia and Ukraine are getting underway in Abu Dhabi as G7 leaders gather in Paris.",
+      "reason": "The browser-reviewed AP report identifies the talks as U.S.-mediated."
+    },
+    {
+      "claim": "Ukraine",
+      "kind": "name",
+      "example": "Today, Ukraine talks move from a diplomatic headline to questions about security commitments, Columbus weighs land-use advice, and the OCC gives bank examiners a new way to assess AI.",
+      "reason": "The browser-reviewed AP report supports the named talks and G7 security-assistance context."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

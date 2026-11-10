@@ -1,18 +1,18 @@
-# Story Tracker — updated 2026-11-09
+# Story Tracker — updated 2026-11-10
 
 Only active stories likely to move within five days.
 
-## Iran diplomacy and shipping risk
-- Last verified development: AP reported November 9 that Rubio said Iran talks were not near a breakthrough and that Trump was scheduled to meet Qatar’s prime minister November 9.
-- Last takeaway: Diplomatic language can alter scenarios, but it does not by itself settle sanctions, shipping access, insurer pricing, or energy-cost exposure.
-- Source: https://apnews.com/article/iran-war-rubio-vance-trump-midterm-election-f7b507b55634985d6013d36265b3fbc0
-- Revisit trigger: Written framework, verified pause, shipping arrangement, sanctions step, or material escalation.
+## Ukraine talks and G7 security arrangements
+- Last verified development: AP reported November 10 that U.S.-mediated Russia-Ukraine talks were getting underway in Abu Dhabi while G7 leaders gathered in Paris to discuss security and defense assistance.
+- Last takeaway: A negotiating channel is not an implemented settlement; the operative signals are written commitments, funding, enforcement, and breach terms.
+- Source: https://apnews.com/article/49f273e626ca4bab0e5a2d32e4943014
+- Revisit trigger: Written framework, named security commitment, implementation mechanism, funding decision, sanctions change, or breakdown.
 
-## Columbus municipal courthouse options
-- Last verified development: City Council scheduled a November 9 hearing on capital, renovation, and replacement options for the Franklin County Municipal Courthouse.
-- Last takeaway: The real decision arrives with a stated scope, funding route, and construction plan rather than a discussion of alternatives.
-- Source: https://bestof614.com/news/columbus-council-hearing-municipal-courthouse-nov-9/
-- Revisit trigger: Staff recommendation, appropriation, design scope, financing plan, construction timetable, or Council vote.
+## Big Darby planning record
+- Last verified development: Columbus scheduled the Big Darby Accord Advisory Panel for November 10 at 1:30 p.m.
+- Last takeaway: Early advisory records can reveal a future project’s infrastructure or watershed constraints, but do not themselves approve or deny a project.
+- Source: https://www.columbus.gov/Business-Development/Building-Zoning-Services/Boards-and-Commissions/Historic-Preservation-Design-Review-Boards-Commissions-Panels/Big-Darby-Accord-Advisory-Panel
+- Revisit trigger: Posted agenda, formal application, staff recommendation, engineering condition, planning action, or vote.
 
 ## Columbus small-business infrastructure loans
 - Last verified development: Columbus Business First reported November 6 that a $550,000 allocation expands a forgivable-loan pilot to eligible west-side small businesses with infrastructure constraints.
@@ -26,23 +26,23 @@ Only active stories likely to move within five days.
 - Source: https://www.axios.com/local/columbus/2026/11/05/ohio-data-center-election
 - Revisit trigger: Certification, implementing ordinance, developer filing or revision, municipal guidance, or court action.
 
-## UAD 3.6 appraisal mandate
-- Last verified development: The Fannie Mae/Freddie Mac timetable requires UAD 3.6 for new submissions from November 2 while permitting revisions to earlier UAD 2.6 submissions through May 3, 2027.
-- Last takeaway: New-submission and prior-revision routing must stay distinct; transition friction will show in acceptance, correction, and turn-time data.
-- Source: https://singlefamily.fanniemae.com/media/40731/display
-- Revisit trigger: First-pass acceptance data, correction trend, vendor exception, delivery problem, or GSE clarification.
+## Fannie Mae manual-underwriting matrix
+- Last verified development: Fannie Mae’s November 4 letter changes the Eligibility Matrix for manually underwritten loans sold on or after February 22, 2027.
+- Last takeaway: Lenders need delivery-date mapping and representative-file tests for the new matrix; a borrower’s result still depends on full facts and lender overlays.
+- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility
+- Revisit trigger: Seller guide update, lender overlay, training or policy release, implementation exception, or quality-control finding.
 
-## UK bank AI-agent account access
-- Last verified development: November 8 reporting said several UK banks restricted AI-agent access to customer accounts, including transaction limits without direct customer involvement.
-- Last takeaway: Read-only authorization and agent payment authority are distinct design decisions; the report gives no measured harm-reduction result.
-- Source: https://finance.yahoo.com/technology/ai/articles/banks-ban-ai-accounts-over-065000689.html
-- Revisit trigger: Named bank policy, authorization model, transaction scope, exception process, security result, or customer-outcome metric.
+## OCC AI examination framework
+- Last verified development: OCC Bulletin 2026-54 provides a supervisory framework for examiners evaluating super-intelligence use in normal-course banking activity.
+- Last takeaway: The relevant evidence is proportionate to the consequence of the specific decision, not a model label alone; the framework is not a bank outcome result.
+- Source: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html
+- Revisit trigger: Examination application, OCC clarification, bank disclosure, testing result, or enforcement finding.
 
-## GPT-Live 1.1 voice delegation
-- Last verified development: A November 9 developer announcement describes GPT-Live 1.1 voices and native Decisions API delegation in voice workflows.
-- Last takeaway: Fewer integration handoffs do not establish voice-routing accuracy or safe action authority.
-- Source: https://community.openai.com/t/gpt-live-1-1-is-rolling-out-with-new-voices-and-better-accents/1406704
-- Revisit trigger: API availability, reproducible latency or task-quality result, user outcome, or independent replication.
+## AI-related debt underwriting
+- Last verified development: Reuters reported November 9 that banks and credit investors are scrutinizing additional AI-related debt after a market selloff.
+- Last takeaway: Credit tightening may show up in guarantees, cash-flow demands, spreads, and concentration limits before a financing market shuts.
+- Source: https://new.streetinsider.com/Reuters/Banks%2C%2Binvestors%2Bgrow%2Bwary%2Bof%2BAI%2Bdebt%2C%2Bspooked%2Bby%2Bmarket%C2%A0selloff/27310388.html
+- Revisit trigger: Financing withdrawal, revised deal terms, spreads, guarantee change, borrower disclosure, or data-center project delay.
 
 ## Ohio official canvass
 - Last verified development: Ohio’s Secretary of State says county boards may begin the November 3 official canvass on November 8 and must complete it no later than November 24.
