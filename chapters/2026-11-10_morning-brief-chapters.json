@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.725
+    },
+    {
+      "title": "Ukraine Talks",
+      "start": 35.725,
+      "end": 171.575
+    },
+    {
+      "title": "Columbus Planning",
+      "start": 171.575,
+      "end": 308.525
+    },
+    {
+      "title": "Home Lending",
+      "start": 308.525,
+      "end": 453.325
+    },
+    {
+      "title": "AI in Banking",
+      "start": 453.325,
+      "end": 586.15
+    },
+    {
+      "title": "Frontier AI",
+      "start": 586.15,
+      "end": 714.25
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 714.25,
+      "end": 781.75
+    },
+    {
+      "title": "Watch Next",
+      "start": 781.75,
+      "end": 805.1
+    }
+  ]
+}
