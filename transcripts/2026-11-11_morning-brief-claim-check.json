@@ -1,0 +1,129 @@
+{
+  "script": "2026-11-11_morning-brief-script.md",
+  "script_sha256": "84bcfab7439549445091e65e94ede08339b7b1e1b7db3fdb84d71b71e3b8fb16",
+  "checked_at": "2026-11-11T00:43:52-0500",
+  "sources_fetched": [
+    {
+      "url": "https://columbusrealestatenews.com/blog/four-residential-rezonings-head-to-columbus-s-development-commission",
+      "characters": 6644
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=E6357598-B415-4541-81B7-3C7DD69DAEFD&ID=8303584",
+      "characters": 6702
+    },
+    {
+      "url": "https://corr-west.pennymac.com/announcements",
+      "characters": 6859
+    },
+    {
+      "url": "https://www.anthropic.com/news/models",
+      "characters": 9655
+    },
+    {
+      "url": "https://www.anthropic.com/news/announcements",
+      "characters": 11897
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/67d0030d68ba42bdcbedd0eacf92d4b3",
+      "error": "page body was only 16 characters",
+      "reason": "AP returns a short access shell to curl; the browser result was reviewed for the November 10 Bessent remarks and China response before drafting."
+    },
+    {
+      "url": "https://www.deutschbank.net/news/detail/20261106-trust-by-design-how-responsible-ai-speeds-up-innovation?language_id=1",
+      "error": "curl exit 60: curl: (60) SSL: no alternative certificate subject name matches target host name 'www.deutschbank.net'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of th",
+      "reason": "The site certificate does not match the www host in curl; the browser result was reviewed for Deutsche Bank\u2019s November 6 shared development environment description and the copy makes no performance claim."
+    },
+    {
+      "url": "https://apnews.com/article/8cf2319c870322019712ab658f71ec55",
+      "error": "page body was only 16 characters",
+      "reason": "AP returns a short access shell to curl; the browser result was reviewed for the November 10 Anthropic roadshow and reported potential valuation."
+    }
+  ],
+  "claims_checked": 24,
+  "claims_supported": 11,
+  "claims_excepted": [
+    {
+      "claim": "Americans",
+      "kind": "name",
+      "example": "Associated Press reports that he described Americans as too dependent on imports, while China raised concerns about Washington's restrictive economic and trade measures.",
+      "reason": "The browser-reviewed AP report attributes the import-dependence remark to Bessent."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports that he described Americans as too dependent on imports, while China raised concerns about Washington's restrictive economic and trade measures.",
+      "reason": "Attribution identifies the cited AP reporting source."
+    },
+    {
+      "claim": "China",
+      "kind": "name",
+      "example": "Associated Press reports that he described Americans as too dependent on imports, while China raised concerns about Washington's restrictive economic and trade measures.",
+      "reason": "The browser-reviewed AP report identifies China\u2019s stated concerns."
+    },
+    {
+      "claim": "Deutsche Bank",
+      "kind": "name",
+      "example": "We are adding Deutsche Bank as an announced shared-development-environment row.",
+      "reason": "The browser-reviewed company page is the source for the named bank and its described environment."
+    },
+    {
+      "claim": "Deutsche Bank November",
+      "kind": "name",
+      "example": "For AI in banking, the specialist update is Deutsche Bank's November sixth description of a unified AI development environment that combines Google Cloud tools, including Gemini, Vertex AI, and BigQuery, with common development tools and controls.",
+      "reason": "The company disclosure is dated November 6 and was browser-reviewed."
+    },
+    {
+      "claim": "Gemini Vertex AI and BigQuery",
+      "kind": "name",
+      "example": "For AI in banking, the specialist update is Deutsche Bank's November sixth description of a unified AI development environment that combines Google Cloud tools, including Gemini, Vertex AI, and BigQuery, with common development tools and controls.",
+      "reason": "The company description names these Google Cloud tools; no performance result is asserted."
+    },
+    {
+      "claim": "Google Cloud",
+      "kind": "name",
+      "example": "For AI in banking, the specialist update is Deutsche Bank's November sixth description of a unified AI development environment that combines Google Cloud tools, including Gemini, Vertex AI, and BigQuery, with common development tools and controls.",
+      "reason": "The company description identifies the platform used in the shared environment."
+    },
+    {
+      "claim": "Hilltop Northeast Southeast",
+      "kind": "name",
+      "example": "The proposals involve the Hilltop, Northeast, Southeast, and southwest edges of the city.",
+      "reason": "The cited Columbus rezoning report identifies the broad locations of the proposals."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For Columbus weather, use the National Weather Service hourly forecast before the commute and any Veterans Day outdoor plans.",
+      "reason": "Weather advice directs listeners to a live hourly forecast rather than asserting a static forecast value."
+    },
+    {
+      "claim": "Nationally Treasury Secretary Scott Bessent",
+      "kind": "name",
+      "example": "Nationally, Treasury Secretary Scott Bessent used a New York appearance ahead of U.S.-China talks to call for a more balanced trade relationship.",
+      "reason": "The browser-reviewed AP report identifies Bessent and the remarks."
+    },
+    {
+      "claim": "New York",
+      "kind": "name",
+      "example": "Nationally, Treasury Secretary Scott Bessent used a New York appearance ahead of U.S.-China talks to call for a more balanced trade relationship.",
+      "reason": "The browser-reviewed AP report places the appearance in New York."
+    },
+    {
+      "claim": "U.S.-China",
+      "kind": "name",
+      "example": "Today, a U.S.-China trade message reaches businesses that price imported goods, Columbus sends housing proposals toward a public hearing, and a lender changes commitment pricing.",
+      "reason": "The cited AP report covers the current trade relationship and talks."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "Associated Press reports that he described Americans as too dependent on imports, while China raised concerns about Washington's restrictive economic and trade measures.",
+      "reason": "The browser-reviewed AP report attributes China\u2019s concern to U.S. restrictive measures."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
