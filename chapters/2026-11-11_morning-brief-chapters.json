@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.45
+    },
+    {
+      "title": "China Trade Signal",
+      "start": 34.45,
+      "end": 166.45
+    },
+    {
+      "title": "Columbus Rezoning",
+      "start": 166.45,
+      "end": 298.825
+    },
+    {
+      "title": "Home Lending",
+      "start": 298.825,
+      "end": 436.25
+    },
+    {
+      "title": "AI in Banking",
+      "start": 436.25,
+      "end": 573.275
+    },
+    {
+      "title": "Frontier AI",
+      "start": 573.275,
+      "end": 707.5
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 707.5,
+      "end": 781.675
+    },
+    {
+      "title": "Watch Next",
+      "start": 781.675,
+      "end": 804.5
+    }
+  ]
+}
