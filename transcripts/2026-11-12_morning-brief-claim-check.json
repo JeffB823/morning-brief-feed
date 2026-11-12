@@ -1,7 +1,7 @@
 {
   "script": "2026-11-12_morning-brief-script.md",
-  "script_sha256": "b865e3b54b99729d2f47221e4d2b2ab25faf1a644dc917fdf772a5c674ab63e4",
-  "checked_at": "2026-11-12T00:46:51-0500",
+  "script_sha256": "6dbbb36745f09a61af1771ccc3e3a6e5f09fa22219b76c9d622fd4113f801900",
+  "checked_at": "2026-11-12T00:53:22-0500",
   "sources_fetched": [
     {
       "url": "https://sf.freddiemac.com/docs/pdf/uldd_announcement_november_10_2026.pdf",
@@ -30,7 +30,7 @@
       "reason": "OpenAI returned an empty curl response; the browser-reviewed primary announcement supports the feature, eligibility, and separation statements used here."
     }
   ],
-  "claims_checked": 42,
+  "claims_checked": 41,
   "claims_supported": 10,
   "claims_excepted": [
     {
@@ -200,12 +200,6 @@
       "kind": "name",
       "example": "The VantageScore four point zero delivery identifier remains part of current instructions for applicable files.",
       "reason": "The cited Freddie Mac announcement specifies the VantageScore 4.0 delivery identifier."
-    },
-    {
-      "claim": "Westland Area Commission and Big Darby Accord Advisory Panel",
-      "kind": "name",
-      "example": "It proposes both a planned-unit-development district and a limited apartment-residential district, and it is tied to the Westland Area Commission and Big Darby Accord Advisory Panel.",
-      "reason": "The browser-reviewed city agenda lists both bodies with the Norton Road application."
     },
     {
       "claim": "XML",
