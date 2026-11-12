@@ -9,37 +9,37 @@
     {
       "title": "Inflation and the Fed",
       "start": 34.4,
-      "end": 175.2
+      "end": 148.575
     },
     {
       "title": "Columbus Housing Hearing",
-      "start": 175.2,
-      "end": 324.725
+      "start": 148.575,
+      "end": 274.875
     },
     {
       "title": "Home Lending",
-      "start": 324.725,
-      "end": 473.525
+      "start": 274.875,
+      "end": 423.675
     },
     {
       "title": "AI in Banking",
-      "start": 473.525,
-      "end": 622.925
+      "start": 423.675,
+      "end": 573.075
     },
     {
       "title": "Frontier AI",
-      "start": 622.925,
-      "end": 759.325
+      "start": 573.075,
+      "end": 709.475
     },
     {
       "title": "Markets and Weather",
-      "start": 759.325,
-      "end": 802.0
+      "start": 709.475,
+      "end": 752.15
     },
     {
       "title": "Watch Next",
-      "start": 802.0,
-      "end": 824.75
+      "start": 752.15,
+      "end": 774.9
     }
   ]
 }
