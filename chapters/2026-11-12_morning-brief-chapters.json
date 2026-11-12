@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.4
+    },
+    {
+      "title": "Inflation and the Fed",
+      "start": 34.4,
+      "end": 175.2
+    },
+    {
+      "title": "Columbus Housing Hearing",
+      "start": 175.2,
+      "end": 324.725
+    },
+    {
+      "title": "Home Lending",
+      "start": 324.725,
+      "end": 473.525
+    },
+    {
+      "title": "AI in Banking",
+      "start": 473.525,
+      "end": 622.925
+    },
+    {
+      "title": "Frontier AI",
+      "start": 622.925,
+      "end": 759.325
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 759.325,
+      "end": 802.0
+    },
+    {
+      "title": "Watch Next",
+      "start": 802.0,
+      "end": 824.75
+    }
+  ]
+}
