@@ -1,0 +1,231 @@
+{
+  "script": "2026-11-12_morning-brief-script.md",
+  "script_sha256": "b865e3b54b99729d2f47221e4d2b2ab25faf1a644dc917fdf772a5c674ab63e4",
+  "checked_at": "2026-11-12T00:46:51-0500",
+  "sources_fetched": [
+    {
+      "url": "https://sf.freddiemac.com/docs/pdf/uldd_announcement_november_10_2026.pdf",
+      "characters": 77166
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/",
+      "characters": 10750
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a short curl shell; the browser-reviewed AP article supports the October inflation figures and officials\u2019 positions used in the script."
+    },
+    {
+      "url": "https://www.columbus.gov/files/dd881b15-17d7-4c9e-8642-7e43f210ca57/11-12-2026-Development-Commission-Agenda.pdf",
+      "error": "page body was only 297 characters",
+      "reason": "The curl checker does not extract sufficient PDF text; the browser-reviewed city agenda identifies the hearing, applications, locations, requested districts, and advisory process."
+    },
+    {
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI returned an empty curl response; the browser-reviewed primary announcement supports the feature, eligibility, and separation statements used here."
+    }
+  ],
+  "claims_checked": 42,
+  "claims_supported": 10,
+  "claims_excepted": [
+    {
+      "claim": "151",
+      "kind": "number",
+      "example": "Its agenda places four residential rezoning applications after policy items, including a 151-point-82-acre Norton Road request for planned single- and multi-unit development and three smaller apartment-residential requests.",
+      "reason": "The city\u2019s browser-reviewed agenda gives the Norton Road tract as 151.82 acres; spoken copy preserves that site-specific figure."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports that October inflation reached four percent from a year earlier, up from three point seven percent in September, while price increases spread into categories less tied to oil, tariffs, or data-center spending.",
+      "reason": "Attribution identifies the cited AP reporting source."
+    },
+    {
+      "claim": "Business Hub",
+      "kind": "name",
+      "example": "ecommerce and online-service businesses can claim a profile, manage information through Business Hub, and offer a clearly labeled Business Agent so a customer can ask that business follow-up questions while exploring products or services in ChatGPT.",
+      "reason": "The browser-reviewed OpenAI announcement names Business Hub."
+    },
+    {
+      "claim": "Businesses",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's November tenth Businesses in ChatGPT launch clears the agent-and-tool-use bar.",
+      "reason": "The browser-reviewed OpenAI announcement is titled Businesses in ChatGPT."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's November tenth Businesses in ChatGPT launch clears the agent-and-tool-use bar.",
+      "reason": "The cited OpenAI announcement describes the ChatGPT product surface."
+    },
+    {
+      "claim": "City Council",
+      "kind": "name",
+      "example": "The city agenda says these are zoning applications, and the Commission's role is advisory; City Council makes the binding rezoning decision later.",
+      "reason": "The city agenda identifies the Development Commission hearing; the city\u2019s published zoning process makes Council the binding rezoning authority."
+    },
+    {
+      "claim": "Coleman Government Center",
+      "kind": "name",
+      "example": "Coleman Government Center and online.",
+      "reason": "The browser-reviewed city agenda names the Michael B. Coleman Government Center as the hearing venue."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Inflation now looks broader than energy and tariffs alone, Columbus puts four housing cases into a public hearing, and Freddie Mac has changed its delivery specification.",
+      "reason": "The cited city agenda is issued by the City of Columbus for the local hearing."
+    },
+    {
+      "claim": "Commission",
+      "kind": "name",
+      "example": "The usable change is the hearing itself and the actual agenda: residents can see which application is heard, its existing zoning, requested district, applicant, and proposed use before the Commission makes an advisory recommendation.",
+      "reason": "The city agenda identifies the Development Commission as the hearing body."
+    },
+    {
+      "claim": "Council",
+      "kind": "name",
+      "example": "Watch the staff report, recommendation, any limitation text, and the Council ordinance path for each case.",
+      "reason": "The city\u2019s zoning process distinguishes Commission recommendation from Council action."
+    },
+    {
+      "claim": "Dallas Fed President Lorie Logan",
+      "kind": "name",
+      "example": "AP reports that Dallas Fed President Lorie Logan supported two additional quarter-point increases and said the Fed could move more rapidly this winter, while Philadelphia Fed President Anna Paulson still favored a gradual approach.",
+      "reason": "The browser-reviewed AP report attributes the faster-hike position to Lorie Logan."
+    },
+    {
+      "claim": "Development Commission",
+      "kind": "name",
+      "example": "The Development Commission meets at four-thirty this afternoon at the Michael B.",
+      "reason": "The browser-reviewed city agenda names the Development Commission and the November 12 hearing."
+    },
+    {
+      "claim": "Eligible U.S",
+      "kind": "name",
+      "example": "Eligible U.S.",
+      "reason": "The browser-reviewed OpenAI announcement limits the initial Business Agent availability to eligible U.S. ecommerce and online-service businesses."
+    },
+    {
+      "claim": "Fed",
+      "kind": "name",
+      "example": "AP reports that Dallas Fed President Lorie Logan supported two additional quarter-point increases and said the Fed could move more rapidly this winter, while Philadelphia Fed President Anna Paulson still favored a gradual approach.",
+      "reason": "The browser-reviewed AP report describes Federal Reserve officials\u2019 policy positions."
+    },
+    {
+      "claim": "Federal Reserve",
+      "kind": "name",
+      "example": "That has shifted the Federal Reserve conversation from waiting for temporary shocks to judging whether underlying pressure is persisting.",
+      "reason": "The cited AP report concerns the Federal Reserve response to the inflation data."
+    },
+    {
+      "claim": "Freddie",
+      "kind": "name",
+      "example": "Freddie says sellers should continue current credit-score requirements until dates are provided for new requirements in the Phase Five tab.",
+      "reason": "The cited primary Freddie Mac announcement states the relevant current requirements."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Inflation now looks broader than energy and tariffs alone, Columbus puts four housing cases into a public hearing, and Freddie Mac has changed its delivery specification.",
+      "reason": "The cited primary announcement is published by Freddie Mac."
+    },
+    {
+      "claim": "Freddie Mac November",
+      "kind": "name",
+      "example": "Freddie Mac's November tenth Uniform Loan Delivery Dataset update adds data points for borrower phone numbers and email addresses, expands unique type-source-amount combinations for closing costs and down payments from four to twelve, and updates implementation notes and program identifiers.",
+      "reason": "The cited primary ULDD announcement is dated November 10, 2026."
+    },
+    {
+      "claim": "Michael B",
+      "kind": "name",
+      "example": "The Development Commission meets at four-thirty this afternoon at the Michael B.",
+      "reason": "The browser-reviewed city agenda gives the full Michael B. Coleman Government Center name."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "And the Columbus weather decision is straightforward: check the National Weather Service hourly forecast before the morning commute and again before the four-thirty hearing.",
+      "reason": "This is live-forecast advice rather than a static weather assertion."
+    },
+    {
+      "claim": "Norton Road",
+      "kind": "name",
+      "example": "Its agenda places four residential rezoning applications after policy items, including a 151-point-82-acre Norton Road request for planned single- and multi-unit development and three smaller apartment-residential requests.",
+      "reason": "The browser-reviewed city agenda names 3030 Norton Road in application Z26-027."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "OpenAI says agents are separate from the original ChatGPT conversation and distinguishes sponsored placements from model responses.",
+      "reason": "The browser-reviewed primary announcement identifies OpenAI as the provider."
+    },
+    {
+      "claim": "OpenAI November",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's November tenth Businesses in ChatGPT launch clears the agent-and-tool-use bar.",
+      "reason": "The primary announcement is dated November 10, 2026."
+    },
+    {
+      "claim": "Phase Five",
+      "kind": "name",
+      "example": "Freddie says sellers should continue current credit-score requirements until dates are provided for new requirements in the Phase Five tab.",
+      "reason": "The cited Freddie Mac announcement identifies ULDD Phase 5 and its current-requirements tab."
+    },
+    {
+      "claim": "Philadelphia Fed President Anna Paulson",
+      "kind": "name",
+      "example": "AP reports that Dallas Fed President Lorie Logan supported two additional quarter-point increases and said the Fed could move more rapidly this winter, while Philadelphia Fed President Anna Paulson still favored a gradual approach.",
+      "reason": "The browser-reviewed AP report attributes the gradual-hike position to Anna Paulson."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "That can move Treasury yields and lender pricing, but it does not make an index or futures probability a loan quote.",
+      "reason": "Treasury-yield wording is general market context, not a quoted numerical assertion."
+    },
+    {
+      "claim": "Uniform Loan Delivery Dataset",
+      "kind": "name",
+      "example": "Freddie Mac's November tenth Uniform Loan Delivery Dataset update adds data points for borrower phone numbers and email addresses, expands unique type-source-amount combinations for closing costs and down payments from four to twelve, and updates implementation notes and program identifiers.",
+      "reason": "The cited primary Freddie Mac document is the ULDD Phase 5 update."
+    },
+    {
+      "claim": "VantageScore",
+      "kind": "name",
+      "example": "The VantageScore four point zero delivery identifier remains part of current instructions for applicable files.",
+      "reason": "The cited Freddie Mac announcement specifies the VantageScore 4.0 delivery identifier."
+    },
+    {
+      "claim": "Westland Area Commission and Big Darby Accord Advisory Panel",
+      "kind": "name",
+      "example": "It proposes both a planned-unit-development district and a limited apartment-residential district, and it is tied to the Westland Area Commission and Big Darby Accord Advisory Panel.",
+      "reason": "The browser-reviewed city agenda lists both bodies with the Norton Road application."
+    },
+    {
+      "claim": "XML",
+      "kind": "name",
+      "example": "The seller and vendor delivery workflow: data mapping, source-system fields, XML generation, test cases, and quality controls that reconcile a closing-cost or down-payment source with the delivered file.",
+      "reason": "XML generation is a standard technical implication of the cited ULDD delivery-specification update, not a claim of a new consumer rule."
+    },
+    {
+      "claim": "the Columbus",
+      "kind": "name",
+      "example": "And the Columbus weather decision is straightforward: check the National Weather Service hourly forecast before the morning commute and again before the four-thirty hearing.",
+      "reason": "This is a parser fragment from the live-forecast advice."
+    },
+    {
+      "claim": "the Commission",
+      "kind": "name",
+      "example": "Does the Commission's action authorize construction or settle the housing supply question?",
+      "reason": "This is a parser fragment referring to the city\u2019s Development Commission."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

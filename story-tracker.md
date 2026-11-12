@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-11-11
+# Story Tracker — updated 2026-11-12
 
 Only active stories likely to move within five days.
 
@@ -8,29 +8,23 @@ Only active stories likely to move within five days.
 - Source: https://apnews.com/article/49f273e626ca4bab0e5a2d32e4943014
 - Revisit trigger: Written framework, named security commitment, implementation mechanism, funding decision, sanctions change, or breakdown.
 
-## U.S.–China trade discussions
-- Last verified development: AP reported November 10 that Treasury Secretary Scott Bessent called for a more balanced trade relationship ahead of U.S.–China talks while China raised concerns about restrictive U.S. measures.
-- Last takeaway: Negotiating language is not a customs rule; procurement exposure changes only when a specific trade measure, exemption, license, or contract term changes.
-- Source: https://apnews.com/article/67d0030d68ba42bdcbedd0eacf92d4b3
-- Revisit trigger: Joint statement, tariff schedule, licensing action, sector measure, exemption, or written trade treatment.
-
 ## Columbus November rezoning cases
 - Last verified development: Local reporting identified four residential rezoning requests covering roughly 195 acres for the November 12 Development Commission hearing; the city posted the hearing agenda.
 - Last takeaway: Recommendation-stage materials can identify conditions and dependencies, but do not establish Council approval, financing, or construction.
 - Source: https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=E6357598-B415-4541-81B7-3C7DD69DAEFD&ID=8303584
 - Revisit trigger: Staff recommendation, commission action, condition, ordinance filing, Council vote, or project financing disclosure.
 
-## Pennymac Best Efforts pricing update
-- Last verified development: Pennymac updated conventional and government LLPAs for Best Efforts commitments taken on or after November 10.
-- Last takeaway: Commitment-date controls and the current pricing matrix are the operational issue; the bulletin does not determine a borrower-specific price or every execution channel.
-- Source: https://corr-west.pennymac.com/announcements
-- Revisit trigger: Detailed pricing artifact, product guidance, commitment exception, disclosure change, or correspondent implementation notice.
+## Freddie Mac ULDD Phase 5 delivery update
+- Last verified development: Freddie Mac’s November 10 ULDD update adds optional borrower contact fields, expands delivery combinations for closing costs and down payments, and updates specification resources; the contact-field revision is effective November 8, 2027.
+- Last takeaway: Sellers and vendors should map and test the delivery fields without treating a technical specification change as an underwriting or borrower-eligibility change.
+- Source: https://sf.freddiemac.com/docs/pdf/uldd_announcement_november_10_2026.pdf
+- Revisit trigger: Dated credit-score requirements, seller guide change, vendor release, test-case update, early-adoption evidence, or delivery exception.
 
-## Deutsche Bank shared AI delivery environment
-- Last verified development: Deutsche Bank described November 6 a unified AI development environment using Google Cloud tools and common development tools and controls.
-- Last takeaway: A standard route to build is not proof of a measured production outcome; application-level evidence remains necessary.
-- Source: https://www.deutschbank.net/news/detail/20261106-trust-by-design-how-responsible-ai-speeds-up-innovation?language_id=1
-- Revisit trigger: Named production application, baseline comparison, failure measure, independent evaluation, or customer outcome.
+## Northern Trust client-onboarding agent
+- Last verified development: Northern Trust and Microsoft announced November 9 a production agent that converts historical transaction data into a standardized format for Asset Servicing Front Office Solutions onboarding; the joint release reports an 83% preparation-time reduction and a 96.5 F1 controlled-test result.
+- Last takeaway: A bounded conversion workflow can be assessed against analyst reference outputs and exception handling; the joint release is not an independent audit or broad-population quality result.
+- Source: https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/
+- Revisit trigger: Larger-period case mix, correction and exception rates, client rework, independent assessment, or customer-outcome evidence.
 
 ## Big Darby planning record
 - Last verified development: Columbus scheduled the Big Darby Accord Advisory Panel for November 10 at 1:30 p.m.

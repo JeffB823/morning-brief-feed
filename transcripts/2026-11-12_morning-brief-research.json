@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-12",
+  "cutoff": "2026-11-12T00:38:26-05:00",
+  "history_compared": [
+    "2026-11-05_morning-brief-script.md",
+    "2026-11-06_morning-brief-script.md",
+    "2026-11-07_morning-brief-script.md",
+    "2026-11-08_morning-brief-script.md",
+    "2026-11-09_morning-brief-script.md",
+    "2026-11-10_morning-brief-script.md",
+    "2026-11-11_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "inflation_fed",
+      "beat": "national",
+      "event_date": "2026-11-11",
+      "publication_date": "2026-11-11",
+      "decision": "selected",
+      "reason": "Fresh AP reporting on October inflation breadth and officials’ response."
+    },
+    {
+      "id": "columbus_rezoning_hearing",
+      "beat": "columbus",
+      "event_date": "2026-11-12",
+      "publication_date": "2026-11-10",
+      "decision": "selected carryover",
+      "reason": "The public hearing and its primary agenda are today; the takeaway changes from pre-hearing preview to record and recommendation."
+    },
+    {
+      "id": "freddie_uldd_phase5",
+      "beat": "home_lending",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "decision": "selected",
+      "reason": "New primary delivery specification changes data mapping and readiness work, distinct from yesterday’s correspondent pricing story."
+    },
+    {
+      "id": "northern_trust_onboarding",
+      "beat": "bank_ai",
+      "event_date": "2026-11-09",
+      "publication_date": "2026-11-09",
+      "decision": "selected",
+      "reason": "Named production onboarding task with baseline, measured result, controlled-test design, and limitation."
+    },
+    {
+      "id": "openai_businesses",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "decision": "selected",
+      "reason": "New, constrained business-agent interaction surface clears the agent-and-tool-use bar."
+    },
+    {
+      "id": "uwm_pricing",
+      "beat": "home_lending",
+      "event_date": "2026-11-11",
+      "publication_date": "2026-11-11",
+      "decision": "rejected",
+      "reason": "Fresh but company pricing incentive has less durable listener value than the primary GSE delivery specification."
+    },
+    {
+      "id": "china_trade",
+      "beat": "national",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-11",
+      "decision": "rejected",
+      "reason": "Full segment aired November 11; no new written measure."
+    }
+  ],
+  "stories": [
+    {
+      "id": "inflation_fed",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-11",
+      "publication_date": "2026-11-11",
+      "sources": [
+        "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457"
+      ],
+      "new_fact": "AP reported October annual inflation at 4 percent, up from 3.7 percent, with officials debating faster versus gradual further hikes.",
+      "new_takeaway": "Borrowing and cash-flow planning should use scenarios until data and the committee, rather than futures pricing, settle the policy path.",
+      "why_now": "The fresh inflation report and November 11 official reactions changed the policy debate.",
+      "previous_coverage": "The previous seven scripts did not use this inflation-breadth and Fed-pace development.",
+      "uncertainty": "Officials disagree and the committee has not made its December decision.",
+      "watch": "Intervening inflation data and the December 8–9 FOMC communication."
+    },
+    {
+      "id": "columbus_rezoning_hearing",
+      "beat": "columbus",
+      "classification": "fresh",
+      "carryover": true,
+      "event_date": "2026-11-12",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "https://www.columbus.gov/files/dd881b15-17d7-4c9e-8642-7e43f210ca57/11-12-2026-Development-Commission-Agenda.pdf"
+      ],
+      "new_fact": "The four rezoning applications enter the November 12, 4:30 p.m. Development Commission hearing with individual city agenda records.",
+      "new_takeaway": "The hearing record and recommendation, not a pre-hearing acreage count, identify the next real conditions and dependencies.",
+      "why_now": "The effective event date is today’s public hearing.",
+      "previous_coverage": "November 11 previewed the cases; this segment focuses on the active hearing and primary agenda, not a repeated entitlement conclusion.",
+      "uncertainty": "The Commission is advisory and City Council later makes the binding rezoning decisions.",
+      "watch": "Staff reports, recommendation, limitation text, ordinance filing, and Council action."
+    },
+    {
+      "id": "freddie_uldd_phase5",
+      "beat": "home_lending",
+      "classification": "fresh",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "https://sf.freddiemac.com/docs/pdf/uldd_announcement_november_10_2026.pdf"
+      ],
+      "new_fact": "Freddie Mac updated ULDD Phase 5 with borrower-contact fields, expanded closing-cost and down-payment combinations, and other delivery specification revisions.",
+      "new_takeaway": "Data owners should test mapping and optional early transmission separately from underwriting and credit-score policy.",
+      "why_now": "The primary specification was updated November 10.",
+      "previous_coverage": "The prior seven scripts covered Fannie manual underwriting, Freddie equity buyouts, and lender pricing—not this ULDD delivery update.",
+      "uncertainty": "The contact-field revision has a November 8, 2027 effective date and credit-score timing is not yet provided.",
+      "watch": "Dated credit-score requirements and seller/vendor implementation releases."
+    },
+    {
+      "id": "northern_trust_onboarding",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "date_exception": "Explicit seven-day bank-AI specialist update: the November 9 deployment was independently discovered, previously uncovered on air, and has a named task and measured company/vendor evidence; it does not count toward the four fresh stories.",
+      "event_date": "2026-11-09",
+      "publication_date": "2026-11-09",
+      "sources": [
+        "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/"
+      ],
+      "new_fact": "Northern Trust and Microsoft disclosed an agent that standardizes historical transaction data in client onboarding, reporting time and first-pass-quality results.",
+      "new_takeaway": "A bounded onboarding conversion can be evaluated against analyst reference output and its exception queue rather than a generalized automation promise.",
+      "why_now": "The November 9 production deployment adds a different lane-four workflow with measured company-reported evidence.",
+      "previous_coverage": "The prior seven used AI access controls, a framework, and a shared development environment, not this onboarding deployment.",
+      "uncertainty": "The metrics come from a joint company/vendor release, the controlled F1 test used seven cases, and broader exception data are not published.",
+      "watch": "Case-mix, corrections, client rework, exception rates, and longer-period results.",
+      "ledger_row_changed": "Added Northern Trust as a lane-four production client-onboarding agent row, with company/vendor-reported 83 percent preparation-time reduction and 96.5 F1 controlled-test result."
+    },
+    {
+      "id": "openai_businesses",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "https://openai.com/index/introducing-businesses-chatgpt/"
+      ],
+      "new_fact": "OpenAI launched Businesses in ChatGPT beta, including Business Hub and Business Agents for eligible U.S. ecommerce and online-service businesses.",
+      "new_takeaway": "A new agent surface changes business-customer interaction availability, but needs local answer-quality and escalation evidence before consequential use.",
+      "why_now": "The product announcement is dated November 10.",
+      "previous_coverage": "The previous seven did not cover this launch or its separate business-agent interaction surface.",
+      "uncertainty": "OpenAI does not disclose answer accuracy, conversion, complaint, refund, latency, or safety outcomes, and eligibility is limited.",
+      "watch": "Eligibility expansion, quality evidence, customer outcomes, and error or complaint reporting.",
+      "frontier_bar": "agent and tool-use advance"
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "b865e3b54b99729d2f47221e4d2b2ab25faf1a644dc917fdf772a5c674ab63e4",
+    "notes": "Five selected stories have original event dates November 9–12. The Columbus hearing is one carried continuing item, explicitly different from November 11’s preview. Bank AI is lane four with company/vendor evidence, baseline and limitation; frontier is a new constrained interaction surface, not an accuracy claim."
+  },
+  "claim_check_exceptions": [
+    {"claim":"https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457","reason":"AP returned a short curl shell; the browser-reviewed AP article supports the October inflation figures and officials’ positions used in the script."},
+    {"claim":"https://www.columbus.gov/files/dd881b15-17d7-4c9e-8642-7e43f210ca57/11-12-2026-Development-Commission-Agenda.pdf","reason":"The curl checker does not extract sufficient PDF text; the browser-reviewed city agenda identifies the hearing, applications, locations, requested districts, and advisory process."},
+    {"claim":"https://openai.com/index/introducing-businesses-chatgpt/","reason":"OpenAI returned an empty curl response; the browser-reviewed primary announcement supports the feature, eligibility, and separation statements used here."},
+    {"claim":"151","reason":"The city’s browser-reviewed agenda gives the Norton Road tract as 151.82 acres; spoken copy preserves that site-specific figure."},
+    {"claim":"Associated Press","reason":"Attribution identifies the cited AP reporting source."},
+    {"claim":"Business Hub","reason":"The browser-reviewed OpenAI announcement names Business Hub."},
+    {"claim":"Businesses","reason":"The browser-reviewed OpenAI announcement is titled Businesses in ChatGPT."},
+    {"claim":"ChatGPT","reason":"The cited OpenAI announcement describes the ChatGPT product surface."},
+    {"claim":"City Council","reason":"The city agenda identifies the Development Commission hearing; the city’s published zoning process makes Council the binding rezoning authority."},
+    {"claim":"Coleman Government Center","reason":"The browser-reviewed city agenda names the Michael B. Coleman Government Center as the hearing venue."},
+    {"claim":"Columbus","reason":"The cited city agenda is issued by the City of Columbus for the local hearing."},
+    {"claim":"Commission","reason":"The city agenda identifies the Development Commission as the hearing body."},
+    {"claim":"Council","reason":"The city’s zoning process distinguishes Commission recommendation from Council action."},
+    {"claim":"Dallas Fed President Lorie Logan","reason":"The browser-reviewed AP report attributes the faster-hike position to Lorie Logan."},
+    {"claim":"Development Commission","reason":"The browser-reviewed city agenda names the Development Commission and the November 12 hearing."},
+    {"claim":"Eligible U.S","reason":"The browser-reviewed OpenAI announcement limits the initial Business Agent availability to eligible U.S. ecommerce and online-service businesses."},
+    {"claim":"Fed","reason":"The browser-reviewed AP report describes Federal Reserve officials’ policy positions."},
+    {"claim":"Federal Reserve","reason":"The cited AP report concerns the Federal Reserve response to the inflation data."},
+    {"claim":"Freddie","reason":"The cited primary Freddie Mac announcement states the relevant current requirements."},
+    {"claim":"Freddie Mac","reason":"The cited primary announcement is published by Freddie Mac."},
+    {"claim":"Freddie Mac November","reason":"The cited primary ULDD announcement is dated November 10, 2026."},
+    {"claim":"Michael B","reason":"The browser-reviewed city agenda gives the full Michael B. Coleman Government Center name."},
+    {"claim":"National Weather Service","reason":"This is live-forecast advice rather than a static weather assertion."},
+    {"claim":"Norton Road","reason":"The browser-reviewed city agenda names 3030 Norton Road in application Z26-027."},
+    {"claim":"OpenAI","reason":"The browser-reviewed primary announcement identifies OpenAI as the provider."},
+    {"claim":"OpenAI November","reason":"The primary announcement is dated November 10, 2026."},
+    {"claim":"Phase Five","reason":"The cited Freddie Mac announcement identifies ULDD Phase 5 and its current-requirements tab."},
+    {"claim":"Philadelphia Fed President Anna Paulson","reason":"The browser-reviewed AP report attributes the gradual-hike position to Anna Paulson."},
+    {"claim":"Treasury","reason":"Treasury-yield wording is general market context, not a quoted numerical assertion."},
+    {"claim":"Uniform Loan Delivery Dataset","reason":"The cited primary Freddie Mac document is the ULDD Phase 5 update."},
+    {"claim":"VantageScore","reason":"The cited Freddie Mac announcement specifies the VantageScore 4.0 delivery identifier."},
+    {"claim":"Westland Area Commission and Big Darby Accord Advisory Panel","reason":"The browser-reviewed city agenda lists both bodies with the Norton Road application."},
+    {"claim":"XML","reason":"XML generation is a standard technical implication of the cited ULDD delivery-specification update, not a claim of a new consumer rule."},
+    {"claim":"the Columbus","reason":"This is a parser fragment from the live-forecast advice."},
+    {"claim":"the Commission","reason":"This is a parser fragment referring to the city’s Development Commission."}
+  ]
+}
