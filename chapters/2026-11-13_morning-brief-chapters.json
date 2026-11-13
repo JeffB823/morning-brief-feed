@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.525
+    },
+    {
+      "title": "National Enforcement Numbers",
+      "start": 34.525,
+      "end": 163.1
+    },
+    {
+      "title": "Columbus Council Transition",
+      "start": 163.1,
+      "end": 281.0
+    },
+    {
+      "title": "Home Lending",
+      "start": 281.0,
+      "end": 439.15
+    },
+    {
+      "title": "AI in Banking",
+      "start": 439.15,
+      "end": 589.825
+    },
+    {
+      "title": "Frontier AI",
+      "start": 589.825,
+      "end": 744.1
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 744.1,
+      "end": 804.025
+    },
+    {
+      "title": "Watch Next",
+      "start": 804.025,
+      "end": 827.45
+    }
+  ]
+}
