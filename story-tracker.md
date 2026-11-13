@@ -1,75 +1,33 @@
-# Story Tracker — updated 2026-11-12
+# Story Tracker — updated 2026-11-13
 
 Only active stories likely to move within five days.
 
-## Ukraine talks and G7 security arrangements
-- Last verified development: AP reported November 10 that U.S.-mediated Russia-Ukraine talks were getting underway in Abu Dhabi while G7 leaders gathered in Paris to discuss security and defense assistance.
-- Last takeaway: A negotiating channel is not an implemented settlement; the operative signals are written commitments, funding, enforcement, and breach terms.
-- Source: https://apnews.com/article/49f273e626ca4bab0e5a2d32e4943014
-- Revisit trigger: Written framework, named security commitment, implementation mechanism, funding decision, sanctions change, or breakdown.
+## Columbus Council transition
+- Last verified development: Axios Columbus reported November 12 that voter-approved Issues Eight and Nine begin a transition to a thirteen-member district Council, with full expansion targeted for 2030.
+- Last takeaway: The implementation process—maps, timing, rules, and hearings—will determine the practical change, rather than the ballot result alone.
+- Source: https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline
+- Revisit trigger: Formal transition timetable, mapmaking criteria, public hearing, ordinance, or election-administration decision.
 
-## Columbus November rezoning cases
-- Last verified development: Local reporting identified four residential rezoning requests covering roughly 195 acres for the November 12 Development Commission hearing; the city posted the hearing agenda.
-- Last takeaway: Recommendation-stage materials can identify conditions and dependencies, but do not establish Council approval, financing, or construction.
-- Source: https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=E6357598-B415-4541-81B7-3C7DD69DAEFD&ID=8303584
-- Revisit trigger: Staff recommendation, commission action, condition, ordinance filing, Council vote, or project financing disclosure.
+## Mortgage-rate and existing-home-sales divergence
+- Last verified development: Freddie Mac reported a 7.11% average thirty-year fixed rate on November 12; AP reported October existing-home sales at a sixteen-year low despite the rate decline.
+- Last takeaway: Lenders should distinguish new rate inquiries from locked, qualified purchase conversion.
+- Source: https://www.freddiemac.com/pmms ; https://apnews.com/article/dbd54bc897a443dc0fc9668911977864
+- Revisit trigger: Next weekly survey, sales release, material Treasury move, inventory change, or lender pull-through evidence.
 
-## Freddie Mac ULDD Phase 5 delivery update
-- Last verified development: Freddie Mac’s November 10 ULDD update adds optional borrower contact fields, expands delivery combinations for closing costs and down payments, and updates specification resources; the contact-field revision is effective November 8, 2027.
-- Last takeaway: Sellers and vendors should map and test the delivery fields without treating a technical specification change as an underwriting or borrower-eligibility change.
-- Source: https://sf.freddiemac.com/docs/pdf/uldd_announcement_november_10_2026.pdf
-- Revisit trigger: Dated credit-score requirements, seller guide change, vendor release, test-case update, early-adoption evidence, or delivery exception.
+## Federal immigration enforcement totals
+- Last verified development: AP reported November 12 that ICE released fiscal-year enforcement totals, including 483,200 deportations.
+- Last takeaway: Aggregate activity changes oversight and administrative workload; it does not independently determine local legal outcomes.
+- Source: https://apnews.com/article/2789231dbe0a7a5d8dfcdebe82c0f58f
+- Revisit trigger: Oversight request, funding action, litigation, methodology release, or formal operational policy change.
 
-## Northern Trust client-onboarding agent
-- Last verified development: Northern Trust and Microsoft announced November 9 a production agent that converts historical transaction data into a standardized format for Asset Servicing Front Office Solutions onboarding; the joint release reports an 83% preparation-time reduction and a 96.5 F1 controlled-test result.
-- Last takeaway: A bounded conversion workflow can be assessed against analyst reference outputs and exception handling; the joint release is not an independent audit or broad-population quality result.
-- Source: https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/
-- Revisit trigger: Larger-period case mix, correction and exception rates, client rework, independent assessment, or customer-outcome evidence.
+## Bankwest chat handoff deployment
+- Last verified development: Bankwest described a customer-chat assist that transfers conversation context, summary, and sentiment information to a human colleague.
+- Last takeaway: The relevant test is transfer and resolution accuracy, not whether an AI-generated summary reads fluently.
+- Source: https://news.microsoft.com/source/asia/2026/11/04/how-innovation-is-helping-a-digital-bank-maintain-human-connection-in-chat-conversations/
+- Revisit trigger: Published transfer accuracy, repeat-contact, handling-time, error, complaint, escalation, or independent results.
 
-## Big Darby planning record
-- Last verified development: Columbus scheduled the Big Darby Accord Advisory Panel for November 10 at 1:30 p.m.
-- Last takeaway: Early advisory records can reveal a future project’s infrastructure or watershed constraints, but do not themselves approve or deny a project.
-- Source: https://www.columbus.gov/Business-Development/Building-Zoning-Services/Boards-and-Commissions/Historic-Preservation-Design-Review-Boards-Commissions-Panels/Big-Darby-Accord-Advisory-Panel
-- Revisit trigger: Posted agenda, formal application, staff recommendation, engineering condition, planning action, or vote.
-
-## Columbus small-business infrastructure loans
-- Last verified development: Columbus Business First reported November 6 that a $550,000 allocation expands a forgivable-loan pilot to eligible west-side small businesses with infrastructure constraints.
-- Last takeaway: The relevant question is whether targeted finance unlocks projects blocked by physical-site costs rather than substituting for normal working capital.
-- Source: https://www.bizjournals.com/columbus/news/2026/11/06/small-business-loan-program-infrastructure-costs.html
-- Revisit trigger: Eligibility publication, application deadline, award list, completed project, repayment/forgiveness terms, or program-demand data.
-
-## Central Ohio data-center ballot implementation
-- Last verified development: Axios reported November 5 that Grove City adopted a referendum requirement for certain large developments and Granville, Pataskala, and Sunbury approved restrictions involving data centers at or above 25 megawatts.
-- Last takeaway: The decision point has moved to each municipality’s certified language, process, scope, and project-specific application.
-- Source: https://www.axios.com/local/columbus/2026/11/05/ohio-data-center-election
-- Revisit trigger: Certification, implementing ordinance, developer filing or revision, municipal guidance, or court action.
-
-## Fannie Mae manual-underwriting matrix
-- Last verified development: Fannie Mae’s November 4 letter changes the Eligibility Matrix for manually underwritten loans sold on or after February 22, 2027.
-- Last takeaway: Lenders need delivery-date mapping and representative-file tests for the new matrix; a borrower’s result still depends on full facts and lender overlays.
-- Source: https://singlefamily.fanniemae.com/news-events/lender-letter-ll-2026-09-manual-underwriting-eligibility
-- Revisit trigger: Seller guide update, lender overlay, training or policy release, implementation exception, or quality-control finding.
-
-## OCC AI examination framework
-- Last verified development: OCC Bulletin 2026-54 provides a supervisory framework for examiners evaluating super-intelligence use in normal-course banking activity.
-- Last takeaway: The relevant evidence is proportionate to the consequence of the specific decision, not a model label alone; the framework is not a bank outcome result.
-- Source: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html
-- Revisit trigger: Examination application, OCC clarification, bank disclosure, testing result, or enforcement finding.
-
-## AI-related debt underwriting
-- Last verified development: Reuters reported November 9 that banks and credit investors are scrutinizing additional AI-related debt after a market selloff.
-- Last takeaway: Credit tightening may show up in guarantees, cash-flow demands, spreads, and concentration limits before a financing market shuts.
-- Source: https://new.streetinsider.com/Reuters/Banks%2C%2Binvestors%2Bgrow%2Bwary%2Bof%2BAI%2Bdebt%2C%2Bspooked%2Bby%2Bmarket%C2%A0selloff/27310388.html
-- Revisit trigger: Financing withdrawal, revised deal terms, spreads, guarantee change, borrower disclosure, or data-center project delay.
-
-## Ohio official canvass
-- Last verified development: Ohio’s Secretary of State says county boards may begin the November 3 official canvass on November 8 and must complete it no later than November 24.
-- Last takeaway: Initial results are moving into reconciliation and certification; county records, not election-night screenshots, govern final local outcomes.
-- Source: https://www.ohiosos.gov/office/media-center/categories/week-in-review/week-in-review-2026-11-06
-- Revisit trigger: County certification, close-race dispute, audit notice, recount threshold, or statewide certification.
-
-## BMO card-resolution agent assist
-- Last verified development: BMO described November 6 an employee-reviewed assistant for credit-card transaction calls, with a stated 12–14 minute current-call baseline and targets for eligible work.
-- Last takeaway: The investment case depends on actual correct-resolution, exception and customer-outcome evidence, not its announced automation target.
-- Source: https://ai.bmo.com/our-stories/bmo-applies-agentic-ai-to-make-credit-card-transaction-resolution-faster-and-simpler/
-- Revisit trigger: Production volume, realized handling-time comparison, refund error, complaint, escalation, or independent assessment.
+## Anthropic Frontier Academy
+- Last verified development: Anthropic announced November 12 a $100 million Frontier Academy targeting 10,000 deployed engineers by the end of 2027.
+- Last takeaway: Training capacity can affect implementation speed but is not evidence of model reliability or business outcomes.
+- Source: https://www.anthropic.com/news
+- Revisit trigger: Named deployment with a task baseline, completion data, safety outcome, independent evaluation, or customer result.

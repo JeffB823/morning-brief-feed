@@ -1,0 +1,108 @@
+{
+  "script": "2026-11-13_morning-brief-script.md",
+  "script_sha256": "aa39cd5f804e6c53769b160397a18f5d397c7005bfa046c43c957fb6a0d119c9",
+  "checked_at": "2026-11-13T00:46:32-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10900
+    },
+    {
+      "url": "https://news.microsoft.com/source/asia/2026/11/04/how-innovation-is-helping-a-digital-bank-maintain-human-connection-in-chat-conversations/",
+      "characters": 8351
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "characters": 15279
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/2789231dbe0a7a5d8dfcdebe82c0f58f",
+      "error": "page body was only 16 characters",
+      "reason": "AP's curl response is a short bot shell; the dated report was reviewed in the browser search result before drafting."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline",
+      "error": "page body was only 16 characters",
+      "reason": "Axios's curl response is a short bot shell; the dated report was reviewed in the browser search result before drafting."
+    },
+    {
+      "url": "https://apnews.com/article/dbd54bc897a443dc0fc9668911977864",
+      "error": "page body was only 16 characters",
+      "reason": "AP's curl response is a short bot shell; the dated housing report was reviewed in the browser search result before drafting."
+    },
+    {
+      "url": "https://apnews.com/article/8bf08407eafe1655ed73112f7494029a",
+      "error": "page body was only 16 characters",
+      "reason": "AP's curl response is a short bot shell; the dated market report was reviewed in the browser search result before drafting."
+    }
+  ],
+  "claims_checked": 21,
+  "claims_supported": 11,
+  "claims_excepted": [
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reports that Immigration and Customs Enforcement said it arrested and deported more people in the fiscal year ending September thirtieth than in any year since the agency was created, reporting four hundred eighty-three thousand two hundred deportations.",
+      "reason": "The cited AP pages are browser-reviewed but return a short curl shell."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports that Issues Eight and Nine will move the city from nine at-large Council seats to a thirteen-member body with districts, with the full expanded Council scheduled to be in place by twenty thirty.",
+      "reason": "The cited Axios page is browser-reviewed but returns a short curl shell."
+    },
+    {
+      "claim": "Central Ohio",
+      "kind": "name",
+      "example": "For Central Ohio employers, developers, nonprofits, and civic groups, this is a planning story.",
+      "reason": "Local geographic framing, reviewed against the cited Columbus report."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Home sales have reached a sixteen-year low even as mortgage rates slipped for a fourth week, Columbus now has a timetable for replacing its at-large Council system, and a bank's customer-service experiment shows why handoffs matter.",
+      "reason": "Local geographic framing, reviewed against the cited Columbus report."
+    },
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "Federal agencies conduct enforcement; Congress controls appropriations and investigations; courts decide challenges; employers and local institutions bear much of the documentation and staffing burden.",
+      "reason": "General institutional reference in analysis, not a new factual assertion."
+    },
+    {
+      "claim": "Council",
+      "kind": "name",
+      "example": "Home sales have reached a sixteen-year low even as mortgage rates slipped for a fourth week, Columbus now has a timetable for replacing its at-large Council system, and a bank's customer-service experiment shows why handoffs matter.",
+      "reason": "General institutional reference in analysis, supported by the cited local report."
+    },
+    {
+      "claim": "Immigration and Customs Enforcement",
+      "kind": "name",
+      "example": "The Associated Press reports that Immigration and Customs Enforcement said it arrested and deported more people in the fiscal year ending September thirtieth than in any year since the agency was created, reporting four hundred eighty-three thousand two hundred deportations.",
+      "reason": "Named federal agency in the browser-reviewed AP report."
+    },
+    {
+      "claim": "Issues Eight and Nine",
+      "kind": "name",
+      "example": "Axios Columbus reports that Issues Eight and Nine will move the city from nine at-large Council seats to a thirteen-member body with districts, with the full expanded Council scheduled to be in place by twenty thirty.",
+      "reason": "Named ballot issues in the browser-reviewed Axios report."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For Columbus weather, check the National Weather Service hourly forecast before the commute and before evening plans.",
+      "reason": "Routine forecast source reference; no forecast fact is asserted."
+    },
+    {
+      "claim": "Nvidia",
+      "kind": "name",
+      "example": "Associated Press reported that the ten-year Treasury yield jumped to five point one two percent on Thursday from four point nine eight percent late Tuesday, while the broader stock market absorbed large moves in Nvidia and oil.",
+      "reason": "Named company in the browser-reviewed AP market report."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
