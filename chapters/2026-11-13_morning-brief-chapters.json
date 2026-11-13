@@ -9,37 +9,37 @@
     {
       "title": "National Enforcement Numbers",
       "start": 34.525,
-      "end": 163.1
+      "end": 130.725
     },
     {
       "title": "Columbus Council Transition",
-      "start": 163.1,
-      "end": 281.0
+      "start": 130.725,
+      "end": 214.65
     },
     {
       "title": "Home Lending",
-      "start": 281.0,
-      "end": 439.15
+      "start": 214.65,
+      "end": 372.8
     },
     {
       "title": "AI in Banking",
-      "start": 439.15,
-      "end": 589.825
+      "start": 372.8,
+      "end": 523.475
     },
     {
       "title": "Frontier AI",
-      "start": 589.825,
-      "end": 744.1
+      "start": 523.475,
+      "end": 677.75
     },
     {
       "title": "Markets and Weather",
-      "start": 744.1,
-      "end": 804.025
+      "start": 677.75,
+      "end": 737.675
     },
     {
       "title": "Watch Next",
-      "start": 804.025,
-      "end": 827.45
+      "start": 737.675,
+      "end": 761.1
     }
   ]
 }
