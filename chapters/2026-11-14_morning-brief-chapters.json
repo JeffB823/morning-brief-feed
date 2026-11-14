@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.95
+    },
+    {
+      "title": "Medicaid Implementation",
+      "start": 35.95,
+      "end": 174.425
+    },
+    {
+      "title": "Columbus Weekend Opening",
+      "start": 174.425,
+      "end": 280.45
+    },
+    {
+      "title": "Home Lending",
+      "start": 280.45,
+      "end": 424.975
+    },
+    {
+      "title": "AI in Banking",
+      "start": 424.975,
+      "end": 574.375
+    },
+    {
+      "title": "Frontier AI",
+      "start": 574.375,
+      "end": 720.0
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 720.0,
+      "end": 787.4
+    },
+    {
+      "title": "Watch Next",
+      "start": 787.4,
+      "end": 811.75
+    }
+  ]
+}
