@@ -1,7 +1,7 @@
 {
   "script": "2026-11-14_morning-brief-script.md",
-  "script_sha256": "0f4fc76a4173f5fedf920e238053be0ed97460a89f0f47e683a82c71690c14d9",
-  "checked_at": "2026-11-14T06:18:54-0500",
+  "script_sha256": "b87a1a1c853d7e7acc90bf7dd7838402cbd73e4e0ea9bf56f47894b4f4d13144",
+  "checked_at": "2026-11-14T06:31:19-0500",
   "sources_fetched": [
     {
       "url": "https://corr-east.pennymac.com/non-delegated-announcements",
@@ -87,7 +87,7 @@
     {
       "claim": "Clippers",
       "kind": "name",
-      "example": "The next evidence worth watching is attendance across several weekends, traffic and parking management, weather-related adjustments, and whether the Clippers publish a return date for next year.",
+      "example": "Watch arrivals across several weekends, traffic and parking management, weather adjustments, and whether the Clippers publish a return date.",
       "reason": "Named local organization in the cited Axios Columbus report, browser-verified at the recorded cutoff."
     },
     {
