@@ -9,37 +9,37 @@
     {
       "title": "Medicaid Implementation",
       "start": 35.95,
-      "end": 174.425
+      "end": 161.275
     },
     {
       "title": "Columbus Weekend Opening",
-      "start": 174.425,
-      "end": 280.45
+      "start": 161.275,
+      "end": 252.025
     },
     {
       "title": "Home Lending",
-      "start": 280.45,
-      "end": 424.975
+      "start": 252.025,
+      "end": 388.925
     },
     {
       "title": "AI in Banking",
-      "start": 424.975,
-      "end": 574.375
+      "start": 388.925,
+      "end": 538.325
     },
     {
       "title": "Frontier AI",
-      "start": 574.375,
-      "end": 720.0
+      "start": 538.325,
+      "end": 683.95
     },
     {
       "title": "Markets and Weather",
-      "start": 720.0,
-      "end": 787.4
+      "start": 683.95,
+      "end": 743.6
     },
     {
       "title": "Watch Next",
-      "start": 787.4,
-      "end": 811.75
+      "start": 743.6,
+      "end": 767.95
     }
   ]
 }
