@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-11-13
+# Story Tracker — updated 2026-11-14
 
 Only active stories likely to move within five days.
 
@@ -8,11 +8,11 @@ Only active stories likely to move within five days.
 - Source: https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline
 - Revisit trigger: Formal transition timetable, mapmaking criteria, public hearing, ordinance, or election-administration decision.
 
-## Mortgage-rate and existing-home-sales divergence
-- Last verified development: Freddie Mac reported a 7.11% average thirty-year fixed rate on November 12; AP reported October existing-home sales at a sixteen-year low despite the rate decline.
-- Last takeaway: Lenders should distinguish new rate inquiries from locked, qualified purchase conversion.
-- Source: https://www.freddiemac.com/pmms ; https://apnews.com/article/dbd54bc897a443dc0fc9668911977864
-- Revisit trigger: Next weekly survey, sales release, material Treasury move, inventory change, or lender pull-through evidence.
+## Pennymac Best Efforts pricing boundary
+- Last verified development: Pennymac’s November 12 listing says a new conventional loan-level price-adjustment schedule applies to Best Efforts commitments taken on or after November 13.
+- Last takeaway: The immediate risk is using a stale pricing matrix at commitment registration, not a universal consumer-rate change.
+- Source: https://corr-east.pennymac.com/non-delegated-announcements
+- Revisit trigger: Detailed schedule, product bulletin, effective-date exception, pricing-engine instruction, or correspondent notice.
 
 ## Federal immigration enforcement totals
 - Last verified development: AP reported November 12 that ICE released fiscal-year enforcement totals, including 483,200 deportations.
@@ -20,14 +20,14 @@ Only active stories likely to move within five days.
 - Source: https://apnews.com/article/2789231dbe0a7a5d8dfcdebe82c0f58f
 - Revisit trigger: Oversight request, funding action, litigation, methodology release, or formal operational policy change.
 
-## Bankwest chat handoff deployment
-- Last verified development: Bankwest described a customer-chat assist that transfers conversation context, summary, and sentiment information to a human colleague.
-- Last takeaway: The relevant test is transfer and resolution accuracy, not whether an AI-generated summary reads fluently.
-- Source: https://news.microsoft.com/source/asia/2026/11/04/how-innovation-is-helping-a-digital-bank-maintain-human-connection-in-chat-conversations/
-- Revisit trigger: Published transfer accuracy, repeat-contact, handling-time, error, complaint, escalation, or independent results.
+## Banking agent-control benchmark
+- Last verified development: BCG’s November 13 benchmark of 26 systemically important banks reports 73% permit agents in production for selected use cases while 8% report comprehensive standardized agent monitoring and controls.
+- Last takeaway: Permission to run a selected agent is not task-level proof of accuracy, value, or scalable control.
+- Source: https://www.bcg.com/press/13november2026-operationalizing-ai-governance-advantage-scaling-ai
+- Revisit trigger: Named bank, workflow-level metric, incident definition, regulator finding, or independent review.
 
-## Anthropic Frontier Academy
-- Last verified development: Anthropic announced November 12 a $100 million Frontier Academy targeting 10,000 deployed engineers by the end of 2027.
-- Last takeaway: Training capacity can affect implementation speed but is not evidence of model reliability or business outcomes.
-- Source: https://www.anthropic.com/news
-- Revisit trigger: Named deployment with a task baseline, completion data, safety outcome, independent evaluation, or customer result.
+## Businesses in ChatGPT access surface
+- Last verified development: OpenAI’s November 10 announcement adds Business Hub profiles and separately labeled Business Agents for eligible U.S. ecommerce and online-service businesses.
+- Last takeaway: A conversational business surface needs current source information and a hard boundary before it can support a regulated workflow.
+- Source: https://openai.com/index/introducing-businesses-chatgpt/
+- Revisit trigger: Expanded categories, answer-quality or privacy evidence, user-comprehension testing, or a measured regulated-industry implementation.

@@ -1,0 +1,132 @@
+{
+  "script": "2026-11-14_morning-brief-script.md",
+  "script_sha256": "0f4fc76a4173f5fedf920e238053be0ed97460a89f0f47e683a82c71690c14d9",
+  "checked_at": "2026-11-14T06:18:54-0500",
+  "sources_fetched": [
+    {
+      "url": "https://corr-east.pennymac.com/non-delegated-announcements",
+      "characters": 6614
+    },
+    {
+      "url": "https://corr-west.pennymac.com/announcements",
+      "characters": 6876
+    },
+    {
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988",
+      "characters": 3846
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/medicaid-work-requirements-states-delay-680a36383fbcb2c615408a34ad41785a",
+      "error": "page body was only 16 characters",
+      "reason": "AP page was browser-verified at the recorded cutoff; curl returned a 16-character shell."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/13/weekend-events-huntington-park-holiday-lights",
+      "error": "page body was only 16 characters",
+      "reason": "Axios report was browser-verified at the recorded cutoff; curl returned a 16-character shell."
+    },
+    {
+      "url": "https://www.bcg.com/press/13november2026-operationalizing-ai-governance-advantage-scaling-ai",
+      "error": "page body was only 277 characters",
+      "reason": "BCG benchmark was browser-verified at the recorded cutoff; curl returned only an incomplete 277-character page body."
+    },
+    {
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI announcement was browser-verified at the recorded cutoff; curl returned an empty body."
+    }
+  ],
+  "claims_checked": 19,
+  "claims_supported": 5,
+  "claims_excepted": [
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press says states still need to determine whether many applicants and enrollees are meeting the work, school, or volunteering conditions.",
+      "reason": "The cited AP page was browser-verified at the recorded cutoff; its automated fetch can return a short shell."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reports that the Columbus Clippers Holiday Lights begins at Huntington Park on Saturday and runs through December.",
+      "reason": "The cited Axios page was browser-verified at the recorded cutoff; automated retrieval may return a short shell."
+    },
+    {
+      "claim": "Boston Consulting Group",
+      "kind": "name",
+      "example": "Boston Consulting Group surveyed twenty-six global and domestic systemically important banks and reports that seventy-three percent permit agents in production for selected use cases.",
+      "reason": "Named publisher of the cited BCG benchmark, browser-verified at the recorded cutoff; curl returned an incomplete page body."
+    },
+    {
+      "claim": "Business Agent",
+      "kind": "name",
+      "example": "Eligible United States ecommerce and online-service firms can also build a clearly labeled Business Agent for a separate customer conversation.",
+      "reason": "Named product in the cited OpenAI announcement, browser-verified at the recorded cutoff; curl returned an empty body."
+    },
+    {
+      "claim": "Business Hub",
+      "kind": "name",
+      "example": "Eligible businesses can claim a profile through Business Hub, update information and product feeds, and see aggregated engagement insights.",
+      "reason": "Named product surface in the cited OpenAI announcement."
+    },
+    {
+      "claim": "Businesses",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's newly introduced Businesses in ChatGPT changes an access surface, not a model capability benchmark.",
+      "reason": "Product-title word in the cited OpenAI announcement."
+    },
+    {
+      "claim": "ChatGPT",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's newly introduced Businesses in ChatGPT changes an access surface, not a model capability benchmark.",
+      "reason": "Named product in the cited OpenAI announcement."
+    },
+    {
+      "claim": "Clippers",
+      "kind": "name",
+      "example": "The next evidence worth watching is attendance across several weekends, traffic and parking management, weather-related adjustments, and whether the Clippers publish a return date for next year.",
+      "reason": "Named local organization in the cited Axios Columbus report, browser-verified at the recorded cutoff."
+    },
+    {
+      "claim": "Columbus Clippers Holiday Lights",
+      "kind": "name",
+      "example": "Axios Columbus reports that the Columbus Clippers Holiday Lights begins at Huntington Park on Saturday and runs through December.",
+      "reason": "Named attraction in the cited Axios Columbus report, browser-verified at the recorded cutoff."
+    },
+    {
+      "claim": "Eligible United States",
+      "kind": "name",
+      "example": "Eligible United States ecommerce and online-service firms can also build a clearly labeled Business Agent for a separate customer conversation.",
+      "reason": "Eligibility phrase supported by the cited OpenAI announcement."
+    },
+    {
+      "claim": "Huntington Park",
+      "kind": "name",
+      "example": "Axios Columbus reports that the Columbus Clippers Holiday Lights begins at Huntington Park on Saturday and runs through December.",
+      "reason": "Named venue in the cited Axios Columbus report, browser-verified at the recorded cutoff."
+    },
+    {
+      "claim": "Medicaid",
+      "kind": "name",
+      "example": "This morning: states get more time before Medicaid work-reporting penalties begin, Columbus opens a new weekend attraction, mortgage desks face a fresh commitment-date change, and two AI stories draw a useful line between a new interface and proven results.",
+      "reason": "Named federal health coverage program in the browser-verified AP report."
+    },
+    {
+      "claim": "Ohio",
+      "kind": "name",
+      "example": "Ohio administrators, health providers, and community groups should treat July as a new operational deadline, not a distant political date.",
+      "reason": "State-specific analytical framing is tied to the cited national Medicaid implementation report; no claim is made that Ohio has selected a policy."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's newly introduced Businesses in ChatGPT changes an access surface, not a model capability benchmark.",
+      "reason": "Named publisher of the cited product announcement, browser-verified at the recorded cutoff."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
