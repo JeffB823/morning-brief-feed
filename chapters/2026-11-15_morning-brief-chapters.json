@@ -1,0 +1,50 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 36.275
+    },
+    {
+      "title": "Air Travel Recovery",
+      "start": 36.275,
+      "end": 163.85
+    },
+    {
+      "title": "Court Pause",
+      "start": 163.85,
+      "end": 250.575
+    },
+    {
+      "title": "Columbus Cold Response",
+      "start": 250.575,
+      "end": 335.575
+    },
+    {
+      "title": "Home Lending",
+      "start": 335.575,
+      "end": 454.95
+    },
+    {
+      "title": "AI in Banking",
+      "start": 454.95,
+      "end": 587.75
+    },
+    {
+      "title": "Frontier AI",
+      "start": 587.75,
+      "end": 716.35
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 716.35,
+      "end": 777.0
+    },
+    {
+      "title": "Watch Next",
+      "start": 777.0,
+      "end": 800.425
+    }
+  ]
+}
