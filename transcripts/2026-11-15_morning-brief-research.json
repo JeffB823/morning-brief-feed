@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-15",
+  "cutoff": "2026-11-15T06:20:00-05:00",
+  "history_compared": [
+    "2026-11-08_morning-brief-script.md",
+    "2026-11-09_morning-brief-script.md",
+    "2026-11-10_morning-brief-script.md",
+    "2026-11-11_morning-brief-script.md",
+    "2026-11-12_morning-brief-script.md",
+    "2026-11-13_morning-brief-script.md",
+    "2026-11-14_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "faa_recovery",
+      "beat": "national",
+      "event_date": "2026-11-14",
+      "decision": "selected",
+      "reason": "New FAA recovery posture after Friday ground stop."
+    },
+    {
+      "id": "potomac_injunction",
+      "beat": "national",
+      "event_date": "2026-11-14",
+      "decision": "selected",
+      "reason": "New court order has immediate public-access and project-schedule consequence."
+    },
+    {
+      "id": "warming_centers",
+      "beat": "columbus",
+      "event_date": "2026-11-14",
+      "decision": "selected",
+      "reason": "Current local cold response with actionable official locator."
+    },
+    {
+      "id": "freddie_survey",
+      "beat": "home_lending",
+      "event_date": "2026-11-12",
+      "decision": "selected_dated_update",
+      "reason": "Uncovered current survey supports workflow comparison, not fresh credit."
+    },
+    {
+      "id": "harness_paper",
+      "beat": "bank_ai",
+      "event_date": "2026-11-10",
+      "decision": "selected_dated_update",
+      "reason": "Newly surfaced implementation evidence changes the ledger with a task-specific limitation."
+    },
+    {
+      "id": "gemini_hydrogen",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-13",
+      "decision": "selected",
+      "reason": "New model/access change with provider claims clearly separated from testing."
+    },
+    {
+      "id": "businesses_chatgpt",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-10",
+      "decision": "rejected",
+      "reason": "Covered November 14; no new fact."
+    },
+    {
+      "id": "bcg_bank_agents",
+      "beat": "bank_ai",
+      "event_date": "2026-11-13",
+      "decision": "rejected",
+      "reason": "Covered November 14; no new fact or takeaway."
+    }
+  ],
+  "stories": [
+    {
+      "id": "faa_recovery",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-14",
+      "publication_date": "2026-11-14",
+      "sources": [
+        "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291",
+        "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8"
+      ],
+      "new_fact": "FAA said air travel should normalize Sunday after the national ground stop.",
+      "new_takeaway": "Recovery requires checking operational repositioning, not trusting a static schedule.",
+      "why_now": "The recovery announcement and stated technology/legacy-system interaction followed Friday's interruption.",
+      "previous_coverage": "Not in the seven compared scripts.",
+      "uncertainty": "No independently detailed technical root-cause or durable repair was published in the cited reporting.",
+      "watch": "FAA technical explanation, Sunday cancellations, and repeat outages."
+    },
+    {
+      "id": "potomac_injunction",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-15",
+      "publication_date": "2026-11-15",
+      "sources": [
+        "https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a"
+      ],
+      "new_fact": "A judge ordered a two-week delay on work and closure at East Potomac Golf Course and park.",
+      "new_takeaway": "An announced public-asset redevelopment can still stop at the legal implementation boundary.",
+      "why_now": "The order was issued Saturday and preserves existing daily access while the dispute proceeds.",
+      "previous_coverage": "Not in the seven compared scripts.",
+      "uncertainty": "The merits and ultimate redevelopment schedule remain unresolved.",
+      "watch": "Written opinion, negotiated access plan, or further court order."
+    },
+    {
+      "id": "warming_centers",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-11-14",
+      "publication_date": "2026-11-14",
+      "sources": [
+        "https://www.columbus.gov/Government/Mayors-Office/Warming-Centers-During-Cold-Weather",
+        "https://www.aol.com/articles/columbus-warming-center-opens-ahead-010000000.html"
+      ],
+      "new_fact": "Local reporting highlighted warming-center availability as temperatures fell and the city maintains current access details.",
+      "new_takeaway": "Eligibility, hours, and confirmation matter more than a generic list of sites.",
+      "why_now": "Saturday reporting made the cold-weather access response timely.",
+      "previous_coverage": "Not in the seven compared scripts.",
+      "uncertainty": "Hours, capacity, and opening conditions can change.",
+      "watch": "Official locator updates, expanded hours, and sustained cold."
+    },
+    {
+      "id": "freddie_survey",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "date_exception": "Quiet-weekend specialist implementation update; the November 12 survey is explicitly dated and supports a current quote-comparison decision but is not freshness credit.",
+      "event_date": "2026-11-12",
+      "publication_date": "2026-11-12",
+      "sources": [
+        "https://www.freddiemac.com/pmms?intcmp=CWS-HP&mod=article_inline",
+        "https://www.freddiemac.com/pmms/archive"
+      ],
+      "new_fact": "Freddie Mac reported a 7.11% average 30-year fixed rate and 6.45% 15-year average on November 12.",
+      "new_takeaway": "A weekly average should trigger disciplined like-for-like quote comparison, not a borrower-specific rate inference.",
+      "why_now": "It is the latest survey and was not used as the prior episode's lending lead.",
+      "previous_coverage": "November 13 used the 7.11% survey in markets context; this segment uses a different workflow takeaway and labels it dated evidence.",
+      "uncertainty": "Survey averages do not reveal a particular lender's live price, points, fees, or qualification outcome.",
+      "watch": "Next survey, live pricing, applications, and pending sales."
+    },
+    {
+      "id": "harness_paper",
+      "beat": "bank_ai",
+      "classification": "dated_update",
+      "date_exception": "Quiet-weekend bank-AI implementation evidence; the November 10 research update is newly added to the ledger and does not count toward freshness.",
+      "event_date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "https://arxiv.org/abs/2611.06116"
+      ],
+      "new_fact": "A research paper ran four open-weight models through five harnesses on 156 pre-registered simulated retail-bank conduct cases.",
+      "new_takeaway": "Validation must version-test the full agent harness, not approve a base model once and assume the result transfers.",
+      "why_now": "The paper supplies an implementation-specific evidence row absent from recent episodes and addresses a different lane than recent bank stories.",
+      "previous_coverage": "Recent episodes covered BCG control maturity, Bankwest chat handoff, OCC supervision, and Northern Trust onboarding; none covered harness-sensitive simulated conduct testing.",
+      "uncertainty": "It is simulation research, not a named bank deployment or production outcome.",
+      "watch": "Named bank controlled evaluations with before-and-after error evidence.",
+      "ledger_row_changed": "Research-paper / harness-sensitive retail-bank conduct testing \u2014 new lane-eight implementation-evidence row; no named production institution or live metric.",
+      "lane": "8",
+      "status": "experimental",
+      "evidence_rank": "research paper",
+      "metric": "156 pre-registered cases across four models and five harnesses; no human, live-bank, or customer-outcome baseline."
+    },
+    {
+      "id": "gemini_hydrogen",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-13",
+      "publication_date": "2026-11-13",
+      "sources": [
+        "https://www.t3.com/tech/ai/googles-new-ai-model-cuts-hallucinations-and-promises-faster-responses-in-gemini-app-search-and-ai-mode",
+        "https://themodelgap.com/new-ai-models/2026-11"
+      ],
+      "new_fact": "Google announced Gemini 4 Hydrogen as a fast model option for Gemini app, Search, AI Mode, and developer surfaces.",
+      "new_takeaway": "A speed-oriented model change deserves workflow testing on quality, tool errors, corrections, latency, and cost rather than a token-speed conclusion.",
+      "why_now": "The release was announced November 13 and was not covered in the prior seven scripts.",
+      "previous_coverage": "No Gemini 4 Hydrogen coverage in the previous seven episodes.",
+      "uncertainty": "Reported instruction-following, hallucination, and speed gains are provider claims absent a cited independent reproduction.",
+      "watch": "Model card, pricing/access detail, and independent task evaluation.",
+      "frontier_bar": "new capability with measured/provider-reported performance claims; treated as an access/capability change, not independently verified performance."
+    }
+  ],
+  "claim_check_exceptions": [
+    {
+      "claim": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its FAA recovery and system-interaction reporting was verified."
+    },
+    {
+      "claim": "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its Friday ground-stop reporting was verified."
+    },
+    {
+      "claim": "https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its East Potomac order and access detail was verified."
+    },
+    {
+      "claim": "https://www.columbus.gov/Government/Mayors-Office/Warming-Centers-During-Cold-Weather",
+      "reason": "The city page rendered only a short curl shell; its location, hours, age restrictions, and 311 direction were opened in browser search on November 15."
+    },
+    {
+      "claim": "East Potomac Golf Course",
+      "reason": "Name and two-week court delay verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "Federal Aviation Administration",
+      "reason": "FAA recovery attribution verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "Our Brothers Keepers",
+      "reason": "Name, address class, and age-restricted access verified against the cited City of Columbus warming-center listing in browser search."
+    },
+    {
+      "claim": "Star House",
+      "reason": "Name and 14\u201324 overnight access verified against the cited City of Columbus warming-center listing in browser search."
+    },
+    {
+      "claim": "Washington",
+      "reason": "Location of the East Potomac court order verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "the FAA",
+      "reason": "FAA operational-update reference is supported by the cited AP recovery report, manually browser-verified after AP curl shell."
+    }
+  ],
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "notes": "Four fresh cards are FAA recovery, East Potomac injunction, Columbus warming response, and Gemini 4 Hydrogen. Two explicitly dated specialist cards do not count. Previous seven facts and takeaways reviewed; no repeated full segment. Bank section is simulation evidence and names no institution as deployed.",
+    "script_sha256": "685dc8e784701aeb93cb5cde01516a161b273c547ebe5d6b1724e633ad1f4933"
+  }
+}

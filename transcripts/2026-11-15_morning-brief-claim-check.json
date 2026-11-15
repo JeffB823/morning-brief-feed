@@ -1,0 +1,96 @@
+{
+  "script": "2026-11-15_morning-brief-script.md",
+  "script_sha256": "685dc8e784701aeb93cb5cde01516a161b273c547ebe5d6b1724e633ad1f4933",
+  "checked_at": "2026-11-15T00:48:27-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.aol.com/articles/columbus-warming-center-opens-ahead-010000000.html",
+      "characters": 5382
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms?intcmp=CWS-HP&mod=article_inline",
+      "characters": 10900
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms/archive",
+      "characters": 8890
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06116",
+      "characters": 5624
+    },
+    {
+      "url": "https://www.t3.com/tech/ai/googles-new-ai-model-cuts-hallucinations-and-promises-faster-responses-in-gemini-app-search-and-ai-mode",
+      "characters": 10347
+    },
+    {
+      "url": "https://themodelgap.com/new-ai-models/2026-11",
+      "characters": 19733
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its FAA recovery and system-interaction reporting was verified."
+    },
+    {
+      "url": "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its Friday ground-stop reporting was verified."
+    },
+    {
+      "url": "https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a",
+      "error": "page body was only 16 characters",
+      "reason": "AP returned a 16-character curl shell; the AP article was opened in browser search on November 15 and its East Potomac order and access detail was verified."
+    },
+    {
+      "url": "https://www.columbus.gov/Government/Mayors-Office/Warming-Centers-During-Cold-Weather",
+      "error": "page body was only 270 characters",
+      "reason": "The city page rendered only a short curl shell; its location, hours, age restrictions, and 311 direction were opened in browser search on November 15."
+    }
+  ],
+  "claims_checked": 20,
+  "claims_supported": 14,
+  "claims_excepted": [
+    {
+      "claim": "East Potomac Golf Course",
+      "kind": "name",
+      "example": "A federal judge ordered a two-week delay to work that would close the East Potomac Golf Course and park in Washington, temporarily blocking the planned redevelopment.",
+      "reason": "Name and two-week court delay verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "Federal Aviation Administration",
+      "kind": "name",
+      "example": "The Federal Aviation Administration says air travel should normalize Sunday after a nationwide ground stop triggered cancellations and delays.",
+      "reason": "FAA recovery attribution verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "Our Brothers Keepers",
+      "kind": "name",
+      "example": "The city lists Our Brothers Keepers for people ages eighteen through twenty-four as open around the clock, while Star House serves people ages fourteen through twenty-four overnight.",
+      "reason": "Name, address class, and age-restricted access verified against the cited City of Columbus warming-center listing in browser search."
+    },
+    {
+      "claim": "Star House",
+      "kind": "name",
+      "example": "The city lists Our Brothers Keepers for people ages eighteen through twenty-four as open around the clock, while Star House serves people ages fourteen through twenty-four overnight.",
+      "reason": "Name and 14\u201324 overnight access verified against the cited City of Columbus warming-center listing in browser search."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "A federal judge ordered a two-week delay to work that would close the East Potomac Golf Course and park in Washington, temporarily blocking the planned redevelopment.",
+      "reason": "Location of the East Potomac court order verified against the cited AP report in browser search after AP curl shell."
+    },
+    {
+      "claim": "the FAA",
+      "kind": "name",
+      "example": "Watch the FAA's operational updates, cancellation trends through the day, and whether the agency describes a technical fix rather than only a return to normal service.",
+      "reason": "FAA operational-update reference is supported by the cited AP recovery report, manually browser-verified after AP curl shell."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

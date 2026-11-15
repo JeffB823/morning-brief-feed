@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-11-14
+# Story Tracker — updated 2026-11-15
 
 Only active stories likely to move within five days.
 
@@ -8,26 +8,26 @@ Only active stories likely to move within five days.
 - Source: https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline
 - Revisit trigger: Formal transition timetable, mapmaking criteria, public hearing, ordinance, or election-administration decision.
 
-## Pennymac Best Efforts pricing boundary
-- Last verified development: Pennymac’s November 12 listing says a new conventional loan-level price-adjustment schedule applies to Best Efforts commitments taken on or after November 13.
-- Last takeaway: The immediate risk is using a stale pricing matrix at commitment registration, not a universal consumer-rate change.
-- Source: https://corr-east.pennymac.com/non-delegated-announcements
-- Revisit trigger: Detailed schedule, product bulletin, effective-date exception, pricing-engine instruction, or correspondent notice.
+## FAA ground-stop recovery
+- Last verified development: AP reported November 14 that the FAA expects Sunday operations to normalize after Friday's national ground stop, which officials tied to a technology interaction with older systems.
+- Last takeaway: A restored schedule is not proof that aircraft, crews, and legacy-system integration have fully recovered.
+- Source: https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291
+- Revisit trigger: FAA root-cause detail, repair, recurrence, Sunday cancellation trend, or independent safety review.
 
-## Federal immigration enforcement totals
-- Last verified development: AP reported November 12 that ICE released fiscal-year enforcement totals, including 483,200 deportations.
-- Last takeaway: Aggregate activity changes oversight and administrative workload; it does not independently determine local legal outcomes.
-- Source: https://apnews.com/article/2789231dbe0a7a5d8dfcdebe82c0f58f
-- Revisit trigger: Oversight request, funding action, litigation, methodology release, or formal operational policy change.
+## East Potomac redevelopment injunction
+- Last verified development: AP reported November 15 that a federal judge paused the planned closure and work at East Potomac Golf Course and park for two weeks.
+- Last takeaway: A public redevelopment timetable can stop at its legal implementation boundary even after an announced closure date.
+- Source: https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a
+- Revisit trigger: Written opinion, negotiated operating plan, further injunction, or revised closure schedule.
 
-## Banking agent-control benchmark
-- Last verified development: BCG’s November 13 benchmark of 26 systemically important banks reports 73% permit agents in production for selected use cases while 8% report comprehensive standardized agent monitoring and controls.
-- Last takeaway: Permission to run a selected agent is not task-level proof of accuracy, value, or scalable control.
-- Source: https://www.bcg.com/press/13november2026-operationalizing-ai-governance-advantage-scaling-ai
-- Revisit trigger: Named bank, workflow-level metric, incident definition, regulator finding, or independent review.
+## Harness-sensitive bank-agent testing
+- Last verified development: A November 4 research paper tested four open-weight models across five agent harnesses on 156 simulated retail-bank conduct cases.
+- Last takeaway: A model approval does not transfer automatically when retrieval, tools, memory, or review scaffolding changes.
+- Source: https://arxiv.org/abs/2611.06116
+- Revisit trigger: Named bank controlled evaluation, before-and-after error evidence, production incident, or regulatory test guidance.
 
-## Businesses in ChatGPT access surface
-- Last verified development: OpenAI’s November 10 announcement adds Business Hub profiles and separately labeled Business Agents for eligible U.S. ecommerce and online-service businesses.
-- Last takeaway: A conversational business surface needs current source information and a hard boundary before it can support a regulated workflow.
-- Source: https://openai.com/index/introducing-businesses-chatgpt/
-- Revisit trigger: Expanded categories, answer-quality or privacy evidence, user-comprehension testing, or a measured regulated-industry implementation.
+## Gemini 4 Hydrogen access change
+- Last verified development: Google announced Gemini 4 Hydrogen on November 13 for Gemini, Search, AI Mode, and developer-facing use.
+- Last takeaway: A speed-oriented model update needs workflow-level quality, tool-error, correction, latency, and cost evidence.
+- Source: https://www.t3.com/tech/ai/googles-new-ai-model-cuts-hallucinations-and-promises-faster-responses-in-gemini-app-search-and-ai-mode
+- Revisit trigger: Model card, pricing and access detail, independent task evaluation, or a measured enterprise deployment.
