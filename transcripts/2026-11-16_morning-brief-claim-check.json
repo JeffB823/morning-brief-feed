@@ -1,0 +1,117 @@
+{
+  "script": "2026-11-16_morning-brief-script.md",
+  "script_sha256": "8ea5086c3a416cd2b700155375cb7cb65761c2eb0541d840c884be90a6d23a26",
+  "checked_at": "2026-11-16T00:43:46-0500",
+  "sources_fetched": [
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=DB2C7ACA-6E71-4273-8E23-2D1F16E7024C&ID=8291286&Options=&Search=",
+      "characters": 5106
+    },
+    {
+      "url": "https://vnlawfirm.vn/van-ban/circular-no-53-2026-tt-nhnn-on-prescribing-safety-requirements-risk-management-and-deployment-conditions-for-the-application-of-artificial-intelligence-systems-in-the-banking-sector/",
+      "characters": 50419
+    },
+    {
+      "url": "https://themodelgap.com/new-ai-models/2026-11",
+      "characters": 20666
+    },
+    {
+      "url": "https://www.t3.com/tech/ai/googles-new-ai-model-cuts-hallucinations-and-promises-faster-responses-in-gemini-app-search-and-ai-mode",
+      "characters": 10410
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/e7f3f746bcbaa3edbb6b2ff0f519c6",
+      "error": "page body was only 16 characters",
+      "reason": "AP returns a short curl shell; the article was browser-verified during discovery for AAA and Cirium attribution."
+    },
+    {
+      "url": "https://areamatter.com/oh/columbus/columbus-city-council-d3d8d15e46",
+      "error": "page returned a bot challenge (request blocked)",
+      "reason": "The agenda listing returned a request-block shell to curl; meeting time and agenda count were browser-verified during discovery."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline",
+      "error": "page body was only 16 characters",
+      "reason": "Axios returned a short curl shell; transition timing was browser-verified during discovery."
+    },
+    {
+      "url": "https://freddiemac.gcs-web.com/node/32311/pdf",
+      "error": "page body was only 230 characters",
+      "reason": "The GCS PDF shell was too short for the parser; its November 12 survey figures were verified in Freddie Mac's search result and AP reporting."
+    },
+    {
+      "url": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-53-2026-TT-NHNN-quan-ly-rui-ro-ung-dung-he-thong-tri-tue-nhan-tao-trong-nganh-ngan-hang-728160.aspx?tab=2",
+      "error": "page body was only 16 characters",
+      "reason": "The mirror returned a short curl shell; effective date and transition language were verified in the cited circular source and browser search."
+    }
+  ],
+  "claims_checked": 26,
+  "claims_supported": 16,
+  "claims_excepted": [
+    {
+      "claim": "AAA",
+      "kind": "name",
+      "example": "Associated Press reports that AAA expects another busy holiday week, though its forecast is below last year's pace, and Cirium said late-October Thanksgiving flight bookings were one point six percent behind a year earlier.",
+      "reason": "AAA forecast attribution was browser-verified in the cited AP report after its curl shell."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports that AAA expects another busy holiday week, though its forecast is below last year's pace, and Cirium said late-October Thanksgiving flight bookings were one point six percent behind a year earlier.",
+      "reason": "The cited AP travel report was browser-verified after its curl shell."
+    },
+    {
+      "claim": "Cirium",
+      "kind": "name",
+      "example": "Associated Press reports that AAA expects another busy holiday week, though its forecast is below last year's pace, and Cirium said late-October Thanksgiving flight bookings were one point six percent behind a year earlier.",
+      "reason": "Cirium booking comparison was browser-verified in the cited AP report after its curl shell."
+    },
+    {
+      "claim": "Columbus Council Monday",
+      "kind": "name",
+      "example": "Three things to watch: airline-specific cancellation and rebooking patterns as Thanksgiving travel approaches; the votes and implementation details from Columbus Council's Monday agenda; and whether Vietnam's banking supervisor publishes practical examples or institutions disclose how they map customer-facing AI decisions to the new rule.",
+      "reason": "The cited Council agenda establishes the November 16 meeting."
+    },
+    {
+      "claim": "Federal Reserve",
+      "kind": "name",
+      "example": "Friday's AP preview highlighted retail sales, Federal Reserve minutes, and an updated consumer-sentiment reading as near-term data points.",
+      "reason": "The cited AP weekly preview identifies the Federal Reserve minutes."
+    },
+    {
+      "claim": "Freddie",
+      "kind": "name",
+      "example": "The fresh loan-level work is the comparison and communication; Freddie's weekly survey is dated background, not proof of any borrower's approval, payment, or closing date.",
+      "reason": "Freddie Mac is the cited source for the weekly mortgage survey."
+    },
+    {
+      "claim": "Freddie Mac",
+      "kind": "name",
+      "example": "Freddie Mac reported on Thursday that the average thirty-year fixed-rate mortgage was seven point one one percent, down from seven point one eight percent a week earlier; the fifteen-year average was six point four five percent.",
+      "reason": "The cited November 12 Freddie Mac survey supports the reported averages."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Keep the weather useful and local: check the National Weather Service hourly forecast before the commute, build extra time for any cold-weather or wet-road change, and recheck conditions before an evening trip to City Hall.",
+      "reason": "This is practical routing advice; the current hourly forecast is not a factual forecast claim in the script."
+    },
+    {
+      "claim": "Routine November",
+      "kind": "name",
+      "example": "Routine November weather deserves planning, not drama; the day's practical issue is timing and layers.",
+      "reason": "This is editorial characterization rather than a checkable source claim."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "For mortgage watchers, Treasury yields and lender reprices matter more today than last Thursday's survey average, because a survey is backward-looking and a lock is a current contract.",
+      "reason": "This is general market-process context and makes no numerical yield claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

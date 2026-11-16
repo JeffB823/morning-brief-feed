@@ -1,33 +1,27 @@
-# Story Tracker — updated 2026-11-15
+# Story Tracker — updated 2026-11-16
 
 Only active stories likely to move within five days.
 
-## Columbus Council transition
-- Last verified development: Axios Columbus reported November 12 that voter-approved Issues Eight and Nine begin a transition to a thirteen-member district Council, with full expansion targeted for 2030.
-- Last takeaway: The implementation process—maps, timing, rules, and hearings—will determine the practical change, rather than the ballot result alone.
-- Source: https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline
-- Revisit trigger: Formal transition timetable, mapmaking criteria, public hearing, ordinance, or election-administration decision.
+## Thanksgiving travel operations
+- Last verified development: AP reported November 16 that AAA expects another busy Thanksgiving travel week, while Cirium’s late-October flight-booking comparison was 1.6% below last year.
+- Last takeaway: Demand forecasts inform capacity planning but do not demonstrate itinerary reliability after disruptions.
+- Source: https://apnews.com/article/e7f3f746bcbaa3edbb6b2ff0f519c6
+- Revisit trigger: Carrier cancellation, rebooking, reliability, or FAA root-cause evidence.
 
-## FAA ground-stop recovery
-- Last verified development: AP reported November 14 that the FAA expects Sunday operations to normalize after Friday's national ground stop, which officials tied to a technology interaction with older systems.
-- Last takeaway: A restored schedule is not proof that aircraft, crews, and legacy-system integration have fully recovered.
-- Source: https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291
-- Revisit trigger: FAA root-cause detail, repair, recurrence, Sunday cancellation trend, or independent safety review.
+## Columbus Council transition and agenda
+- Last verified development: Council meets November 16 with a published agenda; Axios reported November 12 that the voter-approved thirteen-member transition targets full expansion in 2030.
+- Last takeaway: A meeting agenda, a funding authorization, and the longer map-and-election transition are different stages of civic implementation.
+- Source: https://areamatter.com/oh/columbus/columbus-city-council-d3d8d15e46
+- Revisit trigger: Council vote, formal transition timetable, mapping criteria, public hearing, or ordinance.
 
-## East Potomac redevelopment injunction
-- Last verified development: AP reported November 15 that a federal judge paused the planned closure and work at East Potomac Golf Course and park for two weeks.
-- Last takeaway: A public redevelopment timetable can stop at its legal implementation boundary even after an announced closure date.
-- Source: https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a
-- Revisit trigger: Written opinion, negotiated operating plan, further injunction, or revised closure schedule.
-
-## Harness-sensitive bank-agent testing
-- Last verified development: A November 4 research paper tested four open-weight models across five agent harnesses on 156 simulated retail-bank conduct cases.
-- Last takeaway: A model approval does not transfer automatically when retrieval, tools, memory, or review scaffolding changes.
-- Source: https://arxiv.org/abs/2611.06116
-- Revisit trigger: Named bank controlled evaluation, before-and-after error evidence, production incident, or regulatory test guidance.
+## Vietnam bank-AI deployment rule
+- Last verified development: Circular 53’s conditions for in-scope customer-facing banking AI took effect November 15, with transition provisions for existing systems.
+- Last takeaway: Implementation begins with a traceable decision-workflow inventory, not a generic AI policy.
+- Source: https://vnlawfirm.vn/van-ban/circular-no-53-2026-tt-nhnn-on-prescribing-safety-requirements-risk-management-and-deployment-conditions-for-the-application-of-artificial-intelligence-systems-in-the-banking-sector/
+- Revisit trigger: Implementing guidance, examination example, enforcement, or institution outcome disclosure.
 
 ## Gemini 4 Hydrogen access change
-- Last verified development: Google announced Gemini 4 Hydrogen on November 13 for Gemini, Search, AI Mode, and developer-facing use.
-- Last takeaway: A speed-oriented model update needs workflow-level quality, tool-error, correction, latency, and cost evidence.
+- Last verified development: Gemini 4 Hydrogen was released November 13 as a faster Gemini 4 option for consumer and developer surfaces.
+- Last takeaway: Lower latency is useful only if a bounded workflow also holds task errors and reviewer time down.
 - Source: https://www.t3.com/tech/ai/googles-new-ai-model-cuts-hallucinations-and-promises-faster-responses-in-gemini-app-search-and-ai-mode
-- Revisit trigger: Model card, pricing and access detail, independent task evaluation, or a measured enterprise deployment.
+- Revisit trigger: Model card, pricing/access detail, independent task evaluation, or measured enterprise deployment.
