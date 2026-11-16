@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.85
+    },
+    {
+      "title": "Holiday Travel Demand",
+      "start": 35.85,
+      "end": 175.325
+    },
+    {
+      "title": "Columbus Council Agenda",
+      "start": 175.325,
+      "end": 306.925
+    },
+    {
+      "title": "Home Lending",
+      "start": 306.925,
+      "end": 436.675
+    },
+    {
+      "title": "AI in Banking",
+      "start": 436.675,
+      "end": 571.875
+    },
+    {
+      "title": "Frontier AI",
+      "start": 571.875,
+      "end": 687.975
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 687.975,
+      "end": 742.075
+    },
+    {
+      "title": "Watch Next",
+      "start": 742.075,
+      "end": 768.375
+    }
+  ]
+}
