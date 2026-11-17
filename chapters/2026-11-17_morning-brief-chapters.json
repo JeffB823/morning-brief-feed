@@ -9,37 +9,37 @@
     {
       "title": "Bank Transaction Delays",
       "start": 34.775,
-      "end": 180.525
+      "end": 130.15
     },
     {
       "title": "Columbus Budget Proposal",
-      "start": 180.525,
-      "end": 317.95
+      "start": 130.15,
+      "end": 267.575
     },
     {
       "title": "Home Lending",
-      "start": 317.95,
-      "end": 463.175
+      "start": 267.575,
+      "end": 412.8
     },
     {
       "title": "AI in Banking",
-      "start": 463.175,
-      "end": 602.775
+      "start": 412.8,
+      "end": 552.4
     },
     {
       "title": "Frontier AI",
-      "start": 602.775,
-      "end": 754.725
+      "start": 552.4,
+      "end": 704.35
     },
     {
       "title": "Markets and Weather",
-      "start": 754.725,
-      "end": 803.15
+      "start": 704.35,
+      "end": 752.775
     },
     {
       "title": "Watch Next",
-      "start": 803.15,
-      "end": 826.425
+      "start": 752.775,
+      "end": 776.05
     }
   ]
 }
