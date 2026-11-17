@@ -1,0 +1,247 @@
+{
+  "script": "2026-11-17_morning-brief-script.md",
+  "script_sha256": "0f9bcc56dd7a150861ff0a58f3427ec5df128e01f633a15385650b2ee987dd41",
+  "checked_at": "2026-11-17T05:45:09-0500",
+  "sources_fetched": [
+    {
+      "url": "https://public-inspection.federalregister.gov/2026-19683.pdf",
+      "characters": 124721
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "characters": 38889
+    },
+    {
+      "url": "https://fxtribune.com/announcements/4753408-barr-some-potential-financial-stability-implications-of-artificial-intelligence/",
+      "characters": 33645
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "error": "page body was only 16 characters",
+      "reason": "AP's article was opened in browser review at the recorded cutoff; direct fetch returned a short shell while the accessible article verified the event details."
+    },
+    {
+      "url": "https://www.axios.com/local/columbus/2026/11/16/winners-and-losers-of-mayor-ginthers-proposed-2027-budget",
+      "error": "page body was only 16 characters",
+      "reason": "Axios's article was opened in browser review at the recorded cutoff; direct fetch returned a short shell while the accessible article verified the proposal total and Council review path."
+    },
+    {
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI's page was opened in browser review at the recorded cutoff; direct curl returned an empty shell while the accessible article verified the reported evaluations and examples."
+    }
+  ],
+  "claims_checked": 48,
+  "claims_supported": 14,
+  "claims_excepted": [
+    {
+      "claim": "2027",
+      "kind": "number",
+      "example": "In Columbus, the practical local story is the new detail around Mayor Andrew Ginther's proposed 2027 operating budget.",
+      "reason": "The year is verified in the browser-reviewed Axios headline and article describing the proposed city budget."
+    },
+    {
+      "claim": "325",
+      "kind": "number",
+      "example": "OpenAI says physicians reviewed Astra's work on 325 tasks and rated 99 percent safe; in 646 helpfulness assessments, 93 percent were very or extremely helpful.",
+      "reason": "OpenAI's browser-reviewed release states the reviewed-task count."
+    },
+    {
+      "claim": "646",
+      "kind": "number",
+      "example": "OpenAI says physicians reviewed Astra's work on 325 tasks and rated 99 percent safe; in 646 helpfulness assessments, 93 percent were very or extremely helpful.",
+      "reason": "OpenAI's browser-reviewed release states the helpfulness-assessment count."
+    },
+    {
+      "claim": "8.5",
+      "kind": "number",
+      "example": "On HealthAdminBench, which OpenAI describes as an independent Stanford benchmark, Astra earned 94.3 percent of available rubric points and GPT-6 Luna earned 91.8 percent at a stated cost of 8.5 cents per task.",
+      "reason": "OpenAI's browser-reviewed release states the per-task cost."
+    },
+    {
+      "claim": "91.8",
+      "kind": "number",
+      "example": "On HealthAdminBench, which OpenAI describes as an independent Stanford benchmark, Astra earned 94.3 percent of available rubric points and GPT-6 Luna earned 91.8 percent at a stated cost of 8.5 cents per task.",
+      "reason": "OpenAI's browser-reviewed release states the GPT-6 Luna benchmark result."
+    },
+    {
+      "claim": "94.3",
+      "kind": "number",
+      "example": "On HealthAdminBench, which OpenAI describes as an independent Stanford benchmark, Astra earned 94.3 percent of available rubric points and GPT-6 Luna earned 91.8 percent at a stated cost of 8.5 cents per task.",
+      "reason": "OpenAI's browser-reviewed release states the GPT-6 Astra benchmark result."
+    },
+    {
+      "claim": "AI-dependency",
+      "kind": "name",
+      "example": "Three things to watch: JPMorgan's explanation of the transaction disruption and any delayed-payment repair process; Columbus Council's budget amendments and the line items attached to service promises; and whether the Fed or a named bank publishes a concrete AI-dependency resilience test.",
+      "reason": "This is the script's descriptive label for the source-backed dependency-resilience test proposed from Barr's speech."
+    },
+    {
+      "claim": "AI-linked",
+      "kind": "name",
+      "example": "Watch whether rates, credit spreads, and AI-linked leadership move together, and distinguish a one-day reaction from evidence that investors are repricing long-term cash flows.",
+      "reason": "This is a generic market descriptor, not a named factual assertion."
+    },
+    {
+      "claim": "Astra",
+      "kind": "name",
+      "example": "OpenAI says physicians reviewed Astra's work on 325 tasks and rated 99 percent safe; in 646 helpfulness assessments, 93 percent were very or extremely helpful.",
+      "reason": "OpenAI's browser-reviewed release names GPT-6 Astra."
+    },
+    {
+      "claim": "Bank of America and Citigroup",
+      "kind": "name",
+      "example": "Chase said it was a Chase-only issue; Bank of America and Citigroup said their banking services were not directly affected.",
+      "reason": "The browser-reviewed AP article identifies both banks as not having their banking services affected."
+    },
+    {
+      "claim": "CVS",
+      "kind": "name",
+      "example": "The production examples are also company disclosures: CVS says an agent cleared a document-sending backlog and handles steps for tens of thousands of consults, but the release does not provide an independent error-rate or patient-outcome baseline.",
+      "reason": "OpenAI's browser-reviewed release names CVS Health and describes its examples as company disclosures."
+    },
+    {
+      "claim": "Chase-only",
+      "kind": "name",
+      "example": "Chase said it was a Chase-only issue; Bank of America and Citigroup said their banking services were not directly affected.",
+      "reason": "This is a direct characterization attributed to Chase in the browser-reviewed AP report."
+    },
+    {
+      "claim": "City Hall",
+      "kind": "name",
+      "example": "Why is this more than the usual annual City Hall ritual?",
+      "reason": "This is a generic location phrase, not a factual claim requiring source corroboration."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Today, transaction delays show how one bank's outage can reach other customers, Columbus's proposed budget puts tradeoffs on the table, and HUD auctions distressed healthcare loans.",
+      "reason": "The location is established by the browser-reviewed local-budget source and routine weather context."
+    },
+    {
+      "claim": "Columbus Council",
+      "kind": "name",
+      "example": "Three things to watch: JPMorgan's explanation of the transaction disruption and any delayed-payment repair process; Columbus Council's budget amendments and the line items attached to service promises; and whether the Fed or a named bank publishes a concrete AI-dependency resilience test.",
+      "reason": "The Council review role is verified in the browser-reviewed Axios article."
+    },
+    {
+      "claim": "Council President Shannon Hardin",
+      "kind": "name",
+      "example": "Axios notes that the 2026 budget was not fully approved until March and that the mayor and Council President Shannon Hardin had differences over it.",
+      "reason": "The browser-reviewed Axios article names Hardin in its discussion of budget disagreement."
+    },
+    {
+      "claim": "Did the Fed",
+      "kind": "name",
+      "example": "Did the Fed publish a measured bank loss, fraud result, or model-error rate to support the warning?",
+      "reason": "This is a spoken question, not a named entity claim."
+    },
+    {
+      "claim": "EHR",
+      "kind": "name",
+      "example": "The release says GPT-6 Astra was reviewed on multi-step EHR inbox tasks, while separate administrative results used Stanford researchers' HealthAdminBench.",
+      "reason": "OpenAI's browser-reviewed release explicitly describes EHR inbox tasks."
+    },
+    {
+      "claim": "FHA",
+      "kind": "name",
+      "example": "The loans are sold without FHA insurance and with HUD servicing released, under a sealed-bid process.",
+      "reason": "The HUD Federal Register notice states that the loans are without FHA insurance."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "It does not change a consumer mortgage rate, Fannie Mae eligibility rule, or a household borrower's current payment.",
+      "reason": "The script uses Fannie Mae only to delimit what the HUD sale does not change; no Fannie policy is asserted."
+    },
+    {
+      "claim": "GPT-6 Astra",
+      "kind": "name",
+      "example": "The release says GPT-6 Astra was reviewed on multi-step EHR inbox tasks, while separate administrative results used Stanford researchers' HealthAdminBench.",
+      "reason": "OpenAI's browser-reviewed release names GPT-6 Astra in the evaluation."
+    },
+    {
+      "claim": "GPT-6 Luna",
+      "kind": "name",
+      "example": "On HealthAdminBench, which OpenAI describes as an independent Stanford benchmark, Astra earned 94.3 percent of available rubric points and GPT-6 Luna earned 91.8 percent at a stated cost of 8.5 cents per task.",
+      "reason": "OpenAI's browser-reviewed release names GPT-6 Luna in the benchmark comparison."
+    },
+    {
+      "claim": "HLS",
+      "kind": "name",
+      "example": "HUD scheduled its HLS 2027-1 sale for today: eleven unsubsidized, non-performing healthcare mortgage loans secured by skilled-nursing and assisted-living properties in nine states.",
+      "reason": "The HUD Federal Register notice identifies the sale as HLS 2027-1."
+    },
+    {
+      "claim": "HUD",
+      "kind": "name",
+      "example": "Today, transaction delays show how one bank's outage can reach other customers, Columbus's proposed budget puts tradeoffs on the table, and HUD auctions distressed healthcare loans.",
+      "reason": "The Federal Register notice is issued by HUD."
+    },
+    {
+      "claim": "HealthAdminBench",
+      "kind": "name",
+      "example": "The release says GPT-6 Astra was reviewed on multi-step EHR inbox tasks, while separate administrative results used Stanford researchers' HealthAdminBench.",
+      "reason": "OpenAI's browser-reviewed release names HealthAdminBench and identifies Stanford researchers as its source."
+    },
+    {
+      "claim": "JPMorgan",
+      "kind": "name",
+      "example": "Three things to watch: JPMorgan's explanation of the transaction disruption and any delayed-payment repair process; Columbus Council's budget amendments and the line items attached to service promises; and whether the Fed or a named bank publishes a concrete AI-dependency resilience test.",
+      "reason": "The browser-reviewed AP article identifies JPMorgan Chase as the affected institution."
+    },
+    {
+      "claim": "JPMorgan Chase",
+      "kind": "name",
+      "example": "Associated Press reported that a technical issue at JPMorgan Chase delayed online-banking activity and slowed some transactions involving Chase customers at other banks.",
+      "reason": "The browser-reviewed AP article identifies JPMorgan Chase as the affected institution."
+    },
+    {
+      "claim": "Mayor Andrew Ginther",
+      "kind": "name",
+      "example": "In Columbus, the practical local story is the new detail around Mayor Andrew Ginther's proposed 2027 operating budget.",
+      "reason": "The browser-reviewed Axios article identifies Ginther as the budget proposer."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Keep the weather plan simple: check the National Weather Service hourly forecast before a commute or evening trip, dress for the actual temperature and wind, and allow extra time if roads are wet.",
+      "reason": "This is generic listener planning advice and makes no numeric weather assertion."
+    },
+    {
+      "claim": "Nationally Monday",
+      "kind": "name",
+      "example": "Nationally, Monday's bank disruption is a useful reminder that a payment rail can be sound while a participant's service is not.",
+      "reason": "This is a transition phrase, not a named factual assertion."
+    },
+    {
+      "claim": "OpenAI",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released fresh computer-use evidence for healthcare teams, including agents that click, type, and move between systems during administrative work.",
+      "reason": "The browser-reviewed primary release is published by OpenAI."
+    },
+    {
+      "claim": "Routine November",
+      "kind": "name",
+      "example": "Routine November conditions need practical timing, not a dramatic forecast.",
+      "reason": "This is editorial characterization, not a measurable weather claim."
+    },
+    {
+      "claim": "Stanford",
+      "kind": "name",
+      "example": "The release says GPT-6 Astra was reviewed on multi-step EHR inbox tasks, while separate administrative results used Stanford researchers' HealthAdminBench.",
+      "reason": "OpenAI's browser-reviewed release identifies Stanford researchers as the HealthAdminBench source."
+    },
+    {
+      "claim": "Zelle",
+      "kind": "name",
+      "example": "Bank said clients attempting Zelle payments with another institution could see delays, while Early Warning Services said the Zelle network itself remained fully operational.",
+      "reason": "The browser-reviewed AP article identifies the Zelle network and its operational statement."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

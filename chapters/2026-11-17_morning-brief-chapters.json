@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.775
+    },
+    {
+      "title": "Bank Transaction Delays",
+      "start": 34.775,
+      "end": 180.525
+    },
+    {
+      "title": "Columbus Budget Proposal",
+      "start": 180.525,
+      "end": 317.95
+    },
+    {
+      "title": "Home Lending",
+      "start": 317.95,
+      "end": 463.175
+    },
+    {
+      "title": "AI in Banking",
+      "start": 463.175,
+      "end": 602.775
+    },
+    {
+      "title": "Frontier AI",
+      "start": 602.775,
+      "end": 754.725
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 754.725,
+      "end": 803.15
+    },
+    {
+      "title": "Watch Next",
+      "start": 803.15,
+      "end": 826.425
+    }
+  ]
+}
