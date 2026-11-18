@@ -1,0 +1,109 @@
+{
+  "script": "2026-11-18_morning-brief-script.md",
+  "script_sha256": "b30f5bd6c81c9b6c92770fdf369d9b3fc6591114584b23855c6a79d7f7614b34",
+  "checked_at": "2026-11-18T05:41:34-0500",
+  "sources_fetched": [
+    {
+      "url": "https://piquemedia.co/stories/pique-package-012e28e9-feb3-30d4-bb6a-7b8639528d8a",
+      "characters": 31450
+    },
+    {
+      "url": "https://www.hud.gov/hud-partners/single-family-fha-info",
+      "characters": 301466
+    },
+    {
+      "url": "https://www.hud.gov/sites/default/files/hudclips/documents/2026-11hsgml.pdf",
+      "characters": 148587
+    },
+    {
+      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws/",
+      "characters": 9799
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+      "characters": 266197
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 68466
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/nationwide-ground-stop-trump-air-travel-faa-a638c9651f1fabe8f95d20353779ee5b",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a sixteen-character curl shell; the full article was browser-opened and reviewed at cutoff, including the FAA router-installation pause and Bernstein attribution."
+    },
+    {
+      "url": "https://www.rbnz.govt.nz/financial-stability/financial-stability-report/financial-stability-reports/2026/nov/financial-stability-report-november-2026",
+      "error": "page body was only 266 characters",
+      "reason": "The primary RBNZ page produced a short curl body but was browser-opened and reviewed at cutoff; the separate cited Newswire report reproduces the report\u2019s relevant findings."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s direct curl response was empty, but the release, API changelog, and deployment-safety system card were browser-reviewed at cutoff."
+    }
+  ],
+  "claims_checked": 29,
+  "claims_supported": 20,
+  "claims_excepted": [
+    {
+      "claim": "Astra and GPT-six",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-six point two Astra and GPT-six point two Sol yesterday.",
+      "reason": "The cited OpenAI release identifies GPT-6.2 Astra and GPT-6.2 Sol; this checker tokenizes the spoken pronunciation imperfectly."
+    },
+    {
+      "claim": "Bernstein",
+      "kind": "name",
+      "example": "AP cites a Bernstein estimate of three hundred forty-five million dollars in combined cost to the four largest airlines from the ground stop and recovery work.",
+      "reason": "The cited AP article attributes the airline cost estimate to Bernstein; the AP source was browser-verified because curl returned a short shell."
+    },
+    {
+      "claim": "Council-reform",
+      "kind": "name",
+      "example": "Today, the FAA pauses a technology rollout after the nationwide ground stop, Columbus moves from a Council-reform vote toward certification, and FHA holds an implementation session for new credit scores.",
+      "reason": "This is descriptive shorthand for the cited Pique report on Issues 8 and 9, not a separate organization or factual assertion."
+    },
+    {
+      "claim": "FAA",
+      "kind": "name",
+      "example": "Nationally, the fresh development is not another account of last week's disruption; it is the FAA's decision to pause installation of routers linked to the ground stop while it investigates.",
+      "reason": "The FAA pause and related national context were manually verified in the cited AP article through the browser after AP\u2019s curl response returned only a short shell."
+    },
+    {
+      "claim": "GPT-six",
+      "kind": "name",
+      "example": "At the frontier, OpenAI released GPT-six point two Astra and GPT-six point two Sol yesterday.",
+      "reason": "The cited OpenAI release and system card were browser-verified; spoken pronunciation expands the written GPT-6.2 product name."
+    },
+    {
+      "claim": "GPT-six Astra",
+      "kind": "name",
+      "example": "OpenAI reports Astra scored five point two points above GPT-six Astra on Agents' Last Exam at less than one-third of the cost per task.",
+      "reason": "The cited OpenAI release identifies the predecessor GPT-6 Astra; the script spells the model name for narration."
+    },
+    {
+      "claim": "Title Two",
+      "kind": "name",
+      "example": "The formal policy applies to Title Two forward-mortgage case numbers assigned on or after January first, so today's session is an effective operational milestone even though the policy was published earlier.",
+      "reason": "HUD\u2019s cited FHA INFO page and Mortgagee Letter use Title II to identify the forward-mortgage program; the phrase is spoken rather than written as a numeral."
+    },
+    {
+      "claim": "the FAA",
+      "kind": "name",
+      "example": "Today, the FAA pauses a technology rollout after the nationwide ground stop, Columbus moves from a Council-reform vote toward certification, and FHA holds an implementation session for new credit scores.",
+      "reason": "The FAA pause and related national context were manually verified in the cited AP article through the browser after AP\u2019s curl response returned only a short shell."
+    },
+    {
+      "claim": "the National Weather Service",
+      "kind": "name",
+      "example": "Check the National Weather Service hourly forecast before the commute, dress for the temperature and wind that coincide with your actual travel time, and recheck before an evening errand.",
+      "reason": "Routine weather guidance is intentionally non-numeric and directs listeners to the live hourly forecast, which changes more frequently than the cutoff."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
