@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 37.0
+    },
+    {
+      "title": "Air Traffic Recovery",
+      "start": 37.0,
+      "end": 155.55
+    },
+    {
+      "title": "Columbus Council Reform",
+      "start": 155.55,
+      "end": 292.425
+    },
+    {
+      "title": "Home Lending",
+      "start": 292.425,
+      "end": 441.325
+    },
+    {
+      "title": "AI in Banking",
+      "start": 441.325,
+      "end": 584.9
+    },
+    {
+      "title": "Frontier AI",
+      "start": 584.9,
+      "end": 735.4
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 735.4,
+      "end": 786.3
+    },
+    {
+      "title": "Watch Next",
+      "start": 786.3,
+      "end": 812.175
+    }
+  ]
+}
