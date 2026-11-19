@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 36.175
+    },
+    {
+      "title": "National Health Agenda",
+      "start": 36.175,
+      "end": 154.025
+    },
+    {
+      "title": "Central Ohio Grid Drones",
+      "start": 154.025,
+      "end": 268.575
+    },
+    {
+      "title": "Home Lending",
+      "start": 268.575,
+      "end": 413.15
+    },
+    {
+      "title": "AI in Banking",
+      "start": 413.15,
+      "end": 563.075
+    },
+    {
+      "title": "Frontier AI",
+      "start": 563.075,
+      "end": 686.55
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 686.55,
+      "end": 735.35
+    },
+    {
+      "title": "Watch Next",
+      "start": 735.35,
+      "end": 760.5
+    }
+  ]
+}
