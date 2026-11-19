@@ -1,0 +1,99 @@
+{
+  "script": "2026-11-19_morning-brief-script.md",
+  "script_sha256": "1a31d2bc53bbaf48309784ef31dbe87af7d4caf92b3a2cd5ea539d4f25664ed2",
+  "checked_at": "2026-11-19T00:41:22-0500",
+  "sources_fetched": [
+    {
+      "url": "https://piquemedia.co/stories/pique-package-5121c6d4-beae-4116-b99e-64921a2aab0b",
+      "characters": 9753
+    },
+    {
+      "url": "https://www.wosu.org/2026-11-18/ohio-powers-drones-help-assess-power-outages-and-inspect-equipment",
+      "characters": 8377
+    },
+    {
+      "url": "https://capitalmarkets.freddiemac.com/mbs/docs/f510news.pdf",
+      "characters": 75892
+    },
+    {
+      "url": "https://capitalmarkets.freddiemac.com/mbs/product-announcements",
+      "characters": 26623
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust",
+      "characters": 8860
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "characters": 13221
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/18b2bd8c1e14c180a33efb2893b25a9c",
+      "error": "page body was only 16 characters",
+      "reason": "AP served a sixteen-character curl shell, but the full November 18 article was browser-opened and reviewed at cutoff for the Sanders agenda and stated deficit context."
+    }
+  ],
+  "claims_checked": 29,
+  "claims_supported": 20,
+  "claims_excepted": [
+    {
+      "claim": "AI-negotiated Treasury",
+      "kind": "name",
+      "example": "We'll also examine an AI-negotiated Treasury trade and a model release built for controlled workflow decisions.",
+      "reason": "Narration shorthand for Microsoft\u2019s cited description of BNY and Microsoft completing an agentic negotiation of a U.S. Treasury trade."
+    },
+    {
+      "claim": "BNY and Microsoft",
+      "kind": "name",
+      "example": "In AI in Banking, the ledger change is a new BNY and Microsoft row for an agentic negotiation of a U.S.",
+      "reason": "The cited Microsoft Source page names BNY and Microsoft in its description of the U.S. Treasury trade negotiation; curl\u2019s page text does not preserve that adjacent heading relationship for the name matcher."
+    },
+    {
+      "claim": "Banking",
+      "kind": "name",
+      "example": "In AI in Banking, the ledger change is a new BNY and Microsoft row for an agentic negotiation of a U.S.",
+      "reason": "This is the standing show chapter name, not a factual assertion about a separate entity."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "Associated Press reports that Senator Bernie Sanders has outlined how he would press for Medicare for All if Democrats regain power, including a phased reduction in the eligibility age.",
+      "reason": "The AP source was browser-reviewed and frames the agenda as contingent on Democrats regaining power; its curl shell is excepted above."
+    },
+    {
+      "claim": "Loan Level Directed Collateral",
+      "kind": "name",
+      "example": "Freddie is also changing the Loan Level Directed Collateral publication cadence from one daily publication to four intraday files on January twenty-fifth.",
+      "reason": "Freddie Mac\u2019s cited PDF uses the LLDC abbreviation and full label; the claim matcher did not reconcile the page\u2019s formatting."
+    },
+    {
+      "claim": "Medicaid",
+      "kind": "name",
+      "example": "That sequence matters to employers, hospitals, insurers, state Medicaid offices, and households trying to make current coverage decisions without treating a political promise as an available plan.",
+      "reason": "This refers generically to existing state Medicaid administration, not a claim that the proposed Medicare agenda alters Medicaid policy."
+    },
+    {
+      "claim": "Medicare",
+      "kind": "name",
+      "example": "Associated Press reports that Senator Bernie Sanders has outlined how he would press for Medicare for All if Democrats regain power, including a phased reduction in the eligibility age.",
+      "reason": "The AP source was browser-reviewed and identifies the Medicare-for-All agenda; its curl shell is excepted above."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For today's Columbus weather, use the live hourly National Weather Service forecast before the commute and before any evening travel.",
+      "reason": "The script gives non-numeric live-forecast guidance; forecast details change more frequently than the recorded cutoff."
+    },
+    {
+      "claim": "Senator Bernie Sanders",
+      "kind": "name",
+      "example": "Associated Press reports that Senator Bernie Sanders has outlined how he would press for Medicare for All if Democrats regain power, including a phased reduction in the eligibility age.",
+      "reason": "The AP source was browser-reviewed and identifies Sanders as the source of the agenda; its curl shell is excepted above."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}

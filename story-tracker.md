@@ -1,12 +1,18 @@
-# Story Tracker — updated 2026-11-18
+# Story Tracker — updated 2026-11-19
 
 Only active stories likely to move within five days.
 
-## FAA ground-stop recovery
-- Last verified development: FAA paused router installations linked to the ground stop; AP reported a request for $50 billion for air-traffic modernization on November 17.
-- Last takeaway: Separate validated repair and recovery evidence from a long-horizon capital request.
-- Source: https://apnews.com/article/nationwide-ground-stop-trump-air-travel-faa-a638c9651f1fabe8f95d20353779ee5b
-- Revisit trigger: FAA root-cause finding, return-to-service validation, repeat disruption, or carrier recovery disclosure.
+## Freddie Mac January disclosure deployment
+- Last verified development: Freddie Mac’s November 18 notice sets January 25, 2027 for new single-family MBS disclosure fields and four daily LLDC publications; FICO Score 10T fields are populated with February securities only when eligible for delivery.
+- Last takeaway: Treat layout deployment, population, and loan-delivery eligibility as separate data-control events.
+- Source: https://capitalmarkets.freddiemac.com/mbs/docs/f510news.pdf
+- Revisit trigger: January deployment, populated February files, delivery-eligibility date, vendor mapping release, or validation exception.
+
+## BNY/Microsoft agentic Treasury-trade experiment
+- Last verified development: Microsoft said November 17 that BNY and Microsoft completed an agentic negotiation of a U.S. Treasury trade, without execution, exception, authority, or control metrics.
+- Last takeaway: A trading-agent milestone needs a bounded protocol and human authority evidence before it says anything about autonomous finance.
+- Source: https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust
+- Revisit trigger: Protocol, human-role disclosure, sample, exception data, execution-quality comparison, post-trade result, or production status.
 
 ## Columbus Council reform transition
 - Last verified development: Pique reported November 16 that certification is due November 20, with 2027 candidate rules and a March 1 redistricting deadline.
