@@ -1,7 +1,7 @@
 {
   "script": "2026-11-20_morning-brief-script.md",
-  "script_sha256": "0bbd3159cdd36efd8dc3d1de985faae3a0c51c3b4a44dfd857e4cca085a09786",
-  "checked_at": "2026-11-20T06:20:30-0500",
+  "script_sha256": "920a9435ee78e653040fa8c5591f1529313adc2dd91e811bf1ab24c4fde04af2",
+  "checked_at": "2026-11-20T06:29:31-0500",
   "sources_fetched": [
     {
       "url": "https://www.anthropic.com/news",
@@ -46,8 +46,8 @@
       "reason": "OpenAI\u2019s release page returned an empty curl body but was browser-opened and reviewed for exact names, access terms, lab-reported evaluations, and safety statements."
     }
   ],
-  "claims_checked": 41,
-  "claims_supported": 32,
+  "claims_checked": 38,
+  "claims_supported": 29,
   "claims_excepted": [
     {
       "claim": "5.05",
