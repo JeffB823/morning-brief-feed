@@ -9,37 +9,37 @@
     {
       "title": "Anthropic Goes Public",
       "start": 34.95,
-      "end": 185.0
+      "end": 155.725
     },
     {
       "title": "Columbus Thanksgiving Drive",
-      "start": 185.0,
-      "end": 295.325
+      "start": 155.725,
+      "end": 245.65
     },
     {
       "title": "Home Lending",
-      "start": 295.325,
-      "end": 457.55
+      "start": 245.65,
+      "end": 392.85
     },
     {
       "title": "AI in Banking",
-      "start": 457.55,
-      "end": 604.175
+      "start": 392.85,
+      "end": 539.475
     },
     {
       "title": "Frontier AI",
-      "start": 604.175,
-      "end": 752.85
+      "start": 539.475,
+      "end": 688.15
     },
     {
       "title": "Markets and Weather",
-      "start": 752.85,
-      "end": 805.05
+      "start": 688.15,
+      "end": 740.35
     },
     {
       "title": "Watch Next",
-      "start": 805.05,
-      "end": 827.0
+      "start": 740.35,
+      "end": 762.3
     }
   ]
 }
