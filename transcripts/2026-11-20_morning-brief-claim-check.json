@@ -1,7 +1,7 @@
 {
   "script": "2026-11-20_morning-brief-script.md",
   "script_sha256": "0bbd3159cdd36efd8dc3d1de985faae3a0c51c3b4a44dfd857e4cca085a09786",
-  "checked_at": "2026-11-20T06:19:08-0500",
+  "checked_at": "2026-11-20T06:20:30-0500",
   "sources_fetched": [
     {
       "url": "https://www.anthropic.com/news",
