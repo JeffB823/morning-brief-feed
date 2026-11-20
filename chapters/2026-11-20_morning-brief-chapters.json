@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 34.95
+    },
+    {
+      "title": "Anthropic Goes Public",
+      "start": 34.95,
+      "end": 185.0
+    },
+    {
+      "title": "Columbus Thanksgiving Drive",
+      "start": 185.0,
+      "end": 295.325
+    },
+    {
+      "title": "Home Lending",
+      "start": 295.325,
+      "end": 457.55
+    },
+    {
+      "title": "AI in Banking",
+      "start": 457.55,
+      "end": 604.175
+    },
+    {
+      "title": "Frontier AI",
+      "start": 604.175,
+      "end": 752.85
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 752.85,
+      "end": 805.05
+    },
+    {
+      "title": "Watch Next",
+      "start": 805.05,
+      "end": 827.0
+    }
+  ]
+}
