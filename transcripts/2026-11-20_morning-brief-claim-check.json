@@ -1,0 +1,109 @@
+{
+  "script": "2026-11-20_morning-brief-script.md",
+  "script_sha256": "0bbd3159cdd36efd8dc3d1de985faae3a0c51c3b4a44dfd857e4cca085a09786",
+  "checked_at": "2026-11-20T06:19:08-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.anthropic.com/news",
+      "characters": 14929
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=DB2C7ACA-6E71-4273-8E23-2D1F16E7024C&ID=8291286&Options=&Search=",
+      "characters": 5106
+    },
+    {
+      "url": "https://www.hud.gov/sites/dfiles/SFH/documents/SFH_FHA_INFO_2026-27.pdf",
+      "characters": 1677
+    },
+    {
+      "url": "https://wrenews.com/fha-leap-portal-maintenance-outage-november-19-23-2026/",
+      "characters": 5905
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/",
+      "characters": 8877
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "characters": 68845
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/e303343c7f1a1b6a1361e08c1f8eeded",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response was a sixteen-character shell, while the November 19 IPO reporting was browser-reviewed at the stated cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/mortgage-rates-federal-reserve-housing-real-estate-e0a6562c064b373c50c28002980d3002",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response was a sixteen-character shell, while the browser-opened article supplied the cited 5.05 percent Treasury figure and 7.28 percent mortgage survey value."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "error": "page body was only 0 characters",
+      "reason": "OpenAI\u2019s release page returned an empty curl body but was browser-opened and reviewed for exact names, access terms, lab-reported evaluations, and safety statements."
+    }
+  ],
+  "claims_checked": 41,
+  "claims_supported": 32,
+  "claims_excepted": [
+    {
+      "claim": "5.05",
+      "kind": "number",
+      "example": "AP says the ten-year Treasury yield was 5.05 percent Thursday as the average thirty-year mortgage rate rose; that combination is a reminder that bond moves feed into mortgage pricing, although lender margins and loan features still matter.",
+      "reason": "The number is AP\u2019s browser-reviewed Thursday ten-year Treasury yield; the cited AP URL served an empty curl shell."
+    },
+    {
+      "claim": "Agents Last Exam",
+      "kind": "name",
+      "example": "OpenAI reports that Astra scored 5.2 points above GPT-6 Astra on Agents' Last Exam at less than one-third of the cost per task, and says Sol outscored GPT-6 Astra on its LifeVal evaluation at about one-seventh the cost.",
+      "reason": "OpenAI\u2019s cited browser-reviewed release page names this evaluation and states the reported comparison; its curl body was empty."
+    },
+    {
+      "claim": "BNY and Microsoft",
+      "kind": "name",
+      "example": "In AI in Banking, today's ledger change is a dated control-oriented BNY and Microsoft entry, not a new production-performance result.",
+      "reason": "Microsoft\u2019s cited primary Ignite page names BNY\u2019s Project Perception exploration; the matcher did not retain the adjacent source context."
+    },
+    {
+      "claim": "Banking",
+      "kind": "name",
+      "example": "In AI in Banking, today's ledger change is a dated control-oriented BNY and Microsoft entry, not a new production-performance result.",
+      "reason": "This is the standing show chapter name and transition, not a factual assertion requiring a separate source."
+    },
+    {
+      "claim": "Critical",
+      "kind": "name",
+      "example": "OpenAI says both models meet its Critical cybersecurity threshold, and the company describes tighter safeguards for higher-risk cyber assistance.",
+      "reason": "OpenAI\u2019s cited browser-reviewed release page uses its Critical cybersecurity-threshold classification; its curl body was empty."
+    },
+    {
+      "claim": "GPT-6.2 Astra and Sol",
+      "kind": "name",
+      "example": "At the frontier, the fresh access change is that GPT-6.2 Astra and Sol are now available across ChatGPT Work, Codex, and the API for eligible users, according to OpenAI.",
+      "reason": "OpenAI\u2019s cited browser-reviewed release page supplies the exact model names and access terms; hyphenated version matching is brittle."
+    },
+    {
+      "claim": "IPO",
+      "kind": "name",
+      "example": "Does an IPO settle the debate about whether AI investment is rational?",
+      "reason": "This is the generic term for the Anthropic initial public offering described by the cited AP report, whose curl body was unavailable."
+    },
+    {
+      "claim": "LifeVal",
+      "kind": "name",
+      "example": "OpenAI reports that Astra scored 5.2 points above GPT-6 Astra on Agents' Last Exam at less than one-third of the cost per task, and says Sol outscored GPT-6 Astra on its LifeVal evaluation at about one-seventh the cost.",
+      "reason": "OpenAI\u2019s cited browser-reviewed release page identifies LifeVal and its lab-reported comparison; its curl body was empty."
+    },
+    {
+      "claim": "Nationally Anthropic",
+      "kind": "name",
+      "example": "Nationally, Anthropic's initial public offering is a financing and disclosure event, not evidence that a model became more capable overnight.",
+      "reason": "The cited AP report identifies Anthropic and its public-markets event; the claim matcher merged a transition word with the name."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
