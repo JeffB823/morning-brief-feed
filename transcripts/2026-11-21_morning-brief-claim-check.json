@@ -1,0 +1,117 @@
+{
+  "script": "2026-11-21_morning-brief-script.md",
+  "script_sha256": "c074bcea1ccf821b94973649bce7b493c6801f1c3ebd28403191135eeab54edb",
+  "checked_at": "2026-11-21T00:49:17-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.dailypress.senate.gov/page/2/",
+      "characters": 19593
+    },
+    {
+      "url": "https://columbus.legistar.com/LegislationDetail.aspx?FullText=1&GUID=DB2C7ACA-6E71-4273-8E23-2D1F16E7024C&ID=8291286&Options=&Search=",
+      "characters": 5106
+    },
+    {
+      "url": "https://franklinton.org/?event-item=thanksgiving-back-with-nbc4-and-united-way-central-ohio",
+      "characters": 1759
+    },
+    {
+      "url": "https://press.aboutamazon.com/aws/2026/11/anz-completes-major-cloud-data-transformation-strengthening-data-foundations-to-improve-customer-experiences",
+      "characters": 7341
+    },
+    {
+      "url": "https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537",
+      "characters": 3386
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/b41c2017e4a9fe2e6de92ec77a4cdd0a",
+      "error": "page body was only 16 characters",
+      "reason": "AP serves a sixteen-character bot shell to curl; the November 20 article was browser-opened and reviewed for the Senate vote and scope."
+    },
+    {
+      "url": "https://apnews.com/article/8fd6dcd6dc4a1a77437cedc4567fbee8",
+      "error": "page body was only 16 characters",
+      "reason": "AP serves a sixteen-character bot shell to curl; the November 20 article was browser-opened and reviewed for the statement and diplomatic uncertainty."
+    },
+    {
+      "url": "https://www.glb.hud.gov/hud-partners/single-family-fha-info",
+      "error": "curl exit 60: curl: (60) SSL: no alternative certificate subject name matches target host name 'www.glb.hud.gov'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the se",
+      "reason": "The HUD legacy host certificate fails curl validation; its FHA INFO text was browser-opened and reviewed."
+    }
+  ],
+  "claims_checked": 34,
+  "claims_supported": 23,
+  "claims_excepted": [
+    {
+      "claim": "55",
+      "kind": "number",
+      "example": "This is Morning Brief, researched through 1:55 a.m.",
+      "reason": "This is the documented research-cutoff minute, not a source claim."
+    },
+    {
+      "claim": "CAIVRS",
+      "kind": "name",
+      "example": "FHA says its Connection system will screen through the DNP portal at that point, while mortgagees may also use the CAIVRS screen to run a manual check outside the assignment process.",
+      "reason": "FHA INFO 2026-28 names the CAIVRS manual-screening surface; the HUD legacy host fails curl certificate validation."
+    },
+    {
+      "claim": "Cloudera Hadoop",
+      "kind": "name",
+      "example": "ANZ says it moved a one-point-seven-petabyte enterprise data platform from Cloudera Hadoop to Amazon EMR in six months, against an anticipated eighteen months.",
+      "reason": "The cited ANZ/AWS primary release names the source platform; the matcher did not retain the phrase."
+    },
+    {
+      "claim": "Connection",
+      "kind": "name",
+      "example": "FHA says its Connection system will screen through the DNP portal at that point, while mortgagees may also use the CAIVRS screen to run a manual check outside the assignment process.",
+      "reason": "FHA INFO 2026-28 identifies FHA Connection as the automated-screening workflow; the HUD legacy host fails curl certificate validation."
+    },
+    {
+      "claim": "DNP",
+      "kind": "name",
+      "example": "FHA says its Connection system will screen through the DNP portal at that point, while mortgagees may also use the CAIVRS screen to run a manual check outside the assignment process.",
+      "reason": "FHA INFO 2026-28 identifies the DNP portal for the specified eligibility screen; the HUD legacy host fails curl certificate validation."
+    },
+    {
+      "claim": "DNP and CAIVRS",
+      "kind": "name",
+      "example": "March eighteenth is the operational deadline; today's work is assigning ownership for the interface, access roles, adverse-impact communications, quality checks, and a way to distinguish DNP and CAIVRS results.",
+      "reason": "FHA INFO 2026-28 names both surfaces; the legacy HUD host fails curl certificate validation."
+    },
+    {
+      "claim": "FHA",
+      "kind": "name",
+      "example": "The Senate has passed a permitting bill affecting energy projects and data centers, Columbus is running its second Thanksgiving food distribution, and FHA has set a new eligibility screen.",
+      "reason": "FHA is the named agency issuing Mortgagee Letter 2026-14; the mechanical matcher flagged the payoff-preview reference without retaining source context."
+    },
+    {
+      "claim": "FHA Title Two",
+      "kind": "name",
+      "example": "For FHA Title Two forward mortgages and reverse mortgages, it requires an automated check at FHA case-number assignment for borrowers subject to federal administrative offset because of delinquent child-support debt.",
+      "reason": "FHA INFO 2026-28 specifies Title II forward and HECM applicability; the legacy HUD host fails curl validation."
+    },
+    {
+      "claim": "Mortgagee Letter",
+      "kind": "name",
+      "example": "FHA issued Mortgagee Letter twenty twenty-six-fourteen on November eighteenth.",
+      "reason": "FHA INFO 2026-28 identifies the policy as Mortgagee Letter 2026-14; the legacy HUD host fails curl certificate validation."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For Columbus weather, the National Weather Service hourly forecast starts clear and cold, near the upper thirties before sunrise, then turns mostly sunny and reaches the upper fifties around midday.",
+      "reason": "Same-day hourly weather was checked at cutoff and may change after the record is written."
+    },
+    {
+      "claim": "Nationally the Senate",
+      "kind": "name",
+      "example": "Nationally, the Senate has passed the Bipartisan American Affordability and Jobs Act, a permitting overhaul, by sixty-two to thirty-three.",
+      "reason": "Senate Daily Press and AP support the vote; the matcher fused a transition word with the institution."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
