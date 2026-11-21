@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 33.7
+    },
+    {
+      "title": "Permitting Vote",
+      "start": 33.7,
+      "end": 226.45
+    },
+    {
+      "title": "Columbus Thanksgiving Back",
+      "start": 226.45,
+      "end": 304.9
+    },
+    {
+      "title": "Home Lending",
+      "start": 304.9,
+      "end": 467.45
+    },
+    {
+      "title": "AI in Banking",
+      "start": 467.45,
+      "end": 626.15
+    },
+    {
+      "title": "Frontier AI",
+      "start": 626.15,
+      "end": 769.05
+    },
+    {
+      "title": "Markets and Weather",
+      "start": 769.05,
+      "end": 815.475
+    },
+    {
+      "title": "Watch Next",
+      "start": 815.475,
+      "end": 836.625
+    }
+  ]
+}
