@@ -1,12 +1,6 @@
-# Story Tracker — updated 2026-11-21
+# Story Tracker — updated 2026-11-22
 
 Only active stories likely to move within five days.
-
-## FHA LEAP maintenance recovery
-- Last verified development: FHA INFO 2026-27 says LEAP is scheduled to return at the start of business November 23 after maintenance that began November 19.
-- Last takeaway: A portal outage is a queue-management and borrower-communication event, not a blanket halt to FHA lending or policy change.
-- Source: https://www.hud.gov/sites/dfiles/SFH/documents/SFH_FHA_INFO_2026-27.pdf
-- Revisit trigger: Monday restoration, agency clarification, affected-request handling, or a revised notice.
 
 ## FHA child-support eligibility automation
 - Last verified development: Mortgagee Letter 2026-14 requires a DNP-portal screen through FHA Connection at case-number assignment for specified federal child-support offsets, effective March 18, 2027.
@@ -31,3 +25,15 @@ Only active stories likely to move within five days.
 - Last takeaway: The cost and access change supports a bounded voice test; it does not prove call accuracy or safe financial-service automation.
 - Source: https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537
 - Revisit trigger: Independent call evaluation, API policy update, error and handoff data, or detailed model documentation.
+
+## FHA LEAP maintenance recovery
+- Last verified development: FHA INFO 2026-27 schedules LEAP’s return at the start of business November 23 after maintenance beginning November 19.
+- Last takeaway: The immediate lender task is platform-specific queue recovery and accurate borrower communication, not a blanket conclusion about FHA lending.
+- Source: https://www.hud.gov/sites/dfiles/SFH/documents/SFH_FHA_INFO_2026-27.pdf
+- Revisit trigger: Monday restoration, revised timing, backlog handling, or agency instructions for affected requests.
+
+## Third-party AI-agent account authorization
+- Last verified development: November 20 reporting said major U.S. banks treat actions by outside AI agents as user-authorized, including mistakes; no institution-level outcome metric was disclosed.
+- Last takeaway: Contractual responsibility language does not prove meaningful authorization, safe authentication, fair disputes, or low error rates.
+- Source: https://www.techradar.com/ai-platforms-assistants/major-us-banks-crack-down-on-ai-agent-use-by-customers-telling-them-theyre-on-their-own-if-it-gets-hacked-or-makes-a-mistake
+- Revisit trigger: Named bank terms, regulator guidance, incident or reversal data, complaint trend, or tested authorization evidence.

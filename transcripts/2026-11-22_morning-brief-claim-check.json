@@ -1,0 +1,155 @@
+{
+  "script": "2026-11-22_morning-brief-script.md",
+  "script_sha256": "36f0aad4f617512221d656c4d67b00f4705b899de1ce9344bea4b65c6639fd14",
+  "checked_at": "2026-11-22T00:45:45-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.anthropic.com/news/announcements",
+      "characters": 12513
+    },
+    {
+      "url": "https://www.hud.gov/sites/dfiles/SFH/documents/SFH_FHA_INFO_2026-27.pdf",
+      "characters": 1677
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms/archive",
+      "characters": 8945
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/major-us-banks-crack-down-on-ai-agent-use-by-customers-telling-them-theyre-on-their-own-if-it-gets-hacked-or-makes-a-mistake",
+      "characters": 22894
+    },
+    {
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "characters": 40876
+    },
+    {
+      "url": "https://academy.openai.com/public/clubs/openai-on-aws/blogs/gpt-62-astra-and-gpt-62-sol-are-now-available-on-amazon-bedrock-2026-11-18",
+      "characters": 1638
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol/internal-deployment-of-gpt-6.2-astra-and-gpt-6.2-sol",
+      "characters": 266247
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s curl response was a short access shell; the article text, date, and reported figures were reviewed in browser search results at cutoff."
+    },
+    {
+      "url": "https://www.axios.com/newsletters/axios-columbus-45a49d8c-b303-43c7-95ff-e84b437f3382",
+      "error": "page body was only 16 characters",
+      "reason": "Axios served a short access shell to curl; the dated newsletter extract was reviewed in browser search results at cutoff."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "error": "page body was only 16 characters",
+      "reason": "Axios served a short access shell to curl; it is only background corroboration and the spoken fresh policy claim is attributed to the fetchable TechRadar report."
+    }
+  ],
+  "claims_checked": 37,
+  "claims_supported": 21,
+  "claims_excepted": [
+    {
+      "claim": "AI-agent",
+      "kind": "name",
+      "example": "Three things to watch: verified Iran contacts and Strait-of-Hormuz flow data; FHA's Monday LEAP restoration and backlog guidance; and a named bank or regulator publishing evidence on third-party AI-agent authorization.",
+      "reason": "Hyphenated generic term used in the watch item; it is editorial shorthand for the sourced third-party-agent reporting."
+    },
+    {
+      "claim": "Astra and GPT-six",
+      "kind": "name",
+      "example": "At the frontier, the dated implementation update is an additional deployment route for GPT-six point two Astra and GPT-six point two Sol.",
+      "reason": "Speech-engine wording for the sourced OpenAI model names; primary release notes and system card were fetched."
+    },
+    {
+      "claim": "Axios Columbus",
+      "kind": "name",
+      "example": "Axios Columbus reported Friday that the German-style holiday market has been years in planning and is intended to strengthen winter tourism.",
+      "reason": "Outlet name is supported by browser-reviewed result; direct curl returned an access shell."
+    },
+    {
+      "claim": "Central Ohio Dublin Christkindlmarkt",
+      "kind": "name",
+      "example": "In Central Ohio, Dublin's Christkindlmarkt is the local fresh development.",
+      "reason": "Place and event name were verified in the browser-reviewed Axios result."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "Oil flows through the Strait of Hormuz have fallen as Iran diplomacy remains unsettled, a new Dublin holiday market is testing winter commerce near Columbus, and lenders await an FHA system restart.",
+      "reason": "Geographic show context, not a sourced factual assertion."
+    },
+    {
+      "claim": "Dublin",
+      "kind": "name",
+      "example": "Oil flows through the Strait of Hormuz have fallen as Iran diplomacy remains unsettled, a new Dublin holiday market is testing winter commerce near Columbus, and lenders await an FHA system restart.",
+      "reason": "Geographic place name verified in the browser-reviewed local result."
+    },
+    {
+      "claim": "FHA INFO",
+      "kind": "name",
+      "example": "FHA INFO twenty twenty-six-twenty-seven says its LEAP platform has been under maintenance since November nineteenth and is scheduled to return at the start of business Monday, November twenty-third.",
+      "reason": "Document label is visible in the fetched FHA notice, while speech renders its numeric identifier as words."
+    },
+    {
+      "claim": "FHA Monday LEAP",
+      "kind": "name",
+      "example": "Three things to watch: verified Iran contacts and Strait-of-Hormuz flow data; FHA's Monday LEAP restoration and backlog guidance; and a named bank or regulator publishing evidence on third-party AI-agent authorization.",
+      "reason": "Watch-item shorthand; the fetched FHA notice supports the Monday restoration trigger."
+    },
+    {
+      "claim": "GPT-six",
+      "kind": "name",
+      "example": "At the frontier, the dated implementation update is an additional deployment route for GPT-six point two Astra and GPT-six point two Sol.",
+      "reason": "Speech-engine wording for sourced GPT-6.2 model names in fetched OpenAI release notes."
+    },
+    {
+      "claim": "German-style",
+      "kind": "name",
+      "example": "Axios Columbus reported Friday that the German-style holiday market has been years in planning and is intended to strengthen winter tourism.",
+      "reason": "Descriptive adjective attached to the browser-reviewed local market report."
+    },
+    {
+      "claim": "IPO",
+      "kind": "name",
+      "example": "A separate fresh business development is Anthropic's November twentieth IPO closing.",
+      "reason": "Standard abbreviation for the fetched Anthropic initial-public-offering closing announcement."
+    },
+    {
+      "claim": "President Trump",
+      "kind": "name",
+      "example": "The Associated Press reported Friday that President Trump said Iran wanted a deal while Saudi Arabia and Yemen's Houthis exchanged fire.",
+      "reason": "Name and attributed statement were reviewed in the browser-rendered AP result after AP\u2019s curl shell."
+    },
+    {
+      "claim": "Rystad Energy",
+      "kind": "name",
+      "example": "The same report said Rystad Energy estimated oil flows in the first two weeks of November at about thirteen million barrels a day, down from roughly fifteen to sixteen million in October.",
+      "reason": "Name and flow estimate were reviewed in the browser-rendered AP result after AP\u2019s curl shell."
+    },
+    {
+      "claim": "Saudi Arabia and Yemen Houthis",
+      "kind": "name",
+      "example": "The Associated Press reported Friday that President Trump said Iran wanted a deal while Saudi Arabia and Yemen's Houthis exchanged fire.",
+      "reason": "Names and attributed exchange-of-fire claim were reviewed in the browser-rendered AP result after AP\u2019s curl shell."
+    },
+    {
+      "claim": "Strait of Hormuz",
+      "kind": "name",
+      "example": "Oil flows through the Strait of Hormuz have fallen as Iran diplomacy remains unsettled, a new Dublin holiday market is testing winter commerce near Columbus, and lenders await an FHA system restart.",
+      "reason": "Geographic reference used with the browser-reviewed AP shipping report."
+    },
+    {
+      "claim": "Strait-of-Hormuz",
+      "kind": "name",
+      "example": "Three things to watch: verified Iran contacts and Strait-of-Hormuz flow data; FHA's Monday LEAP restoration and backlog guidance; and a named bank or regulator publishing evidence on third-party AI-agent authorization.",
+      "reason": "Hyphenated watch-item variant of the browser-reviewed AP shipping reference."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
