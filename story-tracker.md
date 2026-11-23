@@ -1,4 +1,16 @@
-# Story Tracker — updated 2026-11-22
+# Story Tracker — updated 2026-11-23
+
+## House oversight majority
+- Last verified development: AP reported November 22 that Democrats had secured at least 258 House seats.
+- Last takeaway: The immediate consequence is committee and oversight leverage, not an enacted policy change.
+- Source: https://apnews.com/article/721096a4d9ba2cd68683692361798cdb
+- Revisit trigger: Committee calendars, formal contractor requests, appropriations text, subpoenas, or a court filing.
+
+## Columbus 2027 operating budget
+- Last verified development: The city schedule lists a November 23 Council meeting and proposed 2027 operating-budget announcement context.
+- Last takeaway: Follow each service through the ordinance, funding source, owner, delivery date, and reported outcome.
+- Source: https://ctvplayout.columbus.gov/internetchannel/schedule?currentDay=2026-11-23&site=1
+- Revisit trigger: Published budget, amendment, enacted appropriation, contract, or delivery measure.
 
 Only active stories likely to move within five days.
 

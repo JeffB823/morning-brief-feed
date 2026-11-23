@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-23",
+  "cutoff": "2026-11-23T06:15:00-05:00",
+  "history_compared": [
+    "2026-11-16_morning-brief-script.md",
+    "2026-11-17_morning-brief-script.md",
+    "2026-11-18_morning-brief-script.md",
+    "2026-11-19_morning-brief-script.md",
+    "2026-11-20_morning-brief-script.md",
+    "2026-11-21_morning-brief-script.md",
+    "2026-11-22_morning-brief-script.md"
+  ],
+  "candidates": [
+    {
+      "id": "house_majority",
+      "beat": "national",
+      "event_date": "2026-11-22",
+      "decision": "selected",
+      "reason": "AP reported a newly clinched House-majority threshold with immediate oversight implications."
+    },
+    {
+      "id": "contractor_congress",
+      "beat": "national",
+      "event_date": "2026-11-21",
+      "decision": "selected",
+      "reason": "AP reported a new White House instruction affecting contractor responses to Congress."
+    },
+    {
+      "id": "columbus_council",
+      "beat": "columbus",
+      "event_date": "2026-11-23",
+      "decision": "selected",
+      "reason": "City schedule confirms a same-day Council meeting and budget-announcement context."
+    },
+    {
+      "id": "fha_credit_models",
+      "beat": "home_lending",
+      "event_date": "2026-11-22",
+      "decision": "selected",
+      "reason": "Fannie Mae release note gives operational December and January dates; not freshness credit."
+    },
+    {
+      "id": "bank_agents",
+      "beat": "bank_ai",
+      "event_date": "2026-11-22",
+      "decision": "selected",
+      "reason": "No new outcome metric; treated as a documented ledger downgrade, not a fresh deployment."
+    },
+    {
+      "id": "gpt_62",
+      "beat": "frontier_ai",
+      "event_date": "2026-11-17",
+      "decision": "selected_dated_update",
+      "reason": "Current access state supports a new local-evaluation takeaway, explicitly labeled older implementation evidence."
+    },
+    {
+      "id": "freddie_rate",
+      "beat": "home_lending",
+      "event_date": "2026-11-19",
+      "decision": "background_only",
+      "reason": "Routine survey context only."
+    },
+    {
+      "id": "dublin_market",
+      "beat": "columbus",
+      "event_date": "2026-11-20",
+      "decision": "rejected",
+      "reason": "Already covered November 22 without a new operating result."
+    }
+  ],
+  "stories": [
+    {
+      "id": "house_majority",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-22",
+      "publication_date": "2026-11-22",
+      "sources": [
+        "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb"
+      ],
+      "new_fact": "AP reported Democrats secured at least 258 House seats.",
+      "new_takeaway": "The concrete near-term change is oversight leverage, not an enacted policy change.",
+      "why_now": "The threshold was reported November 22.",
+      "previous_coverage": "Not covered in the seven compared scripts.",
+      "uncertainty": "Committee decisions and legislation still require subsequent action.",
+      "watch": "Committee calendars, requests, appropriations, and enacted measures."
+    },
+    {
+      "id": "contractor_congress",
+      "beat": "national",
+      "classification": "fresh",
+      "event_date": "2026-11-21",
+      "publication_date": "2026-11-21",
+      "sources": [
+        "https://apnews.com/article/9546e1d7acdf3e65b654d1c5162cb0bd"
+      ],
+      "new_fact": "AP reported an instruction for contractors to consult the White House before responding to Congress.",
+      "new_takeaway": "Actual requests, contracts, and enforcement actions\u2014not rhetoric\u2014will define operational consequences.",
+      "why_now": "The report is within 48 hours.",
+      "previous_coverage": "Not covered previously.",
+      "uncertainty": "Legal scope and application will be case-specific.",
+      "watch": "Written requests, agency guidance, subpoenas, and litigation."
+    },
+    {
+      "id": "columbus_council",
+      "beat": "columbus",
+      "classification": "fresh",
+      "event_date": "2026-11-23",
+      "publication_date": "2026-11-23",
+      "sources": [
+        "https://ctvplayout.columbus.gov/internetchannel/schedule?currentDay=2026-11-23&site=1",
+        "https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources"
+      ],
+      "new_fact": "The city schedule lists a five p.m. Council meeting and proposed 2027 budget announcement context.",
+      "new_takeaway": "Residents can trace a service outcome through the ordinance, funding, owner, and delivery measure.",
+      "why_now": "The meeting is today.",
+      "previous_coverage": "November 17 discussed budget proposal context; this is a short event-day update with a different participation takeaway.",
+      "uncertainty": "Agenda and public schedule do not establish legislative outcome.",
+      "watch": "Agenda, budget documents, amendments, actions, and appropriation calendar."
+    },
+    {
+      "id": "fha_credit_models",
+      "beat": "home_lending",
+      "classification": "dated_update",
+      "event_date": "2026-11-17",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "https://singlefamily.fanniemae.com/media/48431/display",
+        "https://www.hud.gov/sites/dfiles/Housing/documents/2026FHAAnnualReportMMIFund.pdf",
+        "https://www.freddiemac.com/pmms/archive"
+      ],
+      "new_fact": "Fannie Mae release notes describe December 1 DU messaging changes and January 1 FHA case-assignment timing for additional credit models.",
+      "new_takeaway": "Production teams must separate case-assignment and submission dates instead of inferring an automatic underwriting result.",
+      "why_now": "The future system dates are current implementation work.",
+      "previous_coverage": "Distinct from last week\u2019s FHA child-support screen and LEAP recovery.",
+      "uncertainty": "Lender overlays and future agency guidance can affect operations.",
+      "watch": "FHA clarification, DU release material, test results, and transition guidance.",
+      "date_exception": "Dated home-lending specialist update within seven days; operationally relevant but excluded from fresh-story count."
+    },
+    {
+      "id": "bank_agents",
+      "beat": "bank_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-22",
+      "publication_date": "2026-11-22",
+      "sources": [
+        "https://www.techradar.com/ai-platforms-assistants/major-us-banks-crack-down-on-ai-agent-use-by-customers-telling-them-theyre-on-their-own-if-it-gets-hacked-or-makes-a-mistake",
+        "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
+      ],
+      "new_fact": "No named institution-level result, regulator finding, or outcome metric emerged in the current search, so the ledger status is narrowed to a control observation.",
+      "new_takeaway": "Absent measured authorization and dispute outcomes, policy language cannot become a vendor or production scorecard.",
+      "why_now": "The review changes the evidence classification rather than restating a claim.",
+      "previous_coverage": "November 22 aired the original report; today supplies a shorter evidence downgrade and a different decision standard.",
+      "uncertainty": "Institution-specific terms and outcome data remain undisclosed.",
+      "watch": "Named terms, regulator guidance, reversals, complaints, and independent testing.",
+      "ledger_row_changed": "US major banks / customer-delegated account agents: evidence downgraded to control observation; no disclosed deployment or outcome metric.",
+      "date_exception": "Dated bank-AI specialist update, excluded from fresh-story count."
+    },
+    {
+      "id": "gpt_62",
+      "beat": "frontier_ai",
+      "classification": "fresh",
+      "event_date": "2026-11-22",
+      "publication_date": "2026-11-22",
+      "sources": [
+        "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+      ],
+      "new_fact": "Eligible users can access GPT-6.2 Astra and Sol through named product routes.",
+      "new_takeaway": "Availability supports a fixed local comparison, not a general production approval.",
+      "why_now": "Current access has a distinct evaluation-workflow consequence.",
+      "previous_coverage": "The last editions focused on Bedrock and voice; this segment is limited to reproducible model comparison.",
+      "uncertainty": "No independent regulated-bank task replication or correction-cost evidence is public.",
+      "watch": "Independent evaluation, task-level error evidence, and release-note changes.",
+      "frontier_bar": "price/access shift and new capability with lab-reported results",
+      "date_exception": "Dated frontier-AI specialist update, excluded from fresh-story count."
+    }
+  ],
+  "length_exception": "Quiet-day exception: three fresh developments within 48 hours were independently verified; specialist beats use dated operational updates and do not satisfy the fresh count.",
+  "editorial_review": {
+    "sources_checked": true,
+    "event_dates_checked": true,
+    "novelty_checked": true,
+    "cohost_answers_checked": true,
+    "lending_workflow_checked": true,
+    "ai_evidence_checked": true,
+    "three_watch_items_checked": true,
+    "source_word_limits_checked": true,
+    "chapters_checked": true,
+    "script_sha256": "0647cd832b42b8cb874a0b94cfcd49949b8cf8e1f243c6af35326cb136d6a921"
+  },
+  "claim_check_exceptions": [
+    {
+      "claim": "Congress",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Democratic",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Democrats",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "FHA Fannie Mae",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Fannie Mae",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Federal Housing Administration",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "GPT-six Astra",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "OpenAI GPT-six",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Pentagon",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Republican and Democrats",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Senate",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Washington",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "and January",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "the National Weather Service",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "claim": "https://apnews.com/article/9546e1d7acdf3e65b654d1c5162cb0bd",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "claim": "https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "claim": "https://singlefamily.fanniemae.com/media/48431/display",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "claim": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    }
+  ]
+}

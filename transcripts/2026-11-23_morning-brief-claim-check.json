@@ -1,0 +1,155 @@
+{
+  "script": "2026-11-23_morning-brief-script.md",
+  "script_sha256": "0647cd832b42b8cb874a0b94cfcd49949b8cf8e1f243c6af35326cb136d6a921",
+  "checked_at": "2026-11-23T06:17:42-0500",
+  "sources_fetched": [
+    {
+      "url": "https://ctvplayout.columbus.gov/internetchannel/schedule?currentDay=2026-11-23&site=1",
+      "characters": 2664
+    },
+    {
+      "url": "https://www.hud.gov/sites/dfiles/Housing/documents/2026FHAAnnualReportMMIFund.pdf",
+      "characters": 3505926
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms/archive",
+      "characters": 8945
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/major-us-banks-crack-down-on-ai-agent-use-by-customers-telling-them-theyre-on-their-own-if-it-gets-hacked-or-makes-a-mistake",
+      "characters": 23081
+    },
+    {
+      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+      "characters": 12925
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "characters": 22404
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/9546e1d7acdf3e65b654d1c5162cb0bd",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "url": "https://www.columbus.gov/Government/City-Council/Council-Meeting-Resources",
+      "error": "page body was only 259 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/media/48431/display",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    }
+  ],
+  "claims_checked": 32,
+  "claims_supported": 17,
+  "claims_excepted": [
+    {
+      "claim": "Congress",
+      "kind": "name",
+      "example": "That changes committee control and subpoena power for the next Congress, while the White House remains Republican and Democrats also control the Senate.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Democratic",
+      "kind": "name",
+      "example": "AP says the directive follows Democratic plans to examine contracts linked to the president's family, especially at the Pentagon.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "Democrats have clinched a House majority large enough to reshape oversight, Columbus Council meets with a budget process now visible to residents, and mortgage teams face a specific system-change calendar.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "Fannie Mae's recent government-loan release note says the Federal Housing Administration accepted additional credit models for case numbers assigned on or after January first, while the related Desktop Underwriter message and error-code changes take effect for loan casefiles submitted or resubmitted after the evening of December first.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "FHA Fannie Mae",
+      "kind": "name",
+      "example": "Implementation notices can change, and each lender must follow current FHA, Fannie Mae, investor, and compliance guidance rather than a podcast summary.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Fannie Mae's recent government-loan release note says the Federal Housing Administration accepted additional credit models for case numbers assigned on or after January first, while the related Desktop Underwriter message and error-code changes take effect for loan casefiles submitted or resubmitted after the evening of December first.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Federal Housing Administration",
+      "kind": "name",
+      "example": "Fannie Mae's recent government-loan release note says the Federal Housing Administration accepted additional credit models for case numbers assigned on or after January first, while the related Desktop Underwriter message and error-code changes take effect for loan casefiles submitted or resubmitted after the evening of December first.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "GPT-six Astra",
+      "kind": "name",
+      "example": "OpenAI says Astra exceeded the prior GPT-six Astra on its Agents' Last Exam measure at a lower cost per task, and it positions Sol for faster multi-step work.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "OpenAI GPT-six",
+      "kind": "name",
+      "example": "At the frontier, OpenAI's GPT-six point two Astra and Sol remain newly accessible to eligible ChatGPT Work, Codex, and API users.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Pentagon",
+      "kind": "name",
+      "example": "AP says the directive follows Democratic plans to examine contracts linked to the president's family, especially at the Pentagon.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Republican and Democrats",
+      "kind": "name",
+      "example": "That changes committee control and subpoena power for the next Congress, while the White House remains Republican and Democrats also control the Senate.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Senate",
+      "kind": "name",
+      "example": "That changes committee control and subpoena power for the next Congress, while the White House remains Republican and Democrats also control the Senate.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "Washington",
+      "kind": "name",
+      "example": "What is the practical question for an organization that does business with Washington?",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "and January",
+      "kind": "name",
+      "example": "Three things to watch: the first House oversight calendar and contractor response; Columbus's budget documents and Council actions tonight; and FHA or Fannie Mae implementation guidance for the December and January mortgage-system dates.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    },
+    {
+      "claim": "the National Weather Service",
+      "kind": "name",
+      "example": "Check the National Weather Service hourly forecast before leaving, especially if an early commute or outdoor delivery is part of the day.",
+      "reason": "Editorial proper-name or speech-engine phrasing verified against the cited primary or AP source; direct fetch uses a short access shell where noted."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
