@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.1
+    },
+    {
+      "title": "House oversight",
+      "start": 35.1,
+      "end": 221.8
+    },
+    {
+      "title": "Columbus Council",
+      "start": 221.8,
+      "end": 363.95
+    },
+    {
+      "title": "Home Lending",
+      "start": 363.95,
+      "end": 514.125
+    },
+    {
+      "title": "AI in Banking",
+      "start": 514.125,
+      "end": 637.025
+    },
+    {
+      "title": "Frontier AI",
+      "start": 637.025,
+      "end": 784.675
+    },
+    {
+      "title": "Markets and weather",
+      "start": 784.675,
+      "end": 824.35
+    },
+    {
+      "title": "Watch next",
+      "start": 824.35,
+      "end": 844.175
+    }
+  ]
+}
