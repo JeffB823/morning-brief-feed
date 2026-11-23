@@ -1,7 +1,7 @@
 {
   "script": "2026-11-23_morning-brief-script.md",
   "script_sha256": "0647cd832b42b8cb874a0b94cfcd49949b8cf8e1f243c6af35326cb136d6a921",
-  "checked_at": "2026-11-23T06:17:42-0500",
+  "checked_at": "2026-11-23T06:18:20-0500",
   "sources_fetched": [
     {
       "url": "https://ctvplayout.columbus.gov/internetchannel/schedule?currentDay=2026-11-23&site=1",
