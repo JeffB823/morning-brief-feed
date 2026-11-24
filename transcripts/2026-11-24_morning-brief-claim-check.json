@@ -1,0 +1,98 @@
+{
+  "script": "2026-11-24_morning-brief-script.md",
+  "script_sha256": "43137abdea3b698542e43ace065b0d40fc35a25e33e630c20abb8c9eb65627b7",
+  "checked_at": "2026-11-24T00:43:44-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.hud.gov/program_offices/housing/sfh/FHA_info_messages",
+      "characters": 854
+    },
+    {
+      "url": "https://d2233.cms.socastsrm.com/2026/11/23/exclusive-some-us-banks-tighten-ai-agent-controls-on-concern-about-models-escaping-safeguards/",
+      "characters": 6964
+    },
+    {
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "characters": 235178
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/3fe6eeb38c7dd8b77c84733f898163ef",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    },
+    {
+      "url": "https://apnews.com/article/342e3f90e90b556b4bbfc3dd3531e180",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a short access shell; date and relevant text were reviewed through the browser result at the recorded cutoff."
+    }
+  ],
+  "claims_checked": 19,
+  "claims_supported": 9,
+  "claims_excepted": [
+    {
+      "claim": "COTA",
+      "kind": "name",
+      "example": "Check COTA's official route and service notices before leaving, allow time for a detour, and avoid circulating a theory about the collision.",
+      "reason": "Editorial proper-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "California",
+      "kind": "name",
+      "example": "A court has closed one California ballot case, Columbus is confronting a deadly bus collision, and banks are narrowing internal AI agents.",
+      "reason": "Editorial geographic-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "Central Ohio Transit Authority",
+      "kind": "name",
+      "example": "In Columbus, two Central Ohio Transit Authority bus drivers were killed and nine other people injured when two buses collided head-on on the city's north side Monday morning, according to the Associated Press.",
+      "reason": "Editorial proper-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "A court has closed one California ballot case, Columbus is confronting a deadly bus collision, and banks are narrowing internal AI agents.",
+      "reason": "Editorial geographic-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "FHA November",
+      "kind": "name",
+      "example": "FHA's November sixteenth notice said its Lender Electronic Assessment Portal, known as LEAP, would be restored at the start of business yesterday after scheduled maintenance.",
+      "reason": "Speech-parser phrase verified against FHA INFO 2026-27; it is not an additional factual assertion."
+    },
+    {
+      "claim": "GPT-six",
+      "kind": "name",
+      "example": "We will translate an FHA portal recovery and a GPT-six point two chat rollout into decisions that matter today.",
+      "reason": "Speech-engine model-name phrasing verified against the cited OpenAI release notes."
+    },
+    {
+      "claim": "Justice Department",
+      "kind": "name",
+      "example": "The Ninth Circuit approved the Justice Department's request to dismiss its lawsuit seeking to stop California from counting roughly twenty thousand ballots while officials checked the immigration status of people it alleged were noncitizens.",
+      "reason": "Editorial proper-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "Lender Electronic Assessment Portal",
+      "kind": "name",
+      "example": "FHA's November sixteenth notice said its Lender Electronic Assessment Portal, known as LEAP, would be restored at the start of business yesterday after scheduled maintenance.",
+      "reason": "Editorial proper-name verification against the cited FHA INFO page."
+    },
+    {
+      "claim": "Ninth Circuit",
+      "kind": "name",
+      "example": "The Ninth Circuit approved the Justice Department's request to dismiss its lawsuit seeking to stop California from counting roughly twenty thousand ballots while officials checked the immigration status of people it alleged were noncitizens.",
+      "reason": "Editorial proper-name verification against the cited AP reporting; the AP direct fetch returns a short access shell."
+    },
+    {
+      "claim": "Treasury",
+      "kind": "name",
+      "example": "For mortgage offers and business plans, watch actual Treasury moves and scheduled economic releases rather than assuming a court story or an AI headline dictates yields.",
+      "reason": "Generic market-context term, not a claim about a specific rate or move."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
