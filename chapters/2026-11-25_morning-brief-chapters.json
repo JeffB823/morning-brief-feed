@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 31.5
+    },
+    {
+      "title": "National",
+      "start": 31.5,
+      "end": 153.95
+    },
+    {
+      "title": "Columbus utilities",
+      "start": 153.95,
+      "end": 280.925
+    },
+    {
+      "title": "Home lending",
+      "start": 280.925,
+      "end": 442.525
+    },
+    {
+      "title": "AI in Banking",
+      "start": 442.525,
+      "end": 599.7
+    },
+    {
+      "title": "Frontier AI",
+      "start": 599.7,
+      "end": 741.425
+    },
+    {
+      "title": "Markets and weather",
+      "start": 741.425,
+      "end": 787.725
+    },
+    {
+      "title": "Watch next",
+      "start": 787.725,
+      "end": 807.575
+    }
+  ]
+}

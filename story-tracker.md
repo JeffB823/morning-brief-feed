@@ -1,4 +1,4 @@
-# Story Tracker — updated 2026-11-24
+# Story Tracker — updated 2026-11-25
 
 ## COTA collision investigation
 - Last verified development: AP reported November 23 that two COTA drivers were killed and nine people injured in a head-on collision on Columbus's north side.
@@ -25,3 +25,15 @@ Only active stories likely to move within five days.
 - Last takeaway: Reconcile held portal work and borrower communication; the notice does not prove a backlog cleared or alter borrower eligibility.
 - Source: https://www.hud.gov/program_offices/housing/sfh/FHA_info_messages
 - Revisit trigger: Revised restoration notice, access problem, backlog instruction, or FHA handling guidance.
+
+## Fannie Mae 2027 loan limits
+- Last verified development: Fannie Mae posted Lender Letter LL-2026-10 on November 24 confirming 2027 conforming-loan-limit values.
+- Last takeaway: The immediate lender work is date-aware county-limit mapping and testing, not a borrower-approval or pricing promise.
+- Source: https://singlefamily.fanniemae.com/selling-policy-communications?page=0
+- Revisit trigger: Effective-date clarification, lender or investor bulletin, vendor mapping release, or reported implementation exception.
+
+## Columbus utility-rate deliberation
+- Last verified development: Local reporting on November 24 said Columbus Council was weighing water and sewer rate increases connected to infrastructure work.
+- Last takeaway: The decision needs an adopted rate table, project detail, typical-bill example, and affordability terms before residents can assess the effect.
+- Source: https://www.wosu.org/politics-government/2026-11-13/columbus-could-see-another-double-digit-water-rate-hike-to-pay-for-water-infrastructure-projects
+- Revisit trigger: Council vote, adopted rate schedule, project list, effective date, or assistance-program detail.

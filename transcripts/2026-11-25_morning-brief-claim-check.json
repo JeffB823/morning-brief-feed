@@ -1,0 +1,103 @@
+{
+  "script": "2026-11-25_morning-brief-script.md",
+  "script_sha256": "c7967e24e80167831fbe3fe7cdff5a8b26ed8bd422d76ba2009aaf8dab555bb6",
+  "checked_at": "2026-11-25T01:33:35-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.wosu.org/politics-government/2026-11-13/columbus-could-see-another-double-digit-water-rate-hike-to-pay-for-water-infrastructure-projects",
+      "characters": 10546
+    },
+    {
+      "url": "https://www.bankingnewsai.com/ai-agents-in-banking/2026-q4",
+      "characters": 65011
+    },
+    {
+      "url": "https://openai.com/news/",
+      "characters": 2324
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/07b3ccbe60db7c1d3d3f3087d8fca721",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a 16-character access shell; article date and relevant reporting were reviewed in the browser at the recorded cutoff."
+    },
+    {
+      "url": "https://www.10tv.com/article/news/local/columbus-city-council-weighs-rate-increases-utilities/530-0f3a663f-6c7b-4f6e-b50c-e9d44b8f6cc4",
+      "error": "page body was only 319 characters",
+      "reason": "Direct fetch returned a 319-character shell; the local report title and timing were reviewed in the browser, with WOSU included as corroborating infrastructure context."
+    },
+    {
+      "url": "https://singlefamily.fanniemae.com/selling-policy-communications?page=0",
+      "error": "page body was only 16 characters",
+      "reason": "Direct fetch returned a 16-character access shell; the LL-2026-10 title and November 24 posting were reviewed from the policy archive browser result."
+    }
+  ],
+  "claims_checked": 25,
+  "claims_supported": 15,
+  "claims_excepted": [
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "Associated Press reports Democrats have clinched at least two hundred fifty-nine seats, their largest House majority since nineteen ninety.",
+      "reason": "The AP article was reviewed in the browser at the recorded cutoff; its direct fetch returns a short access shell."
+    },
+    {
+      "claim": "Capitol",
+      "kind": "name",
+      "example": "A majority creates a route for action; it does not eliminate negotiations inside the caucus, across the Capitol, or with the White House.",
+      "reason": "Generic institutional reference, not a separate factual assertion."
+    },
+    {
+      "claim": "City Hall",
+      "kind": "name",
+      "example": "Why is this a Central Ohio operating story rather than a routine City Hall debate?",
+      "reason": "Generic local-government reference, not a separately sourced assertion."
+    },
+    {
+      "claim": "Democrats",
+      "kind": "name",
+      "example": "Democrats have secured a larger House majority, Columbus Council is weighing utility-rate increases, and Fannie Mae has posted next year's conforming-loan limits.",
+      "reason": "Party name is verified by the cited AP report, whose direct fetch is excepted below."
+    },
+    {
+      "claim": "Fannie",
+      "kind": "name",
+      "example": "Watch for Fannie's effective-date language, lender and investor bulletins, and vendor release notes that show the new tables are mapped correctly.",
+      "reason": "Short form of Fannie Mae, verified against the cited primary policy listing."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Democrats have secured a larger House majority, Columbus Council is weighing utility-rate increases, and Fannie Mae has posted next year's conforming-loan limits.",
+      "reason": "Proper name and policy listing verified against the cited primary policy archive."
+    },
+    {
+      "claim": "GPT-six",
+      "kind": "name",
+      "example": "At the frontier, OpenAI published new research yesterday saying GPT-six models demonstrated intrinsic protein-design capabilities in lab tests across five targets.",
+      "reason": "Speech-engine rendering of the model family named in OpenAI's cited research announcement."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "Columbus weather planning is similarly practical: check the hourly National Weather Service forecast before the commute and again before travel or outdoor holiday preparation.",
+      "reason": "Generic practical forecast reference; no specific forecast value is asserted."
+    },
+    {
+      "claim": "Senate",
+      "kind": "name",
+      "example": "That changes committee control and the capacity to schedule oversight, but it does not itself enact an affordability bill, alter a benefit, or settle the Senate's role.",
+      "reason": "Generic institutional reference; the segment makes no assertion about Senate action."
+    },
+    {
+      "claim": "Thanksgiving",
+      "kind": "name",
+      "example": "Markets are compact ahead of Thanksgiving.",
+      "reason": "Calendar reference, not a factual market claim."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
