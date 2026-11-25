@@ -1,7 +1,7 @@
 {
   "script": "2026-11-25_morning-brief-script.md",
   "script_sha256": "c7967e24e80167831fbe3fe7cdff5a8b26ed8bd422d76ba2009aaf8dab555bb6",
-  "checked_at": "2026-11-25T01:33:35-0500",
+  "checked_at": "2026-11-25T02:20:21-0500",
   "sources_fetched": [
     {
       "url": "https://www.wosu.org/politics-government/2026-11-13/columbus-could-see-another-double-digit-water-rate-hike-to-pay-for-water-infrastructure-projects",
@@ -25,7 +25,7 @@
     },
     {
       "url": "https://www.10tv.com/article/news/local/columbus-city-council-weighs-rate-increases-utilities/530-0f3a663f-6c7b-4f6e-b50c-e9d44b8f6cc4",
-      "error": "page body was only 319 characters",
+      "error": "page body was only 317 characters",
       "reason": "Direct fetch returned a 319-character shell; the local report title and timing were reviewed in the browser, with WOSU included as corroborating infrastructure context."
     },
     {
