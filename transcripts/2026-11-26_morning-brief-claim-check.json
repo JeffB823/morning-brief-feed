@@ -1,7 +1,7 @@
 {
   "script": "2026-11-26_morning-brief-script.md",
   "script_sha256": "1e2bbdf5aeac130e5f3ff2482f1915f1b175b450e23ab8335eaa7e4c32d99b6b",
-  "checked_at": "2026-11-26T14:42:25-0500",
+  "checked_at": "2026-11-26T14:44:25-0500",
   "sources_fetched": [
     {
       "url": "https://www.freddiemac.com/pmms?intcmp=AFMRPM",
@@ -29,12 +29,12 @@
     },
     {
       "url": "https://www.columbus.gov/files/sharedassets/city/v/1/public-service/trash-recycling-amp-bulk-collection/find-my-collection-day/2026-yard-waste-calendar.pdf",
-      "error": "page body was only 338 characters",
+      "error": "page body was only 340 characters",
       "reason": "The primary City calendar PDF was browser-reviewed; the claim checker receives only a short PDF shell after HTML stripping."
     },
     {
       "url": "https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/How-to-Dispose-or-Recycle/Other-Recycling-Options/Waste-and-Reuse-Convenience-Centers",
-      "error": "page body was only 336 characters",
+      "error": "page body was only 334 characters",
       "reason": "The City service page was browser-reviewed; the claim checker receives a short rendered shell rather than the page content."
     }
   ],
