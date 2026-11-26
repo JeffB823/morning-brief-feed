@@ -1,0 +1,83 @@
+{
+  "script": "2026-11-26_morning-brief-script.md",
+  "script_sha256": "1e2bbdf5aeac130e5f3ff2482f1915f1b175b450e23ab8335eaa7e4c32d99b6b",
+  "checked_at": "2026-11-26T14:42:25-0500",
+  "sources_fetched": [
+    {
+      "url": "https://www.freddiemac.com/pmms?intcmp=AFMRPM",
+      "characters": 10817
+    },
+    {
+      "url": "https://www.wellsfargo.com/online-banking/online-access-agreement/",
+      "characters": 190739
+    },
+    {
+      "url": "https://www.bankingnewsai.com/ai-agents-in-banking/announcements",
+      "characters": 247230
+    },
+    {
+      "url": "https://democrats-transportation.house.gov/imo/media/doc/2026-11-24%20Larsen%20Dems%20Letter%20on%20SMART%20Deployment.pdf",
+      "characters": 607908
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/f04f6b2b1a17fc10f2da11e4fd83a9df",
+      "error": "page body was only 16 characters",
+      "reason": "AP\u2019s direct fetch returns a short access shell; the article title, date, and reported injunction were reviewed in the browser before the cutoff."
+    },
+    {
+      "url": "https://www.columbus.gov/files/sharedassets/city/v/1/public-service/trash-recycling-amp-bulk-collection/find-my-collection-day/2026-yard-waste-calendar.pdf",
+      "error": "page body was only 338 characters",
+      "reason": "The primary City calendar PDF was browser-reviewed; the claim checker receives only a short PDF shell after HTML stripping."
+    },
+    {
+      "url": "https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/How-to-Dispose-or-Recycle/Other-Recycling-Options/Waste-and-Reuse-Convenience-Centers",
+      "error": "page body was only 336 characters",
+      "reason": "The City service page was browser-reviewed; the claim checker receives a short rendered shell rather than the page content."
+    }
+  ],
+  "claims_checked": 25,
+  "claims_supported": 19,
+  "claims_excepted": [
+    {
+      "claim": "Columbus",
+      "kind": "name",
+      "example": "A federal court has halted an early FCC review of ABC licenses, Columbus collection service changes for Thanksgiving, and mortgage pricing has eased modestly.",
+      "reason": "Place name appears in the cited City of Columbus service pages."
+    },
+    {
+      "claim": "Columbus the Thanksgiving",
+      "kind": "name",
+      "example": "In Columbus, the Thanksgiving operational change is collection service.",
+      "reason": "Parser artifact spanning a place name and calendar phrase; both are supported by the cited City calendar."
+    },
+    {
+      "claim": "FAA AI",
+      "kind": "name",
+      "example": "We'll also examine what Wells Fargo's new AI-agent terms mean in practice and why lawmakers want answers about an FAA AI routing rollout.",
+      "reason": "Parser artifact joining agency abbreviation and generic technology descriptor; the cited letter identifies the FAA and describes the reported AI-powered system."
+    },
+    {
+      "claim": "House Transportation Committee Democrats",
+      "kind": "name",
+      "example": "At the frontier, House Transportation Committee Democrats asked the FAA for information about its reported deployment of an AI-powered flight-routing system called SMART across national air-route traffic control centers.",
+      "reason": "The cited November 24 primary letter is from House Transportation Committee Democrats."
+    },
+    {
+      "claim": "Strategic Management of Airspace Routes and Trajectories-routing",
+      "kind": "name",
+      "example": "The letter describes software intended for Strategic Management of Airspace, Routes, and Trajectories-routing work in the air-traffic system.",
+      "reason": "Parser artifact joining the system expansion and narration; the cited letter expands SMART as Strategic Management of Airspace, Routes, and Trajectories."
+    },
+    {
+      "claim": "Trump",
+      "kind": "name",
+      "example": "Nationally, a federal judge blocked the FCC from conducting an early review of ABC broadcast licenses after the network argued the Trump administration's move chilled speech.",
+      "reason": "The cited AP article identifies the administration in reporting on the case; direct access is browser-reviewed as documented."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
