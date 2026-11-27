@@ -9,37 +9,37 @@
     {
       "title": "Black Friday",
       "start": 35.375,
-      "end": 184.525
+      "end": 158.175
     },
     {
       "title": "Columbus services",
-      "start": 184.525,
-      "end": 292.775
+      "start": 158.175,
+      "end": 266.425
     },
     {
       "title": "Home lending",
-      "start": 292.775,
-      "end": 431.375
+      "start": 266.425,
+      "end": 405.025
     },
     {
       "title": "AI in Banking",
-      "start": 431.375,
-      "end": 597.3
+      "start": 405.025,
+      "end": 570.95
     },
     {
       "title": "Frontier AI",
-      "start": 597.3,
-      "end": 741.975
+      "start": 570.95,
+      "end": 715.625
     },
     {
       "title": "Markets and weather",
-      "start": 741.975,
-      "end": 782.925
+      "start": 715.625,
+      "end": 756.575
     },
     {
       "title": "Watch next",
-      "start": 782.925,
-      "end": 804.0
+      "start": 756.575,
+      "end": 777.65
     }
   ]
 }
