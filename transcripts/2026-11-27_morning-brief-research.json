@@ -48,5 +48,5 @@
     {"claim":"Responses API","reason":"The cited OpenAI release notes state that the configurations are available through the Responses API."},
     {"claim":"National Weather Service","reason":"The script provides only general advice to consult the live hourly forecast and asserts no static forecast number."}
   ],
-  "editorial_review": {"sources_checked":true,"event_dates_checked":true,"novelty_checked":true,"cohost_answers_checked":true,"lending_workflow_checked":true,"ai_evidence_checked":true,"three_watch_items_checked":true,"source_word_limits_checked":true,"chapters_checked":true,"script_sha256":"2375bd4af60dd0fe9b140bf567ea712d46275e0fd05dc4e4d97834c26b39fbae"}
+  "editorial_review": {"sources_checked":true,"event_dates_checked":true,"novelty_checked":true,"cohost_answers_checked":true,"lending_workflow_checked":true,"ai_evidence_checked":true,"three_watch_items_checked":true,"source_word_limits_checked":true,"chapters_checked":true,"script_sha256":"9f2361d09e3cba8a794cd913b2e5fa1a90e0101011aa92a429ee32cffde57a18"}
 }
