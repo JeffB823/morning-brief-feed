@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 35.375
+    },
+    {
+      "title": "Black Friday",
+      "start": 35.375,
+      "end": 184.525
+    },
+    {
+      "title": "Columbus services",
+      "start": 184.525,
+      "end": 292.775
+    },
+    {
+      "title": "Home lending",
+      "start": 292.775,
+      "end": 431.375
+    },
+    {
+      "title": "AI in Banking",
+      "start": 431.375,
+      "end": 597.3
+    },
+    {
+      "title": "Frontier AI",
+      "start": 597.3,
+      "end": 741.975
+    },
+    {
+      "title": "Markets and weather",
+      "start": 741.975,
+      "end": 782.925
+    },
+    {
+      "title": "Watch next",
+      "start": 782.925,
+      "end": 804.0
+    }
+  ]
+}
