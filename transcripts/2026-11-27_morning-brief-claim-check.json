@@ -1,0 +1,151 @@
+{
+  "script": "2026-11-27_morning-brief-script.md",
+  "script_sha256": "2375bd4af60dd0fe9b140bf567ea712d46275e0fd05dc4e4d97834c26b39fbae",
+  "checked_at": "2026-11-27T00:48:00-0500",
+  "sources_fetched": [
+    {
+      "url": "https://content.govdelivery.com/accounts/OHCCC/bulletins/4339554?reqfrom=share",
+      "characters": 3294
+    },
+    {
+      "url": "https://www.fintechfutures.com/commercial-sme-lending/rabobank-ncino-partnership-business-lending",
+      "characters": 763
+    },
+    {
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "characters": 41613
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433",
+      "error": "page body was only 16 characters",
+      "reason": "AP serves a short access shell to the checker; headline, date, and attributed Salesforce and Adobe figures were reviewed in browser search before the cutoff."
+    },
+    {
+      "url": "https://www.fanniemae.com/data-and-insights/surveys-indices/weekly-mortgage-applications-data",
+      "error": "page body was only 16 characters",
+      "reason": "The primary Fannie page was reviewed in browser search; the checker receives a 16-character access shell, while the page reports the cited PALI and RALI readings."
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410008/0/en/ncino-offers-lending-platform-to-rabobank.html",
+      "error": "page body was only 298 characters",
+      "reason": "The primary nCino announcement was reviewed in browser search; the checker receives only a short syndication shell. FinTech Futures is cited alongside it as corroboration."
+    }
+  ],
+  "claims_checked": 29,
+  "claims_supported": 11,
+  "claims_excepted": [
+    {
+      "claim": "2.9",
+      "kind": "number",
+      "example": "Fannie Mae's weekly application series for the week ending November twentieth showed its purchase application-level index up 8.9 percent from the prior week, while total refinance applications fell 2.9 percent and rate-term refinances fell 6.2 percent.",
+      "reason": "The cited Fannie Mae weekly-data page reports total RALI down 2.9 percent for the week ending November 20."
+    },
+    {
+      "claim": "45",
+      "kind": "number",
+      "example": "This is Morning Brief, researched through 4:45 a.m.",
+      "reason": "This is the research-cutoff minute in the episode's own dated research record, not an external factual assertion."
+    },
+    {
+      "claim": "8.9",
+      "kind": "number",
+      "example": "Fannie Mae's weekly application series for the week ending November twentieth showed its purchase application-level index up 8.9 percent from the prior week, while total refinance applications fell 2.9 percent and rate-term refinances fell 6.2 percent.",
+      "reason": "The cited Fannie Mae weekly-data page reports PALI up 8.9 percent for the week ending November 20."
+    },
+    {
+      "claim": "AI-powered",
+      "kind": "name",
+      "example": "Adobe also said traffic to retail sites from links in AI-powered tools more than doubled from November twenty twenty-five.",
+      "reason": "Generic descriptive phrase, supported by the cited AP report's discussion of AI tools and referral traffic."
+    },
+    {
+      "claim": "AI-referred",
+      "kind": "name",
+      "example": "Does the rise in AI-referred traffic mean shopping agents have changed retail economics already?",
+      "reason": "Generic descriptive phrase for traffic referred from AI tools, as attributed to Adobe in the cited AP report."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reports retailers began discounting earlier this month, with Salesforce estimating November discounts were eight percent deeper than last year.",
+      "reason": "The cited primary reporting source is Associated Press."
+    },
+    {
+      "claim": "Banking",
+      "kind": "name",
+      "example": "In AI in Banking, the ledger change is a new Rabobank business-lending platform row in lane three, underwriting and credit decisioning.",
+      "reason": "Chapter label and generic industry term; the named bank and workflow are separately supported by the cited Rabobank sources."
+    },
+    {
+      "claim": "Black Friday",
+      "kind": "name",
+      "example": "Black Friday is testing household budgets rather than simply launching a shopping ritual, Columbus trash routes have shifted for the holiday, and mortgage applications are sending a mixed pipeline signal.",
+      "reason": "Calendar/event name supported by the cited AP reporting dated November 27."
+    },
+    {
+      "claim": "Cyber Monday",
+      "kind": "name",
+      "example": "Watch reported weekend sales, unit volume, and margin commentary after Cyber Monday rather than treating a promotional forecast as a consumer-spending verdict.",
+      "reason": "Calendar/event name used only as a forthcoming reporting point, not as a factual performance claim."
+    },
+    {
+      "claim": "Desktop Underwriter",
+      "kind": "name",
+      "example": "Fannie says the data come from loans processed through Desktop Underwriter, so they are a directional series, not the whole market.",
+      "reason": "The cited Fannie Mae data page says the indices use loan application data from its automated underwriting system, Desktop Underwriter."
+    },
+    {
+      "claim": "Dutch",
+      "kind": "name",
+      "example": "nCino announced Tuesday that Rabobank will use its platform as a single loan-origination foundation for Dutch entrepreneurs, with automated, guided, and tailored journeys.",
+      "reason": "The cited nCino and FinTech Futures sources describe Rabobank's Dutch entrepreneur and business-lending scope."
+    },
+    {
+      "claim": "Fannie Mae",
+      "kind": "name",
+      "example": "Fannie Mae's weekly application series for the week ending November twentieth showed its purchase application-level index up 8.9 percent from the prior week, while total refinance applications fell 2.9 percent and rate-term refinances fell 6.2 percent.",
+      "reason": "The cited primary weekly-data page identifies Fannie Mae and the PALI and RALI series."
+    },
+    {
+      "claim": "Frontier AI",
+      "kind": "name",
+      "example": "For Frontier AI, this is an explicitly dated update rather than one of today's fresh-story credits.",
+      "reason": "Required editorial chapter label, not an independently asserted factual claim."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "For Columbus, the day begins cool and turns milder; check the National Weather Service hourly forecast before travel, shopping, or Saturday collection planning because temperature and wind timing can change.",
+      "reason": "The script provides only general advice to consult the live hourly forecast and asserts no static forecast number."
+    },
+    {
+      "claim": "Nationally Black Friday",
+      "kind": "name",
+      "example": "Nationally, Black Friday has become a more useful spending test than a single-day retail spectacle.",
+      "reason": "Parser artifact combining the transition word and event name; the cited AP source supports the Black Friday discussion."
+    },
+    {
+      "claim": "Rabobank",
+      "kind": "name",
+      "example": "We'll also look at Rabobank's lending-platform move and what a new healthcare AI configuration does-and does not-prove.",
+      "reason": "The cited nCino release and FinTech Futures report identify Rabobank and the business-lending platform change."
+    },
+    {
+      "claim": "Salesforce",
+      "kind": "name",
+      "example": "The Associated Press reports retailers began discounting earlier this month, with Salesforce estimating November discounts were eight percent deeper than last year.",
+      "reason": "AP attributes the deeper-discount estimate to Salesforce in the cited current report."
+    },
+    {
+      "claim": "and Saturday",
+      "kind": "name",
+      "example": "Three things to watch: weekend retail results that separate revenue, units, returns, and margin; Columbus alerts on delayed Friday and Saturday collection; and Rabobank's first disclosed production volume or outcome for its automated business-lending journey.",
+      "reason": "Parser artifact from the closing watch-item list; the City bulletin states affected Friday recycling and yard waste occur Saturday."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
