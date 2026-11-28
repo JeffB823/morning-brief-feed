@@ -1,0 +1,140 @@
+{
+  "script": "2026-11-28_morning-brief-script.md",
+  "script_sha256": "9bba4b316179b729358d5e3f8ae4f4a5f431f8c9a1d980f016f676e9e1a2329f",
+  "checked_at": "2026-11-28T00:50:57-0500",
+  "sources_fetched": [
+    {
+      "url": "https://en.as.com/us/soccer/columbus-elimina-a-messi-e-inter-miami-de-los-playoffs-de-la-mls-con-un-gol-de-ultimo-minuto-f202611-n/",
+      "characters": 491
+    },
+    {
+      "url": "https://ohiostatebuckeyes.com/game-center/22225",
+      "characters": 7286
+    },
+    {
+      "url": "https://www.freddiemac.com/pmms",
+      "characters": 10817
+    },
+    {
+      "url": "https://aisengtech.com/ai-fintech-brief-2026-11-27/",
+      "characters": 10932
+    },
+    {
+      "url": "https://www.techradar.com/pro/good-news-for-ai-coders-anthropics-claude-ship-is-now-able-to-review-pull-requests-and-even-ship-code-fixes-all-on-its-own",
+      "characters": 15522
+    },
+    {
+      "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues",
+      "characters": 10561
+    }
+  ],
+  "sources_unreachable": [],
+  "sources_unreachable_excepted": [
+    {
+      "url": "https://apnews.com/article/cde35b4969d6f4f68187fa21aa2243a6",
+      "error": "page body was only 16 characters",
+      "reason": "AP serves a short access shell to the checker; the dated AP report was reviewed in search before the cutoff and supports the Army statement, the Iowa site, detonation, and notification concerns."
+    },
+    {
+      "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433",
+      "error": "page body was only 16 characters",
+      "reason": "AP serves a short access shell to the checker; the dated AP report was reviewed in search before the cutoff and supports the Black Friday, Salesforce, Adobe, promotion, and referral-traffic discussion."
+    }
+  ],
+  "claims_checked": 34,
+  "claims_supported": 19,
+  "claims_excepted": [
+    {
+      "claim": "Army",
+      "kind": "name",
+      "example": "An Army disposal operation leaves an environmental reporting test, Black Friday numbers still need separating from margin, and Columbus Crew has eliminated Inter Miami.",
+      "reason": "The cited AP report identifies the Army in its report of the controlled detonation."
+    },
+    {
+      "claim": "Associated Press",
+      "kind": "name",
+      "example": "The Associated Press reported retailers used deeper November promotions, while Salesforce and Adobe described more traffic reaching retail sites through AI tools.",
+      "reason": "The cited reporting source is Associated Press."
+    },
+    {
+      "claim": "Columbus Crew",
+      "kind": "name",
+      "example": "An Army disposal operation leaves an environmental reporting test, Black Friday numbers still need separating from margin, and Columbus Crew has eliminated Inter Miami.",
+      "reason": "The cited match report identifies Columbus Crew and its first-round result against Inter Miami."
+    },
+    {
+      "claim": "Columbus the Crew",
+      "kind": "name",
+      "example": "In Columbus, the Crew beat Inter Miami one-nil Friday night, with Santiago Rodr\u00edguez scoring in stoppage time.",
+      "reason": "Parser artifact combining the location transition and team name; the cited match report supports the Crew result."
+    },
+    {
+      "claim": "Crew",
+      "kind": "name",
+      "example": "Three things to watch: the Army's environmental sampling results and any health guidance; official Crew playoff scheduling after the series win; and public evidence from the Hyundai Card-Kinexys experiment on real transaction controls or outcomes.",
+      "reason": "Generic shorthand for Columbus Crew, identified in the cited match report."
+    },
+    {
+      "claim": "Frontier AI",
+      "kind": "name",
+      "example": "For Frontier AI, the dated update is Anthropic's Claude Ship announcement from November twenty-third.",
+      "reason": "Required editorial chapter label, not an independently asserted fact."
+    },
+    {
+      "claim": "Inter Miami",
+      "kind": "name",
+      "example": "An Army disposal operation leaves an environmental reporting test, Black Friday numbers still need separating from margin, and Columbus Crew has eliminated Inter Miami.",
+      "reason": "The cited match report identifies Inter Miami as the opponent."
+    },
+    {
+      "claim": "Iowa",
+      "kind": "name",
+      "example": "What should a listener take from this beyond a local Iowa dispute?",
+      "reason": "The cited AP report identifies the Iowa Army Ammunition Plant."
+    },
+    {
+      "claim": "Iowa Army Ammunition Plant",
+      "kind": "name",
+      "example": "Nationally, the Army says its controlled detonation of deteriorating lead azide at the Iowa Army Ammunition Plant succeeded.",
+      "reason": "The cited AP report identifies the facility."
+    },
+    {
+      "claim": "Major League Soccer",
+      "kind": "name",
+      "example": "Playoff scheduling and the next match details should come from Major League Soccer or the club, not social posts or a generic bracket.",
+      "reason": "Generic league reference used only to direct listeners to official scheduling; the cited match report establishes the playoff context."
+    },
+    {
+      "claim": "National Weather Service",
+      "kind": "name",
+      "example": "In Columbus, use the live National Weather Service hourly forecast for travel, the Ohio State game, and outdoor plans; a forecast is useful when it changes departure time, layers, or wind planning, not when it becomes decoration.",
+      "reason": "The script gives only live-forecast advice and asserts no static forecast fact."
+    },
+    {
+      "claim": "Nationally the Army",
+      "kind": "name",
+      "example": "Nationally, the Army says its controlled detonation of deteriorating lead azide at the Iowa Army Ammunition Plant succeeded.",
+      "reason": "Parser artifact; the cited AP report supports the Army statement."
+    },
+    {
+      "claim": "Salesforce and Adobe",
+      "kind": "name",
+      "example": "The Associated Press reported retailers used deeper November promotions, while Salesforce and Adobe described more traffic reaching retail sites through AI tools.",
+      "reason": "The cited AP report attributes promotion and referral-traffic indicators to Salesforce and Adobe."
+    },
+    {
+      "claim": "Santiago Rodr\u00edguez",
+      "kind": "name",
+      "example": "In Columbus, the Crew beat Inter Miami one-nil Friday night, with Santiago Rodr\u00edguez scoring in stoppage time.",
+      "reason": "The cited match report identifies Rodr\u00edguez as the stoppage-time scorer."
+    },
+    {
+      "claim": "the Crew",
+      "kind": "name",
+      "example": "Does the Crew result settle the next opponent or schedule?",
+      "reason": "Generic shorthand for Columbus Crew, identified in the cited match report."
+    }
+  ],
+  "claims_unresolved": [],
+  "passed": true
+}
