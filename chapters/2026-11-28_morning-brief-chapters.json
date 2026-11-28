@@ -1,0 +1,50 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "title": "Top of the Brief",
+      "start": 0.0,
+      "end": 36.0
+    },
+    {
+      "title": "Iowa disposal operation",
+      "start": 36.0,
+      "end": 144.875
+    },
+    {
+      "title": "Black Friday results",
+      "start": 144.875,
+      "end": 253.75
+    },
+    {
+      "title": "Columbus Crew advances",
+      "start": 253.75,
+      "end": 354.55
+    },
+    {
+      "title": "Home lending",
+      "start": 354.55,
+      "end": 463.175
+    },
+    {
+      "title": "AI in Banking",
+      "start": 463.175,
+      "end": 605.375
+    },
+    {
+      "title": "Frontier AI",
+      "start": 605.375,
+      "end": 741.75
+    },
+    {
+      "title": "Markets and weather",
+      "start": 741.75,
+      "end": 779.775
+    },
+    {
+      "title": "Watch next",
+      "start": 779.775,
+      "end": 799.875
+    }
+  ]
+}
